@@ -1,0 +1,8 @@
+Kiribati,1,,1
+Fiji,1,,1
+Tonga,1,,1
+American Samoa,1,,1
+Cook Islands,1,,1
+Samoa,1,,1
+Tuvalu,1,,1
+Papua New Guinea,1,,1

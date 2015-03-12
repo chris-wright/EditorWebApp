@@ -1,0 +1,10 @@
+Aslerstadion,Alserwurp,14166,14166,5247,14166,1,100,2,2,2,1,Alserwurp
+Bergpark,Umos,8795,8795,3105,8795,1,100,2,1,2,4,FC Umos
+Ciyosil Park,Ciyosil,7109,7109,2982,7109,1,100,2,2,2,4,AC Ciyosil
+Ciyosilstadion,Ciyosil,7986,7986,7761,7986,1,100,2,2,2,1,Bayer Ciyosil
+Complexe Osmal,Osmal,4992,4992,5134,4992,1,100,2,1,2,2,AJ Osmal
+Dachtelpark,Dachtel,2000,600,7691,2000,1,100,2,2,2,4,Dachtel
+De Krom,Aqia,1469,294,5495,1469,1,100,2,2,2,5,Aqia
+Eresingstadion,Eresing,2019,606,160,2019,1,100,2,1,2,5,Eresing
+Genod Arena,Genod,2751,1376,8436,2751,1,100,2,2,2,1,Genod
+Ghil Schussel,Ghil,23881,23881,1871,23881,1,100,2,2,2,2,Club Ghil

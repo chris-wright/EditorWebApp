@@ -1,0 +1,19 @@
+0	Click Editor
+1	Click Database
+2	Click Stadium
+3	Click add
+4	Enter name
+5	Enter city
+6	Enter owner
+7	Enter capacity
+8	Enter seating capacity
+9	Enter expansion capacity
+10	Enter used capacity
+11	Enter pitch type
+12	Paginate down
+13	Enter state
+14	Enter is covered
+15	Enter is retractable
+16	Enter has undersoil
+17	Paginate up
+1	Click Database

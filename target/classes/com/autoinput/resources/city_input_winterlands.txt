@@ -1,0 +1,12 @@
+Snowfell,The Winterlands,English,,6,7,,,,0,,1
+Crast,The Winterlands,English,,2,6,,,,0,,1
+Greywind,The Winterlands,English,,7,6,,,,0,,1
+Skagastrand,The Winterlands,Swedish,,1,6,,,,0,,1
+Voyalia,The Winterlands,English,,4,6,,,,0,,1
+Aplua,The Winterlands,English,,6,4,,,,0,,1
+Beerenberg,The Winterlands,English,,1,4,,,,0,,1
+Logro,The Winterlands,English,,4,4,,,,0,,1
+Mount Hoth,The Winterlands,English,,4,3,,,,0,,1
+Nardhvik,The Winterlands,Swedish,,5,3,,,,0,,1
+Welor,The Winterlands,English,,3,4,,,,0,,1
+Yucor,The Winterlands,English,,3,3,,,,0,,1

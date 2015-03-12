@@ -1,0 +1,4 @@
+Ironhaven,Ferrous Isles,English,,15,5,,,,0,,1
+Limemill,Ferrous Isles,English,,17,6,,,,0,,1
+Mensfield,Ferrous Isles,English,,13,6,,,,0,,1
+Wolfden,Ferrous Isles,English,,11,5,,,,0,,1

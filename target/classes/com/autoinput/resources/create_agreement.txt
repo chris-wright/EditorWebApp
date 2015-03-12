@@ -1,0 +1,7 @@
+0	Click Editor
+1	Click Database
+2	Click Agreement
+3	Click add
+4	Enter name
+5	Add nations
+1	Click Database

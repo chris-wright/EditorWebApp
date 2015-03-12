@@ -1,0 +1,6260 @@
+-- Starting to read clubs - 2015/02/22 00:25:08
+Alsea ,Alsea ,ALSEA,The Ally,,South Azura,South Azura,South Azura,Alsea,3,10,1000,Alsea Arena,2,2,2,2,255,255,255,255,0,255,51,51,0,30,1,5,10,2,5,-1,-1,-1,Alsea Arena,South Azuri Conference,0,0,,,340922,12046,,634,20,15,18,13,12,0,0,255,255,255,255,255,255,0,#
+Brightwald Youth Club,Brightwald YC,BRIGHT,,,South Azura,South Azura,South Azura,Brightwald,4,10,1000,Adamslie Park,2,2,2,2,0,0,255,255,102,0,0,255,255,16,1,1,10,2,5,-1,-1,-1,Adamslie Park,South Azuri Conference,0,0,,21,83028,1379,,135,7,19,10,6,19,0,0,255,255,255,255,255,255,0,#
+Pioneer Village,Pioneer Village,PIONEE,,,South Azura,South Azura,South Azura,Pioneer Village,3,10,1000,Villa Field,2,2,2,2,255,0,0,0,204,255,150,150,150,6,1,2,10,2,5,-1,-1,-1,Villa Field,South Azuri Conference,0,0,,,11094,42068,,238,7,10,14,12,5,0,0,255,255,255,255,255,255,0,#
+Port Haver FC,Port Haver FC,PORT H,,,South Azura,Haverford,Haverford,Port Haver,3,10,1000,Port Haver Stadium,2,2,2,2,255,255,0,51,51,153,255,204,0,22,2,5,10,2,5,-1,-1,-1,Port Haver Stadium,South Azuri League Three,0,0,,,345182,46236,,3333,20,16,11,20,3,0,128,0,255,255,255,0,0,0,#
+Riverforth Town,Riverforth Town,RIVERF,,,South Azura,Haverford,Haverford,Riverforth,3,10,1000,Riverforth Park,2,2,2,2,0,255,0,255,102,0,204,153,255,9,2,5,10,2,5,-1,-1,-1,Riverforth Park,South Azuri League Three,0,0,,,111232,42729,,5667,6,18,2,17,20,0,128,0,255,255,255,0,0,0,#
+Sporting Aspax,Sporting Aspax,SPORTI,Sporting,,South Azura,South Azura,South Azura,Aspax,3,10,1000,The Etymol,2,2,2,2,255,255,0,255,0,255,255,204,153,54,1,5,10,2,5,-1,-1,-1,The Etymol,South Azuri Conference,0,0,,,463036,40576,,831,9,12,11,12,19,0,0,255,255,255,255,255,255,0,#
+Swynfort,Swynfort,SWYNFO,,,South Azura,South Azura,South Azura,Swynfort,4,10,1000,Swynfort Park,2,2,2,2,0,0,0,255,0,0,51,51,153,20,1,1,10,2,5,-1,-1,-1,Swynfort Park,South Azuri Conference,0,0,,,317716,1130,,326,9,14,4,12,3,0,0,255,255,255,255,255,255,0,#
+Wildeborne Wanderers,Wildeborne Wanderers,WILDEB,,,South Azura,South Azura,South Azura,Wildeborne,4,10,1000,Wildeborne Park,2,2,2,2,0,255,0,0,51,0,0,128,128,18,1,1,10,2,5,-1,-1,-1,Wildeborne Park,South Azuri Conference,0,0,,,88631,34986,,151,9,3,1,6,19,0,0,255,255,255,255,255,255,0,#
+Belfield Amateurs,Belfield Amateurs,BELFIE,,,South Azura,South Azura,South Azura,Belfield,4,10,750,Racecourse Ground,1,1,1,1,255,0,0,0,128,128,204,255,255,37,2,5,10,2,5,-1,-1,-1,Racecourse Ground,South Azuri Conference,0,0,,,251913,74043,,167,19,2,10,7,10,0,0,255,255,255,255,255,255,0,#
+Linmeadow,Linmeadow,LINMEA,,,South Azura,South Azura,South Azura,Linmeadow,3,10,750,Linmeadow Field,1,1,1,1,255,0,0,204,255,255,0,128,128,55,1,5,10,2,5,-1,-1,-1,Linmeadow Field,South Azuri Conference,0,0,,,91739,63491,,197,9,10,13,11,10,0,0,255,255,255,255,255,255,0,#
+Lordale Juniors,Lordale Juniors,LORDAL,,,South Azura,South Azura,South Azura,Lordale,4,10,750,Lordale Park,1,1,1,1,255,255,255,51,153,102,255,102,0,19,1,1,10,2,5,-1,-1,-1,Lordale Park,South Azuri Conference,0,0,,,320968,2497,,100,18,13,14,4,10,0,0,255,255,255,255,255,255,0,#
+Wyvernston Park,Wyvernston Park,WYVERN,,,South Azura,South Azura,South Azura,Wyvernston,4,10,750,Wyvernston Field,1,1,1,1,0,0,255,0,255,0,0,204,255,42,1,1,10,2,5,-1,-1,-1,Wyvernston Field,South Azuri Conference,0,0,,,347668,8127,,50,14,6,5,2,13,0,0,255,255,255,255,255,255,0,#
+Greyapple Harriers,Greyapple Harriers,GREYAP,,,South Azura,South Azura,South Azura,Greyapple,3,10,500,Greyapple Park,1,1,1,1,255,0,0,51,204,204,153,204,0,17,1,1,10,2,5,-1,-1,-1,Greyapple Park,South Azuri Conference,0,0,,,16949,14722,,214,13,6,14,7,3,0,0,255,255,255,255,255,255,0,#
+Iceford,Iceford,ICEFOR,,,South Azura,South Azura,South Azura,Iceford,3,10,500,Iceford Park,1,1,1,1,0,255,0,255,204,153,51,51,0,42,1,1,10,2,5,-1,-1,-1,Iceford Park,South Azuri Conference,0,0,,,14233,1293,,315,17,4,1,8,4,0,0,255,255,255,255,255,255,0,#
+Rigby Road,Rigby Road,RIGBY,,,South Azura,South Azura,South Azura,Eelry,3,10,500,Rigby Park,1,1,1,1,0,0,255,0,128,128,153,51,102,38,1,1,10,2,5,-1,-1,-1,Rigby Park,South Azuri Conference,0,0,,,31617,257,,474,10,13,5,12,17,0,0,255,255,255,255,255,255,0,#
+Oldwell Youths,Oldwell Youths,OLDWEL,,,South Azura,South Azura,South Azura,Oldwell,4,10,250,Oldwell Park,0,0,0,0,255,0,0,0,128,0,51,51,51,27,1,1,10,2,5,-1,-1,-1,Oldwell Park,South Azuri Conference,0,0,,21,104588,1285,,61,16,20,6,8,1,0,0,255,255,255,255,255,255,0,#
+Snowfell,Snowfell,SNOWFE,The Snowmen,,The Winterlands,The Winterlands,The Winterlands,Snowfell,2,10,2250,The Outlook,4,4,4,4,255,255,255,51,102,255,0,0,255,15,2,5,10,2,5,-1,-1,-1,The Outlook,The Winterlands Premier League,0,1,,,1035804,116219,,876,14,12,14,14,1,51,102,255,255,255,255,0,0,255,#
+Shackleton FC,Shackleton FC,SHACKL,,,The Winterlands,The Winterlands,The Winterlands,Snowfell,2,10,2000,Shackleton Memorial Park,4,4,4,4,255,255,255,153,51,102,51,204,204,32,1,5,10,2,5,-1,-1,-1,Shackleton Memorial Park,The Winterlands Premier League,0,1,,,631230,175909,,836,20,1,8,14,14,51,102,255,255,255,255,0,0,255,#
+Aplua,Aplua,APLUA,,,The Winterlands,The Winterlands,The Winterlands,Aplua,2,10,2000,Aplua Park,4,4,4,4,0,0,255,255,102,0,153,51,0,46,1,4,10,2,5,-1,-1,-1,Aplua Park,The Winterlands Premier League,0,1,,,90324,18512,,485,5,5,10,10,10,51,102,255,255,255,255,0,0,255,#
+FC Greywind,FC Greywind,FC GRE,The Grey,,The Winterlands,The Winterlands,The Winterlands,Greywind,2,10,1750,Snowground Park,3,3,3,3,255,255,255,128,128,128,0,0,255,17,1,1,10,2,5,17,1,1,Snowground Park,The Winterlands Premier League,1,1,,,232962,119587,,130,8,16,15,3,16,51,102,255,255,255,255,0,0,255,#
+Welor,Welor,WELOR,The Wel,,The Winterlands,The Winterlands,The Winterlands,Welor,2,10,1750,Welor Park,3,3,3,3,0,255,0,128,128,128,51,51,0,29,2,5,10,2,5,29,2,5,Welor Park,The Winterlands Premier League,1,1,,,93175,34537,,614,11,17,13,12,12,51,102,255,255,255,255,0,0,255,#
+Yucor FC,Yucor FC,YUCOR,The Tigers,,The Winterlands,The Winterlands,The Winterlands,Yucor,2,10,1600,Yucor Point,3,3,3,3,0,0,0,255,102,0,255,255,0,7,1,1,10,2,5,-1,-1,-1,Yucor Point,The Winterlands Premier League,0,1,,,153327,63942,,395,9,1,11,10,14,51,102,255,255,255,255,0,0,255,#
+FC Crast,FC Crast,FC CRA,,,The Winterlands,The Winterlands,The Winterlands,Crast,2,10,1500,Crast Tundra,3,3,3,3,0,0,0,102,0,102,255,153,204,41,1,1,10,2,5,-1,-1,-1,Crast Tundra,The Winterlands Premier League,0,0,,,577225,19473,,33,15,3,11,1,11,51,102,255,255,255,255,0,0,255,#
+Voyalia,Voyalia,VOYALI,,,The Winterlands,The Winterlands,The Winterlands,Voyalia,2,10,1500,Voyalia View,3,3,3,3,0,0,0,0,51,0,0,255,255,24,2,5,10,2,5,-1,-1,-1,Voyalia View,The Winterlands Premier League,0,0,,,314793,8157,,402,18,6,13,10,13,51,102,255,255,255,255,0,0,255,#
+Nardhvik,Nardhvik,NARDHV,,,The Winterlands,The Winterlands,The Winterlands,Nardhvik,2,10,1250,McDonald Park,2,2,2,2,0,0,0,51,51,153,128,0,128,54,1,5,10,2,5,-1,-1,-1,McDonald Park,The Winterlands Premier League,0,0,,,380756,92746,,312,17,9,11,9,18,51,102,255,255,255,255,0,0,255,#
+Beerenberg,Beerenberg,BEEREN,,,The Winterlands,The Winterlands,The Winterlands,Beerenberg,2,10,1250,Beerenberg Field,2,2,2,2,255,255,0,128,128,0,153,51,0,24,2,5,10,2,5,-1,-1,-1,Beerenberg Field,The Winterlands Premier League,0,0,,,359672,48806,,467,10,9,14,13,12,51,102,255,255,255,255,0,0,255,#
+Skagastrand,Skagastrand,SKAGAS,The Norsemen,,The Winterlands,The Winterlands,The Winterlands,Skagastrand,3,10,1000,Shackleton Field,2,2,2,2,0,0,255,255,255,0,153,51,102,45,1,4,10,2,5,-1,-1,-1,Shackleton Field,The Winterlands Premier League,0,0,,,216588,1183,,209,9,18,4,12,8,51,102,255,255,255,255,0,0,255,#
+Welor Amateurs,Welor Amateurs,WELOR,,,The Winterlands,The Winterlands,The Winterlands,Welor,4,10,750,Welor Park,1,1,1,1,0,255,0,51,153,102,255,128,128,53,1,5,10,2,5,-1,-1,-1,Welor Park,The Winterlands Amateur League,0,0,,,172092,6615,,614,19,10,9,12,2,51,102,255,255,255,255,0,0,255,#
+Mount Hoth,Mount Hoth,MOUNT,The Rebels,,The Winterlands,The Winterlands,The Winterlands,Mount Hoth,3,10,750,Mount Point,1,1,1,1,0,255,0,255,255,153,153,204,0,38,1,1,10,2,5,-1,-1,-1,Mount Point,The Winterlands Premier League,1,1,,,107826,19298,,113,19,17,5,8,12,51,102,255,255,255,255,0,0,255,#
+Skagastrand Amateurs,Skagastrand Amateurs,SKAGAS,,,The Winterlands,The Winterlands,The Winterlands,Skagastrand,4,10,550,Shackleton Field,1,1,1,1,0,0,0,128,0,128,0,255,255,30,1,5,10,2,5,-1,-1,-1,Shackleton Field,The Winterlands Amateur League,0,0,,,65094,170,,209,18,20,9,12,19,51,102,255,255,255,255,0,0,255,#
+Logro United,Logro United,LOGRO,The 'gro,,The Winterlands,The Winterlands,The Winterlands,Logro,3,10,500,Logro Square,1,1,1,1,255,255,0,255,153,0,192,192,192,27,1,1,10,2,5,-1,-1,-1,Logro Square,The Winterlands Amateur League,0,0,,,110673,48766,,119,11,12,19,14,2,51,102,255,255,255,255,0,0,255,#
+Greywind Amateurs,Greywind Amateurs,GREYWI,,,The Winterlands,The Winterlands,The Winterlands,Greywind,4,10,500,Snowground Park,1,1,1,1,255,255,0,153,204,255,128,0,128,5,1,2,10,2,5,-1,-1,-1,Snowground Park,The Winterlands Amateur League,0,0,,,48432,15922,,130,10,18,13,3,6,51,102,255,255,255,255,0,0,255,#
+Crast Amateurs,Crast Amateurs,CRAST,,,The Winterlands,The Winterlands,The Winterlands,Crast,4,10,500,Crast Tundra,1,1,1,1,0,0,0,51,204,204,150,150,150,32,1,5,10,2,5,-1,-1,-1,Crast Tundra,The Winterlands Amateur League,0,0,,,14612,12901,,33,6,6,2,1,18,51,102,255,255,255,255,0,0,255,#
+Snowfell Amateurs,Snowfell Amateurs,SNOWFE,,,The Winterlands,The Winterlands,The Winterlands,Snowfell,4,10,450,The Outlook,0,0,0,0,255,255,0,255,128,128,153,51,102,31,1,5,10,2,5,-1,-1,-1,The Outlook,The Winterlands Amateur League,0,0,,,21448,5366,,876,15,15,16,14,20,51,102,255,255,255,255,0,0,255,#
+Voyalia Amateurs,Voyalia Amateurs,VOYALI,,,The Winterlands,The Winterlands,The Winterlands,Voyalia,4,10,375,Voyalia View,0,0,0,0,0,0,255,128,0,0,128,0,0,19,1,1,10,2,5,-1,-1,-1,Voyalia View,The Winterlands Amateur League,0,0,,,47924,16105,,402,17,8,18,10,16,51,102,255,255,255,255,0,0,255,#
+Logro Amateurs,Logro Amateurs,LOGRO,,,The Winterlands,The Winterlands,The Winterlands,Logro,4,10,250,Logro Square,0,0,0,0,0,0,255,0,51,102,0,128,128,50,2,5,10,2,5,-1,-1,-1,Logro Square,The Winterlands Amateur League,0,0,,,70679,1905,,119,12,2,17,14,5,51,102,255,255,255,255,0,0,255,#
+Seba,Seba,SEBA,,,Aurelia,Aerugo,Aerugo,Seba,2,10,1750,Seba Field,3,3,3,3,0,0,0,255,255,204,255,255,255,8,1,1,10,2,5,-1,-1,-1,Seba Field,Velusian Premier League,0,1,,,70679,109823,,698,11,2,2,9,12,51,51,0,255,255,255,51,51,0,#
+Hena,Hena,HENA,,,Aurelia,Aerugo,Aerugo,Hena,2,10,1750,Hena Stadium,3,3,3,3,255,0,0,255,255,204,255,255,0,4,1,3,10,2,5,-1,-1,-1,Hena Stadium,Velusian Premier League,0,1,,,70679,20716,,410,6,8,2,12,1,51,51,0,255,255,255,51,51,0,#
+Dina,Dina,DINA,,,Aurelia,Aerugo,Aerugo,Dina,2,10,2250,Dina Community Stadium,4,4,4,4,0,0,0,0,128,128,204,255,255,54,1,5,10,2,5,-1,-1,-1,Dina Community Stadium,Velusian Premier League,0,1,,,70679,5867,,669,17,11,18,12,20,51,51,0,255,255,255,51,51,0,#
+Nekhur,Nekhur,NEKHUR,,,Aurelia,Aerugo,Aerugo,Nekhur,2,10,3000,Nekhur Stadium,6,6,6,6,0,0,255,102,102,153,128,0,128,9,2,5,10,2,5,-1,-1,-1,Nekhur Stadium,Velusian Premier League,0,1,,,70679,67731,,905,19,18,4,10,9,51,51,0,255,255,255,51,51,0,#
+Semna,Semna,SEMNA,,,Aurelia,Aerugo,Aerugo,Semna,2,10,3000,Semna Stadium,6,6,6,6,0,0,0,0,255,255,255,0,255,22,2,5,10,2,5,-1,-1,-1,Semna Stadium,Velusian Premier League,0,1,,,70679,248612,,987,17,8,5,11,2,51,51,0,255,255,255,51,51,0,#
+Arnak,Arnak,ARNAK,,,Aurelia,Aerugo,Aerugo,Arnak,2,10,1750,Arnak Field,3,3,3,3,255,0,0,51,51,51,0,0,255,13,1,1,10,2,5,-1,-1,-1,Arnak Field,Velusian Premier League,0,1,,,70679,4459,,279,12,10,2,5,15,51,51,0,255,255,255,51,51,0,#
+Acyra,Acyra,ACYRA,,,Aurelia,Aurelia,Aurelia,Acyra,2,10,3250,Acyra Park,6,6,6,6,255,0,0,0,0,128,0,0,128,4,1,3,10,2,5,-1,-1,-1,Acyra Park,Velusian Premier League,0,1,,,70679,249483,,661,5,12,14,12,14,0,255,255,0,0,255,255,204,153,#
+Aros,Aros,AROS,,,Aurelia,Aurelia,Aurelia,Aros,2,10,2500,Aros Community Stadium,5,5,5,5,0,0,255,51,51,153,0,255,0,7,1,1,10,2,5,-1,-1,-1,Aros Community Stadium,Velusian Premier League,0,1,,,70679,56273,,63,18,6,2,1,5,0,255,255,0,0,255,255,204,153,#
+Assus,Assus,ASSUS,,,Aurelia,Aurelia,Aurelia,Assus,2,10,1750,Assus Community Stadium,3,3,3,3,0,0,0,255,128,128,255,153,204,20,1,1,10,2,5,-1,-1,-1,Assus Community Stadium,Velusian Premier League,0,1,,,70679,172897,,400,12,10,7,12,13,0,255,255,0,0,255,255,204,153,#
+Egalo,Egalo,EGALO,,,Aurelia,Aurelia,Aurelia,Egalo,2,10,2250,Egalo Community Stadium,4,4,4,4,0,0,0,204,255,204,0,0,128,39,1,1,10,2,5,-1,-1,-1,Egalo Community Stadium,Velusian Premier League,0,1,,,70679,77877,,1268,6,19,4,12,8,0,255,255,0,0,255,255,204,153,#
+Elis,Elis,ELIS,,,Aurelia,Aurelia,Aurelia,Elis,2,10,1250,Elis Field,2,2,2,2,255,0,0,255,255,255,153,204,255,40,1,1,10,2,5,-1,-1,-1,Elis Field,Velusian Division One,0,0,,,70679,10934,,243,13,19,8,5,10,0,255,255,0,0,255,255,204,153,#
+Enens,Enens,ENENS,,,Aurelia,Aurelia,Aurelia,Enens,2,10,2500,Enens Arena,5,5,5,5,255,255,0,0,255,255,51,102,255,26,1,1,10,2,5,-1,-1,-1,Enens Arena,Velusian Division One,0,1,,,70679,138306,,48,17,11,15,1,9,0,255,255,0,0,255,255,204,153,#
+Halos,Halos,HALOS,,,Aurelia,Aurelia,Aurelia,Halos,2,10,2250,Halos Arena,4,4,4,4,255,0,0,0,0,128,0,255,255,9,2,5,10,2,5,-1,-1,-1,Halos Arena,Velusian Division One,0,1,,,70679,147722,,235,12,16,4,4,13,0,255,255,0,0,255,255,204,153,#
+Kassia,Kassia,KASSIA,,,Aurelia,Aurelia,Aurelia,Kassia,2,10,1500,Kassia Field,3,3,3,3,255,255,255,150,150,150,150,150,150,51,1,5,10,2,5,-1,-1,-1,Kassia Field,Velusian Division One,0,0,,,70679,96476,,707,15,8,2,11,18,0,255,255,0,0,255,255,204,153,#
+Laeusia,Laeusia,LAEUSI,,,Aurelia,Aurelia,Aurelia,Laeusia,2,10,2000,Laeusia Park,4,4,4,4,0,0,255,128,0,128,153,51,102,51,1,5,10,2,5,-1,-1,-1,Laeusia Park,Velusian Division One,0,1,,,70679,28574,,589,13,14,18,10,15,0,255,255,0,0,255,255,204,153,#
+Manta,Manta,MANTA,,,Aurelia,Aurelia,Aurelia,Manta,2,10,2000,Manta Community Stadium,4,4,4,4,0,0,255,204,255,204,102,0,102,24,2,5,10,2,5,-1,-1,-1,Manta Community Stadium,Velusian Division One,0,1,,,70679,96128,,104,19,4,14,2,16,0,255,255,0,0,255,255,204,153,#
+Mene,Mene,MENE,,,Aurelia,Aurelia,Aurelia,Mene,2,10,3500,Mene Arena,7,7,7,7,0,255,0,255,204,153,128,128,0,18,1,1,10,2,5,-1,-1,-1,Mene Arena,Velusian Division One,0,1,,,70679,380333,,484,11,10,20,6,14,0,255,255,0,0,255,255,204,153,#
+Port Aurelia,Port Aurelia,PORT A,,,Aurelia,Aurelia,Aurelia,Port Aurelia,2,10,2000,Port Aurelia Field,4,4,4,4,255,0,0,0,51,0,204,255,204,44,1,1,10,2,5,-1,-1,-1,Port Aurelia Field,Velusian Division One,0,1,,,70679,18993,,881,18,2,19,8,12,0,255,255,0,0,255,255,204,153,#
+Port Bielya,Port Bielya,PORT B,,,Aurelia,Bielya,Bielya,Port Bielya,2,10,2500,Port Bielya Community Stadium,5,5,5,5,0,0,255,51,153,102,0,204,255,50,2,5,10,2,5,-1,-1,-1,Port Bielya Community Stadium,Velusian Division One,0,1,,,70679,39658,,137,5,14,17,3,8,128,0,128,0,0,255,0,0,128,#
+Bernifell,Bernifell,BERNIF,,,Aurelia,Bielya,Bielya,Bernifell,2,10,2750,Bernifell Stadium,5,5,5,5,0,0,255,0,0,0,0,128,0,17,1,1,10,2,5,-1,-1,-1,Bernifell Stadium,Velusian Division One,0,1,,,70679,217493,,665,14,4,12,8,14,128,0,128,0,0,255,0,0,128,#
+Henevik,Henevik,HENEVI,,,Aurelia,Bielya,Bielya,Henevik,2,10,1500,Henevik Stadium,3,3,3,3,255,255,255,0,0,128,255,255,153,6,1,2,10,2,5,-1,-1,-1,Henevik Stadium,Velusian Division One,0,0,,,70679,46919,,455,15,15,14,7,14,128,0,128,0,0,255,0,0,128,#
+Amarholm,Amarholm,AMARHO,,,Aurelia,Bielya,Bielya,Amarholm,2,10,1750,Amarholm Arena,3,3,3,3,255,255,255,255,255,204,51,102,255,11,1,4,10,2,5,-1,-1,-1,Amarholm Arena,Velusian Division One,0,1,,,70679,24697,,207,17,15,19,3,1,128,0,128,0,0,255,0,0,128,#
+Port Creta,Port Creta,PORT C,,,Aurelia,Creta,Creta,Port Creta,2,10,1750,Port Creta Arena,3,3,3,3,255,0,0,255,128,128,204,255,255,20,1,1,10,2,5,-1,-1,-1,Port Creta Arena,Velusian Division One,0,1,,,70679,40983,,253,7,3,5,3,4,255,255,0,0,0,255,0,255,255,#
+Marburgh,Marburgh,MARBUR,,,Aurelia,Creta,Creta,Marburgh,2,10,2250,Marburgh Arena,4,4,4,4,0,255,0,0,51,102,0,102,204,46,1,4,10,2,5,-1,-1,-1,Marburgh Arena,Velusian Division One,0,1,,,70679,49342,,595,7,5,5,12,11,255,255,0,0,0,255,0,255,255,#
+Grenton,Grenton,GRENTO,,,Aurelia,Creta,Creta,Grenton,2,10,3000,Grenton Community Stadium,6,6,6,6,255,255,0,255,153,204,51,204,204,13,1,1,10,2,5,-1,-1,-1,Grenton Community Stadium,Velusian Division One,0,1,,,70679,6718,,131,9,2,20,1,12,255,255,0,0,0,255,0,255,255,#
+Gloslake,Gloslake,GLOSLA,,,Aurelia,Creta,Creta,Gloslake,2,10,2500,Gloslake Arena,5,5,5,5,0,0,0,153,204,255,255,255,153,7,1,1,10,2,5,-1,-1,-1,Gloslake Arena,Velusian Division One,0,1,,,70679,84072,,1224,20,1,8,10,19,255,255,0,0,0,255,0,255,255,#
+Byde,Byde,BYDE,,,Aurelia,Creta,Creta,Byde,2,10,3750,Byde Park,7,7,7,7,0,0,0,255,255,0,51,51,153,18,1,1,10,2,5,-1,-1,-1,Byde Park,Velusian Division One,0,1,,,70679,220985,,552,11,16,3,7,4,255,255,0,0,0,255,0,255,255,#
+Delphi,Delphi,DELPHI,,,Aurelia,Creta,Creta,Delphi,2,10,2250,Delphi Park,4,4,4,4,0,255,0,255,255,255,0,255,255,19,1,1,10,2,5,-1,-1,-1,Delphi Park,Velusian Division One,0,1,,,70679,21561,,1086,12,17,11,11,16,255,255,0,0,0,255,0,255,255,#
+Cynthi,Cynthi,CYNTHI,,,Aurelia,Creta,Creta,Cynthi,2,10,2750,Cynthi Field,5,5,5,5,0,0,255,102,0,102,128,0,0,34,2,2,10,2,5,-1,-1,-1,Cynthi Field,Velusian Division Two,0,1,,,70679,9743,,1212,6,5,6,11,8,255,255,0,0,0,255,0,255,255,#
+Port Fiore,Port Fiore,PORT F,,,Aurelia,Fiore,Fiore,Port Fiore,2,10,1750,Port Fiore Arena,3,3,3,3,0,0,255,153,51,102,153,51,0,22,2,5,10,2,5,-1,-1,-1,Port Fiore Arena,Velusian Division Two,0,1,,,70679,51729,,415,11,1,11,11,9,0,0,128,255,0,0,255,153,0,#
+Lentia,Lentia,LENTIA,,,Aurelia,Fiore,Fiore,Lentia,2,10,3750,Lentia Park,7,7,7,7,255,0,0,0,204,255,255,0,255,49,1,5,10,2,5,-1,-1,-1,Lentia Park,Velusian Division Two,0,1,,,70679,34460,,902,11,19,6,10,19,0,0,128,255,0,0,255,153,0,#
+Capuum,Capuum,CAPUUM,,,Aurelia,Fiore,Fiore,Capuum,2,10,3250,Capuum Field,6,6,6,6,255,0,0,153,51,102,255,255,0,26,1,1,10,2,5,-1,-1,-1,Capuum Field,Velusian Division Two,0,1,,,70679,127433,,1009,14,13,1,11,14,0,0,128,255,0,0,255,153,0,#
+Lodia,Lodia,LODIA,,,Aurelia,Fiore,Fiore,Lodia,2,10,2000,Lodia Park,4,4,4,4,255,255,255,153,204,0,153,153,255,54,1,5,10,2,5,-1,-1,-1,Lodia Park,Velusian Division Two,0,1,,,70679,100632,,554,11,7,17,11,14,0,0,128,255,0,0,255,153,0,#
+Mogium,Mogium,MOGIUM,,,Aurelia,Fiore,Fiore,Mogium,2,10,3750,Mogium Arena,7,7,7,7,255,255,255,0,255,255,128,0,128,38,1,1,10,2,5,-1,-1,-1,Mogium Arena,Velusian Division Two,0,1,,,70679,97029,,717,19,16,12,8,19,0,0,128,255,0,0,255,153,0,#
+Agusum,Agusum,AGUSUM,,,Aurelia,Fiore,Fiore,Agusum,2,10,2750,Agusum Field,5,5,5,5,255,0,0,153,153,255,0,51,102,44,1,1,10,2,5,-1,-1,-1,Agusum Field,Velusian Division Two,0,1,,,70679,28067,,1109,9,4,20,9,8,0,0,128,255,0,0,255,153,0,#
+Arpica,Arpica,ARPICA,,,Aurelia,Fiore,Fiore,Arpica,2,10,3000,Arpica Park,6,6,6,6,255,0,0,255,255,255,0,128,128,35,2,2,10,2,5,-1,-1,-1,Arpica Park,Velusian Division Two,0,1,,,70679,151196,,453,17,1,6,5,12,0,0,128,255,0,0,255,153,0,#
+Atiala,Atiala,ATIALA,,,Aurelia,Fiore,Fiore,Atiala,2,10,2750,Atiala Park,5,5,5,5,255,0,0,51,102,255,0,128,0,48,1,5,10,2,5,-1,-1,-1,Atiala Park,Velusian Division Two,0,1,,,70679,56719,,953,18,20,5,14,5,0,0,128,255,0,0,255,153,0,#
+Cayhill,Cayhill,CAYHIL,,,Aurelia,Gilead,Gilead,Cayhill,2,10,3250,Cayhill Community Stadium,6,6,6,6,0,0,0,255,102,0,128,0,0,8,1,1,10,2,5,-1,-1,-1,Cayhill Community Stadium,Velusian Division Two,0,1,,,70679,69689,,2424,7,9,12,16,4,255,0,255,0,0,0,255,204,153,#
+Peminster,Peminster,PEMINS,,,Aurelia,Gilead,Gilead,Peminster,2,10,3000,Peminster Park,6,6,6,6,255,255,255,102,102,153,0,0,0,23,2,5,10,2,5,-1,-1,-1,Peminster Park,Velusian Division Two,0,1,,,70679,161801,,840,16,6,13,7,18,255,0,255,0,0,0,255,204,153,#
+Cobrook,Cobrook,COBROO,,,Aurelia,Gilead,Gilead,Cobrook,2,10,3000,Cobrook Park,6,6,6,6,255,0,0,0,0,128,0,102,204,18,1,1,10,2,5,-1,-1,-1,Cobrook Park,Velusian Division Two,0,1,,,70679,268777,,1949,9,20,6,16,7,255,0,255,0,0,0,255,204,153,#
+Ramoor,Ramoor,RAMOOR,,,Aurelia,Gilead,Gilead,Ramoor,2,10,2000,Ramoor Arena,4,4,4,4,0,0,0,128,0,128,255,255,255,49,1,5,10,2,5,-1,-1,-1,Ramoor Arena,Velusian Division Two,0,1,,,70679,216310,,485,8,9,9,8,7,255,0,255,0,0,0,255,204,153,#
+Caford,Caford,CAFORD,,,Aurelia,Gilead,Gilead,Caford,2,10,2500,Caford Arena,5,5,5,5,0,0,255,51,51,51,255,204,153,30,1,5,10,2,5,-1,-1,-1,Caford Arena,Velusian Division Two,0,1,,,70679,56329,,639,20,8,7,9,19,255,0,255,0,0,0,255,204,153,#
+Hibury,Hibury,HIBURY,,,Aurelia,Gilead,Gilead,Hibury,2,10,1750,Hibury Field,3,3,3,3,0,0,0,255,255,153,0,0,128,51,1,5,10,2,5,-1,-1,-1,Hibury Field,Velusian Division Two,0,1,,,70679,103674,,729,5,2,8,14,7,255,0,255,0,0,0,255,204,153,#
+Wyeton,Wyeton,WYETON,,,Aurelia,Gilead,Gilead,Wyeton,2,10,3500,Wyeton Park,7,7,7,7,255,0,0,255,102,0,0,0,255,22,2,5,10,2,5,-1,-1,-1,Wyeton Park,Velusian Division Two,0,1,,,70679,215406,,1254,8,10,3,16,2,255,0,255,0,0,0,255,204,153,#
+Knefalls,Knefalls,KNEFAL,,,Aurelia,Gilead,Gilead,Knefalls,2,10,1500,Knefalls Park,3,3,3,3,0,0,255,255,204,0,255,204,153,46,1,4,10,2,5,-1,-1,-1,Knefalls Park,Velusian Division Two,0,0,,,70679,5201,,481,20,2,12,10,5,255,0,255,0,0,0,255,204,153,#
+Cara,Cara,CARA,,,Aurelia,Laurania,Laurania,Cara,2,10,3000,Cara Arena,6,6,6,6,255,0,0,255,0,255,255,255,0,3,1,4,10,2,5,-1,-1,-1,Cara Arena,Velusian Division Two,0,1,,,70679,27572,,1671,16,13,6,9,12,51,204,204,0,0,0,51,51,0,#
+Chieto,Chieto,CHIETO,,,Aurelia,Laurania,Laurania,Chieto,2,10,2000,Chieto Field,4,4,4,4,0,255,0,51,204,204,0,0,128,50,2,5,10,2,5,-1,-1,-1,Chieto Field,Velusian Division Three,0,1,,,70679,4604,,531,18,8,14,12,10,51,204,204,0,0,0,51,51,0,#
+Massa,Massa,MASSA,,,Aurelia,Laurania,Laurania,Massa,2,10,3250,Massa Park,6,6,6,6,0,0,0,0,51,0,204,255,204,19,1,1,10,2,5,-1,-1,-1,Massa Park,Velusian Division Three,0,1,,,70679,276231,,636,7,19,7,11,4,51,204,204,0,0,0,51,51,0,#
+Vicia,Vicia,VICIA,,,Aurelia,Laurania,Laurania,Vicia,2,10,3250,Vicia Community Stadium,6,6,6,6,0,255,0,255,255,0,51,153,102,10,2,5,10,2,5,-1,-1,-1,Vicia Community Stadium,Velusian Division Three,0,1,,,70679,42177,,1727,18,10,1,17,15,51,204,204,0,0,0,51,51,0,#
+Pobia,Pobia,POBIA,,,Aurelia,Laurania,Laurania,Pobia,2,10,3500,Pobia Stadium,7,7,7,7,0,0,255,0,128,128,0,0,255,30,1,5,10,2,5,-1,-1,-1,Pobia Stadium,Velusian Division Three,0,1,,,70679,17092,,1593,7,19,2,10,7,51,204,204,0,0,0,51,51,0,#
+Vena,Vena,VENA,,,Aurelia,Laurania,Laurania,Vena,2,10,2000,Vena Community Stadium,4,4,4,4,255,255,255,153,51,102,204,204,255,6,1,2,10,2,5,-1,-1,-1,Vena Community Stadium,Velusian Division Three,0,1,,,70679,34437,,1423,9,20,11,16,14,51,204,204,0,0,0,51,51,0,#
+Astellthorp,Astellthorp,ASTELL,,,Aurelia,Norland,Norland,Astellthorp,2,10,3500,Astellthorp Arena,7,7,7,7,255,255,255,255,255,255,255,255,255,30,1,5,10,2,5,-1,-1,-1,Astellthorp Arena,Velusian Division Three,0,1,,,70679,56393,,2519,8,13,2,16,1,51,51,51,255,255,0,128,128,128,#
+Rikibyr,Rikibyr,RIKIBY,,,Aurelia,Norland,Norland,Rikibyr,2,10,1500,Rikibyr Arena,3,3,3,3,0,0,255,51,204,204,255,204,153,45,1,4,10,2,5,-1,-1,-1,Rikibyr Arena,Velusian Division Three,0,0,,,70679,26450,,278,17,8,18,10,6,51,51,51,255,255,0,128,128,128,#
+Naribyr,Naribyr,NARIBY,,,Aurelia,Norland,Norland,Naribyr,2,10,2750,Naribyr Field,5,5,5,5,0,0,0,192,192,192,204,255,255,3,1,4,10,2,5,-1,-1,-1,Naribyr Field,Velusian Division Three,0,1,,,70679,311702,,1362,10,16,19,15,20,51,51,51,255,255,0,128,128,128,#
+Holvefell,Holvefell,HOLVEF,,,Aurelia,Norland,Norland,Holvefell,2,10,1500,Holvefell Park,3,3,3,3,0,0,0,51,102,255,102,0,102,30,1,5,10,2,5,-1,-1,-1,Holvefell Park,Velusian Division Three,0,0,,,70679,11802,,1246,6,12,6,10,8,51,51,51,255,255,0,128,128,128,#
+Naaba,Naaba,NAABA,,,Aurelia,Rovka,Rovka,Naaba,2,10,2000,Naaba Stadium,4,4,4,4,255,255,0,128,0,128,0,0,0,43,1,1,10,2,5,-1,-1,-1,Naaba Stadium,Velusian Division Three,0,1,,,70679,107659,,1232,14,16,20,17,4,102,0,102,255,0,0,153,51,102,#
+Baheii,Baheii,BAHEII,,,Aurelia,Rovka,Rovka,Baheii,2,10,3000,Baheii Park,6,6,6,6,0,255,0,0,51,0,51,51,153,35,2,2,10,2,5,-1,-1,-1,Baheii Park,Velusian Division Three,0,1,,,70679,53660,,922,19,9,2,11,14,102,0,102,255,0,0,153,51,102,#
+Tsidi,Tsidi,TSIDI,,,Aurelia,Rovka,Rovka,Tsidi,2,10,3500,Tsidi Park,7,7,7,7,0,255,0,153,204,0,255,0,255,23,2,5,10,2,5,-1,-1,-1,Tsidi Park,Velusian Division Three,0,1,,,70679,251626,,426,13,15,13,7,6,102,0,102,255,0,0,153,51,102,#
+Hili,Hili,HILI,,,Aurelia,Rovka,Rovka,Hili,2,10,3000,Hili Arena,6,6,6,6,255,255,255,0,102,204,0,51,0,14,1,4,10,2,5,-1,-1,-1,Hili Arena,Velusian Division Three,0,1,,,70679,15415,,1090,7,15,20,11,19,102,0,102,255,0,0,153,51,102,#
+Ahish,Ahish,AHISH,,,Aurelia,Sunda,Sunda,Ahish,2,10,2250,Ahish Stadium,4,4,4,4,0,0,255,255,153,204,0,0,128,53,1,5,10,2,5,-1,-1,-1,Ahish Stadium,Velusian Division Three,0,1,,,70679,71123,,1009,14,8,16,10,20,0,204,255,255,255,0,255,255,0,#
+Aleah,Aleah,ALEAH,,,Aurelia,Sunda,Sunda,Aleah,2,10,1750,Aleah Park,3,3,3,3,255,255,0,128,0,128,51,51,0,20,1,1,10,2,5,-1,-1,-1,Aleah Park,Velusian Division Three,0,1,,,70679,2052,,891,12,17,6,18,17,0,204,255,255,255,0,255,255,0,#
+Iisah,Iisah,IISAH,,,Aurelia,Sunda,Sunda,Iisah,2,10,2500,Iisah Arena,5,5,5,5,255,0,0,128,128,128,0,255,0,12,1,4,10,2,5,-1,-1,-1,Iisah Arena,Velusian Division Three,0,1,,,70679,253512,,1104,17,18,12,16,13,0,204,255,255,255,0,255,255,0,#
+Sidi,Sidi,SIDI,,,Aurelia,Sunda,Sunda,Sidi,2,10,2250,Sidi Park,4,4,4,4,255,255,0,128,0,128,255,255,0,18,1,1,10,2,5,-1,-1,-1,Sidi Park,Velusian Division Three,0,1,,,70679,6982,,289,19,17,11,7,14,0,204,255,255,255,0,255,255,0,#
+== Finished building clubs - 99 passed / 0 fails
+0	Click Editor
+1	Click Database
+2	Click club
+3	Click add
+4	Enter name
+5	Enter short name
+6	Enter six letter name
+7	Enter nickname
+8	Enter second nickname
+9	Enter nation
+10	Enter based nation
+11	Enter continental cup nation
+12	Enter city
+13	Enter status
+14	Enter morale
+15	Enter rep
+16	Add extra teams
+49	Open supporter profile
+50	Enter loyalty
+51	Enter passion
+52	Enter patience
+53	Enter affluence
+54	Enter temperament
+36	Open competition
+37	Set competition
+38	Close competition
+17	Open kits
+18	Click home kit
+19	Select first kit item
+20	Edit shirt
+21	Select second kit item
+22	Edit icon
+23	Select third kit item
+24	Edit text
+25	Select fourth kit item
+26	Edit Shorts
+27	Select fifth kit item
+28	Edit socks
+29	Click away kit
+19	Select first kit item
+30	Edit shirt
+21	Select second kit item
+31	Edit icon
+23	Select third kit item
+32	Edit text
+25	Select fourth kit item
+33	Edit Shorts
+27	Select fifth kit item
+34	Edit socks
+35	Close kits
+40	Click Details
+1	Click Database
+-- Finished running for Alsea  - 2015/02/22 00:27:08
+0	Click Editor
+1	Click Database
+2	Click club
+3	Click add
+4	Enter name
+5	Enter short name
+6	Enter six letter name
+7	Enter nickname
+8	Enter second nickname
+9	Enter nation
+10	Enter based nation
+11	Enter continental cup nation
+12	Enter city
+13	Enter status
+14	Enter morale
+15	Enter rep
+16	Add extra teams
+49	Open supporter profile
+50	Enter loyalty
+51	Enter passion
+52	Enter patience
+53	Enter affluence
+54	Enter temperament
+36	Open competition
+37	Set competition
+38	Close competition
+17	Open kits
+18	Click home kit
+19	Select first kit item
+20	Edit shirt
+21	Select second kit item
+22	Edit icon
+23	Select third kit item
+24	Edit text
+25	Select fourth kit item
+26	Edit Shorts
+27	Select fifth kit item
+28	Edit socks
+29	Click away kit
+19	Select first kit item
+30	Edit shirt
+21	Select second kit item
+31	Edit icon
+23	Select third kit item
+32	Edit text
+25	Select fourth kit item
+33	Edit Shorts
+27	Select fifth kit item
+34	Edit socks
+35	Close kits
+40	Click Details
+1	Click Database
+-- Finished running for Brightwald Youth Club - 2015/02/22 00:29:12
+0	Click Editor
+1	Click Database
+2	Click club
+3	Click add
+4	Enter name
+5	Enter short name
+6	Enter six letter name
+7	Enter nickname
+8	Enter second nickname
+9	Enter nation
+10	Enter based nation
+11	Enter continental cup nation
+12	Enter city
+13	Enter status
+14	Enter morale
+15	Enter rep
+16	Add extra teams
+49	Open supporter profile
+50	Enter loyalty
+51	Enter passion
+52	Enter patience
+53	Enter affluence
+54	Enter temperament
+36	Open competition
+37	Set competition
+38	Close competition
+17	Open kits
+18	Click home kit
+19	Select first kit item
+20	Edit shirt
+21	Select second kit item
+22	Edit icon
+23	Select third kit item
+24	Edit text
+25	Select fourth kit item
+26	Edit Shorts
+27	Select fifth kit item
+28	Edit socks
+29	Click away kit
+19	Select first kit item
+30	Edit shirt
+21	Select second kit item
+31	Edit icon
+23	Select third kit item
+32	Edit text
+25	Select fourth kit item
+33	Edit Shorts
+27	Select fifth kit item
+34	Edit socks
+35	Close kits
+40	Click Details
+1	Click Database
+-- Finished running for Pioneer Village - 2015/02/22 00:31:17
+0	Click Editor
+1	Click Database
+2	Click club
+3	Click add
+4	Enter name
+5	Enter short name
+6	Enter six letter name
+7	Enter nickname
+8	Enter second nickname
+9	Enter nation
+10	Enter based nation
+11	Enter continental cup nation
+12	Enter city
+13	Enter status
+14	Enter morale
+15	Enter rep
+16	Add extra teams
+49	Open supporter profile
+50	Enter loyalty
+51	Enter passion
+52	Enter patience
+53	Enter affluence
+54	Enter temperament
+36	Open competition
+37	Set competition
+38	Close competition
+17	Open kits
+18	Click home kit
+19	Select first kit item
+20	Edit shirt
+21	Select second kit item
+22	Edit icon
+23	Select third kit item
+24	Edit text
+25	Select fourth kit item
+26	Edit Shorts
+27	Select fifth kit item
+28	Edit socks
+29	Click away kit
+19	Select first kit item
+30	Edit shirt
+21	Select second kit item
+31	Edit icon
+23	Select third kit item
+32	Edit text
+25	Select fourth kit item
+33	Edit Shorts
+27	Select fifth kit item
+34	Edit socks
+35	Close kits
+40	Click Details
+1	Click Database
+-- Finished running for Port Haver FC - 2015/02/22 00:33:20
+0	Click Editor
+1	Click Database
+2	Click club
+3	Click add
+4	Enter name
+5	Enter short name
+6	Enter six letter name
+7	Enter nickname
+8	Enter second nickname
+9	Enter nation
+10	Enter based nation
+11	Enter continental cup nation
+12	Enter city
+13	Enter status
+14	Enter morale
+15	Enter rep
+16	Add extra teams
+49	Open supporter profile
+50	Enter loyalty
+51	Enter passion
+52	Enter patience
+53	Enter affluence
+54	Enter temperament
+36	Open competition
+37	Set competition
+38	Close competition
+17	Open kits
+18	Click home kit
+19	Select first kit item
+20	Edit shirt
+21	Select second kit item
+22	Edit icon
+23	Select third kit item
+24	Edit text
+25	Select fourth kit item
+26	Edit Shorts
+27	Select fifth kit item
+28	Edit socks
+29	Click away kit
+19	Select first kit item
+30	Edit shirt
+21	Select second kit item
+31	Edit icon
+23	Select third kit item
+32	Edit text
+25	Select fourth kit item
+33	Edit Shorts
+27	Select fifth kit item
+34	Edit socks
+35	Close kits
+40	Click Details
+1	Click Database
+-- Finished running for Riverforth Town - 2015/02/22 00:35:24
+0	Click Editor
+1	Click Database
+2	Click club
+3	Click add
+4	Enter name
+5	Enter short name
+6	Enter six letter name
+7	Enter nickname
+8	Enter second nickname
+9	Enter nation
+10	Enter based nation
+11	Enter continental cup nation
+12	Enter city
+13	Enter status
+14	Enter morale
+15	Enter rep
+16	Add extra teams
+49	Open supporter profile
+50	Enter loyalty
+51	Enter passion
+52	Enter patience
+53	Enter affluence
+54	Enter temperament
+36	Open competition
+37	Set competition
+38	Close competition
+17	Open kits
+18	Click home kit
+19	Select first kit item
+20	Edit shirt
+21	Select second kit item
+22	Edit icon
+23	Select third kit item
+24	Edit text
+25	Select fourth kit item
+26	Edit Shorts
+27	Select fifth kit item
+28	Edit socks
+29	Click away kit
+19	Select first kit item
+30	Edit shirt
+21	Select second kit item
+31	Edit icon
+23	Select third kit item
+32	Edit text
+25	Select fourth kit item
+33	Edit Shorts
+27	Select fifth kit item
+34	Edit socks
+35	Close kits
+40	Click Details
+1	Click Database
+-- Finished running for Sporting Aspax - 2015/02/22 00:37:29
+0	Click Editor
+1	Click Database
+2	Click club
+3	Click add
+4	Enter name
+5	Enter short name
+6	Enter six letter name
+7	Enter nickname
+8	Enter second nickname
+9	Enter nation
+10	Enter based nation
+11	Enter continental cup nation
+12	Enter city
+13	Enter status
+14	Enter morale
+15	Enter rep
+16	Add extra teams
+49	Open supporter profile
+50	Enter loyalty
+51	Enter passion
+52	Enter patience
+53	Enter affluence
+54	Enter temperament
+36	Open competition
+37	Set competition
+38	Close competition
+17	Open kits
+18	Click home kit
+19	Select first kit item
+20	Edit shirt
+21	Select second kit item
+22	Edit icon
+23	Select third kit item
+24	Edit text
+25	Select fourth kit item
+26	Edit Shorts
+27	Select fifth kit item
+28	Edit socks
+29	Click away kit
+19	Select first kit item
+30	Edit shirt
+21	Select second kit item
+31	Edit icon
+23	Select third kit item
+32	Edit text
+25	Select fourth kit item
+33	Edit Shorts
+27	Select fifth kit item
+34	Edit socks
+35	Close kits
+40	Click Details
+1	Click Database
+-- Finished running for Swynfort - 2015/02/22 00:39:31
+0	Click Editor
+1	Click Database
+2	Click club
+3	Click add
+4	Enter name
+5	Enter short name
+6	Enter six letter name
+7	Enter nickname
+8	Enter second nickname
+9	Enter nation
+10	Enter based nation
+11	Enter continental cup nation
+12	Enter city
+13	Enter status
+14	Enter morale
+15	Enter rep
+16	Add extra teams
+49	Open supporter profile
+50	Enter loyalty
+51	Enter passion
+52	Enter patience
+53	Enter affluence
+54	Enter temperament
+36	Open competition
+37	Set competition
+38	Close competition
+17	Open kits
+18	Click home kit
+19	Select first kit item
+20	Edit shirt
+21	Select second kit item
+22	Edit icon
+23	Select third kit item
+24	Edit text
+25	Select fourth kit item
+26	Edit Shorts
+27	Select fifth kit item
+28	Edit socks
+29	Click away kit
+19	Select first kit item
+30	Edit shirt
+21	Select second kit item
+31	Edit icon
+23	Select third kit item
+32	Edit text
+25	Select fourth kit item
+33	Edit Shorts
+27	Select fifth kit item
+34	Edit socks
+35	Close kits
+40	Click Details
+1	Click Database
+-- Finished running for Wildeborne Wanderers - 2015/02/22 00:41:35
+0	Click Editor
+1	Click Database
+2	Click club
+3	Click add
+4	Enter name
+5	Enter short name
+6	Enter six letter name
+7	Enter nickname
+8	Enter second nickname
+9	Enter nation
+10	Enter based nation
+11	Enter continental cup nation
+12	Enter city
+13	Enter status
+14	Enter morale
+15	Enter rep
+16	Add extra teams
+49	Open supporter profile
+50	Enter loyalty
+51	Enter passion
+52	Enter patience
+53	Enter affluence
+54	Enter temperament
+36	Open competition
+37	Set competition
+38	Close competition
+17	Open kits
+18	Click home kit
+19	Select first kit item
+20	Edit shirt
+21	Select second kit item
+22	Edit icon
+23	Select third kit item
+24	Edit text
+25	Select fourth kit item
+26	Edit Shorts
+27	Select fifth kit item
+28	Edit socks
+29	Click away kit
+19	Select first kit item
+30	Edit shirt
+21	Select second kit item
+31	Edit icon
+23	Select third kit item
+32	Edit text
+25	Select fourth kit item
+33	Edit Shorts
+27	Select fifth kit item
+34	Edit socks
+35	Close kits
+40	Click Details
+1	Click Database
+-- Finished running for Belfield Amateurs - 2015/02/22 00:43:39
+0	Click Editor
+1	Click Database
+2	Click club
+3	Click add
+4	Enter name
+5	Enter short name
+6	Enter six letter name
+7	Enter nickname
+8	Enter second nickname
+9	Enter nation
+10	Enter based nation
+11	Enter continental cup nation
+12	Enter city
+13	Enter status
+14	Enter morale
+15	Enter rep
+16	Add extra teams
+49	Open supporter profile
+50	Enter loyalty
+51	Enter passion
+52	Enter patience
+53	Enter affluence
+54	Enter temperament
+36	Open competition
+37	Set competition
+38	Close competition
+17	Open kits
+18	Click home kit
+19	Select first kit item
+20	Edit shirt
+21	Select second kit item
+22	Edit icon
+23	Select third kit item
+24	Edit text
+25	Select fourth kit item
+26	Edit Shorts
+27	Select fifth kit item
+28	Edit socks
+29	Click away kit
+19	Select first kit item
+30	Edit shirt
+21	Select second kit item
+31	Edit icon
+23	Select third kit item
+32	Edit text
+25	Select fourth kit item
+33	Edit Shorts
+27	Select fifth kit item
+34	Edit socks
+35	Close kits
+40	Click Details
+1	Click Database
+-- Finished running for Linmeadow - 2015/02/22 00:45:43
+0	Click Editor
+1	Click Database
+2	Click club
+3	Click add
+4	Enter name
+5	Enter short name
+6	Enter six letter name
+7	Enter nickname
+8	Enter second nickname
+9	Enter nation
+10	Enter based nation
+11	Enter continental cup nation
+12	Enter city
+13	Enter status
+14	Enter morale
+15	Enter rep
+16	Add extra teams
+49	Open supporter profile
+50	Enter loyalty
+51	Enter passion
+52	Enter patience
+53	Enter affluence
+54	Enter temperament
+36	Open competition
+37	Set competition
+38	Close competition
+17	Open kits
+18	Click home kit
+19	Select first kit item
+20	Edit shirt
+21	Select second kit item
+22	Edit icon
+23	Select third kit item
+24	Edit text
+25	Select fourth kit item
+26	Edit Shorts
+27	Select fifth kit item
+28	Edit socks
+29	Click away kit
+19	Select first kit item
+30	Edit shirt
+21	Select second kit item
+31	Edit icon
+23	Select third kit item
+32	Edit text
+25	Select fourth kit item
+33	Edit Shorts
+27	Select fifth kit item
+34	Edit socks
+35	Close kits
+40	Click Details
+1	Click Database
+-- Finished running for Lordale Juniors - 2015/02/22 00:47:48
+0	Click Editor
+1	Click Database
+2	Click club
+3	Click add
+4	Enter name
+5	Enter short name
+6	Enter six letter name
+7	Enter nickname
+8	Enter second nickname
+9	Enter nation
+10	Enter based nation
+11	Enter continental cup nation
+12	Enter city
+13	Enter status
+14	Enter morale
+15	Enter rep
+16	Add extra teams
+49	Open supporter profile
+50	Enter loyalty
+51	Enter passion
+52	Enter patience
+53	Enter affluence
+54	Enter temperament
+36	Open competition
+37	Set competition
+38	Close competition
+17	Open kits
+18	Click home kit
+19	Select first kit item
+20	Edit shirt
+21	Select second kit item
+22	Edit icon
+23	Select third kit item
+24	Edit text
+25	Select fourth kit item
+26	Edit Shorts
+27	Select fifth kit item
+28	Edit socks
+29	Click away kit
+19	Select first kit item
+30	Edit shirt
+21	Select second kit item
+31	Edit icon
+23	Select third kit item
+32	Edit text
+25	Select fourth kit item
+33	Edit Shorts
+27	Select fifth kit item
+34	Edit socks
+35	Close kits
+40	Click Details
+1	Click Database
+-- Finished running for Wyvernston Park - 2015/02/22 00:49:52
+0	Click Editor
+1	Click Database
+2	Click club
+3	Click add
+4	Enter name
+5	Enter short name
+6	Enter six letter name
+7	Enter nickname
+8	Enter second nickname
+9	Enter nation
+10	Enter based nation
+11	Enter continental cup nation
+12	Enter city
+13	Enter status
+14	Enter morale
+15	Enter rep
+16	Add extra teams
+49	Open supporter profile
+50	Enter loyalty
+51	Enter passion
+52	Enter patience
+53	Enter affluence
+54	Enter temperament
+36	Open competition
+37	Set competition
+38	Close competition
+17	Open kits
+18	Click home kit
+19	Select first kit item
+20	Edit shirt
+21	Select second kit item
+22	Edit icon
+23	Select third kit item
+24	Edit text
+25	Select fourth kit item
+26	Edit Shorts
+27	Select fifth kit item
+28	Edit socks
+29	Click away kit
+19	Select first kit item
+30	Edit shirt
+21	Select second kit item
+31	Edit icon
+23	Select third kit item
+32	Edit text
+25	Select fourth kit item
+33	Edit Shorts
+27	Select fifth kit item
+34	Edit socks
+35	Close kits
+40	Click Details
+1	Click Database
+-- Finished running for Greyapple Harriers - 2015/02/22 00:51:56
+0	Click Editor
+1	Click Database
+2	Click club
+3	Click add
+4	Enter name
+5	Enter short name
+6	Enter six letter name
+7	Enter nickname
+8	Enter second nickname
+9	Enter nation
+10	Enter based nation
+11	Enter continental cup nation
+12	Enter city
+13	Enter status
+14	Enter morale
+15	Enter rep
+16	Add extra teams
+49	Open supporter profile
+50	Enter loyalty
+51	Enter passion
+52	Enter patience
+53	Enter affluence
+54	Enter temperament
+36	Open competition
+37	Set competition
+38	Close competition
+17	Open kits
+18	Click home kit
+19	Select first kit item
+20	Edit shirt
+21	Select second kit item
+22	Edit icon
+23	Select third kit item
+24	Edit text
+25	Select fourth kit item
+26	Edit Shorts
+27	Select fifth kit item
+28	Edit socks
+29	Click away kit
+19	Select first kit item
+30	Edit shirt
+21	Select second kit item
+31	Edit icon
+23	Select third kit item
+32	Edit text
+25	Select fourth kit item
+33	Edit Shorts
+27	Select fifth kit item
+34	Edit socks
+35	Close kits
+40	Click Details
+1	Click Database
+-- Finished running for Iceford - 2015/02/22 00:53:59
+0	Click Editor
+1	Click Database
+2	Click club
+3	Click add
+4	Enter name
+5	Enter short name
+6	Enter six letter name
+7	Enter nickname
+8	Enter second nickname
+9	Enter nation
+10	Enter based nation
+11	Enter continental cup nation
+12	Enter city
+13	Enter status
+14	Enter morale
+15	Enter rep
+16	Add extra teams
+49	Open supporter profile
+50	Enter loyalty
+51	Enter passion
+52	Enter patience
+53	Enter affluence
+54	Enter temperament
+36	Open competition
+37	Set competition
+38	Close competition
+17	Open kits
+18	Click home kit
+19	Select first kit item
+20	Edit shirt
+21	Select second kit item
+22	Edit icon
+23	Select third kit item
+24	Edit text
+25	Select fourth kit item
+26	Edit Shorts
+27	Select fifth kit item
+28	Edit socks
+29	Click away kit
+19	Select first kit item
+30	Edit shirt
+21	Select second kit item
+31	Edit icon
+23	Select third kit item
+32	Edit text
+25	Select fourth kit item
+33	Edit Shorts
+27	Select fifth kit item
+34	Edit socks
+35	Close kits
+40	Click Details
+1	Click Database
+-- Finished running for Rigby Road - 2015/02/22 00:56:02
+0	Click Editor
+1	Click Database
+2	Click club
+3	Click add
+4	Enter name
+5	Enter short name
+6	Enter six letter name
+7	Enter nickname
+8	Enter second nickname
+9	Enter nation
+10	Enter based nation
+11	Enter continental cup nation
+12	Enter city
+13	Enter status
+14	Enter morale
+15	Enter rep
+16	Add extra teams
+49	Open supporter profile
+50	Enter loyalty
+51	Enter passion
+52	Enter patience
+53	Enter affluence
+54	Enter temperament
+36	Open competition
+37	Set competition
+38	Close competition
+17	Open kits
+18	Click home kit
+19	Select first kit item
+20	Edit shirt
+21	Select second kit item
+22	Edit icon
+23	Select third kit item
+24	Edit text
+25	Select fourth kit item
+26	Edit Shorts
+27	Select fifth kit item
+28	Edit socks
+29	Click away kit
+19	Select first kit item
+30	Edit shirt
+21	Select second kit item
+31	Edit icon
+23	Select third kit item
+32	Edit text
+25	Select fourth kit item
+33	Edit Shorts
+27	Select fifth kit item
+34	Edit socks
+35	Close kits
+40	Click Details
+1	Click Database
+-- Finished running for Oldwell Youths - 2015/02/22 00:58:05
+0	Click Editor
+1	Click Database
+2	Click club
+3	Click add
+4	Enter name
+5	Enter short name
+6	Enter six letter name
+7	Enter nickname
+8	Enter second nickname
+9	Enter nation
+10	Enter based nation
+11	Enter continental cup nation
+12	Enter city
+13	Enter status
+14	Enter morale
+15	Enter rep
+16	Add extra teams
+49	Open supporter profile
+50	Enter loyalty
+51	Enter passion
+52	Enter patience
+53	Enter affluence
+54	Enter temperament
+36	Open competition
+37	Set competition
+38	Close competition
+17	Open kits
+18	Click home kit
+19	Select first kit item
+20	Edit shirt
+21	Select second kit item
+22	Edit icon
+23	Select third kit item
+24	Edit text
+25	Select fourth kit item
+26	Edit Shorts
+27	Select fifth kit item
+28	Edit socks
+29	Click away kit
+19	Select first kit item
+30	Edit shirt
+21	Select second kit item
+31	Edit icon
+23	Select third kit item
+32	Edit text
+25	Select fourth kit item
+33	Edit Shorts
+27	Select fifth kit item
+34	Edit socks
+35	Close kits
+40	Click Details
+1	Click Database
+-- Finished running for Snowfell - 2015/02/22 01:00:12
+0	Click Editor
+1	Click Database
+2	Click club
+3	Click add
+4	Enter name
+5	Enter short name
+6	Enter six letter name
+7	Enter nickname
+8	Enter second nickname
+9	Enter nation
+10	Enter based nation
+11	Enter continental cup nation
+12	Enter city
+13	Enter status
+14	Enter morale
+15	Enter rep
+16	Add extra teams
+49	Open supporter profile
+50	Enter loyalty
+51	Enter passion
+52	Enter patience
+53	Enter affluence
+54	Enter temperament
+36	Open competition
+37	Set competition
+38	Close competition
+17	Open kits
+18	Click home kit
+19	Select first kit item
+20	Edit shirt
+21	Select second kit item
+22	Edit icon
+23	Select third kit item
+24	Edit text
+25	Select fourth kit item
+26	Edit Shorts
+27	Select fifth kit item
+28	Edit socks
+29	Click away kit
+19	Select first kit item
+30	Edit shirt
+21	Select second kit item
+31	Edit icon
+23	Select third kit item
+32	Edit text
+25	Select fourth kit item
+33	Edit Shorts
+27	Select fifth kit item
+34	Edit socks
+35	Close kits
+40	Click Details
+1	Click Database
+-- Finished running for Shackleton FC - 2015/02/22 01:02:20
+0	Click Editor
+1	Click Database
+2	Click club
+3	Click add
+4	Enter name
+5	Enter short name
+6	Enter six letter name
+7	Enter nickname
+8	Enter second nickname
+9	Enter nation
+10	Enter based nation
+11	Enter continental cup nation
+12	Enter city
+13	Enter status
+14	Enter morale
+15	Enter rep
+16	Add extra teams
+49	Open supporter profile
+50	Enter loyalty
+51	Enter passion
+52	Enter patience
+53	Enter affluence
+54	Enter temperament
+36	Open competition
+37	Set competition
+38	Close competition
+17	Open kits
+18	Click home kit
+19	Select first kit item
+20	Edit shirt
+21	Select second kit item
+22	Edit icon
+23	Select third kit item
+24	Edit text
+25	Select fourth kit item
+26	Edit Shorts
+27	Select fifth kit item
+28	Edit socks
+29	Click away kit
+19	Select first kit item
+30	Edit shirt
+21	Select second kit item
+31	Edit icon
+23	Select third kit item
+32	Edit text
+25	Select fourth kit item
+33	Edit Shorts
+27	Select fifth kit item
+34	Edit socks
+35	Close kits
+40	Click Details
+1	Click Database
+-- Finished running for Aplua - 2015/02/22 01:04:25
+0	Click Editor
+1	Click Database
+2	Click club
+3	Click add
+4	Enter name
+5	Enter short name
+6	Enter six letter name
+7	Enter nickname
+8	Enter second nickname
+9	Enter nation
+10	Enter based nation
+11	Enter continental cup nation
+12	Enter city
+13	Enter status
+14	Enter morale
+15	Enter rep
+16	Add extra teams
+49	Open supporter profile
+50	Enter loyalty
+51	Enter passion
+52	Enter patience
+53	Enter affluence
+54	Enter temperament
+36	Open competition
+37	Set competition
+38	Close competition
+17	Open kits
+18	Click home kit
+19	Select first kit item
+20	Edit shirt
+21	Select second kit item
+22	Edit icon
+23	Select third kit item
+24	Edit text
+25	Select fourth kit item
+26	Edit Shorts
+27	Select fifth kit item
+28	Edit socks
+29	Click away kit
+19	Select first kit item
+30	Edit shirt
+21	Select second kit item
+31	Edit icon
+23	Select third kit item
+32	Edit text
+25	Select fourth kit item
+33	Edit Shorts
+27	Select fifth kit item
+34	Edit socks
+35	Close kits
+40	Click Details
+1	Click Database
+-- Finished running for FC Greywind - 2015/02/22 01:06:34
+0	Click Editor
+1	Click Database
+2	Click club
+3	Click add
+4	Enter name
+5	Enter short name
+6	Enter six letter name
+7	Enter nickname
+8	Enter second nickname
+9	Enter nation
+10	Enter based nation
+11	Enter continental cup nation
+12	Enter city
+13	Enter status
+14	Enter morale
+15	Enter rep
+16	Add extra teams
+49	Open supporter profile
+50	Enter loyalty
+51	Enter passion
+52	Enter patience
+53	Enter affluence
+54	Enter temperament
+36	Open competition
+37	Set competition
+38	Close competition
+17	Open kits
+18	Click home kit
+19	Select first kit item
+20	Edit shirt
+21	Select second kit item
+22	Edit icon
+23	Select third kit item
+24	Edit text
+25	Select fourth kit item
+26	Edit Shorts
+27	Select fifth kit item
+28	Edit socks
+29	Click away kit
+19	Select first kit item
+30	Edit shirt
+21	Select second kit item
+31	Edit icon
+23	Select third kit item
+32	Edit text
+25	Select fourth kit item
+33	Edit Shorts
+27	Select fifth kit item
+34	Edit socks
+35	Close kits
+40	Click Details
+1	Click Database
+-- Finished running for Welor - 2015/02/22 01:08:41
+0	Click Editor
+1	Click Database
+2	Click club
+3	Click add
+4	Enter name
+5	Enter short name
+6	Enter six letter name
+7	Enter nickname
+8	Enter second nickname
+9	Enter nation
+10	Enter based nation
+11	Enter continental cup nation
+12	Enter city
+13	Enter status
+14	Enter morale
+15	Enter rep
+16	Add extra teams
+49	Open supporter profile
+50	Enter loyalty
+51	Enter passion
+52	Enter patience
+53	Enter affluence
+54	Enter temperament
+36	Open competition
+37	Set competition
+38	Close competition
+17	Open kits
+18	Click home kit
+19	Select first kit item
+20	Edit shirt
+21	Select second kit item
+22	Edit icon
+23	Select third kit item
+24	Edit text
+25	Select fourth kit item
+26	Edit Shorts
+27	Select fifth kit item
+28	Edit socks
+29	Click away kit
+19	Select first kit item
+30	Edit shirt
+21	Select second kit item
+31	Edit icon
+23	Select third kit item
+32	Edit text
+25	Select fourth kit item
+33	Edit Shorts
+27	Select fifth kit item
+34	Edit socks
+35	Close kits
+40	Click Details
+1	Click Database
+-- Finished running for Yucor FC - 2015/02/22 01:10:46
+0	Click Editor
+1	Click Database
+2	Click club
+3	Click add
+4	Enter name
+5	Enter short name
+6	Enter six letter name
+7	Enter nickname
+8	Enter second nickname
+9	Enter nation
+10	Enter based nation
+11	Enter continental cup nation
+12	Enter city
+13	Enter status
+14	Enter morale
+15	Enter rep
+16	Add extra teams
+49	Open supporter profile
+50	Enter loyalty
+51	Enter passion
+52	Enter patience
+53	Enter affluence
+54	Enter temperament
+36	Open competition
+37	Set competition
+38	Close competition
+17	Open kits
+18	Click home kit
+19	Select first kit item
+20	Edit shirt
+21	Select second kit item
+22	Edit icon
+23	Select third kit item
+24	Edit text
+25	Select fourth kit item
+26	Edit Shorts
+27	Select fifth kit item
+28	Edit socks
+29	Click away kit
+19	Select first kit item
+30	Edit shirt
+21	Select second kit item
+31	Edit icon
+23	Select third kit item
+32	Edit text
+25	Select fourth kit item
+33	Edit Shorts
+27	Select fifth kit item
+34	Edit socks
+35	Close kits
+40	Click Details
+1	Click Database
+-- Finished running for FC Crast - 2015/02/22 01:12:51
+0	Click Editor
+1	Click Database
+2	Click club
+3	Click add
+4	Enter name
+5	Enter short name
+6	Enter six letter name
+7	Enter nickname
+8	Enter second nickname
+9	Enter nation
+10	Enter based nation
+11	Enter continental cup nation
+12	Enter city
+13	Enter status
+14	Enter morale
+15	Enter rep
+16	Add extra teams
+49	Open supporter profile
+50	Enter loyalty
+51	Enter passion
+52	Enter patience
+53	Enter affluence
+54	Enter temperament
+36	Open competition
+37	Set competition
+38	Close competition
+17	Open kits
+18	Click home kit
+19	Select first kit item
+20	Edit shirt
+21	Select second kit item
+22	Edit icon
+23	Select third kit item
+24	Edit text
+25	Select fourth kit item
+26	Edit Shorts
+27	Select fifth kit item
+28	Edit socks
+29	Click away kit
+19	Select first kit item
+30	Edit shirt
+21	Select second kit item
+31	Edit icon
+23	Select third kit item
+32	Edit text
+25	Select fourth kit item
+33	Edit Shorts
+27	Select fifth kit item
+34	Edit socks
+35	Close kits
+40	Click Details
+1	Click Database
+-- Finished running for Voyalia - 2015/02/22 01:14:53
+0	Click Editor
+1	Click Database
+2	Click club
+3	Click add
+4	Enter name
+5	Enter short name
+6	Enter six letter name
+7	Enter nickname
+8	Enter second nickname
+9	Enter nation
+10	Enter based nation
+11	Enter continental cup nation
+12	Enter city
+13	Enter status
+14	Enter morale
+15	Enter rep
+16	Add extra teams
+49	Open supporter profile
+50	Enter loyalty
+51	Enter passion
+52	Enter patience
+53	Enter affluence
+54	Enter temperament
+36	Open competition
+37	Set competition
+38	Close competition
+17	Open kits
+18	Click home kit
+19	Select first kit item
+20	Edit shirt
+21	Select second kit item
+22	Edit icon
+23	Select third kit item
+24	Edit text
+25	Select fourth kit item
+26	Edit Shorts
+27	Select fifth kit item
+28	Edit socks
+29	Click away kit
+19	Select first kit item
+30	Edit shirt
+21	Select second kit item
+31	Edit icon
+23	Select third kit item
+32	Edit text
+25	Select fourth kit item
+33	Edit Shorts
+27	Select fifth kit item
+34	Edit socks
+35	Close kits
+40	Click Details
+1	Click Database
+-- Finished running for Nardhvik - 2015/02/22 01:16:57
+0	Click Editor
+1	Click Database
+2	Click club
+3	Click add
+4	Enter name
+5	Enter short name
+6	Enter six letter name
+7	Enter nickname
+8	Enter second nickname
+9	Enter nation
+10	Enter based nation
+11	Enter continental cup nation
+12	Enter city
+13	Enter status
+14	Enter morale
+15	Enter rep
+16	Add extra teams
+49	Open supporter profile
+50	Enter loyalty
+51	Enter passion
+52	Enter patience
+53	Enter affluence
+54	Enter temperament
+36	Open competition
+37	Set competition
+38	Close competition
+17	Open kits
+18	Click home kit
+19	Select first kit item
+20	Edit shirt
+21	Select second kit item
+22	Edit icon
+23	Select third kit item
+24	Edit text
+25	Select fourth kit item
+26	Edit Shorts
+27	Select fifth kit item
+28	Edit socks
+29	Click away kit
+19	Select first kit item
+30	Edit shirt
+21	Select second kit item
+31	Edit icon
+23	Select third kit item
+32	Edit text
+25	Select fourth kit item
+33	Edit Shorts
+27	Select fifth kit item
+34	Edit socks
+35	Close kits
+40	Click Details
+1	Click Database
+-- Finished running for Beerenberg - 2015/02/22 01:19:02
+0	Click Editor
+1	Click Database
+2	Click club
+3	Click add
+4	Enter name
+5	Enter short name
+6	Enter six letter name
+7	Enter nickname
+8	Enter second nickname
+9	Enter nation
+10	Enter based nation
+11	Enter continental cup nation
+12	Enter city
+13	Enter status
+14	Enter morale
+15	Enter rep
+16	Add extra teams
+49	Open supporter profile
+50	Enter loyalty
+51	Enter passion
+52	Enter patience
+53	Enter affluence
+54	Enter temperament
+36	Open competition
+37	Set competition
+38	Close competition
+17	Open kits
+18	Click home kit
+19	Select first kit item
+20	Edit shirt
+21	Select second kit item
+22	Edit icon
+23	Select third kit item
+24	Edit text
+25	Select fourth kit item
+26	Edit Shorts
+27	Select fifth kit item
+28	Edit socks
+29	Click away kit
+19	Select first kit item
+30	Edit shirt
+21	Select second kit item
+31	Edit icon
+23	Select third kit item
+32	Edit text
+25	Select fourth kit item
+33	Edit Shorts
+27	Select fifth kit item
+34	Edit socks
+35	Close kits
+40	Click Details
+1	Click Database
+-- Finished running for Skagastrand - 2015/02/22 01:21:08
+0	Click Editor
+1	Click Database
+2	Click club
+3	Click add
+4	Enter name
+5	Enter short name
+6	Enter six letter name
+7	Enter nickname
+8	Enter second nickname
+9	Enter nation
+10	Enter based nation
+11	Enter continental cup nation
+12	Enter city
+13	Enter status
+14	Enter morale
+15	Enter rep
+16	Add extra teams
+49	Open supporter profile
+50	Enter loyalty
+51	Enter passion
+52	Enter patience
+53	Enter affluence
+54	Enter temperament
+36	Open competition
+37	Set competition
+38	Close competition
+17	Open kits
+18	Click home kit
+19	Select first kit item
+20	Edit shirt
+21	Select second kit item
+22	Edit icon
+23	Select third kit item
+24	Edit text
+25	Select fourth kit item
+26	Edit Shorts
+27	Select fifth kit item
+28	Edit socks
+29	Click away kit
+19	Select first kit item
+30	Edit shirt
+21	Select second kit item
+31	Edit icon
+23	Select third kit item
+32	Edit text
+25	Select fourth kit item
+33	Edit Shorts
+27	Select fifth kit item
+34	Edit socks
+35	Close kits
+40	Click Details
+1	Click Database
+-- Finished running for Welor Amateurs - 2015/02/22 01:23:13
+0	Click Editor
+1	Click Database
+2	Click club
+3	Click add
+4	Enter name
+5	Enter short name
+6	Enter six letter name
+7	Enter nickname
+8	Enter second nickname
+9	Enter nation
+10	Enter based nation
+11	Enter continental cup nation
+12	Enter city
+13	Enter status
+14	Enter morale
+15	Enter rep
+16	Add extra teams
+49	Open supporter profile
+50	Enter loyalty
+51	Enter passion
+52	Enter patience
+53	Enter affluence
+54	Enter temperament
+36	Open competition
+37	Set competition
+38	Close competition
+17	Open kits
+18	Click home kit
+19	Select first kit item
+20	Edit shirt
+21	Select second kit item
+22	Edit icon
+23	Select third kit item
+24	Edit text
+25	Select fourth kit item
+26	Edit Shorts
+27	Select fifth kit item
+28	Edit socks
+29	Click away kit
+19	Select first kit item
+30	Edit shirt
+21	Select second kit item
+31	Edit icon
+23	Select third kit item
+32	Edit text
+25	Select fourth kit item
+33	Edit Shorts
+27	Select fifth kit item
+34	Edit socks
+35	Close kits
+40	Click Details
+1	Click Database
+-- Finished running for Mount Hoth - 2015/02/22 01:25:22
+0	Click Editor
+1	Click Database
+2	Click club
+3	Click add
+4	Enter name
+5	Enter short name
+6	Enter six letter name
+7	Enter nickname
+8	Enter second nickname
+9	Enter nation
+10	Enter based nation
+11	Enter continental cup nation
+12	Enter city
+13	Enter status
+14	Enter morale
+15	Enter rep
+16	Add extra teams
+49	Open supporter profile
+50	Enter loyalty
+51	Enter passion
+52	Enter patience
+53	Enter affluence
+54	Enter temperament
+36	Open competition
+37	Set competition
+38	Close competition
+17	Open kits
+18	Click home kit
+19	Select first kit item
+20	Edit shirt
+21	Select second kit item
+22	Edit icon
+23	Select third kit item
+24	Edit text
+25	Select fourth kit item
+26	Edit Shorts
+27	Select fifth kit item
+28	Edit socks
+29	Click away kit
+19	Select first kit item
+30	Edit shirt
+21	Select second kit item
+31	Edit icon
+23	Select third kit item
+32	Edit text
+25	Select fourth kit item
+33	Edit Shorts
+27	Select fifth kit item
+34	Edit socks
+35	Close kits
+40	Click Details
+1	Click Database
+-- Finished running for Skagastrand Amateurs - 2015/02/22 01:27:27
+0	Click Editor
+1	Click Database
+2	Click club
+3	Click add
+4	Enter name
+5	Enter short name
+6	Enter six letter name
+7	Enter nickname
+8	Enter second nickname
+9	Enter nation
+10	Enter based nation
+11	Enter continental cup nation
+12	Enter city
+13	Enter status
+14	Enter morale
+15	Enter rep
+16	Add extra teams
+49	Open supporter profile
+50	Enter loyalty
+51	Enter passion
+52	Enter patience
+53	Enter affluence
+54	Enter temperament
+36	Open competition
+37	Set competition
+38	Close competition
+17	Open kits
+18	Click home kit
+19	Select first kit item
+20	Edit shirt
+21	Select second kit item
+22	Edit icon
+23	Select third kit item
+24	Edit text
+25	Select fourth kit item
+26	Edit Shorts
+27	Select fifth kit item
+28	Edit socks
+29	Click away kit
+19	Select first kit item
+30	Edit shirt
+21	Select second kit item
+31	Edit icon
+23	Select third kit item
+32	Edit text
+25	Select fourth kit item
+33	Edit Shorts
+27	Select fifth kit item
+34	Edit socks
+35	Close kits
+40	Click Details
+1	Click Database
+-- Finished running for Logro United - 2015/02/22 01:29:34
+0	Click Editor
+1	Click Database
+2	Click club
+3	Click add
+4	Enter name
+5	Enter short name
+6	Enter six letter name
+7	Enter nickname
+8	Enter second nickname
+9	Enter nation
+10	Enter based nation
+11	Enter continental cup nation
+12	Enter city
+13	Enter status
+14	Enter morale
+15	Enter rep
+16	Add extra teams
+49	Open supporter profile
+50	Enter loyalty
+51	Enter passion
+52	Enter patience
+53	Enter affluence
+54	Enter temperament
+36	Open competition
+37	Set competition
+38	Close competition
+17	Open kits
+18	Click home kit
+19	Select first kit item
+20	Edit shirt
+21	Select second kit item
+22	Edit icon
+23	Select third kit item
+24	Edit text
+25	Select fourth kit item
+26	Edit Shorts
+27	Select fifth kit item
+28	Edit socks
+29	Click away kit
+19	Select first kit item
+30	Edit shirt
+21	Select second kit item
+31	Edit icon
+23	Select third kit item
+32	Edit text
+25	Select fourth kit item
+33	Edit Shorts
+27	Select fifth kit item
+34	Edit socks
+35	Close kits
+40	Click Details
+1	Click Database
+-- Finished running for Greywind Amateurs - 2015/02/22 01:31:40
+0	Click Editor
+1	Click Database
+2	Click club
+3	Click add
+4	Enter name
+5	Enter short name
+6	Enter six letter name
+7	Enter nickname
+8	Enter second nickname
+9	Enter nation
+10	Enter based nation
+11	Enter continental cup nation
+12	Enter city
+13	Enter status
+14	Enter morale
+15	Enter rep
+16	Add extra teams
+49	Open supporter profile
+50	Enter loyalty
+51	Enter passion
+52	Enter patience
+53	Enter affluence
+54	Enter temperament
+36	Open competition
+37	Set competition
+38	Close competition
+17	Open kits
+18	Click home kit
+19	Select first kit item
+20	Edit shirt
+21	Select second kit item
+22	Edit icon
+23	Select third kit item
+24	Edit text
+25	Select fourth kit item
+26	Edit Shorts
+27	Select fifth kit item
+28	Edit socks
+29	Click away kit
+19	Select first kit item
+30	Edit shirt
+21	Select second kit item
+31	Edit icon
+23	Select third kit item
+32	Edit text
+25	Select fourth kit item
+33	Edit Shorts
+27	Select fifth kit item
+34	Edit socks
+35	Close kits
+40	Click Details
+1	Click Database
+-- Finished running for Crast Amateurs - 2015/02/22 01:33:45
+0	Click Editor
+1	Click Database
+2	Click club
+3	Click add
+4	Enter name
+5	Enter short name
+6	Enter six letter name
+7	Enter nickname
+8	Enter second nickname
+9	Enter nation
+10	Enter based nation
+11	Enter continental cup nation
+12	Enter city
+13	Enter status
+14	Enter morale
+15	Enter rep
+16	Add extra teams
+49	Open supporter profile
+50	Enter loyalty
+51	Enter passion
+52	Enter patience
+53	Enter affluence
+54	Enter temperament
+36	Open competition
+37	Set competition
+38	Close competition
+17	Open kits
+18	Click home kit
+19	Select first kit item
+20	Edit shirt
+21	Select second kit item
+22	Edit icon
+23	Select third kit item
+24	Edit text
+25	Select fourth kit item
+26	Edit Shorts
+27	Select fifth kit item
+28	Edit socks
+29	Click away kit
+19	Select first kit item
+30	Edit shirt
+21	Select second kit item
+31	Edit icon
+23	Select third kit item
+32	Edit text
+25	Select fourth kit item
+33	Edit Shorts
+27	Select fifth kit item
+34	Edit socks
+35	Close kits
+40	Click Details
+1	Click Database
+-- Finished running for Snowfell Amateurs - 2015/02/22 01:35:52
+0	Click Editor
+1	Click Database
+2	Click club
+3	Click add
+4	Enter name
+5	Enter short name
+6	Enter six letter name
+7	Enter nickname
+8	Enter second nickname
+9	Enter nation
+10	Enter based nation
+11	Enter continental cup nation
+12	Enter city
+13	Enter status
+14	Enter morale
+15	Enter rep
+16	Add extra teams
+49	Open supporter profile
+50	Enter loyalty
+51	Enter passion
+52	Enter patience
+53	Enter affluence
+54	Enter temperament
+36	Open competition
+37	Set competition
+38	Close competition
+17	Open kits
+18	Click home kit
+19	Select first kit item
+20	Edit shirt
+21	Select second kit item
+22	Edit icon
+23	Select third kit item
+24	Edit text
+25	Select fourth kit item
+26	Edit Shorts
+27	Select fifth kit item
+28	Edit socks
+29	Click away kit
+19	Select first kit item
+30	Edit shirt
+21	Select second kit item
+31	Edit icon
+23	Select third kit item
+32	Edit text
+25	Select fourth kit item
+33	Edit Shorts
+27	Select fifth kit item
+34	Edit socks
+35	Close kits
+40	Click Details
+1	Click Database
+-- Finished running for Voyalia Amateurs - 2015/02/22 01:37:56
+0	Click Editor
+1	Click Database
+2	Click club
+3	Click add
+4	Enter name
+5	Enter short name
+6	Enter six letter name
+7	Enter nickname
+8	Enter second nickname
+9	Enter nation
+10	Enter based nation
+11	Enter continental cup nation
+12	Enter city
+13	Enter status
+14	Enter morale
+15	Enter rep
+16	Add extra teams
+49	Open supporter profile
+50	Enter loyalty
+51	Enter passion
+52	Enter patience
+53	Enter affluence
+54	Enter temperament
+36	Open competition
+37	Set competition
+38	Close competition
+17	Open kits
+18	Click home kit
+19	Select first kit item
+20	Edit shirt
+21	Select second kit item
+22	Edit icon
+23	Select third kit item
+24	Edit text
+25	Select fourth kit item
+26	Edit Shorts
+27	Select fifth kit item
+28	Edit socks
+29	Click away kit
+19	Select first kit item
+30	Edit shirt
+21	Select second kit item
+31	Edit icon
+23	Select third kit item
+32	Edit text
+25	Select fourth kit item
+33	Edit Shorts
+27	Select fifth kit item
+34	Edit socks
+35	Close kits
+40	Click Details
+1	Click Database
+-- Finished running for Logro Amateurs - 2015/02/22 01:40:00
+0	Click Editor
+1	Click Database
+2	Click club
+3	Click add
+4	Enter name
+5	Enter short name
+6	Enter six letter name
+7	Enter nickname
+8	Enter second nickname
+9	Enter nation
+10	Enter based nation
+11	Enter continental cup nation
+12	Enter city
+13	Enter status
+14	Enter morale
+15	Enter rep
+16	Add extra teams
+49	Open supporter profile
+50	Enter loyalty
+51	Enter passion
+52	Enter patience
+53	Enter affluence
+54	Enter temperament
+36	Open competition
+37	Set competition
+38	Close competition
+17	Open kits
+18	Click home kit
+19	Select first kit item
+20	Edit shirt
+21	Select second kit item
+22	Edit icon
+23	Select third kit item
+24	Edit text
+25	Select fourth kit item
+26	Edit Shorts
+27	Select fifth kit item
+28	Edit socks
+29	Click away kit
+19	Select first kit item
+30	Edit shirt
+21	Select second kit item
+31	Edit icon
+23	Select third kit item
+32	Edit text
+25	Select fourth kit item
+33	Edit Shorts
+27	Select fifth kit item
+34	Edit socks
+35	Close kits
+40	Click Details
+1	Click Database
+-- Finished running for Seba - 2015/02/22 01:42:03
+0	Click Editor
+1	Click Database
+2	Click club
+3	Click add
+4	Enter name
+5	Enter short name
+6	Enter six letter name
+7	Enter nickname
+8	Enter second nickname
+9	Enter nation
+10	Enter based nation
+11	Enter continental cup nation
+12	Enter city
+13	Enter status
+14	Enter morale
+15	Enter rep
+16	Add extra teams
+49	Open supporter profile
+50	Enter loyalty
+51	Enter passion
+52	Enter patience
+53	Enter affluence
+54	Enter temperament
+36	Open competition
+37	Set competition
+38	Close competition
+17	Open kits
+18	Click home kit
+19	Select first kit item
+20	Edit shirt
+21	Select second kit item
+22	Edit icon
+23	Select third kit item
+24	Edit text
+25	Select fourth kit item
+26	Edit Shorts
+27	Select fifth kit item
+28	Edit socks
+29	Click away kit
+19	Select first kit item
+30	Edit shirt
+21	Select second kit item
+31	Edit icon
+23	Select third kit item
+32	Edit text
+25	Select fourth kit item
+33	Edit Shorts
+27	Select fifth kit item
+34	Edit socks
+35	Close kits
+40	Click Details
+1	Click Database
+-- Finished running for Hena - 2015/02/22 01:44:07
+0	Click Editor
+1	Click Database
+2	Click club
+3	Click add
+4	Enter name
+5	Enter short name
+6	Enter six letter name
+7	Enter nickname
+8	Enter second nickname
+9	Enter nation
+10	Enter based nation
+11	Enter continental cup nation
+12	Enter city
+13	Enter status
+14	Enter morale
+15	Enter rep
+16	Add extra teams
+49	Open supporter profile
+50	Enter loyalty
+51	Enter passion
+52	Enter patience
+53	Enter affluence
+54	Enter temperament
+36	Open competition
+37	Set competition
+38	Close competition
+17	Open kits
+18	Click home kit
+19	Select first kit item
+20	Edit shirt
+21	Select second kit item
+22	Edit icon
+23	Select third kit item
+24	Edit text
+25	Select fourth kit item
+26	Edit Shorts
+27	Select fifth kit item
+28	Edit socks
+29	Click away kit
+19	Select first kit item
+30	Edit shirt
+21	Select second kit item
+31	Edit icon
+23	Select third kit item
+32	Edit text
+25	Select fourth kit item
+33	Edit Shorts
+27	Select fifth kit item
+34	Edit socks
+35	Close kits
+40	Click Details
+1	Click Database
+-- Finished running for Dina - 2015/02/22 01:46:09
+0	Click Editor
+1	Click Database
+2	Click club
+3	Click add
+4	Enter name
+5	Enter short name
+6	Enter six letter name
+7	Enter nickname
+8	Enter second nickname
+9	Enter nation
+10	Enter based nation
+11	Enter continental cup nation
+12	Enter city
+13	Enter status
+14	Enter morale
+15	Enter rep
+16	Add extra teams
+49	Open supporter profile
+50	Enter loyalty
+51	Enter passion
+52	Enter patience
+53	Enter affluence
+54	Enter temperament
+36	Open competition
+37	Set competition
+38	Close competition
+17	Open kits
+18	Click home kit
+19	Select first kit item
+20	Edit shirt
+21	Select second kit item
+22	Edit icon
+23	Select third kit item
+24	Edit text
+25	Select fourth kit item
+26	Edit Shorts
+27	Select fifth kit item
+28	Edit socks
+29	Click away kit
+19	Select first kit item
+30	Edit shirt
+21	Select second kit item
+31	Edit icon
+23	Select third kit item
+32	Edit text
+25	Select fourth kit item
+33	Edit Shorts
+27	Select fifth kit item
+34	Edit socks
+35	Close kits
+40	Click Details
+1	Click Database
+-- Finished running for Nekhur - 2015/02/22 01:48:13
+0	Click Editor
+1	Click Database
+2	Click club
+3	Click add
+4	Enter name
+5	Enter short name
+6	Enter six letter name
+7	Enter nickname
+8	Enter second nickname
+9	Enter nation
+10	Enter based nation
+11	Enter continental cup nation
+12	Enter city
+13	Enter status
+14	Enter morale
+15	Enter rep
+16	Add extra teams
+49	Open supporter profile
+50	Enter loyalty
+51	Enter passion
+52	Enter patience
+53	Enter affluence
+54	Enter temperament
+36	Open competition
+37	Set competition
+38	Close competition
+17	Open kits
+18	Click home kit
+19	Select first kit item
+20	Edit shirt
+21	Select second kit item
+22	Edit icon
+23	Select third kit item
+24	Edit text
+25	Select fourth kit item
+26	Edit Shorts
+27	Select fifth kit item
+28	Edit socks
+29	Click away kit
+19	Select first kit item
+30	Edit shirt
+21	Select second kit item
+31	Edit icon
+23	Select third kit item
+32	Edit text
+25	Select fourth kit item
+33	Edit Shorts
+27	Select fifth kit item
+34	Edit socks
+35	Close kits
+40	Click Details
+1	Click Database
+-- Finished running for Semna - 2015/02/22 01:50:15
+0	Click Editor
+1	Click Database
+2	Click club
+3	Click add
+4	Enter name
+5	Enter short name
+6	Enter six letter name
+7	Enter nickname
+8	Enter second nickname
+9	Enter nation
+10	Enter based nation
+11	Enter continental cup nation
+12	Enter city
+13	Enter status
+14	Enter morale
+15	Enter rep
+16	Add extra teams
+49	Open supporter profile
+50	Enter loyalty
+51	Enter passion
+52	Enter patience
+53	Enter affluence
+54	Enter temperament
+36	Open competition
+37	Set competition
+38	Close competition
+17	Open kits
+18	Click home kit
+19	Select first kit item
+20	Edit shirt
+21	Select second kit item
+22	Edit icon
+23	Select third kit item
+24	Edit text
+25	Select fourth kit item
+26	Edit Shorts
+27	Select fifth kit item
+28	Edit socks
+29	Click away kit
+19	Select first kit item
+30	Edit shirt
+21	Select second kit item
+31	Edit icon
+23	Select third kit item
+32	Edit text
+25	Select fourth kit item
+33	Edit Shorts
+27	Select fifth kit item
+34	Edit socks
+35	Close kits
+40	Click Details
+1	Click Database
+-- Finished running for Arnak - 2015/02/22 01:52:17
+0	Click Editor
+1	Click Database
+2	Click club
+3	Click add
+4	Enter name
+5	Enter short name
+6	Enter six letter name
+7	Enter nickname
+8	Enter second nickname
+9	Enter nation
+10	Enter based nation
+11	Enter continental cup nation
+12	Enter city
+13	Enter status
+14	Enter morale
+15	Enter rep
+16	Add extra teams
+49	Open supporter profile
+50	Enter loyalty
+51	Enter passion
+52	Enter patience
+53	Enter affluence
+54	Enter temperament
+36	Open competition
+37	Set competition
+38	Close competition
+17	Open kits
+18	Click home kit
+19	Select first kit item
+20	Edit shirt
+21	Select second kit item
+22	Edit icon
+23	Select third kit item
+24	Edit text
+25	Select fourth kit item
+26	Edit Shorts
+27	Select fifth kit item
+28	Edit socks
+29	Click away kit
+19	Select first kit item
+30	Edit shirt
+21	Select second kit item
+31	Edit icon
+23	Select third kit item
+32	Edit text
+25	Select fourth kit item
+33	Edit Shorts
+27	Select fifth kit item
+34	Edit socks
+35	Close kits
+40	Click Details
+1	Click Database
+-- Finished running for Acyra - 2015/02/22 01:54:20
+0	Click Editor
+1	Click Database
+2	Click club
+3	Click add
+4	Enter name
+5	Enter short name
+6	Enter six letter name
+7	Enter nickname
+8	Enter second nickname
+9	Enter nation
+10	Enter based nation
+11	Enter continental cup nation
+12	Enter city
+13	Enter status
+14	Enter morale
+15	Enter rep
+16	Add extra teams
+49	Open supporter profile
+50	Enter loyalty
+51	Enter passion
+52	Enter patience
+53	Enter affluence
+54	Enter temperament
+36	Open competition
+37	Set competition
+38	Close competition
+17	Open kits
+18	Click home kit
+19	Select first kit item
+20	Edit shirt
+21	Select second kit item
+22	Edit icon
+23	Select third kit item
+24	Edit text
+25	Select fourth kit item
+26	Edit Shorts
+27	Select fifth kit item
+28	Edit socks
+29	Click away kit
+19	Select first kit item
+30	Edit shirt
+21	Select second kit item
+31	Edit icon
+23	Select third kit item
+32	Edit text
+25	Select fourth kit item
+33	Edit Shorts
+27	Select fifth kit item
+34	Edit socks
+35	Close kits
+40	Click Details
+1	Click Database
+-- Finished running for Aros - 2015/02/22 01:56:23
+0	Click Editor
+1	Click Database
+2	Click club
+3	Click add
+4	Enter name
+5	Enter short name
+6	Enter six letter name
+7	Enter nickname
+8	Enter second nickname
+9	Enter nation
+10	Enter based nation
+11	Enter continental cup nation
+12	Enter city
+13	Enter status
+14	Enter morale
+15	Enter rep
+16	Add extra teams
+49	Open supporter profile
+50	Enter loyalty
+51	Enter passion
+52	Enter patience
+53	Enter affluence
+54	Enter temperament
+36	Open competition
+37	Set competition
+38	Close competition
+17	Open kits
+18	Click home kit
+19	Select first kit item
+20	Edit shirt
+21	Select second kit item
+22	Edit icon
+23	Select third kit item
+24	Edit text
+25	Select fourth kit item
+26	Edit Shorts
+27	Select fifth kit item
+28	Edit socks
+29	Click away kit
+19	Select first kit item
+30	Edit shirt
+21	Select second kit item
+31	Edit icon
+23	Select third kit item
+32	Edit text
+25	Select fourth kit item
+33	Edit Shorts
+27	Select fifth kit item
+34	Edit socks
+35	Close kits
+40	Click Details
+1	Click Database
+-- Finished running for Assus - 2015/02/22 01:58:27
+0	Click Editor
+1	Click Database
+2	Click club
+3	Click add
+4	Enter name
+5	Enter short name
+6	Enter six letter name
+7	Enter nickname
+8	Enter second nickname
+9	Enter nation
+10	Enter based nation
+11	Enter continental cup nation
+12	Enter city
+13	Enter status
+14	Enter morale
+15	Enter rep
+16	Add extra teams
+49	Open supporter profile
+50	Enter loyalty
+51	Enter passion
+52	Enter patience
+53	Enter affluence
+54	Enter temperament
+36	Open competition
+37	Set competition
+38	Close competition
+17	Open kits
+18	Click home kit
+19	Select first kit item
+20	Edit shirt
+21	Select second kit item
+22	Edit icon
+23	Select third kit item
+24	Edit text
+25	Select fourth kit item
+26	Edit Shorts
+27	Select fifth kit item
+28	Edit socks
+29	Click away kit
+19	Select first kit item
+30	Edit shirt
+21	Select second kit item
+31	Edit icon
+23	Select third kit item
+32	Edit text
+25	Select fourth kit item
+33	Edit Shorts
+27	Select fifth kit item
+34	Edit socks
+35	Close kits
+40	Click Details
+1	Click Database
+-- Finished running for Egalo - 2015/02/22 02:00:30
+0	Click Editor
+1	Click Database
+2	Click club
+3	Click add
+4	Enter name
+5	Enter short name
+6	Enter six letter name
+7	Enter nickname
+8	Enter second nickname
+9	Enter nation
+10	Enter based nation
+11	Enter continental cup nation
+12	Enter city
+13	Enter status
+14	Enter morale
+15	Enter rep
+16	Add extra teams
+49	Open supporter profile
+50	Enter loyalty
+51	Enter passion
+52	Enter patience
+53	Enter affluence
+54	Enter temperament
+36	Open competition
+37	Set competition
+38	Close competition
+17	Open kits
+18	Click home kit
+19	Select first kit item
+20	Edit shirt
+21	Select second kit item
+22	Edit icon
+23	Select third kit item
+24	Edit text
+25	Select fourth kit item
+26	Edit Shorts
+27	Select fifth kit item
+28	Edit socks
+29	Click away kit
+19	Select first kit item
+30	Edit shirt
+21	Select second kit item
+31	Edit icon
+23	Select third kit item
+32	Edit text
+25	Select fourth kit item
+33	Edit Shorts
+27	Select fifth kit item
+34	Edit socks
+35	Close kits
+40	Click Details
+1	Click Database
+-- Finished running for Elis - 2015/02/22 02:02:32
+0	Click Editor
+1	Click Database
+2	Click club
+3	Click add
+4	Enter name
+5	Enter short name
+6	Enter six letter name
+7	Enter nickname
+8	Enter second nickname
+9	Enter nation
+10	Enter based nation
+11	Enter continental cup nation
+12	Enter city
+13	Enter status
+14	Enter morale
+15	Enter rep
+16	Add extra teams
+49	Open supporter profile
+50	Enter loyalty
+51	Enter passion
+52	Enter patience
+53	Enter affluence
+54	Enter temperament
+36	Open competition
+37	Set competition
+38	Close competition
+17	Open kits
+18	Click home kit
+19	Select first kit item
+20	Edit shirt
+21	Select second kit item
+22	Edit icon
+23	Select third kit item
+24	Edit text
+25	Select fourth kit item
+26	Edit Shorts
+27	Select fifth kit item
+28	Edit socks
+29	Click away kit
+19	Select first kit item
+30	Edit shirt
+21	Select second kit item
+31	Edit icon
+23	Select third kit item
+32	Edit text
+25	Select fourth kit item
+33	Edit Shorts
+27	Select fifth kit item
+34	Edit socks
+35	Close kits
+40	Click Details
+1	Click Database
+-- Finished running for Enens - 2015/02/22 02:04:36
+0	Click Editor
+1	Click Database
+2	Click club
+3	Click add
+4	Enter name
+5	Enter short name
+6	Enter six letter name
+7	Enter nickname
+8	Enter second nickname
+9	Enter nation
+10	Enter based nation
+11	Enter continental cup nation
+12	Enter city
+13	Enter status
+14	Enter morale
+15	Enter rep
+16	Add extra teams
+49	Open supporter profile
+50	Enter loyalty
+51	Enter passion
+52	Enter patience
+53	Enter affluence
+54	Enter temperament
+36	Open competition
+37	Set competition
+38	Close competition
+17	Open kits
+18	Click home kit
+19	Select first kit item
+20	Edit shirt
+21	Select second kit item
+22	Edit icon
+23	Select third kit item
+24	Edit text
+25	Select fourth kit item
+26	Edit Shorts
+27	Select fifth kit item
+28	Edit socks
+29	Click away kit
+19	Select first kit item
+30	Edit shirt
+21	Select second kit item
+31	Edit icon
+23	Select third kit item
+32	Edit text
+25	Select fourth kit item
+33	Edit Shorts
+27	Select fifth kit item
+34	Edit socks
+35	Close kits
+40	Click Details
+1	Click Database
+-- Finished running for Halos - 2015/02/22 02:06:39
+0	Click Editor
+1	Click Database
+2	Click club
+3	Click add
+4	Enter name
+5	Enter short name
+6	Enter six letter name
+7	Enter nickname
+8	Enter second nickname
+9	Enter nation
+10	Enter based nation
+11	Enter continental cup nation
+12	Enter city
+13	Enter status
+14	Enter morale
+15	Enter rep
+16	Add extra teams
+49	Open supporter profile
+50	Enter loyalty
+51	Enter passion
+52	Enter patience
+53	Enter affluence
+54	Enter temperament
+36	Open competition
+37	Set competition
+38	Close competition
+17	Open kits
+18	Click home kit
+19	Select first kit item
+20	Edit shirt
+21	Select second kit item
+22	Edit icon
+23	Select third kit item
+24	Edit text
+25	Select fourth kit item
+26	Edit Shorts
+27	Select fifth kit item
+28	Edit socks
+29	Click away kit
+19	Select first kit item
+30	Edit shirt
+21	Select second kit item
+31	Edit icon
+23	Select third kit item
+32	Edit text
+25	Select fourth kit item
+33	Edit Shorts
+27	Select fifth kit item
+34	Edit socks
+35	Close kits
+40	Click Details
+1	Click Database
+-- Finished running for Kassia - 2015/02/22 02:08:43
+0	Click Editor
+1	Click Database
+2	Click club
+3	Click add
+4	Enter name
+5	Enter short name
+6	Enter six letter name
+7	Enter nickname
+8	Enter second nickname
+9	Enter nation
+10	Enter based nation
+11	Enter continental cup nation
+12	Enter city
+13	Enter status
+14	Enter morale
+15	Enter rep
+16	Add extra teams
+49	Open supporter profile
+50	Enter loyalty
+51	Enter passion
+52	Enter patience
+53	Enter affluence
+54	Enter temperament
+36	Open competition
+37	Set competition
+38	Close competition
+17	Open kits
+18	Click home kit
+19	Select first kit item
+20	Edit shirt
+21	Select second kit item
+22	Edit icon
+23	Select third kit item
+24	Edit text
+25	Select fourth kit item
+26	Edit Shorts
+27	Select fifth kit item
+28	Edit socks
+29	Click away kit
+19	Select first kit item
+30	Edit shirt
+21	Select second kit item
+31	Edit icon
+23	Select third kit item
+32	Edit text
+25	Select fourth kit item
+33	Edit Shorts
+27	Select fifth kit item
+34	Edit socks
+35	Close kits
+40	Click Details
+1	Click Database
+-- Finished running for Laeusia - 2015/02/22 02:10:47
+0	Click Editor
+1	Click Database
+2	Click club
+3	Click add
+4	Enter name
+5	Enter short name
+6	Enter six letter name
+7	Enter nickname
+8	Enter second nickname
+9	Enter nation
+10	Enter based nation
+11	Enter continental cup nation
+12	Enter city
+13	Enter status
+14	Enter morale
+15	Enter rep
+16	Add extra teams
+49	Open supporter profile
+50	Enter loyalty
+51	Enter passion
+52	Enter patience
+53	Enter affluence
+54	Enter temperament
+36	Open competition
+37	Set competition
+38	Close competition
+17	Open kits
+18	Click home kit
+19	Select first kit item
+20	Edit shirt
+21	Select second kit item
+22	Edit icon
+23	Select third kit item
+24	Edit text
+25	Select fourth kit item
+26	Edit Shorts
+27	Select fifth kit item
+28	Edit socks
+29	Click away kit
+19	Select first kit item
+30	Edit shirt
+21	Select second kit item
+31	Edit icon
+23	Select third kit item
+32	Edit text
+25	Select fourth kit item
+33	Edit Shorts
+27	Select fifth kit item
+34	Edit socks
+35	Close kits
+40	Click Details
+1	Click Database
+-- Finished running for Manta - 2015/02/22 02:12:51
+0	Click Editor
+1	Click Database
+2	Click club
+3	Click add
+4	Enter name
+5	Enter short name
+6	Enter six letter name
+7	Enter nickname
+8	Enter second nickname
+9	Enter nation
+10	Enter based nation
+11	Enter continental cup nation
+12	Enter city
+13	Enter status
+14	Enter morale
+15	Enter rep
+16	Add extra teams
+49	Open supporter profile
+50	Enter loyalty
+51	Enter passion
+52	Enter patience
+53	Enter affluence
+54	Enter temperament
+36	Open competition
+37	Set competition
+38	Close competition
+17	Open kits
+18	Click home kit
+19	Select first kit item
+20	Edit shirt
+21	Select second kit item
+22	Edit icon
+23	Select third kit item
+24	Edit text
+25	Select fourth kit item
+26	Edit Shorts
+27	Select fifth kit item
+28	Edit socks
+29	Click away kit
+19	Select first kit item
+30	Edit shirt
+21	Select second kit item
+31	Edit icon
+23	Select third kit item
+32	Edit text
+25	Select fourth kit item
+33	Edit Shorts
+27	Select fifth kit item
+34	Edit socks
+35	Close kits
+40	Click Details
+1	Click Database
+-- Finished running for Mene - 2015/02/22 02:14:55
+0	Click Editor
+1	Click Database
+2	Click club
+3	Click add
+4	Enter name
+5	Enter short name
+6	Enter six letter name
+7	Enter nickname
+8	Enter second nickname
+9	Enter nation
+10	Enter based nation
+11	Enter continental cup nation
+12	Enter city
+13	Enter status
+14	Enter morale
+15	Enter rep
+16	Add extra teams
+49	Open supporter profile
+50	Enter loyalty
+51	Enter passion
+52	Enter patience
+53	Enter affluence
+54	Enter temperament
+36	Open competition
+37	Set competition
+38	Close competition
+17	Open kits
+18	Click home kit
+19	Select first kit item
+20	Edit shirt
+21	Select second kit item
+22	Edit icon
+23	Select third kit item
+24	Edit text
+25	Select fourth kit item
+26	Edit Shorts
+27	Select fifth kit item
+28	Edit socks
+29	Click away kit
+19	Select first kit item
+30	Edit shirt
+21	Select second kit item
+31	Edit icon
+23	Select third kit item
+32	Edit text
+25	Select fourth kit item
+33	Edit Shorts
+27	Select fifth kit item
+34	Edit socks
+35	Close kits
+40	Click Details
+1	Click Database
+-- Finished running for Port Aurelia - 2015/02/22 02:16:59
+0	Click Editor
+1	Click Database
+2	Click club
+3	Click add
+4	Enter name
+5	Enter short name
+6	Enter six letter name
+7	Enter nickname
+8	Enter second nickname
+9	Enter nation
+10	Enter based nation
+11	Enter continental cup nation
+12	Enter city
+13	Enter status
+14	Enter morale
+15	Enter rep
+16	Add extra teams
+49	Open supporter profile
+50	Enter loyalty
+51	Enter passion
+52	Enter patience
+53	Enter affluence
+54	Enter temperament
+36	Open competition
+37	Set competition
+38	Close competition
+17	Open kits
+18	Click home kit
+19	Select first kit item
+20	Edit shirt
+21	Select second kit item
+22	Edit icon
+23	Select third kit item
+24	Edit text
+25	Select fourth kit item
+26	Edit Shorts
+27	Select fifth kit item
+28	Edit socks
+29	Click away kit
+19	Select first kit item
+30	Edit shirt
+21	Select second kit item
+31	Edit icon
+23	Select third kit item
+32	Edit text
+25	Select fourth kit item
+33	Edit Shorts
+27	Select fifth kit item
+34	Edit socks
+35	Close kits
+40	Click Details
+1	Click Database
+-- Finished running for Port Bielya - 2015/02/22 02:19:03
+0	Click Editor
+1	Click Database
+2	Click club
+3	Click add
+4	Enter name
+5	Enter short name
+6	Enter six letter name
+7	Enter nickname
+8	Enter second nickname
+9	Enter nation
+10	Enter based nation
+11	Enter continental cup nation
+12	Enter city
+13	Enter status
+14	Enter morale
+15	Enter rep
+16	Add extra teams
+49	Open supporter profile
+50	Enter loyalty
+51	Enter passion
+52	Enter patience
+53	Enter affluence
+54	Enter temperament
+36	Open competition
+37	Set competition
+38	Close competition
+17	Open kits
+18	Click home kit
+19	Select first kit item
+20	Edit shirt
+21	Select second kit item
+22	Edit icon
+23	Select third kit item
+24	Edit text
+25	Select fourth kit item
+26	Edit Shorts
+27	Select fifth kit item
+28	Edit socks
+29	Click away kit
+19	Select first kit item
+30	Edit shirt
+21	Select second kit item
+31	Edit icon
+23	Select third kit item
+32	Edit text
+25	Select fourth kit item
+33	Edit Shorts
+27	Select fifth kit item
+34	Edit socks
+35	Close kits
+40	Click Details
+1	Click Database
+-- Finished running for Bernifell - 2015/02/22 02:21:04
+0	Click Editor
+1	Click Database
+2	Click club
+3	Click add
+4	Enter name
+5	Enter short name
+6	Enter six letter name
+7	Enter nickname
+8	Enter second nickname
+9	Enter nation
+10	Enter based nation
+11	Enter continental cup nation
+12	Enter city
+13	Enter status
+14	Enter morale
+15	Enter rep
+16	Add extra teams
+49	Open supporter profile
+50	Enter loyalty
+51	Enter passion
+52	Enter patience
+53	Enter affluence
+54	Enter temperament
+36	Open competition
+37	Set competition
+38	Close competition
+17	Open kits
+18	Click home kit
+19	Select first kit item
+20	Edit shirt
+21	Select second kit item
+22	Edit icon
+23	Select third kit item
+24	Edit text
+25	Select fourth kit item
+26	Edit Shorts
+27	Select fifth kit item
+28	Edit socks
+29	Click away kit
+19	Select first kit item
+30	Edit shirt
+21	Select second kit item
+31	Edit icon
+23	Select third kit item
+32	Edit text
+25	Select fourth kit item
+33	Edit Shorts
+27	Select fifth kit item
+34	Edit socks
+35	Close kits
+40	Click Details
+1	Click Database
+-- Finished running for Henevik - 2015/02/22 02:23:06
+0	Click Editor
+1	Click Database
+2	Click club
+3	Click add
+4	Enter name
+5	Enter short name
+6	Enter six letter name
+7	Enter nickname
+8	Enter second nickname
+9	Enter nation
+10	Enter based nation
+11	Enter continental cup nation
+12	Enter city
+13	Enter status
+14	Enter morale
+15	Enter rep
+16	Add extra teams
+49	Open supporter profile
+50	Enter loyalty
+51	Enter passion
+52	Enter patience
+53	Enter affluence
+54	Enter temperament
+36	Open competition
+37	Set competition
+38	Close competition
+17	Open kits
+18	Click home kit
+19	Select first kit item
+20	Edit shirt
+21	Select second kit item
+22	Edit icon
+23	Select third kit item
+24	Edit text
+25	Select fourth kit item
+26	Edit Shorts
+27	Select fifth kit item
+28	Edit socks
+29	Click away kit
+19	Select first kit item
+30	Edit shirt
+21	Select second kit item
+31	Edit icon
+23	Select third kit item
+32	Edit text
+25	Select fourth kit item
+33	Edit Shorts
+27	Select fifth kit item
+34	Edit socks
+35	Close kits
+40	Click Details
+1	Click Database
+-- Finished running for Amarholm - 2015/02/22 02:25:11
+0	Click Editor
+1	Click Database
+2	Click club
+3	Click add
+4	Enter name
+5	Enter short name
+6	Enter six letter name
+7	Enter nickname
+8	Enter second nickname
+9	Enter nation
+10	Enter based nation
+11	Enter continental cup nation
+12	Enter city
+13	Enter status
+14	Enter morale
+15	Enter rep
+16	Add extra teams
+49	Open supporter profile
+50	Enter loyalty
+51	Enter passion
+52	Enter patience
+53	Enter affluence
+54	Enter temperament
+36	Open competition
+37	Set competition
+38	Close competition
+17	Open kits
+18	Click home kit
+19	Select first kit item
+20	Edit shirt
+21	Select second kit item
+22	Edit icon
+23	Select third kit item
+24	Edit text
+25	Select fourth kit item
+26	Edit Shorts
+27	Select fifth kit item
+28	Edit socks
+29	Click away kit
+19	Select first kit item
+30	Edit shirt
+21	Select second kit item
+31	Edit icon
+23	Select third kit item
+32	Edit text
+25	Select fourth kit item
+33	Edit Shorts
+27	Select fifth kit item
+34	Edit socks
+35	Close kits
+40	Click Details
+1	Click Database
+-- Finished running for Port Creta - 2015/02/22 02:27:15
+0	Click Editor
+1	Click Database
+2	Click club
+3	Click add
+4	Enter name
+5	Enter short name
+6	Enter six letter name
+7	Enter nickname
+8	Enter second nickname
+9	Enter nation
+10	Enter based nation
+11	Enter continental cup nation
+12	Enter city
+13	Enter status
+14	Enter morale
+15	Enter rep
+16	Add extra teams
+49	Open supporter profile
+50	Enter loyalty
+51	Enter passion
+52	Enter patience
+53	Enter affluence
+54	Enter temperament
+36	Open competition
+37	Set competition
+38	Close competition
+17	Open kits
+18	Click home kit
+19	Select first kit item
+20	Edit shirt
+21	Select second kit item
+22	Edit icon
+23	Select third kit item
+24	Edit text
+25	Select fourth kit item
+26	Edit Shorts
+27	Select fifth kit item
+28	Edit socks
+29	Click away kit
+19	Select first kit item
+30	Edit shirt
+21	Select second kit item
+31	Edit icon
+23	Select third kit item
+32	Edit text
+25	Select fourth kit item
+33	Edit Shorts
+27	Select fifth kit item
+34	Edit socks
+35	Close kits
+40	Click Details
+1	Click Database
+-- Finished running for Marburgh - 2015/02/22 02:29:18
+0	Click Editor
+1	Click Database
+2	Click club
+3	Click add
+4	Enter name
+5	Enter short name
+6	Enter six letter name
+7	Enter nickname
+8	Enter second nickname
+9	Enter nation
+10	Enter based nation
+11	Enter continental cup nation
+12	Enter city
+13	Enter status
+14	Enter morale
+15	Enter rep
+16	Add extra teams
+49	Open supporter profile
+50	Enter loyalty
+51	Enter passion
+52	Enter patience
+53	Enter affluence
+54	Enter temperament
+36	Open competition
+37	Set competition
+38	Close competition
+17	Open kits
+18	Click home kit
+19	Select first kit item
+20	Edit shirt
+21	Select second kit item
+22	Edit icon
+23	Select third kit item
+24	Edit text
+25	Select fourth kit item
+26	Edit Shorts
+27	Select fifth kit item
+28	Edit socks
+29	Click away kit
+19	Select first kit item
+30	Edit shirt
+21	Select second kit item
+31	Edit icon
+23	Select third kit item
+32	Edit text
+25	Select fourth kit item
+33	Edit Shorts
+27	Select fifth kit item
+34	Edit socks
+35	Close kits
+40	Click Details
+1	Click Database
+-- Finished running for Grenton - 2015/02/22 02:31:22
+0	Click Editor
+1	Click Database
+2	Click club
+3	Click add
+4	Enter name
+5	Enter short name
+6	Enter six letter name
+7	Enter nickname
+8	Enter second nickname
+9	Enter nation
+10	Enter based nation
+11	Enter continental cup nation
+12	Enter city
+13	Enter status
+14	Enter morale
+15	Enter rep
+16	Add extra teams
+49	Open supporter profile
+50	Enter loyalty
+51	Enter passion
+52	Enter patience
+53	Enter affluence
+54	Enter temperament
+36	Open competition
+37	Set competition
+38	Close competition
+17	Open kits
+18	Click home kit
+19	Select first kit item
+20	Edit shirt
+21	Select second kit item
+22	Edit icon
+23	Select third kit item
+24	Edit text
+25	Select fourth kit item
+26	Edit Shorts
+27	Select fifth kit item
+28	Edit socks
+29	Click away kit
+19	Select first kit item
+30	Edit shirt
+21	Select second kit item
+31	Edit icon
+23	Select third kit item
+32	Edit text
+25	Select fourth kit item
+33	Edit Shorts
+27	Select fifth kit item
+34	Edit socks
+35	Close kits
+40	Click Details
+1	Click Database
+-- Finished running for Gloslake - 2015/02/22 02:33:26
+0	Click Editor
+1	Click Database
+2	Click club
+3	Click add
+4	Enter name
+5	Enter short name
+6	Enter six letter name
+7	Enter nickname
+8	Enter second nickname
+9	Enter nation
+10	Enter based nation
+11	Enter continental cup nation
+12	Enter city
+13	Enter status
+14	Enter morale
+15	Enter rep
+16	Add extra teams
+49	Open supporter profile
+50	Enter loyalty
+51	Enter passion
+52	Enter patience
+53	Enter affluence
+54	Enter temperament
+36	Open competition
+37	Set competition
+38	Close competition
+17	Open kits
+18	Click home kit
+19	Select first kit item
+20	Edit shirt
+21	Select second kit item
+22	Edit icon
+23	Select third kit item
+24	Edit text
+25	Select fourth kit item
+26	Edit Shorts
+27	Select fifth kit item
+28	Edit socks
+29	Click away kit
+19	Select first kit item
+30	Edit shirt
+21	Select second kit item
+31	Edit icon
+23	Select third kit item
+32	Edit text
+25	Select fourth kit item
+33	Edit Shorts
+27	Select fifth kit item
+34	Edit socks
+35	Close kits
+40	Click Details
+1	Click Database
+-- Finished running for Byde - 2015/02/22 02:35:28
+0	Click Editor
+1	Click Database
+2	Click club
+3	Click add
+4	Enter name
+5	Enter short name
+6	Enter six letter name
+7	Enter nickname
+8	Enter second nickname
+9	Enter nation
+10	Enter based nation
+11	Enter continental cup nation
+12	Enter city
+13	Enter status
+14	Enter morale
+15	Enter rep
+16	Add extra teams
+49	Open supporter profile
+50	Enter loyalty
+51	Enter passion
+52	Enter patience
+53	Enter affluence
+54	Enter temperament
+36	Open competition
+37	Set competition
+38	Close competition
+17	Open kits
+18	Click home kit
+19	Select first kit item
+20	Edit shirt
+21	Select second kit item
+22	Edit icon
+23	Select third kit item
+24	Edit text
+25	Select fourth kit item
+26	Edit Shorts
+27	Select fifth kit item
+28	Edit socks
+29	Click away kit
+19	Select first kit item
+30	Edit shirt
+21	Select second kit item
+31	Edit icon
+23	Select third kit item
+32	Edit text
+25	Select fourth kit item
+33	Edit Shorts
+27	Select fifth kit item
+34	Edit socks
+35	Close kits
+40	Click Details
+1	Click Database
+-- Finished running for Delphi - 2015/02/22 02:37:31
+0	Click Editor
+1	Click Database
+2	Click club
+3	Click add
+4	Enter name
+5	Enter short name
+6	Enter six letter name
+7	Enter nickname
+8	Enter second nickname
+9	Enter nation
+10	Enter based nation
+11	Enter continental cup nation
+12	Enter city
+13	Enter status
+14	Enter morale
+15	Enter rep
+16	Add extra teams
+49	Open supporter profile
+50	Enter loyalty
+51	Enter passion
+52	Enter patience
+53	Enter affluence
+54	Enter temperament
+36	Open competition
+37	Set competition
+38	Close competition
+17	Open kits
+18	Click home kit
+19	Select first kit item
+20	Edit shirt
+21	Select second kit item
+22	Edit icon
+23	Select third kit item
+24	Edit text
+25	Select fourth kit item
+26	Edit Shorts
+27	Select fifth kit item
+28	Edit socks
+29	Click away kit
+19	Select first kit item
+30	Edit shirt
+21	Select second kit item
+31	Edit icon
+23	Select third kit item
+32	Edit text
+25	Select fourth kit item
+33	Edit Shorts
+27	Select fifth kit item
+34	Edit socks
+35	Close kits
+40	Click Details
+1	Click Database
+-- Finished running for Cynthi - 2015/02/22 02:39:34
+0	Click Editor
+1	Click Database
+2	Click club
+3	Click add
+4	Enter name
+5	Enter short name
+6	Enter six letter name
+7	Enter nickname
+8	Enter second nickname
+9	Enter nation
+10	Enter based nation
+11	Enter continental cup nation
+12	Enter city
+13	Enter status
+14	Enter morale
+15	Enter rep
+16	Add extra teams
+49	Open supporter profile
+50	Enter loyalty
+51	Enter passion
+52	Enter patience
+53	Enter affluence
+54	Enter temperament
+36	Open competition
+37	Set competition
+38	Close competition
+17	Open kits
+18	Click home kit
+19	Select first kit item
+20	Edit shirt
+21	Select second kit item
+22	Edit icon
+23	Select third kit item
+24	Edit text
+25	Select fourth kit item
+26	Edit Shorts
+27	Select fifth kit item
+28	Edit socks
+29	Click away kit
+19	Select first kit item
+30	Edit shirt
+21	Select second kit item
+31	Edit icon
+23	Select third kit item
+32	Edit text
+25	Select fourth kit item
+33	Edit Shorts
+27	Select fifth kit item
+34	Edit socks
+35	Close kits
+40	Click Details
+1	Click Database
+-- Finished running for Port Fiore - 2015/02/22 02:41:37
+0	Click Editor
+1	Click Database
+2	Click club
+3	Click add
+4	Enter name
+5	Enter short name
+6	Enter six letter name
+7	Enter nickname
+8	Enter second nickname
+9	Enter nation
+10	Enter based nation
+11	Enter continental cup nation
+12	Enter city
+13	Enter status
+14	Enter morale
+15	Enter rep
+16	Add extra teams
+49	Open supporter profile
+50	Enter loyalty
+51	Enter passion
+52	Enter patience
+53	Enter affluence
+54	Enter temperament
+36	Open competition
+37	Set competition
+38	Close competition
+17	Open kits
+18	Click home kit
+19	Select first kit item
+20	Edit shirt
+21	Select second kit item
+22	Edit icon
+23	Select third kit item
+24	Edit text
+25	Select fourth kit item
+26	Edit Shorts
+27	Select fifth kit item
+28	Edit socks
+29	Click away kit
+19	Select first kit item
+30	Edit shirt
+21	Select second kit item
+31	Edit icon
+23	Select third kit item
+32	Edit text
+25	Select fourth kit item
+33	Edit Shorts
+27	Select fifth kit item
+34	Edit socks
+35	Close kits
+40	Click Details
+1	Click Database
+-- Finished running for Lentia - 2015/02/22 02:43:39
+0	Click Editor
+1	Click Database
+2	Click club
+3	Click add
+4	Enter name
+5	Enter short name
+6	Enter six letter name
+7	Enter nickname
+8	Enter second nickname
+9	Enter nation
+10	Enter based nation
+11	Enter continental cup nation
+12	Enter city
+13	Enter status
+14	Enter morale
+15	Enter rep
+16	Add extra teams
+49	Open supporter profile
+50	Enter loyalty
+51	Enter passion
+52	Enter patience
+53	Enter affluence
+54	Enter temperament
+36	Open competition
+37	Set competition
+38	Close competition
+17	Open kits
+18	Click home kit
+19	Select first kit item
+20	Edit shirt
+21	Select second kit item
+22	Edit icon
+23	Select third kit item
+24	Edit text
+25	Select fourth kit item
+26	Edit Shorts
+27	Select fifth kit item
+28	Edit socks
+29	Click away kit
+19	Select first kit item
+30	Edit shirt
+21	Select second kit item
+31	Edit icon
+23	Select third kit item
+32	Edit text
+25	Select fourth kit item
+33	Edit Shorts
+27	Select fifth kit item
+34	Edit socks
+35	Close kits
+40	Click Details
+1	Click Database
+-- Finished running for Capuum - 2015/02/22 02:45:42
+0	Click Editor
+1	Click Database
+2	Click club
+3	Click add
+4	Enter name
+5	Enter short name
+6	Enter six letter name
+7	Enter nickname
+8	Enter second nickname
+9	Enter nation
+10	Enter based nation
+11	Enter continental cup nation
+12	Enter city
+13	Enter status
+14	Enter morale
+15	Enter rep
+16	Add extra teams
+49	Open supporter profile
+50	Enter loyalty
+51	Enter passion
+52	Enter patience
+53	Enter affluence
+54	Enter temperament
+36	Open competition
+37	Set competition
+38	Close competition
+17	Open kits
+18	Click home kit
+19	Select first kit item
+20	Edit shirt
+21	Select second kit item
+22	Edit icon
+23	Select third kit item
+24	Edit text
+25	Select fourth kit item
+26	Edit Shorts
+27	Select fifth kit item
+28	Edit socks
+29	Click away kit
+19	Select first kit item
+30	Edit shirt
+21	Select second kit item
+31	Edit icon
+23	Select third kit item
+32	Edit text
+25	Select fourth kit item
+33	Edit Shorts
+27	Select fifth kit item
+34	Edit socks
+35	Close kits
+40	Click Details
+1	Click Database
+-- Finished running for Lodia - 2015/02/22 02:47:45
+0	Click Editor
+1	Click Database
+2	Click club
+3	Click add
+4	Enter name
+5	Enter short name
+6	Enter six letter name
+7	Enter nickname
+8	Enter second nickname
+9	Enter nation
+10	Enter based nation
+11	Enter continental cup nation
+12	Enter city
+13	Enter status
+14	Enter morale
+15	Enter rep
+16	Add extra teams
+49	Open supporter profile
+50	Enter loyalty
+51	Enter passion
+52	Enter patience
+53	Enter affluence
+54	Enter temperament
+36	Open competition
+37	Set competition
+38	Close competition
+17	Open kits
+18	Click home kit
+19	Select first kit item
+20	Edit shirt
+21	Select second kit item
+22	Edit icon
+23	Select third kit item
+24	Edit text
+25	Select fourth kit item
+26	Edit Shorts
+27	Select fifth kit item
+28	Edit socks
+29	Click away kit
+19	Select first kit item
+30	Edit shirt
+21	Select second kit item
+31	Edit icon
+23	Select third kit item
+32	Edit text
+25	Select fourth kit item
+33	Edit Shorts
+27	Select fifth kit item
+34	Edit socks
+35	Close kits
+40	Click Details
+1	Click Database
+-- Finished running for Mogium - 2015/02/22 02:49:49
+0	Click Editor
+1	Click Database
+2	Click club
+3	Click add
+4	Enter name
+5	Enter short name
+6	Enter six letter name
+7	Enter nickname
+8	Enter second nickname
+9	Enter nation
+10	Enter based nation
+11	Enter continental cup nation
+12	Enter city
+13	Enter status
+14	Enter morale
+15	Enter rep
+16	Add extra teams
+49	Open supporter profile
+50	Enter loyalty
+51	Enter passion
+52	Enter patience
+53	Enter affluence
+54	Enter temperament
+36	Open competition
+37	Set competition
+38	Close competition
+17	Open kits
+18	Click home kit
+19	Select first kit item
+20	Edit shirt
+21	Select second kit item
+22	Edit icon
+23	Select third kit item
+24	Edit text
+25	Select fourth kit item
+26	Edit Shorts
+27	Select fifth kit item
+28	Edit socks
+29	Click away kit
+19	Select first kit item
+30	Edit shirt
+21	Select second kit item
+31	Edit icon
+23	Select third kit item
+32	Edit text
+25	Select fourth kit item
+33	Edit Shorts
+27	Select fifth kit item
+34	Edit socks
+35	Close kits
+40	Click Details
+1	Click Database
+-- Finished running for Agusum - 2015/02/22 02:51:51
+0	Click Editor
+1	Click Database
+2	Click club
+3	Click add
+4	Enter name
+5	Enter short name
+6	Enter six letter name
+7	Enter nickname
+8	Enter second nickname
+9	Enter nation
+10	Enter based nation
+11	Enter continental cup nation
+12	Enter city
+13	Enter status
+14	Enter morale
+15	Enter rep
+16	Add extra teams
+49	Open supporter profile
+50	Enter loyalty
+51	Enter passion
+52	Enter patience
+53	Enter affluence
+54	Enter temperament
+36	Open competition
+37	Set competition
+38	Close competition
+17	Open kits
+18	Click home kit
+19	Select first kit item
+20	Edit shirt
+21	Select second kit item
+22	Edit icon
+23	Select third kit item
+24	Edit text
+25	Select fourth kit item
+26	Edit Shorts
+27	Select fifth kit item
+28	Edit socks
+29	Click away kit
+19	Select first kit item
+30	Edit shirt
+21	Select second kit item
+31	Edit icon
+23	Select third kit item
+32	Edit text
+25	Select fourth kit item
+33	Edit Shorts
+27	Select fifth kit item
+34	Edit socks
+35	Close kits
+40	Click Details
+1	Click Database
+-- Finished running for Arpica - 2015/02/22 02:53:54
+0	Click Editor
+1	Click Database
+2	Click club
+3	Click add
+4	Enter name
+5	Enter short name
+6	Enter six letter name
+7	Enter nickname
+8	Enter second nickname
+9	Enter nation
+10	Enter based nation
+11	Enter continental cup nation
+12	Enter city
+13	Enter status
+14	Enter morale
+15	Enter rep
+16	Add extra teams
+49	Open supporter profile
+50	Enter loyalty
+51	Enter passion
+52	Enter patience
+53	Enter affluence
+54	Enter temperament
+36	Open competition
+37	Set competition
+38	Close competition
+17	Open kits
+18	Click home kit
+19	Select first kit item
+20	Edit shirt
+21	Select second kit item
+22	Edit icon
+23	Select third kit item
+24	Edit text
+25	Select fourth kit item
+26	Edit Shorts
+27	Select fifth kit item
+28	Edit socks
+29	Click away kit
+19	Select first kit item
+30	Edit shirt
+21	Select second kit item
+31	Edit icon
+23	Select third kit item
+32	Edit text
+25	Select fourth kit item
+33	Edit Shorts
+27	Select fifth kit item
+34	Edit socks
+35	Close kits
+40	Click Details
+1	Click Database
+-- Finished running for Atiala - 2015/02/22 02:55:56
+0	Click Editor
+1	Click Database
+2	Click club
+3	Click add
+4	Enter name
+5	Enter short name
+6	Enter six letter name
+7	Enter nickname
+8	Enter second nickname
+9	Enter nation
+10	Enter based nation
+11	Enter continental cup nation
+12	Enter city
+13	Enter status
+14	Enter morale
+15	Enter rep
+16	Add extra teams
+49	Open supporter profile
+50	Enter loyalty
+51	Enter passion
+52	Enter patience
+53	Enter affluence
+54	Enter temperament
+36	Open competition
+37	Set competition
+38	Close competition
+17	Open kits
+18	Click home kit
+19	Select first kit item
+20	Edit shirt
+21	Select second kit item
+22	Edit icon
+23	Select third kit item
+24	Edit text
+25	Select fourth kit item
+26	Edit Shorts
+27	Select fifth kit item
+28	Edit socks
+29	Click away kit
+19	Select first kit item
+30	Edit shirt
+21	Select second kit item
+31	Edit icon
+23	Select third kit item
+32	Edit text
+25	Select fourth kit item
+33	Edit Shorts
+27	Select fifth kit item
+34	Edit socks
+35	Close kits
+40	Click Details
+1	Click Database
+-- Finished running for Cayhill - 2015/02/22 02:57:58
+0	Click Editor
+1	Click Database
+2	Click club
+3	Click add
+4	Enter name
+5	Enter short name
+6	Enter six letter name
+7	Enter nickname
+8	Enter second nickname
+9	Enter nation
+10	Enter based nation
+11	Enter continental cup nation
+12	Enter city
+13	Enter status
+14	Enter morale
+15	Enter rep
+16	Add extra teams
+49	Open supporter profile
+50	Enter loyalty
+51	Enter passion
+52	Enter patience
+53	Enter affluence
+54	Enter temperament
+36	Open competition
+37	Set competition
+38	Close competition
+17	Open kits
+18	Click home kit
+19	Select first kit item
+20	Edit shirt
+21	Select second kit item
+22	Edit icon
+23	Select third kit item
+24	Edit text
+25	Select fourth kit item
+26	Edit Shorts
+27	Select fifth kit item
+28	Edit socks
+29	Click away kit
+19	Select first kit item
+30	Edit shirt
+21	Select second kit item
+31	Edit icon
+23	Select third kit item
+32	Edit text
+25	Select fourth kit item
+33	Edit Shorts
+27	Select fifth kit item
+34	Edit socks
+35	Close kits
+40	Click Details
+1	Click Database
+-- Finished running for Peminster - 2015/02/22 03:00:02
+0	Click Editor
+1	Click Database
+2	Click club
+3	Click add
+4	Enter name
+5	Enter short name
+6	Enter six letter name
+7	Enter nickname
+8	Enter second nickname
+9	Enter nation
+10	Enter based nation
+11	Enter continental cup nation
+12	Enter city
+13	Enter status
+14	Enter morale
+15	Enter rep
+16	Add extra teams
+49	Open supporter profile
+50	Enter loyalty
+51	Enter passion
+52	Enter patience
+53	Enter affluence
+54	Enter temperament
+36	Open competition
+37	Set competition
+38	Close competition
+17	Open kits
+18	Click home kit
+19	Select first kit item
+20	Edit shirt
+21	Select second kit item
+22	Edit icon
+23	Select third kit item
+24	Edit text
+25	Select fourth kit item
+26	Edit Shorts
+27	Select fifth kit item
+28	Edit socks
+29	Click away kit
+19	Select first kit item
+30	Edit shirt
+21	Select second kit item
+31	Edit icon
+23	Select third kit item
+32	Edit text
+25	Select fourth kit item
+33	Edit Shorts
+27	Select fifth kit item
+34	Edit socks
+35	Close kits
+40	Click Details
+1	Click Database
+-- Finished running for Cobrook - 2015/02/22 03:02:05
+0	Click Editor
+1	Click Database
+2	Click club
+3	Click add
+4	Enter name
+5	Enter short name
+6	Enter six letter name
+7	Enter nickname
+8	Enter second nickname
+9	Enter nation
+10	Enter based nation
+11	Enter continental cup nation
+12	Enter city
+13	Enter status
+14	Enter morale
+15	Enter rep
+16	Add extra teams
+49	Open supporter profile
+50	Enter loyalty
+51	Enter passion
+52	Enter patience
+53	Enter affluence
+54	Enter temperament
+36	Open competition
+37	Set competition
+38	Close competition
+17	Open kits
+18	Click home kit
+19	Select first kit item
+20	Edit shirt
+21	Select second kit item
+22	Edit icon
+23	Select third kit item
+24	Edit text
+25	Select fourth kit item
+26	Edit Shorts
+27	Select fifth kit item
+28	Edit socks
+29	Click away kit
+19	Select first kit item
+30	Edit shirt
+21	Select second kit item
+31	Edit icon
+23	Select third kit item
+32	Edit text
+25	Select fourth kit item
+33	Edit Shorts
+27	Select fifth kit item
+34	Edit socks
+35	Close kits
+40	Click Details
+1	Click Database
+-- Finished running for Ramoor - 2015/02/22 03:04:08
+0	Click Editor
+1	Click Database
+2	Click club
+3	Click add
+4	Enter name
+5	Enter short name
+6	Enter six letter name
+7	Enter nickname
+8	Enter second nickname
+9	Enter nation
+10	Enter based nation
+11	Enter continental cup nation
+12	Enter city
+13	Enter status
+14	Enter morale
+15	Enter rep
+16	Add extra teams
+49	Open supporter profile
+50	Enter loyalty
+51	Enter passion
+52	Enter patience
+53	Enter affluence
+54	Enter temperament
+36	Open competition
+37	Set competition
+38	Close competition
+17	Open kits
+18	Click home kit
+19	Select first kit item
+20	Edit shirt
+21	Select second kit item
+22	Edit icon
+23	Select third kit item
+24	Edit text
+25	Select fourth kit item
+26	Edit Shorts
+27	Select fifth kit item
+28	Edit socks
+29	Click away kit
+19	Select first kit item
+30	Edit shirt
+21	Select second kit item
+31	Edit icon
+23	Select third kit item
+32	Edit text
+25	Select fourth kit item
+33	Edit Shorts
+27	Select fifth kit item
+34	Edit socks
+35	Close kits
+40	Click Details
+1	Click Database
+-- Finished running for Caford - 2015/02/22 03:06:11
+0	Click Editor
+1	Click Database
+2	Click club
+3	Click add
+4	Enter name
+5	Enter short name
+6	Enter six letter name
+7	Enter nickname
+8	Enter second nickname
+9	Enter nation
+10	Enter based nation
+11	Enter continental cup nation
+12	Enter city
+13	Enter status
+14	Enter morale
+15	Enter rep
+16	Add extra teams
+49	Open supporter profile
+50	Enter loyalty
+51	Enter passion
+52	Enter patience
+53	Enter affluence
+54	Enter temperament
+36	Open competition
+37	Set competition
+38	Close competition
+17	Open kits
+18	Click home kit
+19	Select first kit item
+20	Edit shirt
+21	Select second kit item
+22	Edit icon
+23	Select third kit item
+24	Edit text
+25	Select fourth kit item
+26	Edit Shorts
+27	Select fifth kit item
+28	Edit socks
+29	Click away kit
+19	Select first kit item
+30	Edit shirt
+21	Select second kit item
+31	Edit icon
+23	Select third kit item
+32	Edit text
+25	Select fourth kit item
+33	Edit Shorts
+27	Select fifth kit item
+34	Edit socks
+35	Close kits
+40	Click Details
+1	Click Database
+-- Finished running for Hibury - 2015/02/22 03:08:13
+0	Click Editor
+1	Click Database
+2	Click club
+3	Click add
+4	Enter name
+5	Enter short name
+6	Enter six letter name
+7	Enter nickname
+8	Enter second nickname
+9	Enter nation
+10	Enter based nation
+11	Enter continental cup nation
+12	Enter city
+13	Enter status
+14	Enter morale
+15	Enter rep
+16	Add extra teams
+49	Open supporter profile
+50	Enter loyalty
+51	Enter passion
+52	Enter patience
+53	Enter affluence
+54	Enter temperament
+36	Open competition
+37	Set competition
+38	Close competition
+17	Open kits
+18	Click home kit
+19	Select first kit item
+20	Edit shirt
+21	Select second kit item
+22	Edit icon
+23	Select third kit item
+24	Edit text
+25	Select fourth kit item
+26	Edit Shorts
+27	Select fifth kit item
+28	Edit socks
+29	Click away kit
+19	Select first kit item
+30	Edit shirt
+21	Select second kit item
+31	Edit icon
+23	Select third kit item
+32	Edit text
+25	Select fourth kit item
+33	Edit Shorts
+27	Select fifth kit item
+34	Edit socks
+35	Close kits
+40	Click Details
+1	Click Database
+-- Finished running for Wyeton - 2015/02/22 03:10:16
+0	Click Editor
+1	Click Database
+2	Click club
+3	Click add
+4	Enter name
+5	Enter short name
+6	Enter six letter name
+7	Enter nickname
+8	Enter second nickname
+9	Enter nation
+10	Enter based nation
+11	Enter continental cup nation
+12	Enter city
+13	Enter status
+14	Enter morale
+15	Enter rep
+16	Add extra teams
+49	Open supporter profile
+50	Enter loyalty
+51	Enter passion
+52	Enter patience
+53	Enter affluence
+54	Enter temperament
+36	Open competition
+37	Set competition
+38	Close competition
+17	Open kits
+18	Click home kit
+19	Select first kit item
+20	Edit shirt
+21	Select second kit item
+22	Edit icon
+23	Select third kit item
+24	Edit text
+25	Select fourth kit item
+26	Edit Shorts
+27	Select fifth kit item
+28	Edit socks
+29	Click away kit
+19	Select first kit item
+30	Edit shirt
+21	Select second kit item
+31	Edit icon
+23	Select third kit item
+32	Edit text
+25	Select fourth kit item
+33	Edit Shorts
+27	Select fifth kit item
+34	Edit socks
+35	Close kits
+40	Click Details
+1	Click Database
+-- Finished running for Knefalls - 2015/02/22 03:12:18
+0	Click Editor
+1	Click Database
+2	Click club
+3	Click add
+4	Enter name
+5	Enter short name
+6	Enter six letter name
+7	Enter nickname
+8	Enter second nickname
+9	Enter nation
+10	Enter based nation
+11	Enter continental cup nation
+12	Enter city
+13	Enter status
+14	Enter morale
+15	Enter rep
+16	Add extra teams
+49	Open supporter profile
+50	Enter loyalty
+51	Enter passion
+52	Enter patience
+53	Enter affluence
+54	Enter temperament
+36	Open competition
+37	Set competition
+38	Close competition
+17	Open kits
+18	Click home kit
+19	Select first kit item
+20	Edit shirt
+21	Select second kit item
+22	Edit icon
+23	Select third kit item
+24	Edit text
+25	Select fourth kit item
+26	Edit Shorts
+27	Select fifth kit item
+28	Edit socks
+29	Click away kit
+19	Select first kit item
+30	Edit shirt
+21	Select second kit item
+31	Edit icon
+23	Select third kit item
+32	Edit text
+25	Select fourth kit item
+33	Edit Shorts
+27	Select fifth kit item
+34	Edit socks
+35	Close kits
+40	Click Details
+1	Click Database
+-- Finished running for Cara - 2015/02/22 03:14:20
+0	Click Editor
+1	Click Database
+2	Click club
+3	Click add
+4	Enter name
+5	Enter short name
+6	Enter six letter name
+7	Enter nickname
+8	Enter second nickname
+9	Enter nation
+10	Enter based nation
+11	Enter continental cup nation
+12	Enter city
+13	Enter status
+14	Enter morale
+15	Enter rep
+16	Add extra teams
+49	Open supporter profile
+50	Enter loyalty
+51	Enter passion
+52	Enter patience
+53	Enter affluence
+54	Enter temperament
+36	Open competition
+37	Set competition
+38	Close competition
+17	Open kits
+18	Click home kit
+19	Select first kit item
+20	Edit shirt
+21	Select second kit item
+22	Edit icon
+23	Select third kit item
+24	Edit text
+25	Select fourth kit item
+26	Edit Shorts
+27	Select fifth kit item
+28	Edit socks
+29	Click away kit
+19	Select first kit item
+30	Edit shirt
+21	Select second kit item
+31	Edit icon
+23	Select third kit item
+32	Edit text
+25	Select fourth kit item
+33	Edit Shorts
+27	Select fifth kit item
+34	Edit socks
+35	Close kits
+40	Click Details
+1	Click Database
+-- Finished running for Chieto - 2015/02/22 03:16:22
+0	Click Editor
+1	Click Database
+2	Click club
+3	Click add
+4	Enter name
+5	Enter short name
+6	Enter six letter name
+7	Enter nickname
+8	Enter second nickname
+9	Enter nation
+10	Enter based nation
+11	Enter continental cup nation
+12	Enter city
+13	Enter status
+14	Enter morale
+15	Enter rep
+16	Add extra teams
+49	Open supporter profile
+50	Enter loyalty
+51	Enter passion
+52	Enter patience
+53	Enter affluence
+54	Enter temperament
+36	Open competition
+37	Set competition
+38	Close competition
+17	Open kits
+18	Click home kit
+19	Select first kit item
+20	Edit shirt
+21	Select second kit item
+22	Edit icon
+23	Select third kit item
+24	Edit text
+25	Select fourth kit item
+26	Edit Shorts
+27	Select fifth kit item
+28	Edit socks
+29	Click away kit
+19	Select first kit item
+30	Edit shirt
+21	Select second kit item
+31	Edit icon
+23	Select third kit item
+32	Edit text
+25	Select fourth kit item
+33	Edit Shorts
+27	Select fifth kit item
+34	Edit socks
+35	Close kits
+40	Click Details
+1	Click Database
+-- Finished running for Massa - 2015/02/22 03:18:24
+0	Click Editor
+1	Click Database
+2	Click club
+3	Click add
+4	Enter name
+5	Enter short name
+6	Enter six letter name
+7	Enter nickname
+8	Enter second nickname
+9	Enter nation
+10	Enter based nation
+11	Enter continental cup nation
+12	Enter city
+13	Enter status
+14	Enter morale
+15	Enter rep
+16	Add extra teams
+49	Open supporter profile
+50	Enter loyalty
+51	Enter passion
+52	Enter patience
+53	Enter affluence
+54	Enter temperament
+36	Open competition
+37	Set competition
+38	Close competition
+17	Open kits
+18	Click home kit
+19	Select first kit item
+20	Edit shirt
+21	Select second kit item
+22	Edit icon
+23	Select third kit item
+24	Edit text
+25	Select fourth kit item
+26	Edit Shorts
+27	Select fifth kit item
+28	Edit socks
+29	Click away kit
+19	Select first kit item
+30	Edit shirt
+21	Select second kit item
+31	Edit icon
+23	Select third kit item
+32	Edit text
+25	Select fourth kit item
+33	Edit Shorts
+27	Select fifth kit item
+34	Edit socks
+35	Close kits
+40	Click Details
+1	Click Database
+-- Finished running for Vicia - 2015/02/22 03:20:26
+0	Click Editor
+1	Click Database
+2	Click club
+3	Click add
+4	Enter name
+5	Enter short name
+6	Enter six letter name
+7	Enter nickname
+8	Enter second nickname
+9	Enter nation
+10	Enter based nation
+11	Enter continental cup nation
+12	Enter city
+13	Enter status
+14	Enter morale
+15	Enter rep
+16	Add extra teams
+49	Open supporter profile
+50	Enter loyalty
+51	Enter passion
+52	Enter patience
+53	Enter affluence
+54	Enter temperament
+36	Open competition
+37	Set competition
+38	Close competition
+17	Open kits
+18	Click home kit
+19	Select first kit item
+20	Edit shirt
+21	Select second kit item
+22	Edit icon
+23	Select third kit item
+24	Edit text
+25	Select fourth kit item
+26	Edit Shorts
+27	Select fifth kit item
+28	Edit socks
+29	Click away kit
+19	Select first kit item
+30	Edit shirt
+21	Select second kit item
+31	Edit icon
+23	Select third kit item
+32	Edit text
+25	Select fourth kit item
+33	Edit Shorts
+27	Select fifth kit item
+34	Edit socks
+35	Close kits
+40	Click Details
+1	Click Database
+-- Finished running for Pobia - 2015/02/22 03:22:28
+0	Click Editor
+1	Click Database
+2	Click club
+3	Click add
+4	Enter name
+5	Enter short name
+6	Enter six letter name
+7	Enter nickname
+8	Enter second nickname
+9	Enter nation
+10	Enter based nation
+11	Enter continental cup nation
+12	Enter city
+13	Enter status
+14	Enter morale
+15	Enter rep
+16	Add extra teams
+49	Open supporter profile
+50	Enter loyalty
+51	Enter passion
+52	Enter patience
+53	Enter affluence
+54	Enter temperament
+36	Open competition
+37	Set competition
+38	Close competition
+17	Open kits
+18	Click home kit
+19	Select first kit item
+20	Edit shirt
+21	Select second kit item
+22	Edit icon
+23	Select third kit item
+24	Edit text
+25	Select fourth kit item
+26	Edit Shorts
+27	Select fifth kit item
+28	Edit socks
+29	Click away kit
+19	Select first kit item
+30	Edit shirt
+21	Select second kit item
+31	Edit icon
+23	Select third kit item
+32	Edit text
+25	Select fourth kit item
+33	Edit Shorts
+27	Select fifth kit item
+34	Edit socks
+35	Close kits
+40	Click Details
+1	Click Database
+-- Finished running for Vena - 2015/02/22 03:24:32
+0	Click Editor
+1	Click Database
+2	Click club
+3	Click add
+4	Enter name
+5	Enter short name
+6	Enter six letter name
+7	Enter nickname
+8	Enter second nickname
+9	Enter nation
+10	Enter based nation
+11	Enter continental cup nation
+12	Enter city
+13	Enter status
+14	Enter morale
+15	Enter rep
+16	Add extra teams
+49	Open supporter profile
+50	Enter loyalty
+51	Enter passion
+52	Enter patience
+53	Enter affluence
+54	Enter temperament
+36	Open competition
+37	Set competition
+38	Close competition
+17	Open kits
+18	Click home kit
+19	Select first kit item
+20	Edit shirt
+21	Select second kit item
+22	Edit icon
+23	Select third kit item
+24	Edit text
+25	Select fourth kit item
+26	Edit Shorts
+27	Select fifth kit item
+28	Edit socks
+29	Click away kit
+19	Select first kit item
+30	Edit shirt
+21	Select second kit item
+31	Edit icon
+23	Select third kit item
+32	Edit text
+25	Select fourth kit item
+33	Edit Shorts
+27	Select fifth kit item
+34	Edit socks
+35	Close kits
+40	Click Details
+1	Click Database
+-- Finished running for Astellthorp - 2015/02/22 03:26:39
+0	Click Editor
+1	Click Database
+2	Click club
+3	Click add
+4	Enter name
+5	Enter short name
+6	Enter six letter name
+7	Enter nickname
+8	Enter second nickname
+9	Enter nation
+10	Enter based nation
+11	Enter continental cup nation
+12	Enter city
+13	Enter status
+14	Enter morale
+15	Enter rep
+16	Add extra teams
+49	Open supporter profile
+50	Enter loyalty
+51	Enter passion
+52	Enter patience
+53	Enter affluence
+54	Enter temperament
+36	Open competition
+37	Set competition
+38	Close competition
+17	Open kits
+18	Click home kit
+19	Select first kit item
+20	Edit shirt
+21	Select second kit item
+22	Edit icon
+23	Select third kit item
+24	Edit text
+25	Select fourth kit item
+26	Edit Shorts
+27	Select fifth kit item
+28	Edit socks
+29	Click away kit
+19	Select first kit item
+30	Edit shirt
+21	Select second kit item
+31	Edit icon
+23	Select third kit item
+32	Edit text
+25	Select fourth kit item
+33	Edit Shorts
+27	Select fifth kit item
+34	Edit socks
+35	Close kits
+40	Click Details
+1	Click Database
+-- Finished running for Rikibyr - 2015/02/22 03:28:42
+0	Click Editor
+1	Click Database
+2	Click club
+3	Click add
+4	Enter name
+5	Enter short name
+6	Enter six letter name
+7	Enter nickname
+8	Enter second nickname
+9	Enter nation
+10	Enter based nation
+11	Enter continental cup nation
+12	Enter city
+13	Enter status
+14	Enter morale
+15	Enter rep
+16	Add extra teams
+49	Open supporter profile
+50	Enter loyalty
+51	Enter passion
+52	Enter patience
+53	Enter affluence
+54	Enter temperament
+36	Open competition
+37	Set competition
+38	Close competition
+17	Open kits
+18	Click home kit
+19	Select first kit item
+20	Edit shirt
+21	Select second kit item
+22	Edit icon
+23	Select third kit item
+24	Edit text
+25	Select fourth kit item
+26	Edit Shorts
+27	Select fifth kit item
+28	Edit socks
+29	Click away kit
+19	Select first kit item
+30	Edit shirt
+21	Select second kit item
+31	Edit icon
+23	Select third kit item
+32	Edit text
+25	Select fourth kit item
+33	Edit Shorts
+27	Select fifth kit item
+34	Edit socks
+35	Close kits
+40	Click Details
+1	Click Database
+-- Finished running for Naribyr - 2015/02/22 03:30:47
+0	Click Editor
+1	Click Database
+2	Click club
+3	Click add
+4	Enter name
+5	Enter short name
+6	Enter six letter name
+7	Enter nickname
+8	Enter second nickname
+9	Enter nation
+10	Enter based nation
+11	Enter continental cup nation
+12	Enter city
+13	Enter status
+14	Enter morale
+15	Enter rep
+16	Add extra teams
+49	Open supporter profile
+50	Enter loyalty
+51	Enter passion
+52	Enter patience
+53	Enter affluence
+54	Enter temperament
+36	Open competition
+37	Set competition
+38	Close competition
+17	Open kits
+18	Click home kit
+19	Select first kit item
+20	Edit shirt
+21	Select second kit item
+22	Edit icon
+23	Select third kit item
+24	Edit text
+25	Select fourth kit item
+26	Edit Shorts
+27	Select fifth kit item
+28	Edit socks
+29	Click away kit
+19	Select first kit item
+30	Edit shirt
+21	Select second kit item
+31	Edit icon
+23	Select third kit item
+32	Edit text
+25	Select fourth kit item
+33	Edit Shorts
+27	Select fifth kit item
+34	Edit socks
+35	Close kits
+40	Click Details
+1	Click Database
+-- Finished running for Holvefell - 2015/02/22 03:32:49
+0	Click Editor
+1	Click Database
+2	Click club
+3	Click add
+4	Enter name
+5	Enter short name
+6	Enter six letter name
+7	Enter nickname
+8	Enter second nickname
+9	Enter nation
+10	Enter based nation
+11	Enter continental cup nation
+12	Enter city
+13	Enter status
+14	Enter morale
+15	Enter rep
+16	Add extra teams
+49	Open supporter profile
+50	Enter loyalty
+51	Enter passion
+52	Enter patience
+53	Enter affluence
+54	Enter temperament
+36	Open competition
+37	Set competition
+38	Close competition
+17	Open kits
+18	Click home kit
+19	Select first kit item
+20	Edit shirt
+21	Select second kit item
+22	Edit icon
+23	Select third kit item
+24	Edit text
+25	Select fourth kit item
+26	Edit Shorts
+27	Select fifth kit item
+28	Edit socks
+29	Click away kit
+19	Select first kit item
+30	Edit shirt
+21	Select second kit item
+31	Edit icon
+23	Select third kit item
+32	Edit text
+25	Select fourth kit item
+33	Edit Shorts
+27	Select fifth kit item
+34	Edit socks
+35	Close kits
+40	Click Details
+1	Click Database
+-- Finished running for Naaba - 2015/02/22 03:34:52
+0	Click Editor
+1	Click Database
+2	Click club
+3	Click add
+4	Enter name
+5	Enter short name
+6	Enter six letter name
+7	Enter nickname
+8	Enter second nickname
+9	Enter nation
+10	Enter based nation
+11	Enter continental cup nation
+12	Enter city
+13	Enter status
+14	Enter morale
+15	Enter rep
+16	Add extra teams
+49	Open supporter profile
+50	Enter loyalty
+51	Enter passion
+52	Enter patience
+53	Enter affluence
+54	Enter temperament
+36	Open competition
+37	Set competition
+38	Close competition
+17	Open kits
+18	Click home kit
+19	Select first kit item
+20	Edit shirt
+21	Select second kit item
+22	Edit icon
+23	Select third kit item
+24	Edit text
+25	Select fourth kit item
+26	Edit Shorts
+27	Select fifth kit item
+28	Edit socks
+29	Click away kit
+19	Select first kit item
+30	Edit shirt
+21	Select second kit item
+31	Edit icon
+23	Select third kit item
+32	Edit text
+25	Select fourth kit item
+33	Edit Shorts
+27	Select fifth kit item
+34	Edit socks
+35	Close kits
+40	Click Details
+1	Click Database
+-- Finished running for Baheii - 2015/02/22 03:36:54
+0	Click Editor
+1	Click Database
+2	Click club
+3	Click add
+4	Enter name
+5	Enter short name
+6	Enter six letter name
+7	Enter nickname
+8	Enter second nickname
+9	Enter nation
+10	Enter based nation
+11	Enter continental cup nation
+12	Enter city
+13	Enter status
+14	Enter morale
+15	Enter rep
+16	Add extra teams
+49	Open supporter profile
+50	Enter loyalty
+51	Enter passion
+52	Enter patience
+53	Enter affluence
+54	Enter temperament
+36	Open competition
+37	Set competition
+38	Close competition
+17	Open kits
+18	Click home kit
+19	Select first kit item
+20	Edit shirt
+21	Select second kit item
+22	Edit icon
+23	Select third kit item
+24	Edit text
+25	Select fourth kit item
+26	Edit Shorts
+27	Select fifth kit item
+28	Edit socks
+29	Click away kit
+19	Select first kit item
+30	Edit shirt
+21	Select second kit item
+31	Edit icon
+23	Select third kit item
+32	Edit text
+25	Select fourth kit item
+33	Edit Shorts
+27	Select fifth kit item
+34	Edit socks
+35	Close kits
+40	Click Details
+1	Click Database
+-- Finished running for Tsidi - 2015/02/22 03:38:57
+0	Click Editor
+1	Click Database
+2	Click club
+3	Click add
+4	Enter name
+5	Enter short name
+6	Enter six letter name
+7	Enter nickname
+8	Enter second nickname
+9	Enter nation
+10	Enter based nation
+11	Enter continental cup nation
+12	Enter city
+13	Enter status
+14	Enter morale
+15	Enter rep
+16	Add extra teams
+49	Open supporter profile
+50	Enter loyalty
+51	Enter passion
+52	Enter patience
+53	Enter affluence
+54	Enter temperament
+36	Open competition
+37	Set competition
+38	Close competition
+17	Open kits
+18	Click home kit
+19	Select first kit item
+20	Edit shirt
+21	Select second kit item
+22	Edit icon
+23	Select third kit item
+24	Edit text
+25	Select fourth kit item
+26	Edit Shorts
+27	Select fifth kit item
+28	Edit socks
+29	Click away kit
+19	Select first kit item
+30	Edit shirt
+21	Select second kit item
+31	Edit icon
+23	Select third kit item
+32	Edit text
+25	Select fourth kit item
+33	Edit Shorts
+27	Select fifth kit item
+34	Edit socks
+35	Close kits
+40	Click Details
+1	Click Database
+-- Finished running for Hili - 2015/02/22 03:41:01
+0	Click Editor
+1	Click Database
+2	Click club
+3	Click add
+4	Enter name
+5	Enter short name
+6	Enter six letter name
+7	Enter nickname
+8	Enter second nickname
+9	Enter nation
+10	Enter based nation
+11	Enter continental cup nation
+12	Enter city
+13	Enter status
+14	Enter morale
+15	Enter rep
+16	Add extra teams
+49	Open supporter profile
+50	Enter loyalty
+51	Enter passion
+52	Enter patience
+53	Enter affluence
+54	Enter temperament
+36	Open competition
+37	Set competition
+38	Close competition
+17	Open kits
+18	Click home kit
+19	Select first kit item
+20	Edit shirt
+21	Select second kit item
+22	Edit icon
+23	Select third kit item
+24	Edit text
+25	Select fourth kit item
+26	Edit Shorts
+27	Select fifth kit item
+28	Edit socks
+29	Click away kit
+19	Select first kit item
+30	Edit shirt
+21	Select second kit item
+31	Edit icon
+23	Select third kit item
+32	Edit text
+25	Select fourth kit item
+33	Edit Shorts
+27	Select fifth kit item
+34	Edit socks
+35	Close kits
+40	Click Details
+1	Click Database
+-- Finished running for Ahish - 2015/02/22 03:43:04
+0	Click Editor
+1	Click Database
+2	Click club
+3	Click add
+4	Enter name
+5	Enter short name
+6	Enter six letter name
+7	Enter nickname
+8	Enter second nickname
+9	Enter nation
+10	Enter based nation
+11	Enter continental cup nation
+12	Enter city
+13	Enter status
+14	Enter morale
+15	Enter rep
+16	Add extra teams
+49	Open supporter profile
+50	Enter loyalty
+51	Enter passion
+52	Enter patience
+53	Enter affluence
+54	Enter temperament
+36	Open competition
+37	Set competition
+38	Close competition
+17	Open kits
+18	Click home kit
+19	Select first kit item
+20	Edit shirt
+21	Select second kit item
+22	Edit icon
+23	Select third kit item
+24	Edit text
+25	Select fourth kit item
+26	Edit Shorts
+27	Select fifth kit item
+28	Edit socks
+29	Click away kit
+19	Select first kit item
+30	Edit shirt
+21	Select second kit item
+31	Edit icon
+23	Select third kit item
+32	Edit text
+25	Select fourth kit item
+33	Edit Shorts
+27	Select fifth kit item
+34	Edit socks
+35	Close kits
+40	Click Details
+1	Click Database
+-- Finished running for Aleah - 2015/02/22 03:45:07
+0	Click Editor
+1	Click Database
+2	Click club
+3	Click add
+4	Enter name
+5	Enter short name
+6	Enter six letter name
+7	Enter nickname
+8	Enter second nickname
+9	Enter nation
+10	Enter based nation
+11	Enter continental cup nation
+12	Enter city
+13	Enter status
+14	Enter morale
+15	Enter rep
+16	Add extra teams
+49	Open supporter profile
+50	Enter loyalty
+51	Enter passion
+52	Enter patience
+53	Enter affluence
+54	Enter temperament
+36	Open competition
+37	Set competition
+38	Close competition
+17	Open kits
+18	Click home kit
+19	Select first kit item
+20	Edit shirt
+21	Select second kit item
+22	Edit icon
+23	Select third kit item
+24	Edit text
+25	Select fourth kit item
+26	Edit Shorts
+27	Select fifth kit item
+28	Edit socks
+29	Click away kit
+19	Select first kit item
+30	Edit shirt
+21	Select second kit item
+31	Edit icon
+23	Select third kit item
+32	Edit text
+25	Select fourth kit item
+33	Edit Shorts
+27	Select fifth kit item
+34	Edit socks
+35	Close kits
+40	Click Details
+1	Click Database
+-- Finished running for Iisah - 2015/02/22 03:47:11
+0	Click Editor
+1	Click Database
+2	Click club
+3	Click add
+4	Enter name
+5	Enter short name
+6	Enter six letter name
+7	Enter nickname
+8	Enter second nickname
+9	Enter nation
+10	Enter based nation
+11	Enter continental cup nation
+12	Enter city
+13	Enter status
+14	Enter morale
+15	Enter rep
+16	Add extra teams
+49	Open supporter profile
+50	Enter loyalty
+51	Enter passion
+52	Enter patience
+53	Enter affluence
+54	Enter temperament
+36	Open competition
+37	Set competition
+38	Close competition
+17	Open kits
+18	Click home kit
+19	Select first kit item
+20	Edit shirt
+21	Select second kit item
+22	Edit icon
+23	Select third kit item
+24	Edit text
+25	Select fourth kit item
+26	Edit Shorts
+27	Select fifth kit item
+28	Edit socks
+29	Click away kit
+19	Select first kit item
+30	Edit shirt
+21	Select second kit item
+31	Edit icon
+23	Select third kit item
+32	Edit text
+25	Select fourth kit item
+33	Edit Shorts
+27	Select fifth kit item
+34	Edit socks
+35	Close kits
+40	Click Details
+1	Click Database
+-- Finished running for Sidi - 2015/02/22 03:49:14
+-- Finished clubs - 2015/02/22 03:49:24
+-- Starting to read stadiums - 2015/02/22 03:49:24
+Adam Grace Stadium,Eros,7498,7498,10107,7498,1,100,2,2,2,3,Kule,North Azura,1,#
+Addersfield,Addersfield,2153,1507,2272,2153,1,100,2,2,2,1,Addersfield Athletic,North Azura,1,#
+Afsmus Arena,Afsmus,5410,3787,6661,5410,1,100,2,2,2,1,Afsmus,South Azura,1,#
+Allardt Arena,Allardt,1845,1292,11330,1845,1,100,2,2,2,2,Allardt,South Azura,1,#
+Alsea Arena,Alsea,2928,1171,8337,2928,1,100,2,2,2,1,Alsea ,South Azura,1,#
+Ampleforth Park,Ampleforth,7342,7342,15597,7342,1,100,2,2,2,1,Ampleforth Town,North Azura,1,#
+Anium Sports Complex,Anium,8072,8072,13493,8072,1,100,2,1,2,5,Anium Athletic,North Azura,1,#
+Aplua Park,Aplua,2908,2326,5915,2908,2,100,2,1,2,4,Aplua,The Winterlands,1,#
+Arcso Stadium,Arcso,10480,10480,18051,10480,1,100,2,2,2,1,Arcso,Cyrasia,1,#
+Ardfearn Field,Ardfearn,21101,21101,28973,21101,1,100,2,2,2,1,Ardfearn,North Azura,1,#
+Arena Boreas,Boreas,5385,5385,5896,5385,1,100,2,1,2,1,Dynamo Boreas,Cyrasia,1,#
+Arena Pioneer,Seye,1964,393,6766,1964,2,100,2,2,2,5,Zenit Seye,Cyrasia,1,#
+Arkney Dock,Arkney,5412,5412,14287,5412,1,100,2,2,2,1,Arkney Island,North Azura,1,#
+Ashtabula Arena,Ashtabula,5479,5479,7295,5479,1,100,2,2,2,5,Ashtabula Ospreys,South Azura,1,#
+Aslerstadion,Alserwurp,14166,14166,16507,14166,1,100,2,2,2,1,Alserwurp,Astarya,1,#
+Asnela Stadium,Asnela,5014,5014,9408,5014,1,100,2,2,2,2,Asnela,South Azura,1,#
+Ayar Arena,Ayar,5781,5781,10335,5781,1,100,2,2,2,1,Spartak Ayar,Cyrasia,1,#
+Ayar Stadium,Ayar,5216,5216,10903,5216,1,100,2,2,2,3,FC Ayar,Cyrasia,1,#
+Ayil Arena,Ayil,6132,6132,13328,6132,1,100,2,2,2,4,Ayil,South Azura,1,#
+Barfreston Hall,Barfreston,2935,2642,5420,2935,1,100,2,1,2,5,Barfreston Bay,North Azura,1,#
+Beerenberg Field,Beerenberg,2155,1078,10385,2155,2,100,2,1,2,4,Beerenberg,The Winterlands,1,#
+Benfield Road,Landhurst,5057,5057,10850,5057,1,100,2,1,2,3,Landhurst,Gobia,1,#
+Bens Park,Glasshaven,6005,6005,12468,6005,1,100,2,1,2,2,Glasshaven Town,Gobia,1,#
+Bergpark,Umos,8795,8795,18057,8795,1,100,2,1,2,4,FC Umos,Astarya,1,#
+Blubridge Park,Blubridge,8663,8663,13527,8663,1,100,2,1,2,4,Blubridge,South Azura,1,#
+Blue Star Bowl,Dabar,33677,33677,35773,33677,2,100,2,1,2,5,Blue Star Dabar,North Azura,1,#
+Boburg Bowl,Boburg,2632,1842,11590,2632,1,100,2,2,2,1,Spartak Boburg,Cyrasia,1,#
+Boburg Stadium,Boburg,7129,7129,15522,7129,2,100,2,1,2,1,Sporting Club Boburg,Cyrasia,1,#
+Border Park,South Apos,12487,12487,12736,12487,1,100,2,1,2,2,Apos United,South Azura,1,#
+Bramley Street,Thorton,25242,25242,30204,25242,2,100,2,2,2,3,Thorton United,North Azura,1,#
+Calcheth Park,Calcheth,2581,1807,4231,2581,1,100,2,2,2,5,Calcheth Town,South Azura,1,#
+Cartmel Ground,Cartmel,2136,427,4074,2136,1,100,2,1,2,4,Cartmel County,North Azura,1,#
+Caskill Lane,Suyador,17729,17729,27517,17729,2,100,2,2,2,1,Suyador Knights,North Azura,1,#
+City Ground,Highedge,14521,14521,23125,14521,1,100,2,1,2,2,Highedge City,Gobia,1,#
+City of Ehar Arena,Ehar,9594,9594,10304,9594,1,100,2,1,2,2,Ehar,South Azura,1,#
+Ciyosil Park,Ciyosil,7109,7109,8797,7109,1,100,2,2,2,4,AC Ciyosil,Astarya,1,#
+Ciyosilstadion,Ciyosil,7986,7986,10872,7986,1,100,2,2,2,1,Bayer Ciyosil,Astarya,1,#
+Clearville Road,Clearville,9155,9155,18246,9155,1,100,2,1,2,2,Clearville,Gobia,1,#
+Cleeve Road,Cleeve,10727,10727,16129,10727,1,100,2,1,2,1,Cleeve Victoria,North Azura,1,#
+Cliff Road,Freycliff,19934,19934,22773,19934,1,100,2,1,2,3,Freycliff,Gobia,1,#
+Cliff View,Bycoast,10557,10557,20139,10557,1,100,2,1,2,1,Bycoast,South Azura,1,#
+Colts Field,Itium,30550,30550,36624,30550,1,100,2,2,2,5,Itium Colts,North Azura,1,#
+Complexe Osmal,Osmal,4992,4992,7628,4992,1,100,2,1,2,2,AJ Osmal,Astarya,1,#
+Crast Tundra,Crast,2005,1203,11203,2005,2,100,2,1,2,4,FC Crast,The Winterlands,1,#
+Crease Crescent,Seabarrow,1911,382,7024,1911,1,100,2,1,2,3,Seabarrow,Gobia,1,#
+Crewkerne Arena,Crewkerne,4715,4715,5008,4715,1,100,2,2,2,1,Crewkerne United,North Azura,1,#
+Dachtelpark,Dachtel,2000,600,7668,2000,1,100,2,2,2,4,Dachtel,Astarya,1,#
+De Krom,Aqia,1469,294,3848,1469,1,100,2,2,2,5,Aqia,Astarya,1,#
+Deburg Stadium,Deburg,8024,8024,14540,8024,1,100,2,2,2,3,Deburg,Cyrasia,1,#
+Deepston Stadium,Deepston,8000,8000,8203,8000,1,100,2,2,2,5,Deepston South Side,South Azura,1,#
+Deerlake Park,Deerlake,2420,1694,5399,2420,1,100,2,2,2,1,Deerlake,North Azura,1,#
+Del City Stadium,Del City,5406,5406,9342,5406,1,100,2,2,2,3,Del City Kings,South Azura,1,#
+Dele Sports Complex,Dele,22970,22970,30148,22970,1,100,2,2,2,2,Dele County,North Azura,1,#
+Dorville Field,Dorville,6979,6979,9566,6979,1,100,2,1,2,3,Dorville Rovers,South Azura,1,#
+Easthallow Park,Easthallow,17080,17080,20699,17080,1,100,2,1,2,3,Easthallow,South Azura,1,#
+Edgefield,Blackedge,4751,4751,10756,4751,1,100,2,1,2,1,Blackedge,Gobia,1,#
+Eelry Arena,Eelry,15293,15293,16656,15293,1,100,2,2,2,3,Eelry Town,South Azura,1,#
+Enoshill,Enos,20886,20886,24477,20886,1,100,2,1,2,5,Royal Enos,South Azura,1,#
+Eplzen Stadium,Eplzen,12486,12486,21326,12486,1,100,2,2,2,2,Lokomotiv Eplzen,Cyrasia,1,#
+Eresingstadion,Eresing,2019,606,4051,2019,1,100,2,1,2,5,Eresing,Astarya,1,#
+Erith Park,Erith,3592,1796,10843,3592,1,100,2,2,2,1,Erith Town,South Azura,1,#
+Erith Stadium,Erith,15630,15630,17326,15630,1,100,2,2,2,1,Erith United,South Azura,1,#
+Eros Park,Eros,2686,1612,3711,2686,2,100,2,1,2,5,Eros Rovers,North Azura,1,#
+Esmen Stadium,Esmen,6343,3806,12655,6343,1,100,2,1,2,5,Esmen,Cyrasia,1,#
+Esnus Park,Esnus,3621,2173,9670,3621,1,100,2,2,2,5,Esnus City,South Azura,1,#
+Esnus Stadium,Esnus,16094,16094,22482,16094,1,100,2,2,2,1,Esnus Harriers,South Azura,1,#
+Estadio Achupallas,Achupallas,10695,10695,15747,10695,1,100,2,2,2,3,Achupallas,Recalada,1,#
+Estadio Alfacar,Alfacar,2249,1349,11253,2249,1,100,2,1,2,2,Alfacar,Recalada,1,#
+Estadio Andres Juan,Pano,5833,5833,8082,5833,1,100,2,2,2,1,Pano,Recalada,1,#
+Estadio Asar,Asar,21116,21116,27075,21116,1,100,2,1,2,1,Asar,Recalada,1,#
+Estadio Azon,Azon,1544,618,11319,1544,1,100,2,1,2,5,Azon,Recalada,1,#
+Estadio Cadret,Cadret,9775,9775,18049,9775,1,100,2,2,2,1,Cadret,Recalada,1,#
+Estadio Cantabrana,Cantabrana,18995,18995,26746,18995,1,100,2,1,2,3,Cantabrana,Recalada,1,#
+Estadio Cheques,Cheques,12439,12439,20475,12439,1,100,2,1,2,4,Cheques,Recalada,1,#
+Estadio Chuco,Chuco,9749,9749,10087,9749,1,100,2,2,2,2,Chuco,Recalada,1,#
+Estadio Conia,Conia,9415,9415,18652,9415,1,100,2,1,2,3,Conia,Recalada,1,#
+Estadio Cozcojar,Cozcojar,3212,1606,5801,3212,1,100,2,1,2,4,Cozcojar,Recalada,1,#
+Estadio Cutiellos,Cutiellos,10258,10258,15966,10258,1,100,2,2,2,1,Cutiellos,Recalada,1,#
+Estadio Espinilho,Espinilho,6419,6419,10706,6419,1,100,2,2,2,5,Espinilho,Recalada,1,#
+Estadio Estevino,Oto,4987,4987,14756,4987,1,100,2,2,2,1,Oto,Recalada,1,#
+Estadio Fernando,Torreblacos,2478,1735,3656,2478,1,100,2,2,2,1,Torreblacos,Recalada,1,#
+Estadio Ferreros,Ferreros,9919,9919,12031,9919,1,100,2,2,2,1,Ferreros Rochet,Recalada,1,#
+Estadio Gerena,Gerena,16512,16512,22437,16512,1,100,2,1,2,2,Gerena,Recalada,1,#
+Estadio Itambe,Itambe,1948,1169,10341,1948,1,100,2,1,2,2,Itambe,Recalada,1,#
+Estadio Jetan,Jetan,5033,5033,10446,5033,1,100,2,2,2,5,Jetan,Recalada,1,#
+Estadio Juan Jose,Arandilla,8916,8916,14907,8916,1,100,2,2,2,1,FC Arandilla,Recalada,1,#
+Estadio Mondego,Mondego,9020,9020,13472,9020,1,100,2,1,2,4,Mondego,Recalada,1,#
+Estadio Montanha,Montanha,4768,4768,5159,4768,1,100,2,2,2,1,Montanha,Recalada,1,#
+Estadio Puqua,Puqua,22904,22904,24777,22904,1,100,2,2,2,5,Puqua,Recalada,1,#
+Estadio Puvania,Puvania,7680,6144,14880,7680,1,100,2,1,2,4,Puvania,Recalada,1,#
+Estadio Redonda,Redonda,4495,2697,11072,4495,1,100,2,1,2,2,Redonda,Recalada,1,#
+Estadio San Ignacio,San Ignacio,8262,8262,11293,8262,1,100,2,2,2,1,San Ignacio,Recalada,1,#
+Estadio Sania,Sania,10053,10053,19608,10053,1,100,2,2,2,5,Sania,Recalada,1,#
+Estadio Teji,Teji,14117,14117,21443,14117,1,100,2,2,2,4,Teji,Recalada,1,#
+Estadio Teseador,Teseador,13462,13462,20858,13462,1,100,2,2,2,4,Teseador,Recalada,1,#
+Estadio Udaria,Udaria,8274,8274,10561,8274,1,100,2,2,2,5,Udaria,Recalada,1,#
+Estadio Uhain,Uhain,5172,3620,12914,5172,1,100,2,1,2,2,Uhain,Recalada,1,#
+Estadio Umirim,Umirim,4205,2523,6618,4205,1,100,2,1,2,5,Umirim,Recalada,1,#
+Estadio Uspary,Uspary,8785,8785,14504,8785,1,100,2,1,2,1,Uspary,Recalada,1,#
+Estadio Vieytes,Vieytes,16593,16593,17821,16593,1,100,2,2,2,3,Vieytes,Recalada,1,#
+Estadio Vilela,Vilela,11183,11183,13095,11183,1,100,2,1,2,1,Vilela,Recalada,1,#
+Estadio Yapac,Yapac,5045,5045,6938,5045,1,100,2,2,2,2,Yapac,Recalada,1,#
+Eyad Stadium,Eyad,4013,2007,4518,4013,1,100,2,2,2,1,Eyad Town,South Azura,1,#
+Fairbanks Stadium,Fairbanks,2232,1786,6504,2232,1,100,2,1,2,4,Fairbanks,North Azura,1,#
+Fairlight Field,Fairlight,8437,8437,16627,8437,1,100,2,2,2,4,Fairlight,South Azura,1,#
+Falmouth Road,Newham,14841,14841,23595,14841,1,100,2,2,2,1,Newham United,South Azura,1,#
+Falnaird Field,Falnaird,3576,2503,13334,3576,1,100,2,2,2,3,Falnaird,North Azura,1,#
+Farmouth Road,Abspor,10166,10166,17079,10166,1,100,2,1,2,2,Abspor Athletic,South Azura,1,#
+Fenia Field,Fenia,10113,10113,12283,10113,1,100,2,1,2,2,FC Fenia,North Azura,1,#
+Fenwick View,Abana,28250,28250,34029,28250,1,100,2,2,2,3,Abana,North Azura,1,#
+Fodora Stadium,Fodora,2560,1280,7298,2560,1,100,2,2,2,2,Fodora,Cyrasia,1,#
+Forth View,Riverforth,7275,7275,8036,7275,1,100,2,1,2,4,Northforth,Haverford,1,#
+Four Lakes Stadium,Four Lakes,5322,5322,14447,5322,1,100,2,2,2,3,Four Lakes,South Azura,1,#
+Fox Corner,Stawford,2479,1240,10275,2479,1,100,2,2,2,1,Stawford Rovers,North Azura,1,#
+Freeway Point,Bubar,12782,12782,14919,12782,1,100,2,1,2,4,Esnos,South Azura,1,#
+Fruithurst Field,Fruithurst,4950,4950,11614,4950,1,100,2,2,2,2,Fruithurst Flyers,South Azura,1,#
+Fusilier Field,Fairlight,24108,24108,25878,24108,1,100,2,2,2,1,Cannons,South Azura,1,#
+Garmsby Arena,Garmsby,1379,690,10181,1379,1,100,2,2,2,1,Garmsby United,North Azura,1,#
+Gayfield,Glenboyle,4368,4368,9120,4368,1,100,2,2,2,1,Glenboyle Victoria,North Azura,1,#
+Genod Arena,Genod,2751,2201,9362,2751,1,100,2,2,2,1,Genod,Astarya,1,#
+George Avenue,North Apos,6641,6641,15290,6641,1,100,2,2,2,3,British Apos,North Azura,1,#
+Ghil Schussel,Ghil,23881,23881,23971,23881,1,100,2,2,2,2,Club Ghil,Astarya,1,#
+Glasslyn Park,Glasslyn,11235,11235,20188,11235,1,100,2,1,2,3,Glasslyn,South Azura,1,#
+Goca Park,Goca,19760,19760,24548,19760,1,100,2,1,2,3,Goca Juniors,South Azura,1,#
+Goodrich Ground,Goodrich,9107,9107,14944,9107,1,100,2,1,2,1,Goodrich,North Azura,1,#
+Graycott Field,Graycott,9113,9113,16323,9113,1,100,2,2,2,1,Graycott Town,North Azura,1,#
+Greater Hampden,Alba,2528,1517,8902,2528,1,100,2,2,2,4,Alba Thistle,North Azura,1,#
+Greens Field,Gering,20677,20677,23257,20677,1,100,2,1,2,4,Gering Greens,South Azura,1,#
+Greyapple Park,Greyapple,1831,366,3647,1831,1,100,2,2,2,3,Greyapple Harriers,South Azura,1,#
+Greymoor Park,Greymoor,4154,2492,7277,4154,1,100,2,1,2,4,Greymoor,Gobia,1,#
+Grypoort Stadium,Grypoort,2026,1013,3147,2026,1,100,2,2,2,1,Grypoort,Gobia,1,#
+Hampton Road,Cudan,10662,10662,16543,10662,1,100,2,2,2,1,Cudan,South Azura,1,#
+Hatfield Park,Hatfield,15889,15889,19953,15889,1,100,2,2,2,3,Hatfield Harriers,South Azura,1,#
+Hawkhead,Adros,6067,6067,6293,6067,1,100,2,1,2,3,Adros Athletic,South Azura,1,#
+Hepburn Lane,Buji,6814,6814,11920,6814,1,100,2,2,2,1,Buji Town,North Azura,1,#
+Het Kasteel,Panningen,2743,2057,9610,2743,1,100,2,1,2,2,Panningen,Astarya,1,#
+Hever View,Hever,10659,10659,11374,10659,1,100,2,2,2,1,Hever Athletic,North Azura,1,#
+Higginson Field,Higginson,6290,5661,12795,6290,1,100,2,2,2,4,Higginson Hawks,South Azura,1,#
+Highlake Arena,Highlake,6141,4299,14205,6141,1,100,2,2,2,4,Highlake,South Azura,1,#
+Iceford Park,Iceford,2365,473,3348,2365,1,100,2,2,2,1,Iceford,South Azura,1,#
+Ichwein Arena,Ichwein,23114,23114,31326,23114,1,100,2,2,2,2,Ichwein SV,Astarya,1,#
+Iglgos Park,Iglgos,16591,16591,18586,16591,1,100,2,1,2,3,Iglgos,Astarya,1,#
+Imatsu Stadium,Imatsu,13344,13344,20665,13344,1,100,2,1,2,5,Imatsu,Cyrasia,1,#
+Inchkeld Park,Inchkeld,15809,15809,19222,15809,1,100,2,1,2,5,Inchkeld,North Azura,1,#
+Island Overlook,Hancock,5853,5268,6464,5853,1,100,2,2,2,4,Hanock Island,South Azura,1,#
+Ismrus Stadium,Ismrus,12563,12563,13767,12563,1,100,2,2,2,2,Ismrus,Cyrasia,1,#
+Iza Stadium,Iza,3926,1570,5888,3926,1,100,2,1,2,1,Olimpic Iza,Cyrasia,1,#
+John Smith Field,Otford,6623,6623,8649,6623,1,100,2,2,2,1,Otford Town,North Azura,1,#
+Kavania Park,Kavania,6468,6468,10409,6468,1,100,2,2,2,2,Kavania Wasps,South Azura,1,#
+Keldbrook Arena,Keldbrook,6379,6379,6467,6379,1,100,2,2,2,3,Keldbrook,South Azura,1,#
+Kerekhalom Stadium,Kerekhalom,11717,11717,21680,11717,1,100,2,1,2,1,Kerekhalom,Cyrasia,1,#
+Khatyb Stadium,Khatyb,6414,6414,11516,6414,1,100,2,1,2,1,Khatyb,Cyrasia,1,#
+Kilin Stadium,Kilin,2797,1678,4691,2797,1,100,2,2,2,1,Kilin Town,North Azura,1,#
+La Creuset,Soonia,3170,2219,8932,3170,1,100,2,1,2,5,St Soonia,Astarya,1,#
+Lanfield,Glasshaven,2494,2245,8740,2494,1,100,2,1,2,4,Glasshaven Rovers,Gobia,1,#
+Lennon Park,Westburn,10934,10934,18147,10934,1,100,2,1,2,1,Westburn City,Gobia,1,#
+Linhedge Field,Linhedge,20836,20836,24417,20836,1,100,2,1,2,1,Linhedge,South Azura,1,#
+Linmeadow Field,Linmeadow,1074,322,5211,1074,1,100,2,2,2,2,Linmeadow,South Azura,1,#
+Lochside Park,Lochvar,806,161,6218,806,1,100,2,2,2,3,Lochvar,North Azura,1,#
+Logro Square,Logro,512,102,5775,512,2,100,2,1,2,4,Logro United,The Winterlands,1,#
+Lora Park,Lora,4264,4264,4549,4264,1,100,2,2,2,5,Lora Town,North Azura,1,#
+Lowbury,Fognesse,14119,14119,21596,14119,1,100,2,1,2,4,Fognesse,Gobia,1,#
+Lublin Park,Lublin,3884,3884,8459,3884,1,100,2,2,2,3,Lublin Lions,South Azura,1,#
+Ludgershall,Ludgershall,12635,12635,12952,12635,1,100,2,2,2,1,Ludgershall,South Azura,1,#
+Ludwigsfeld,Ludwigsfeld,540,108,2127,540,1,100,2,2,2,5,Ludwigsfeld,Astarya,1,#
+Machinostroitel,Anemoi,8907,5344,9631,8907,2,100,2,1,2,2,Spartak Anemoi,Cyrasia,1,#
+Macireni Stadium,Macireni,2357,1650,7297,2357,1,100,2,2,2,1,Macireni,Gobia,1,#
+Mara Park,Mara,8177,8177,10590,8177,1,100,2,2,2,1,Mara United,Astarya,1,#
+Mara Stadium,Mara,11410,11410,17779,11410,1,100,2,2,2,1,Mara Town,Astarya,1,#
+Margine Stadium,Margine,17808,17808,21550,17808,1,100,2,2,2,4,Margine,Cyrasia,1,#
+McDonald Park,Nardhvik,2077,1039,3012,2077,2,100,2,1,2,4,Nardhvik,The Winterlands,1,#
+Melcome Field,Melcome,8218,8218,8773,8218,1,100,2,1,2,5,Melcome County,North Azura,1,#
+Memorial Stadium,Toosil,7313,7313,14311,7313,2,100,2,2,2,1,Toosil United,North Azura,1,#
+Mengete Field,Mengete,2076,1246,7428,2076,1,100,2,2,2,1,Mengete,Gobia,1,#
+Mermecs Stadium,Mermecs,15454,15454,15732,15454,1,100,2,2,2,5,Mermecs,Cyrasia,1,#
+Mill Road,Peca,8450,8450,14528,8450,1,100,2,1,2,4,Peca Wanderers,North Azura,1,#
+Millway Road,Ola,7401,5921,9886,7401,1,100,2,2,2,1,Ola Fighters,South Azura,1,#
+Mindon Stadium,Mindon,4312,2587,5536,4312,1,100,2,2,2,3,Mindon,Cyrasia,1,#
+Misto Stadium,Misto Volgosia,4974,4974,8083,4974,1,100,2,2,2,1,Misto Volgosia,Cyrasia,1,#
+Mistra Stadium,Mistra,5007,5007,7458,5007,1,100,2,2,2,3,Mistra,Cyrasia,1,#
+Morborough Road,Morborough,12455,12455,13689,12455,1,100,2,1,2,2,Morborough,Gobia,1,#
+Mount Point,Mount Hoth,844,253,6817,844,2,100,2,1,2,4,Mount Hoth,The Winterlands,1,#
+Mountain View,Ablos,17008,17008,18263,17008,1,100,2,2,2,2,Ablos,North Azura,1,#
+Mournstead Stadium,Mournstead,13744,13744,15917,13744,1,100,2,1,2,3,Mournstead,South Azura,1,#
+Muldraugh Park,Muldraugh,9329,9329,12896,9329,1,100,2,2,2,1,Muldraugh United,South Azura,1,#
+Muldraugh Stadium,Muldraugh,25927,25927,35788,25927,1,100,2,1,2,2,Muldraugh ,South Azura,1,#
+Murlay Road,Murlayfield,19271,19271,26158,19271,1,100,2,1,2,4,Murlayfield,South Azura,1,#
+Murlayfield Park,Murlayfield,13208,13208,13551,13208,1,100,2,2,2,1,Murlayfield United,South Azura,1,#
+Neukamernstadion,Neukamern,2410,2290,10037,2410,1,100,2,1,2,4,Neukamern,Astarya,1,#
+New Brinkburn Park,Brinkburn,6325,6325,8914,6325,1,100,2,2,2,4,Brinkburn Rovers,North Azura,1,#
+New Davies Park,Llaneilian,1809,724,7034,1809,1,100,2,1,2,1,Llaneilian Dragons,North Azura,1,#
+New Glory Road,Newham,12515,12515,13245,12515,1,100,2,1,2,5,Newham,South Azura,1,#
+New Highedge,Highedge,5503,5503,12903,5503,1,100,2,1,2,3,Highedge Town,Gobia,1,#
+Newbury Road,Newbury,17012,17012,23934,17012,1,100,2,1,2,4,Newbury United,North Azura,1,#
+Newmist Park,Newmist,1874,937,4414,1874,1,100,2,2,2,1,Newmist United,North Azura,1,#
+Oclela Stadium,Oclela,2681,1877,8926,2681,1,100,2,2,2,2,Oclela,Cyrasia,1,#
+Ocsnos Stadium,Ocsnos,1622,324,2309,1622,1,100,2,1,2,2,Ocsnos,Cyrasia,1,#
+Old Durness Road,Durness,6081,6081,9816,6081,1,100,2,2,2,1,Durness Rovers,North Azura,1,#
+Old Highedge,Highedge,4797,4797,7792,4797,1,100,2,1,2,2,Highedge Athletic,Gobia,1,#
+Old Highground,Aspax,18944,18944,25508,18944,1,100,2,2,2,5,Matan Town,South Azura,1,#
+Old Sleaford Park,Sleaford,11693,11693,12224,11693,2,100,2,1,2,2,Sleaford Town,North Azura,1,#
+Omgresh Stadium,Omgresh,9977,9977,12249,9977,1,100,2,2,2,2,Omgresh,Cyrasia,1,#
+Oslium Stadium,Oslium,934,187,1787,934,1,100,2,2,2,1,Oslium,Cyrasia,1,#
+Osprey Field,Oprela,12231,12231,15024,12231,1,100,2,1,2,2,Oprela Ospreys,South Azura,1,#
+Osterstadion,Osterwinnert,1738,1390,3448,1738,1,100,2,2,2,4,Osterwinnert,Astarya,1,#
+Ozor Bowl,Ozor,6845,6845,10925,6845,1,100,2,2,2,1,Spartak Ozor,Cyrasia,1,#
+Paburg Stadium,Paburg,9306,9306,10265,9306,1,100,2,2,2,4,Paburg,Cyrasia,1,#
+Pankasz Stadium,Pankasz,6319,6319,14706,6319,1,100,2,2,2,1,Pankasz,Cyrasia,1,#
+Park Edhof,Edhof,17951,17951,24392,17951,1,100,2,2,2,4,Edhof,Astarya,1,#
+Parker Street,Pembroke,8112,8112,12912,8112,1,100,2,2,2,2,Pembroke Harriers,North Azura,1,#
+Paton Park,Paton,3986,3986,5640,3986,1,100,2,2,2,3,Paton Roar,South Azura,1,#
+Peretshofen Park,Peretshofen,5405,4756,7999,5405,1,100,2,1,2,4,Peretshofen,Astarya,1,#
+Pfabenstadion,Pfaben,3906,3906,12974,3906,1,100,2,2,2,1,Pfaben,Astarya,1,#
+Oakmarsh Field,Oakmarsh,10752,10752,14047,10752,1,100,2,1,2,1,Oakmarsh,Gobia,1,#
+Plavil'nyy Kotel,Ozor,5483,5483,7259,5483,1,100,2,2,2,2,Dynamo Ozor,Cyrasia,1,#
+Podor Park,Podor,18710,18710,25220,18710,1,100,2,1,2,3,Podor,North Azura,1,#
+Port Haver Stadium,Port Haver,10000,4000,14610,10000,2,100,2,1,2,1,Port Haver FC,Haverford,1,#
+Rigby Park,Eelry,2369,474,8296,2369,1,100,2,2,2,1,Rigby Road,South Azura,1,#
+River View,Strathpeffer,4212,3791,7072,4212,1,100,2,2,2,1,Strathpeffer,North Azura,1,#
+Riverbank Stadium,Riverforth,12431,12431,20281,12431,1,100,2,1,2,5,Riverforth Rovers,Haverford,1,#
+Riverforth Park,Riverforth,20000,8000,24933,20000,2,100,2,1,2,1,Riverforth Town,Haverford,1,#
+Riverside,Riverforth,6013,6013,8712,6013,1,100,2,2,2,1,Riverforth United,Haverford,1,#
+Rogate Road,Rogate,6827,4096,11836,6827,1,100,2,2,2,4,Rogate Town,South Azura,1,#
+Rover Park,Lora,5673,5673,8773,5673,1,100,2,2,2,2,Lora Rovers,North Azura,1,#
+Schottershuizenstadion,Schottershuizen,9496,9496,16172,9496,1,100,2,1,2,4,Schottershuizen,Astarya,1,#
+Seaside,Idela,8037,8037,11629,8037,1,100,2,1,2,2,Idela Bay,North Azura,1,#
+Shackleton Field,Skagastrand,1044,418,5724,1044,2,100,2,1,2,4,Skagastrand,The Winterlands,1,#
+Shackleton Memorial Park,Snowfell,3581,2865,5432,3581,1,100,2,2,2,1,Shackleton FC,The Winterlands,1,#
+Shongwe Stadium,Shongwe,5762,5762,10052,5762,1,100,2,2,2,1,Shongwe,Gobia,1,#
+Shoreham Park,Shoreham,4948,4948,9612,4948,1,100,2,2,2,1,Shoreham United,South Azura,1,#
+Silvermill Park,Silvermill,6614,4630,14426,6614,1,100,2,2,2,3,Silvermill,South Azura,1,#
+Silverston Stadium,Silverston,5062,5062,13539,5062,1,100,2,2,2,1,Silverston Town,North Azura,1,#
+Snowground Park,Greywind,2591,1814,7324,2591,2,100,2,1,2,4,FC Greywind,The Winterlands,1,#
+Spell Stadium,Spellmill,19409,19409,23676,19409,1,100,2,1,2,2,Spellmill,Gobia,1,#
+Stade de Chione,Chione,15711,15711,15964,15711,1,100,2,2,2,5,Olympique Chione,Astarya,1,#
+Stade de Foce,Foce,2535,2129,7382,2535,1,100,2,2,2,5,AS Foce,Astarya,1,#
+Stade de Louis Pamplon,Olos,3356,3020,9980,3356,1,100,2,1,2,2,AS Olos,Astarya,1,#
+Stade de Sizun,Sizun,3481,3307,12258,3481,1,100,2,2,2,5,Sizun,Astarya,1,#
+Stade de Tarabel,Tarabel,9108,9108,14514,9108,1,100,2,1,2,5,Tarabel,Astarya,1,#
+Stade do Oyonnax,Oyonnax,8987,8987,17284,8987,1,100,2,2,2,4,Oyonnax,Astarya,1,#
+Stade du Tivoli ,Caijoula,7588,7588,8574,7588,1,100,2,2,2,2,Caijoula,Astarya,1,#
+Stade Genod,Genod,4965,4071,6734,4965,1,100,2,2,2,5,Racing Genod,Astarya,1,#
+Stade Hans Furth,Apar,1291,387,3624,1291,1,100,2,2,2,4,Bayer Apar,Astarya,1,#
+Stade Pimprez,Pimprez,11812,11812,18917,11812,1,100,2,1,2,5,Pimprez,Astarya,1,#
+Stade Saint-Acthela,Acthela,6628,6628,14226,6628,1,100,2,1,2,2,St Acthela,Astarya,1,#
+Stade Saint-Claire,Cardinale,10820,10820,10839,10820,1,100,2,2,2,3,Cardinale Saint Claire,Astarya,1,#
+Stadio Abus,Abus,6512,6512,10439,6512,1,100,2,2,2,3,Abus,Astarya,1,#
+Stadio Cardinale,Cardinale,1282,385,2984,1282,1,100,2,2,2,5,Cardinale,Astarya,1,#
+Stadio Luttach,Luttach,4554,4554,7402,4554,1,100,2,2,2,3,Luttach,Astarya,1,#
+Stadio Murialdo,Murialdo,12258,12258,20226,12258,1,100,2,2,2,4,Murialdo,Astarya,1,#
+Stadio san Marc,Stribugliano,17199,17199,26835,17199,1,100,2,2,2,1,Stribugliano,Astarya,1,#
+Stadio san Paulo,Abus,1703,307,9034,1703,1,100,2,2,2,4,Abus Town,Astarya,1,#
+Stadion am berg,Apar,7510,7510,10799,7510,1,100,2,2,2,4,1850 Apar,Astarya,1,#
+Stadion am wasser,Ziegelberg,4913,3193,9390,4913,1,100,2,2,2,4,Ziegelberg,Astarya,1,#
+Staveren Stadion,Staveren,5122,5122,9797,5122,1,100,2,1,2,1,Staveren,Astarya,1,#
+Suules Stadium,Suules,20108,20108,26335,20108,2,100,2,1,2,2,Suules,Cyrasia,1,#
+Swyngate Field,Swyngate,2450,1470,10622,2450,1,100,2,2,2,4,Swyngate,South Azura,1,#
+Takahama Bowl,Takahama,20364,20364,29733,20364,2,100,2,1,2,1,Takahama,Cyrasia,1,#
+Tergaron Square,Tergaron,12044,12044,15191,12044,1,100,2,2,2,1,Tergaron Town,North Azura,1,#
+The Dale,Eyad,6338,6338,15876,6338,1,100,2,2,2,5,Eyad Eagles,South Azura,1,#
+The Dall,Dallaig,10260,10260,15814,10260,1,100,2,1,2,1,Dallaig,North Azura,1,#
+The Etymol,Aspax,4153,1661,8197,4153,1,100,2,2,2,3,Sporting Aspax,South Azura,1,#
+The Foxhole,Fairchild,10513,10513,15436,10513,1,100,2,2,2,3,Fairchild,North Azura,1,#
+The Gables,Belldale,14607,14607,20266,14607,1,100,2,1,2,2,Belldale,Gobia,1,#
+The Hole,Aspax,10275,10275,15347,10275,1,100,2,2,2,4,Aspax Pheonix,South Azura,1,#
+The New Den,Toosil,4862,4862,11000,4862,1,100,2,2,2,5,FC Toosil,North Azura,1,#
+The Orchard,Itium,8278,8278,8403,8278,1,100,2,1,2,4,Itium Irish,North Azura,1,#
+The Outlook,Snowfell,3753,3378,6101,3753,2,100,2,1,2,4,Snowfell,The Winterlands,1,#
+The Riverside,Bevania,6970,6970,10035,6970,2,100,2,2,2,1,Sheppy FC,North Azura,1,#
+Thomson Memorial Field,Browns,6698,6028,9948,6698,1,100,2,2,2,4,Browns Bears,South Azura,1,#
+Thule Arena,Thule,7897,7897,14235,7897,1,100,2,2,2,4,Borussia Thule,Astarya,1,#
+Thulestadion,Thule,4415,4415,7125,4415,1,100,2,2,2,1,Bayern Thule,Astarya,1,#
+Tilly Avenue,Tillydrone,13070,13070,19765,13070,1,100,2,1,2,3,Tillydrone,South Azura,1,#
+Tobermory Field,Westburn,6458,6458,10634,6458,1,100,2,1,2,1,Westburn United,Gobia,1,#
+Tonaki Stadium,Tonaki,27232,27232,33088,27232,1,100,2,2,2,4,Tonaki,Cyrasia,1,#
+Toosilhill Park,Toosil,6390,6390,16322,6390,2,100,2,1,2,3,Toosil City,North Azura,1,#
+Transway Road,Carpenter,6038,6038,14921,6038,1,100,2,2,2,1,Carpenter Conkers,South Azura,1,#
+Umos Park,Umos,3746,3746,13016,3746,1,100,2,1,2,2,Umos Pheonix,Astarya,1,#
+Venzor Arena,Venzor,24995,24995,31255,24995,1,100,2,1,2,5,Venzor,South Azura,1,#
+Vertholt Park,Vertholt,3561,1781,11614,3561,1,100,2,1,2,2,Vertholt,Gobia,1,#
+Villa Field,Pioneer Village,1188,475,1626,1188,1,100,2,2,2,4,Pioneer Village,South Azura,1,#
+Vleirivier Park,Vleirivier,1909,764,10481,1909,1,100,2,2,2,1,Vleirivier,Gobia,1,#
+Voyalia View,Voyalia,2412,1447,10323,2412,2,100,2,1,2,4,Voyalia,The Winterlands,1,#
+Walpole Park,Walpole,12423,12423,18327,12423,2,100,2,2,2,3,Walpole Wanderers,North Azura,1,#
+Walton Road,Barton,17372,17372,21625,17372,1,100,2,1,2,2,Barton Rovers,North Azura,1,#
+Warrior Field,Toosil,10937,10937,13374,10937,2,100,2,1,2,1,Toosil Warriors,North Azura,1,#
+Wellspring Park,Wellspring,10052,10052,14127,10052,1,100,2,2,2,1,Wellspring Wanderers,North Azura,1,#
+Welor Park,Welor,3072,2150,4358,3072,2,100,2,1,2,4,Welor,The Winterlands,1,#
+West Coldfield,Coldfield,23164,23164,23612,23164,1,100,2,1,2,5,Coldfield,Gobia,1,#
+Westward Field,Riverforth,6071,6071,6286,6071,1,100,2,2,2,1,Westforth,Haverford,1,#
+Witham Park,Witham,4522,2713,10414,4522,1,100,2,2,2,5,Witham Village,South Azura,1,#
+Wolf Stadion,Wolfsbarge,9705,9705,13232,9705,1,100,2,1,2,3,Wolfsbarge,Astarya,1,#
+Yanto Stadium,Yanto,1686,1012,3768,1686,2,100,2,1,2,4,Yanto,Cyrasia,1,#
+Yucor Point,Yucor,2367,1515,12259,2367,2,100,2,1,2,4,Yucor FC,The Winterlands,1,#
+Zedan Stadium,Zedan,6823,6823,9356,6823,2,100,2,1,2,5,Zedan,Cyrasia,1,#
+Saint Elias Stadium,Saint Elias City,40000,15000,40690,40000,1,100,2,1,1,1,,Saint Elias City,1,#
+Mensfield Road,Mensfield,3272,2290,11986,3272,1,100,2,2,2,3,Mensfield Diggers,Ferrous Isles,1,#
+Wolfden Park,Wolfden,951,190,10273,951,1,100,2,2,2,3,Wolfden Flyers,Ferrous Isles,1,#
+Forders Cove,Ironhaven,3003,2102,10748,3003,1,100,2,2,2,3,Ironhaven United,Ferrous Isles,1,#
+Limemill Park,Limemill,833,250,4664,833,1,100,2,2,2,3,Limemill Juniors,Ferrous Isles,1,#
+George Square,Wolfden,1347,404,1885,1347,1,100,2,2,2,3,Wolfden FC,Ferrous Isles,1,#
+Ironhaven Park,Ironhaven,989,198,7844,989,1,100,2,2,2,3,Ironhaven Town,Ferrous Isles,1,#
+Edward Road,Limemill,1422,711,3012,1422,1,100,2,2,2,3,Limemill Pit,Ferrous Isles,1,#
+Northon Road,Northon,3684,3684,6137,3684,1,100,2,2,2,3,Northon United,Pinemarsh,1,#
+Braedon Park,Braedon,5457,5457,6566,5457,1,100,2,2,2,3,Braedon Town,Pinemarsh,1,#
+Swindmore Field,Swindmore,5894,5894,12560,5894,1,100,2,2,2,3,Swindmore Rovers,Pinemarsh,1,#
+Briar Park,Briar Glen,1554,777,4740,1554,1,100,2,2,2,3,Briar Glen,Pinemarsh,1,#
+Findochty Railway Yard,Findochty,1306,653,4940,1306,1,100,2,2,2,3,Findochty Locomotive,Pinemarsh,1,#
+Nerton Field,Nerton,4327,4327,9433,4327,1,100,2,2,2,3,Nerton Villa,Pinemarsh,1,#
+Erostey Park,Erostey,2281,1597,3682,2281,1,100,2,2,2,3,Erostey Town,Pinemarsh,1,#
+Wheldrake Arena,Wheldrake,2614,1830,11786,2614,1,100,2,2,2,3,Wheldrake Warriors,Pinemarsh,1,#
+Larkinge Hill,Larkinge,5054,5054,10743,5054,1,100,2,2,2,3,Larkinge Thistle,Pinemarsh,1,#
+Farncombe Field,Farncombe,3647,3282,12316,3647,1,100,2,2,2,3,Farncombe Thistle,Pinemarsh,1,#
+Dalelry Rail Yard,Dalelry,2693,2424,4437,2693,1,100,2,2,2,3,Dalelry Railworks,Pinemarsh,1,#
+Braedon Field,Braedon,5115,5115,13417,5115,1,100,2,2,2,3,Braedon Rovers,Pinemarsh,1,#
+Michaels Field,Swindmore,1625,975,8323,1625,1,100,2,2,2,3,Swindmore City,Pinemarsh,1,#
+Erostey Road,Erostey,3180,2226,7112,3180,1,100,2,2,2,3,Erostey Rovers,Pinemarsh,1,#
+Findochty Field,Findochty,2337,1870,10437,2337,1,100,2,2,2,3,Findochty United,Pinemarsh,1,#
+Foolshope Field,Foolshope,2876,1726,5355,2876,1,100,2,2,2,3,Foolshope,Pinemarsh,1,#
+Sanlow Stadium,Sanlow,1592,955,1703,1592,1,100,2,2,2,3,Sanlow,Pinemarsh,1,#
+Barkam Stadium,Barkamsted,6571,6571,11189,6571,1,100,2,2,2,3,Barkamstead,Pinemarsh,1,#
+Doveport Arena,Doveport,6489,6489,9792,6489,2,100,2,1,2,1,Doveport Dynamos,Montaria,1,#
+Berkton Stadium,Berkton,12606,12606,12664,12606,2,100,2,1,2,1,Berkton Bears,Montaria,1,#
+Bexley Field,Bexley,11388,11388,13207,11388,2,100,2,1,2,1,Bexley Bandicoots,Montaria,1,#
+Orilon Field,Orilon,7701,7701,11851,7701,2,100,2,1,2,1,Orilon Orioles,Montaria,1,#
+Eisley Stadium,Eisley,3821,3821,12687,3821,2,100,2,1,2,1,Eisley Eagles,Montaria,1,#
+Ulrich Arena,Jericho,11954,11954,16426,11954,2,100,2,1,2,1,Jericho Jaguars,Montaria,1,#
+Port Springfield Stadium,Port Springfield,3590,3590,7903,3590,2,100,2,1,2,1,Port Springfield Nets,Montaria,1,#
+Ringchurch Field,Ringchurch,11761,11761,15861,11761,2,100,2,1,2,1,Ringchurch Raccoons,Montaria,1,#
+Aldby Arsenal Arena,Aldby,9853,9853,16697,9853,2,100,2,1,2,1,Aldby Arsenal,Montaria,1,#
+Birkenleen Square Arena,Birkenleen,6113,6113,14915,6113,2,100,2,1,2,1,Birkenleen Ducks,Montaria,1,#
+Berend Park,Berend,4291,4291,5535,4291,2,100,2,1,2,1,Berend Buffalos,Montaria,1,#
+Trentstone Sporting Complex,Trentstone,12705,12705,16327,12705,2,100,2,1,2,1,Trentstone Tigers,Montaria,1,#
+George Field,Washington,12971,12971,18350,12971,2,100,2,1,2,1,Washington Warriors,Montaria,1,#
+Carver Park,Carver,5372,5372,7193,5372,2,100,2,1,2,1,Carver Cats,Montaria,1,#
+Lincoln Arena,Lincoln,4135,4135,10703,4135,2,100,2,1,2,1,Lincoln Lions,Montaria,1,#
+Haverville,Haverville,3598,3598,12614,3598,2,100,2,1,2,1,Haverville Hounds,Montaria,1,#
+Ogdenbrooke Arena,Ogdenbrooke,5989,5989,7756,5989,2,100,2,1,2,1,Ogdenbrooke Owls,Montaria,1,#
+Charlotteville Park,Charlotteville,4043,4043,8320,4043,2,100,2,1,2,1,Charlotteville Cannons,Montaria,1,#
+Fort Park,Fort Peace,5064,5064,14565,5064,2,100,2,1,2,1,Fort Peace Flyers,Montaria,1,#
+Hopeland Stadium,Hopeland,10774,10774,14487,10774,2,100,2,1,2,1,Hopeland Harriers,Montaria,1,#
+Aberuthven Park,Aberuthven,2500,320,5889,2500,2,100,2,2,2,3,Aberuthven,Albini,1,#
+Aquarin Park,Aquarin,2250,630,3845,2250,2,100,2,2,2,3,Aquarin,Albini,1,#
+Brickelwhyte Park,Brickelwhyte,2000,381,7615,2000,2,100,2,2,2,3,Brickelwhyte,Albini,1,#
+Burrafirth Park,Burrafirth,1500,401,10714,1500,2,100,2,2,2,3,Burrafirth,Albini,1,#
+Calmarnock Park,Calmarnock,1750,330,7257,1750,2,100,2,2,2,3,Calmarnock,Albini,1,#
+Darkwell Park,Darkwell,2500,827,10316,2500,2,100,2,2,2,3,Darkwell,Albini,1,#
+Drumnacanvy Park,Drumnacanvy,2250,745,9690,2250,2,100,2,2,2,3,Drumnacanvy,Albini,1,#
+Dunwich Park,Dunwich,2500,826,4251,2500,2,100,2,2,2,3,Dunwich,Albini,1,#
+Eastcliff Park,Eastcliff,1250,717,6038,1250,2,100,2,2,2,3,Eastcliff,Albini,1,#
+Fallholt Park,Fallholt,2500,389,4784,2500,2,100,2,2,2,3,Fallholt,Albini,1,#
+Galssop Park,Galssop,2500,532,11021,2500,2,100,2,2,2,3,Galssop,Eria,1,#
+Halsworthy Park,Halsworthy,2250,553,6756,2250,2,100,2,2,2,3,Halsworthy,Eria,1,#
+Hewe Park,Hewe,1500,363,6522,1500,2,100,2,2,2,3,Hewe,Eria,1,#
+Holmfirth Park,Holmfirth,1500,574,5984,1500,2,100,2,2,2,3,Holmfirth,Eria,1,#
+Kelna Park,Kelna,1250,284,7103,1250,2,100,2,2,2,3,Kelna,Eria,1,#
+Meteli Park,Meteli,1500,445,7677,1500,2,100,2,2,2,3,Meteli,Eria,1,#
+Moressley Park,Moressley,2000,633,4254,2000,2,100,2,2,2,3,Moressley,Eria,1,#
+Myrefall Park,Myrefall,2000,698,6824,2000,2,100,2,2,2,3,Myrefall,Eria,1,#
+Penketh Park,Penketh,2500,628,7829,2500,2,100,2,2,2,3,Penketh,Eria,1,#
+Pinnella Park,Pinnella Pass,1250,298,10339,1250,2,100,2,2,2,3,Pinnella Pass,Eria,1,#
+Astarya National Stadium,Thule,40000,40000,0,40000,1,100,2,1,2,2,,Astarya,1,#
+Cyrasia National Stadium,Ozor,38000,38000,0,38000,1,100,2,1,2,2,,Cyrasia,1,#
+Toosil National Stadium,Toosil,53000,53000,0,53000,1,100,2,1,2,2,,North Azura,1,#
+Estadio San Joaquin,San Ignacio,41000,41000,0,41000,1,100,2,1,2,2,,Recalada,1,#
+King George Stadium,Aspax,67000,67000,0,67000,1,100,2,1,2,2,,South Azura,1,#
+Eastcliff National Stadium,Eastcliff,8000,8000,0,8000,1,100,2,1,2,2,,Albini,1,#
+Coconut Grove Stadium,Kelna,6000,6000,0,6000,1,100,2,1,2,2,,Eria,1,#
+George Washington Stadium,Washington,80000,80000,0,80000,1,100,2,1,2,2,,Montaria,1,#
+Thulegarten,Thule,250,796,513,250,2,100,2,2,2,3,Thule Amateure,Astarya,1,#
+Umosgarten,Umos,250,664,939,250,2,100,2,2,2,3,Umos Amateure,Astarya,1,#
+Parco Cardinale,Cardinale,250,756,1833,250,2,100,2,2,2,3,Cardinale Amateure,Astarya,1,#
+Parc de Genod,Genod,250,835,1421,250,2,100,2,2,2,3,Genod Amateure,Astarya,1,#
+Parco Mara,Mara,500,491,1645,500,2,100,2,2,2,3,Mara Amateure,Astarya,1,#
+Apargarten,Apar,250,966,1105,250,2,100,2,2,2,3,Apar Amateure,Astarya,1,#
+Park Ghil,Ghil,750,767,875,750,2,100,2,2,2,3,Ghil Amateure,Astarya,1,#
+Zenit Kerek Stadium,Kerekhalom,1500,464,3228,1500,2,100,2,2,2,3,FC Zenit Kerekhalom,Cyrasia,1,#
+Oslium Zenit Stadium,Oslium,1625,907,1823,1625,2,100,2,2,2,3,FC Zenit Oslium,Cyrasia,1,#
+Zenit Suules Stadium,Suules,1875,486,2925,1875,2,100,2,2,2,3,FC Zenit Suules,Cyrasia,1,#
+Zenit Yanto Stadium,Yanto,1375,756,2025,1375,2,100,2,2,2,3,FC Zenit Yanto,Cyrasia,1,#
+Adamslie Park,Brightwald,1345,538,4984,1345,1,100,2,2,2,4,Brightwald Youth Club,South Azura,1,#
+Swynfort Park,Swynfort,1629,652,9592,1629,1,100,2,2,2,4,Swynfort,South Azura,1,#
+Wildeborne Park,Wildeborne,1510,604,5602,1510,1,100,2,2,2,4,Wildeborne Wanderers,South Azura,1,#
+Wyvernston Field,Wyvernston,1500,450,9188,1500,1,100,2,2,2,4,Wyvernston Park,South Azura,1,#
+Racecourse Ground,Belfield,1431,429,4128,1431,1,100,2,2,2,4,Belfield Amateurs,South Azura,1,#
+Lordale Park,Lordale,1499,450,8040,1499,1,100,2,2,2,4,Lordale Juniors,South Azura,1,#
+Oldwell Park,Oldwell,459,46,3877,459,1,100,2,2,2,4,Oldwell Youths,South Azura,1,#
+George Benson Ground,Kiru,2159,1209,11812,2159,1,100,2,2,2,4,Kiru,Gobia,1,#
+Samuel Makokoni Park,Makokoni,7345,5876,14084,7345,1,100,2,2,2,4,Makokoni,Gobia,1,#
+Kagera Port,Kagera Port,8543,8543,16902,8543,1,100,2,2,2,4,Kagera Port,Gobia,1,#
+Seba Field,Seba,4650,465,9300,4650,2,100,2,2,2,3,Seba,Aerugo,1,#
+Hena Stadium,Hena,2048,205,4096,2048,2,100,2,2,2,3,Hena,Aerugo,1,#
+Dina Community Stadium,Dina,3344,334,6688,3344,2,100,2,2,2,3,Dina,Aerugo,1,#
+Nekhur Stadium,Nekhur,5431,543,10862,5431,2,100,2,2,2,3,Nekhur,Aerugo,1,#
+Semna Stadium,Semna,5386,539,10772,5386,2,100,2,2,2,3,Semna,Aerugo,1,#
+Arnak Field,Arnak,3344,334,6688,3344,2,100,2,2,2,3,Arnak,Aerugo,1,#
+Port Aurelia Field,Port Aurelia,6611,661,13222,6611,2,100,2,2,2,3,Port Aurelia,Aurelia,1,#
+Elis Field,Elis,2910,291,5820,2910,2,100,2,2,2,3,Elis,Aurelia,1,#
+Assus Community Stadium,Assus,1998,200,3996,1998,2,100,2,2,2,3,Assus,Aurelia,1,#
+Mene Arena,Mene,4840,484,9680,4840,2,100,2,2,2,3,Mene,Aurelia,1,#
+Enens Arena,Enens,2902,290,5804,2902,2,100,2,2,2,3,Enens,Aurelia,1,#
+Halos Arena,Halos,3519,352,7038,3519,2,100,2,2,2,3,Halos,Aurelia,1,#
+Acyra Park,Acyra,3307,331,6614,3307,2,100,2,2,2,3,Acyra,Aurelia,1,#
+Kassia Field,Kassia,3854,385,7708,3854,2,100,2,2,2,3,Kassia,Aurelia,1,#
+Laeusia Park,Laeusia,3532,353,7064,3532,2,100,2,2,2,3,Laeusia,Aurelia,1,#
+Egalo Community Stadium,Egalo,6342,634,12684,6342,2,100,2,2,2,3,Egalo,Aurelia,1,#
+Aros Community Stadium,Aros,3751,375,7502,3751,2,100,2,2,2,3,Aros,Aurelia,1,#
+Manta Community Stadium,Manta,3106,311,6212,3106,2,100,2,2,2,3,Manta,Aurelia,1,#
+Port Bielya Community Stadium,Port Bielya,2739,274,5478,2739,2,100,2,2,2,3,Port Bielya,Bielya,1,#
+Bernifell Stadium,Bernifell,4987,499,9974,4987,2,100,2,2,2,3,Bernifell,Bielya,1,#
+Henevik Stadium,Henevik,3897,390,7794,3897,2,100,2,2,2,3,Henevik,Bielya,1,#
+Amarholm Arena,Amarholm,4140,414,8280,4140,2,100,2,2,2,3,Amarholm,Bielya,1,#
+Port Creta Arena,Port Creta,5065,507,10130,5065,2,100,2,2,2,3,Port Creta,Creta,1,#
+Marburgh Arena,Marburgh,2975,298,5950,2975,2,100,2,2,2,3,Marburgh,Creta,1,#
+Grenton Community Stadium,Grenton,7831,783,15662,7831,2,100,2,2,2,3,Grenton,Creta,1,#
+Gloslake Arena,Gloslake,7346,735,14692,7346,2,100,2,2,2,3,Gloslake,Creta,1,#
+Mene Field,Mene,5029,503,10058,5029,2,100,2,2,2,3,Mene,Aurelia,1,#
+Byde Park,Byde,4734,473,9468,4734,2,100,2,2,2,3,Byde,Creta,1,#
+Delphi Park,Delphi,5923,592,11846,5923,2,100,2,2,2,3,Delphi,Creta,1,#
+Cynthi Field,Cynthi,6612,661,13224,6612,2,100,2,2,2,3,Cynthi,Creta,1,#
+Port Fiore Arena,Port Fiore,2265,227,4530,2265,2,100,2,2,2,3,Port Fiore,Fiore,1,#
+Lentia Park,Lentia,5413,541,10826,5413,2,100,2,2,2,3,Lentia,Fiore,1,#
+Capuum Field,Capuum,5502,550,11004,5502,2,100,2,2,2,3,Capuum,Fiore,1,#
+Lodia Park,Lodia,3023,302,6046,3023,2,100,2,2,2,3,Lodia,Fiore,1,#
+Mogium Arena,Mogium,5377,538,10754,5377,2,100,2,2,2,3,Mogium,Fiore,1,#
+Agusum Field,Agusum,7393,739,14786,7393,2,100,2,2,2,3,Agusum,Fiore,1,#
+Arpica Park,Arpica,5433,543,10866,5433,2,100,2,2,2,3,Arpica,Fiore,1,#
+Atiala Park,Atiala,4086,409,8172,4086,2,100,2,2,2,3,Atiala,Fiore,1,#
+Cayhill Community Stadium,Cayhill,9091,909,18182,9091,2,100,2,2,2,3,Cayhill,Gilead,1,#
+Peminster Park,Peminster,7200,720,14400,7200,2,100,2,2,2,3,Peminster,Gilead,1,#
+Cobrook Park,Cobrook,7310,731,14620,7310,2,100,2,2,2,3,Cobrook,Gilead,1,#
+Ramoor Arena,Ramoor,3634,363,7268,3634,2,100,2,2,2,3,Ramoor,Gilead,1,#
+Caford Arena,Caford,4259,426,8518,4259,2,100,2,2,2,3,Caford,Gilead,1,#
+Hibury Field,Hibury,3125,313,6250,3125,2,100,2,2,2,3,Hibury,Gilead,1,#
+Wyeton Park,Wyeton,4701,470,9402,4701,2,100,2,2,2,3,Wyeton,Gilead,1,#
+Knefalls Park,Knefalls,2883,288,5766,2883,2,100,2,2,2,3,Knefalls,Gilead,1,#
+Cara Arena,Cara,11143,1114,22286,11143,2,100,2,2,2,3,Cara,Laurania,1,#
+Chieto Field,Chieto,2656,266,5312,2656,2,100,2,2,2,3,Chieto,Laurania,1,#
+Massa Park,Massa,3471,347,6942,3471,2,100,2,2,2,3,Massa,Laurania,1,#
+Vicia Community Stadium,Vicia,6095,610,12190,6095,2,100,2,2,2,3,Vicia,Laurania,1,#
+Pobia Stadium,Pobia,9557,956,19114,9557,2,100,2,2,2,3,Pobia,Laurania,1,#
+Vena Community Stadium,Vena,5336,534,10672,5336,2,100,2,2,2,3,Vena,Laurania,1,#
+Astellthorp Arena,Astellthorp,9447,945,18894,9447,2,100,2,2,2,3,Astellthorp,Norland,1,#
+Rikibyr Arena,Rikibyr,1667,167,3334,1667,2,100,2,2,2,3,Rikibyr,Norland,1,#
+Naribyr Field,Naribyr,5447,545,10894,5447,2,100,2,2,2,3,Naribyr,Norland,1,#
+Holvefell Park,Holvefell,7475,748,14950,7475,2,100,2,2,2,3,Holvefell,Norland,1,#
+Naaba Stadium,Naaba,4349,435,8698,4349,2,100,2,2,2,3,Naaba,Rovka,1,#
+Baheii Park,Baheii,5029,503,10058,5029,2,100,2,2,2,3,Baheii,Rovka,1,#
+Tsidi Park,Tsidi,3649,365,7298,3649,2,100,2,2,2,3,Tsidi,Rovka,1,#
+Hili Arena,Hili,5944,594,11888,5944,2,100,2,2,2,3,Hili,Rovka,1,#
+Ahish Stadium,Ahish,6053,605,12106,6053,2,100,2,2,2,3,Ahish,Sunda,1,#
+Aleah Park,Aleah,2969,297,5938,2969,2,100,2,2,2,3,Aleah,Sunda,1,#
+Iisah Arena,Iisah,4139,414,8278,4139,2,100,2,2,2,3,Iisah,Sunda,1,#
+Sidi Park,Sidi,2478,248,4956,2478,2,100,2,2,2,3,Sidi,Sunda,1,#
+== Finished building stadiums - 454 passed / 0 fails
+-- Finished running for Adam Grace Stadium - 2015/02/22 03:49:37
+-- Finished running for Addersfield - 2015/02/22 03:49:50
+-- Finished running for Afsmus Arena - 2015/02/22 03:50:03
+-- Finished running for Allardt Arena - 2015/02/22 03:50:15
+-- Finished running for Alsea Arena - 2015/02/22 03:50:28
+-- Finished running for Ampleforth Park - 2015/02/22 03:50:41
+-- Finished running for Anium Sports Complex - 2015/02/22 03:50:54
+-- Finished running for Aplua Park - 2015/02/22 03:51:07
+-- Finished running for Arcso Stadium - 2015/02/22 03:51:20
+-- Finished running for Ardfearn Field - 2015/02/22 03:51:32
+-- Finished running for Arena Boreas - 2015/02/22 03:51:45
+-- Finished running for Arena Pioneer - 2015/02/22 03:51:58
+-- Finished running for Arkney Dock - 2015/02/22 03:52:10
+-- Finished running for Ashtabula Arena - 2015/02/22 03:52:24
+-- Finished running for Aslerstadion - 2015/02/22 03:52:36
+-- Finished running for Asnela Stadium - 2015/02/22 03:52:49
+-- Finished running for Ayar Arena - 2015/02/22 03:53:01
+-- Finished running for Ayar Stadium - 2015/02/22 03:53:14
+-- Finished running for Ayil Arena - 2015/02/22 03:53:27
+-- Finished running for Barfreston Hall - 2015/02/22 03:53:40
+-- Finished running for Beerenberg Field - 2015/02/22 03:53:54
+-- Finished running for Benfield Road - 2015/02/22 03:54:07
+-- Finished running for Bens Park - 2015/02/22 03:54:20
+-- Finished running for Bergpark - 2015/02/22 03:54:32
+-- Finished running for Blubridge Park - 2015/02/22 03:54:46
+-- Finished running for Blue Star Bowl - 2015/02/22 03:54:59
+-- Finished running for Boburg Bowl - 2015/02/22 03:55:11
+-- Finished running for Boburg Stadium - 2015/02/22 03:55:24
+-- Finished running for Border Park - 2015/02/22 03:55:37
+-- Finished running for Bramley Street - 2015/02/22 03:55:51
+-- Finished running for Calcheth Park - 2015/02/22 03:56:04
+-- Finished running for Cartmel Ground - 2015/02/22 03:56:17
+-- Finished running for Caskill Lane - 2015/02/22 03:56:29
+-- Finished running for City Ground - 2015/02/22 03:56:42
+-- Finished running for City of Ehar Arena - 2015/02/22 03:56:56
+-- Finished running for Ciyosil Park - 2015/02/22 03:57:08
+-- Finished running for Ciyosilstadion - 2015/02/22 03:57:21
+-- Finished running for Clearville Road - 2015/02/22 03:57:34
+-- Finished running for Cleeve Road - 2015/02/22 03:57:47
+-- Finished running for Cliff Road - 2015/02/22 03:58:00
+-- Finished running for Cliff View - 2015/02/22 03:58:13
+-- Finished running for Colts Field - 2015/02/22 03:58:26
+-- Finished running for Complexe Osmal - 2015/02/22 03:58:39
+-- Finished running for Crast Tundra - 2015/02/22 03:58:52
+-- Finished running for Crease Crescent - 2015/02/22 03:59:05
+-- Finished running for Crewkerne Arena - 2015/02/22 03:59:18
+-- Finished running for Dachtelpark - 2015/02/22 03:59:30
+-- Finished running for De Krom - 2015/02/22 03:59:43
+-- Finished running for Deburg Stadium - 2015/02/22 03:59:56
+-- Finished running for Deepston Stadium - 2015/02/22 04:00:09
+-- Finished running for Deerlake Park - 2015/02/22 04:00:21
+-- Finished running for Del City Stadium - 2015/02/22 04:00:34
+-- Finished running for Dele Sports Complex - 2015/02/22 04:00:47
+-- Finished running for Dorville Field - 2015/02/22 04:01:00
+-- Finished running for Easthallow Park - 2015/02/22 04:01:14
+-- Finished running for Edgefield - 2015/02/22 04:01:27
+-- Finished running for Eelry Arena - 2015/02/22 04:01:39
+-- Finished running for Enoshill - 2015/02/22 04:01:52
+-- Finished running for Eplzen Stadium - 2015/02/22 04:02:05
+-- Finished running for Eresingstadion - 2015/02/22 04:02:18
+-- Finished running for Erith Park - 2015/02/22 04:02:31
+-- Finished running for Erith Stadium - 2015/02/22 04:02:43
+-- Finished running for Eros Park - 2015/02/22 04:02:56
+-- Finished running for Esmen Stadium - 2015/02/22 04:03:09
+-- Finished running for Esnus Park - 2015/02/22 04:03:22
+-- Finished running for Esnus Stadium - 2015/02/22 04:03:35
+-- Finished running for Estadio Achupallas - 2015/02/22 04:03:48
+-- Finished running for Estadio Alfacar - 2015/02/22 04:04:01
+-- Finished running for Estadio Andres Juan - 2015/02/22 04:04:14
+-- Finished running for Estadio Asar - 2015/02/22 04:04:27
+-- Finished running for Estadio Azon - 2015/02/22 04:04:40
+-- Finished running for Estadio Cadret - 2015/02/22 04:04:52
+-- Finished running for Estadio Cantabrana - 2015/02/22 04:05:06
+-- Finished running for Estadio Cheques - 2015/02/22 04:05:19
+-- Finished running for Estadio Chuco - 2015/02/22 04:05:32
+-- Finished running for Estadio Conia - 2015/02/22 04:05:45
+-- Finished running for Estadio Cozcojar - 2015/02/22 04:05:58
+-- Finished running for Estadio Cutiellos - 2015/02/22 04:06:11
+-- Finished running for Estadio Espinilho - 2015/02/22 04:06:24
+-- Finished running for Estadio Estevino - 2015/02/22 04:06:37
+-- Finished running for Estadio Fernando - 2015/02/22 04:06:50
+-- Finished running for Estadio Ferreros - 2015/02/22 04:07:03
+-- Finished running for Estadio Gerena - 2015/02/22 04:07:16
+-- Finished running for Estadio Itambe - 2015/02/22 04:07:29
+-- Finished running for Estadio Jetan - 2015/02/22 04:07:42
+-- Finished running for Estadio Juan Jose - 2015/02/22 04:07:54
+-- Finished running for Estadio Mondego - 2015/02/22 04:08:08
+-- Finished running for Estadio Montanha - 2015/02/22 04:08:20
+-- Finished running for Estadio Puqua - 2015/02/22 04:08:34
+-- Finished running for Estadio Puvania - 2015/02/22 04:08:47
+-- Finished running for Estadio Redonda - 2015/02/22 04:09:00
+-- Finished running for Estadio San Ignacio - 2015/02/22 04:09:13
+-- Finished running for Estadio Sania - 2015/02/22 04:09:26
+-- Finished running for Estadio Teji - 2015/02/22 04:09:39
+-- Finished running for Estadio Teseador - 2015/02/22 04:09:52
+-- Finished running for Estadio Udaria - 2015/02/22 04:10:05
+-- Finished running for Estadio Uhain - 2015/02/22 04:10:18
+-- Finished running for Estadio Umirim - 2015/02/22 04:10:31
+-- Finished running for Estadio Uspary - 2015/02/22 04:10:44
+-- Finished running for Estadio Vieytes - 2015/02/22 04:10:57
+-- Finished running for Estadio Vilela - 2015/02/22 04:11:10
+-- Finished running for Estadio Yapac - 2015/02/22 04:11:22
+-- Finished running for Eyad Stadium - 2015/02/22 04:11:35
+-- Finished running for Fairbanks Stadium - 2015/02/22 04:11:48
+-- Finished running for Fairlight Field - 2015/02/22 04:12:01
+-- Finished running for Falmouth Road - 2015/02/22 04:12:14
+-- Finished running for Falnaird Field - 2015/02/22 04:12:27
+-- Finished running for Farmouth Road - 2015/02/22 04:12:40
+-- Finished running for Fenia Field - 2015/02/22 04:12:53
+-- Finished running for Fenwick View - 2015/02/22 04:13:06
+-- Finished running for Fodora Stadium - 2015/02/22 04:13:18
+-- Finished running for Forth View - 2015/02/22 04:13:31
+-- Finished running for Four Lakes Stadium - 2015/02/22 04:13:45
+-- Finished running for Fox Corner - 2015/02/22 04:13:57
+-- Finished running for Freeway Point - 2015/02/22 04:14:10
+-- Finished running for Fruithurst Field - 2015/02/22 04:14:23
+-- Finished running for Fusilier Field - 2015/02/22 04:14:36
+-- Finished running for Garmsby Arena - 2015/02/22 04:14:49
+-- Finished running for Gayfield - 2015/02/22 04:15:01
+-- Finished running for Genod Arena - 2015/02/22 04:15:14
+-- Finished running for George Avenue - 2015/02/22 04:15:27
+-- Finished running for Ghil Schussel - 2015/02/22 04:15:39
+-- Finished running for Glasslyn Park - 2015/02/22 04:15:52
+-- Finished running for Goca Park - 2015/02/22 04:16:05
+-- Finished running for Goodrich Ground - 2015/02/22 04:16:18
+-- Finished running for Graycott Field - 2015/02/22 04:16:31
+-- Finished running for Greater Hampden - 2015/02/22 04:16:44
+-- Finished running for Greens Field - 2015/02/22 04:16:57
+-- Finished running for Greyapple Park - 2015/02/22 04:17:10
+-- Finished running for Greymoor Park - 2015/02/22 04:17:23
+-- Finished running for Grypoort Stadium - 2015/02/22 04:17:36
+-- Finished running for Hampton Road - 2015/02/22 04:17:48
+-- Finished running for Hatfield Park - 2015/02/22 04:18:01
+-- Finished running for Hawkhead - 2015/02/22 04:18:14
+-- Finished running for Hepburn Lane - 2015/02/22 04:18:26
+-- Finished running for Het Kasteel - 2015/02/22 04:18:39
+-- Finished running for Hever View - 2015/02/22 04:18:52
+-- Finished running for Higginson Field - 2015/02/22 04:19:05
+-- Finished running for Highlake Arena - 2015/02/22 04:19:18
+-- Finished running for Iceford Park - 2015/02/22 04:19:30
+-- Finished running for Ichwein Arena - 2015/02/22 04:19:43
+-- Finished running for Iglgos Park - 2015/02/22 04:19:56
+-- Finished running for Imatsu Stadium - 2015/02/22 04:20:10
+-- Finished running for Inchkeld Park - 2015/02/22 04:20:23
+-- Finished running for Island Overlook - 2015/02/22 04:20:36
+-- Finished running for Ismrus Stadium - 2015/02/22 04:20:49
+-- Finished running for Iza Stadium - 2015/02/22 04:21:01
+-- Finished running for John Smith Field - 2015/02/22 04:21:14
+-- Finished running for Kavania Park - 2015/02/22 04:21:27
+-- Finished running for Keldbrook Arena - 2015/02/22 04:21:40
+-- Finished running for Kerekhalom Stadium - 2015/02/22 04:21:53
+-- Finished running for Khatyb Stadium - 2015/02/22 04:22:06
+-- Finished running for Kilin Stadium - 2015/02/22 04:22:18
+-- Finished running for La Creuset - 2015/02/22 04:22:31
+-- Finished running for Lanfield - 2015/02/22 04:22:44
+-- Finished running for Lennon Park - 2015/02/22 04:22:57
+-- Finished running for Linhedge Field - 2015/02/22 04:23:10
+-- Finished running for Linmeadow Field - 2015/02/22 04:23:23
+-- Finished running for Lochside Park - 2015/02/22 04:23:36
+-- Finished running for Logro Square - 2015/02/22 04:23:48
+-- Finished running for Lora Park - 2015/02/22 04:24:01
+-- Finished running for Lowbury - 2015/02/22 04:24:14
+-- Finished running for Lublin Park - 2015/02/22 04:24:27
+-- Finished running for Ludgershall - 2015/02/22 04:24:40
+-- Finished running for Ludwigsfeld - 2015/02/22 04:24:53
+-- Finished running for Machinostroitel - 2015/02/22 04:25:06
+-- Finished running for Macireni Stadium - 2015/02/22 04:25:18
+-- Finished running for Mara Park - 2015/02/22 04:25:31
+-- Finished running for Mara Stadium - 2015/02/22 04:25:43
+-- Finished running for Margine Stadium - 2015/02/22 04:25:56
+-- Finished running for McDonald Park - 2015/02/22 04:26:09
+-- Finished running for Melcome Field - 2015/02/22 04:26:23
+-- Finished running for Memorial Stadium - 2015/02/22 04:26:35
+-- Finished running for Mengete Field - 2015/02/22 04:26:48
+-- Finished running for Mermecs Stadium - 2015/02/22 04:27:01
+-- Finished running for Mill Road - 2015/02/22 04:27:14
+-- Finished running for Millway Road - 2015/02/22 04:27:26
+-- Finished running for Mindon Stadium - 2015/02/22 04:27:39
+-- Finished running for Misto Stadium - 2015/02/22 04:27:52
+-- Finished running for Mistra Stadium - 2015/02/22 04:28:05
+-- Finished running for Morborough Road - 2015/02/22 04:28:18
+-- Finished running for Mount Point - 2015/02/22 04:28:31
+-- Finished running for Mountain View - 2015/02/22 04:28:44
+-- Finished running for Mournstead Stadium - 2015/02/22 04:28:58
+-- Finished running for Muldraugh Park - 2015/02/22 04:29:10
+-- Finished running for Muldraugh Stadium - 2015/02/22 04:29:24
+-- Finished running for Murlay Road - 2015/02/22 04:29:37
+-- Finished running for Murlayfield Park - 2015/02/22 04:29:50
+-- Finished running for Neukamernstadion - 2015/02/22 04:30:04
+-- Finished running for New Brinkburn Park - 2015/02/22 04:30:17
+-- Finished running for New Davies Park - 2015/02/22 04:30:30
+-- Finished running for New Glory Road - 2015/02/22 04:30:43
+-- Finished running for New Highedge - 2015/02/22 04:30:56
+-- Finished running for Newbury Road - 2015/02/22 04:31:09
+-- Finished running for Newmist Park - 2015/02/22 04:31:22
+-- Finished running for Oclela Stadium - 2015/02/22 04:31:34
+-- Finished running for Ocsnos Stadium - 2015/02/22 04:31:47
+-- Finished running for Old Durness Road - 2015/02/22 04:32:00
+-- Finished running for Old Highedge - 2015/02/22 04:32:13
+-- Finished running for Old Highground - 2015/02/22 04:32:26
+-- Finished running for Old Sleaford Park - 2015/02/22 04:32:39
+-- Finished running for Omgresh Stadium - 2015/02/22 04:32:52
+-- Finished running for Oslium Stadium - 2015/02/22 04:33:05
+-- Finished running for Osprey Field - 2015/02/22 04:33:18
+-- Finished running for Osterstadion - 2015/02/22 04:33:31
+-- Finished running for Ozor Bowl - 2015/02/22 04:33:43
+-- Finished running for Paburg Stadium - 2015/02/22 04:33:56
+-- Finished running for Pankasz Stadium - 2015/02/22 04:34:09
+-- Finished running for Park Edhof - 2015/02/22 04:34:21
+-- Finished running for Parker Street - 2015/02/22 04:34:34
+-- Finished running for Paton Park - 2015/02/22 04:34:47
+-- Finished running for Peretshofen Park - 2015/02/22 04:35:00
+-- Finished running for Pfabenstadion - 2015/02/22 04:35:13
+-- Finished running for Oakmarsh Field - 2015/02/22 04:35:26
+-- Finished running for Plavil'nyy Kotel - 2015/02/22 04:35:38
+-- Finished running for Podor Park - 2015/02/22 04:35:51
+-- Finished running for Port Haver Stadium - 2015/02/22 04:36:05
+-- Finished running for Rigby Park - 2015/02/22 04:36:17
+-- Finished running for River View - 2015/02/22 04:36:30
+-- Finished running for Riverbank Stadium - 2015/02/22 04:36:43
+-- Finished running for Riverforth Park - 2015/02/22 04:36:57
+-- Finished running for Riverside - 2015/02/22 04:37:09
+-- Finished running for Rogate Road - 2015/02/22 04:37:22
+-- Finished running for Rover Park - 2015/02/22 04:37:34
+-- Finished running for Schottershuizenstadion - 2015/02/22 04:37:48
+-- Finished running for Seaside - 2015/02/22 04:38:01
+-- Finished running for Shackleton Field - 2015/02/22 04:38:14
+-- Finished running for Shackleton Memorial Park - 2015/02/22 04:38:27
+-- Finished running for Shongwe Stadium - 2015/02/22 04:38:40
+-- Finished running for Shoreham Park - 2015/02/22 04:38:53
+-- Finished running for Silvermill Park - 2015/02/22 04:39:06
+-- Finished running for Silverston Stadium - 2015/02/22 04:39:19
+-- Finished running for Snowground Park - 2015/02/22 04:39:32
+-- Finished running for Spell Stadium - 2015/02/22 04:39:45
+-- Finished running for Stade de Chione - 2015/02/22 04:39:58
+-- Finished running for Stade de Foce - 2015/02/22 04:40:11
+-- Finished running for Stade de Louis Pamplon - 2015/02/22 04:40:24
+-- Finished running for Stade de Sizun - 2015/02/22 04:40:37
+-- Finished running for Stade de Tarabel - 2015/02/22 04:40:51
+-- Finished running for Stade do Oyonnax - 2015/02/22 04:41:04
+-- Finished running for Stade du Tivoli  - 2015/02/22 04:41:17
+-- Finished running for Stade Genod - 2015/02/22 04:41:29
+-- Finished running for Stade Hans Furth - 2015/02/22 04:41:42
+-- Finished running for Stade Pimprez - 2015/02/22 04:41:56
+-- Finished running for Stade Saint-Acthela - 2015/02/22 04:42:09
+-- Finished running for Stade Saint-Claire - 2015/02/22 04:42:22
+-- Finished running for Stadio Abus - 2015/02/22 04:42:35
+-- Finished running for Stadio Cardinale - 2015/02/22 04:42:48
+-- Finished running for Stadio Luttach - 2015/02/22 04:43:01
+-- Finished running for Stadio Murialdo - 2015/02/22 04:43:14
+-- Finished running for Stadio san Marc - 2015/02/22 04:43:27
+-- Finished running for Stadio san Paulo - 2015/02/22 04:43:40
+-- Finished running for Stadion am berg - 2015/02/22 04:43:53
+-- Finished running for Stadion am wasser - 2015/02/22 04:44:06
+-- Finished running for Staveren Stadion - 2015/02/22 04:44:19
+-- Finished running for Suules Stadium - 2015/02/22 04:44:32
+-- Finished running for Swyngate Field - 2015/02/22 04:44:45
+-- Finished running for Takahama Bowl - 2015/02/22 04:44:58
+-- Finished running for Tergaron Square - 2015/02/22 04:45:11
+-- Finished running for The Dale - 2015/02/22 04:45:24
+-- Finished running for The Dall - 2015/02/22 04:45:36
+-- Finished running for The Etymol - 2015/02/22 04:45:49
+-- Finished running for The Foxhole - 2015/02/22 04:46:02
+-- Finished running for The Gables - 2015/02/22 04:46:15
+-- Finished running for The Hole - 2015/02/22 04:46:28
+-- Finished running for The New Den - 2015/02/22 04:46:41
+-- Finished running for The Orchard - 2015/02/22 04:46:53
+-- Finished running for The Outlook - 2015/02/22 04:47:07
+-- Finished running for The Riverside - 2015/02/22 04:47:19
+-- Finished running for Thomson Memorial Field - 2015/02/22 04:47:32
+-- Finished running for Thule Arena - 2015/02/22 04:47:45
+-- Finished running for Thulestadion - 2015/02/22 04:47:58
+-- Finished running for Tilly Avenue - 2015/02/22 04:48:11
+-- Finished running for Tobermory Field - 2015/02/22 04:48:24
+-- Finished running for Tonaki Stadium - 2015/02/22 04:48:37
+-- Finished running for Toosilhill Park - 2015/02/22 04:48:50
+-- Finished running for Transway Road - 2015/02/22 04:49:03
+-- Finished running for Umos Park - 2015/02/22 04:49:15
+-- Finished running for Venzor Arena - 2015/02/22 04:49:29
+-- Finished running for Vertholt Park - 2015/02/22 04:49:42
+-- Finished running for Villa Field - 2015/02/22 04:49:55
+-- Finished running for Vleirivier Park - 2015/02/22 04:50:08
+-- Finished running for Voyalia View - 2015/02/22 04:50:21
+-- Finished running for Walpole Park - 2015/02/22 04:50:34
+-- Finished running for Walton Road - 2015/02/22 04:50:47
+-- Finished running for Warrior Field - 2015/02/22 04:51:00
+-- Finished running for Wellspring Park - 2015/02/22 04:51:13
+-- Finished running for Welor Park - 2015/02/22 04:51:26
+-- Finished running for West Coldfield - 2015/02/22 04:51:39
+-- Finished running for Westward Field - 2015/02/22 04:51:52
+-- Finished running for Witham Park - 2015/02/22 04:52:05
+-- Finished running for Wolf Stadion - 2015/02/22 04:52:18
+-- Finished running for Yanto Stadium - 2015/02/22 04:52:31
+-- Finished running for Yucor Point - 2015/02/22 04:52:44
+-- Finished running for Zedan Stadium - 2015/02/22 04:52:57
+-- Finished running for Saint Elias Stadium - 2015/02/22 04:53:11
+-- Finished running for Mensfield Road - 2015/02/22 04:53:24
+-- Finished running for Wolfden Park - 2015/02/22 04:53:37
+-- Finished running for Forders Cove - 2015/02/22 04:53:49
+-- Finished running for Limemill Park - 2015/02/22 04:54:02
+-- Finished running for George Square - 2015/02/22 04:54:15
+-- Finished running for Ironhaven Park - 2015/02/22 04:54:28
+-- Finished running for Edward Road - 2015/02/22 04:54:40
+-- Finished running for Northon Road - 2015/02/22 04:54:53
+-- Finished running for Braedon Park - 2015/02/22 04:55:06
+-- Finished running for Swindmore Field - 2015/02/22 04:55:19
+-- Finished running for Briar Park - 2015/02/22 04:55:31
+-- Finished running for Findochty Railway Yard - 2015/02/22 04:55:45
+-- Finished running for Nerton Field - 2015/02/22 04:55:57
+-- Finished running for Erostey Park - 2015/02/22 04:56:10
+-- Finished running for Wheldrake Arena - 2015/02/22 04:56:23
+-- Finished running for Larkinge Hill - 2015/02/22 04:56:36
+-- Finished running for Farncombe Field - 2015/02/22 04:56:49
+-- Finished running for Dalelry Rail Yard - 2015/02/22 04:57:02
+-- Finished running for Braedon Field - 2015/02/22 04:57:15
+-- Finished running for Michaels Field - 2015/02/22 04:57:28
+-- Finished running for Erostey Road - 2015/02/22 04:57:40
+-- Finished running for Findochty Field - 2015/02/22 04:57:53
+-- Finished running for Foolshope Field - 2015/02/22 04:58:06
+-- Finished running for Sanlow Stadium - 2015/02/22 04:58:19
+-- Finished running for Barkam Stadium - 2015/02/22 04:58:32
+-- Finished running for Doveport Arena - 2015/02/22 04:58:45
+-- Finished running for Berkton Stadium - 2015/02/22 04:58:58
+-- Finished running for Bexley Field - 2015/02/22 04:59:11
+-- Finished running for Orilon Field - 2015/02/22 04:59:24
+-- Finished running for Eisley Stadium - 2015/02/22 04:59:37
+-- Finished running for Ulrich Arena - 2015/02/22 04:59:50
+-- Finished running for Port Springfield Stadium - 2015/02/22 05:00:04
+-- Finished running for Ringchurch Field - 2015/02/22 05:00:17
+-- Finished running for Aldby Arsenal Arena - 2015/02/22 05:00:30
+-- Finished running for Birkenleen Square Arena - 2015/02/22 05:00:44
+-- Finished running for Berend Park - 2015/02/22 05:00:57
+-- Finished running for Trentstone Sporting Complex - 2015/02/22 05:01:10
+-- Finished running for George Field - 2015/02/22 05:01:24
+-- Finished running for Carver Park - 2015/02/22 05:01:36
+-- Finished running for Lincoln Arena - 2015/02/22 05:01:49
+-- Finished running for Haverville - 2015/02/22 05:02:02
+-- Finished running for Ogdenbrooke Arena - 2015/02/22 05:02:15
+-- Finished running for Charlotteville Park - 2015/02/22 05:02:29
+-- Finished running for Fort Park - 2015/02/22 05:02:42
+-- Finished running for Hopeland Stadium - 2015/02/22 05:02:55
+-- Finished running for Aberuthven Park - 2015/02/22 05:03:08
+-- Finished running for Aquarin Park - 2015/02/22 05:03:21
+-- Finished running for Brickelwhyte Park - 2015/02/22 05:03:34
+-- Finished running for Burrafirth Park - 2015/02/22 05:03:47
+-- Finished running for Calmarnock Park - 2015/02/22 05:04:00
+-- Finished running for Darkwell Park - 2015/02/22 05:04:13
+-- Finished running for Drumnacanvy Park - 2015/02/22 05:04:26
+-- Finished running for Dunwich Park - 2015/02/22 05:04:39
+-- Finished running for Eastcliff Park - 2015/02/22 05:04:52
+-- Finished running for Fallholt Park - 2015/02/22 05:05:05
+-- Finished running for Galssop Park - 2015/02/22 05:05:18
+-- Finished running for Halsworthy Park - 2015/02/22 05:05:31
+-- Finished running for Hewe Park - 2015/02/22 05:05:43
+-- Finished running for Holmfirth Park - 2015/02/22 05:05:56
+-- Finished running for Kelna Park - 2015/02/22 05:06:09
+-- Finished running for Meteli Park - 2015/02/22 05:06:22
+-- Finished running for Moressley Park - 2015/02/22 05:06:35
+-- Finished running for Myrefall Park - 2015/02/22 05:06:47
+-- Finished running for Penketh Park - 2015/02/22 05:07:00
+-- Finished running for Pinnella Park - 2015/02/22 05:07:13
+-- Finished running for Astarya National Stadium - 2015/02/22 05:07:27
+-- Finished running for Cyrasia National Stadium - 2015/02/22 05:07:40
+-- Finished running for Toosil National Stadium - 2015/02/22 05:07:53
+-- Finished running for Estadio San Joaquin - 2015/02/22 05:08:07
+-- Finished running for King George Stadium - 2015/02/22 05:08:20
+-- Finished running for Eastcliff National Stadium - 2015/02/22 05:08:33
+-- Finished running for Coconut Grove Stadium - 2015/02/22 05:08:46
+-- Finished running for George Washington Stadium - 2015/02/22 05:09:00
+-- Finished running for Thulegarten - 2015/02/22 05:09:12
+-- Finished running for Umosgarten - 2015/02/22 05:09:25
+-- Finished running for Parco Cardinale - 2015/02/22 05:09:38
+-- Finished running for Parc de Genod - 2015/02/22 05:09:50
+-- Finished running for Parco Mara - 2015/02/22 05:10:03
+-- Finished running for Apargarten - 2015/02/22 05:10:15
+-- Finished running for Park Ghil - 2015/02/22 05:10:27
+-- Finished running for Zenit Kerek Stadium - 2015/02/22 05:10:41
+-- Finished running for Oslium Zenit Stadium - 2015/02/22 05:10:54
+-- Finished running for Zenit Suules Stadium - 2015/02/22 05:11:07
+-- Finished running for Zenit Yanto Stadium - 2015/02/22 05:11:20
+-- Finished running for Adamslie Park - 2015/02/22 05:11:33
+-- Finished running for Swynfort Park - 2015/02/22 05:11:46
+-- Finished running for Wildeborne Park - 2015/02/22 05:11:59
+-- Finished running for Wyvernston Field - 2015/02/22 05:12:12
+-- Finished running for Racecourse Ground - 2015/02/22 05:12:25
+-- Finished running for Lordale Park - 2015/02/22 05:12:38
+-- Finished running for Oldwell Park - 2015/02/22 05:12:50
+-- Finished running for George Benson Ground - 2015/02/22 05:13:03
+-- Finished running for Samuel Makokoni Park - 2015/02/22 05:13:17
+-- Finished running for Kagera Port - 2015/02/22 05:13:30
+-- Finished running for Seba Field - 2015/02/22 05:13:42
+-- Finished running for Hena Stadium - 2015/02/22 05:13:55
+-- Finished running for Dina Community Stadium - 2015/02/22 05:14:08
+-- Finished running for Nekhur Stadium - 2015/02/22 05:14:21
+-- Finished running for Semna Stadium - 2015/02/22 05:14:34
+-- Finished running for Arnak Field - 2015/02/22 05:14:46
+-- Finished running for Port Aurelia Field - 2015/02/22 05:15:00
+-- Finished running for Elis Field - 2015/02/22 05:15:12
+-- Finished running for Assus Community Stadium - 2015/02/22 05:15:25
+-- Finished running for Mene Arena - 2015/02/22 05:15:38
+-- Finished running for Enens Arena - 2015/02/22 05:15:50
+-- Finished running for Halos Arena - 2015/02/22 05:16:03
+-- Finished running for Acyra Park - 2015/02/22 05:16:16
+-- Finished running for Kassia Field - 2015/02/22 05:16:28
+-- Finished running for Laeusia Park - 2015/02/22 05:16:41
+-- Finished running for Egalo Community Stadium - 2015/02/22 05:16:54
+-- Finished running for Aros Community Stadium - 2015/02/22 05:17:08
+-- Finished running for Manta Community Stadium - 2015/02/22 05:17:21
+-- Finished running for Port Bielya Community Stadium - 2015/02/22 05:17:35
+-- Finished running for Bernifell Stadium - 2015/02/22 05:17:48
+-- Finished running for Henevik Stadium - 2015/02/22 05:18:01
+-- Finished running for Amarholm Arena - 2015/02/22 05:18:13
+-- Finished running for Port Creta Arena - 2015/02/22 05:18:27
+-- Finished running for Marburgh Arena - 2015/02/22 05:18:40
+-- Finished running for Grenton Community Stadium - 2015/02/22 05:18:53
+-- Finished running for Gloslake Arena - 2015/02/22 05:19:06
+-- Finished running for Mene Field - 2015/02/22 05:19:19
+-- Finished running for Byde Park - 2015/02/22 05:19:31
+-- Finished running for Delphi Park - 2015/02/22 05:19:44
+-- Finished running for Cynthi Field - 2015/02/22 05:19:57
+-- Finished running for Port Fiore Arena - 2015/02/22 05:20:10
+-- Finished running for Lentia Park - 2015/02/22 05:20:22
+-- Finished running for Capuum Field - 2015/02/22 05:20:35
+-- Finished running for Lodia Park - 2015/02/22 05:20:48
+-- Finished running for Mogium Arena - 2015/02/22 05:21:00
+-- Finished running for Agusum Field - 2015/02/22 05:21:13
+-- Finished running for Arpica Park - 2015/02/22 05:21:26
+-- Finished running for Atiala Park - 2015/02/22 05:21:39
+-- Finished running for Cayhill Community Stadium - 2015/02/22 05:21:52
+-- Finished running for Peminster Park - 2015/02/22 05:22:05
+-- Finished running for Cobrook Park - 2015/02/22 05:22:18
+-- Finished running for Ramoor Arena - 2015/02/22 05:22:31
+-- Finished running for Caford Arena - 2015/02/22 05:22:43
+-- Finished running for Hibury Field - 2015/02/22 05:22:56
+-- Finished running for Wyeton Park - 2015/02/22 05:23:09
+-- Finished running for Knefalls Park - 2015/02/22 05:23:22
+-- Finished running for Cara Arena - 2015/02/22 05:23:34
+-- Finished running for Chieto Field - 2015/02/22 05:23:47
+-- Finished running for Massa Park - 2015/02/22 05:24:00
+-- Finished running for Vicia Community Stadium - 2015/02/22 05:24:13
+-- Finished running for Pobia Stadium - 2015/02/22 05:24:26
+-- Finished running for Vena Community Stadium - 2015/02/22 05:24:39
+-- Finished running for Astellthorp Arena - 2015/02/22 05:24:52
+-- Finished running for Rikibyr Arena - 2015/02/22 05:25:05
+-- Finished running for Naribyr Field - 2015/02/22 05:25:18
+-- Finished running for Holvefell Park - 2015/02/22 05:25:31
+-- Finished running for Naaba Stadium - 2015/02/22 05:25:43
+-- Finished running for Baheii Park - 2015/02/22 05:25:56
+-- Finished running for Tsidi Park - 2015/02/22 05:26:09
+-- Finished running for Hili Arena - 2015/02/22 05:26:21
+-- Finished running for Ahish Stadium - 2015/02/22 05:26:34
+-- Finished running for Aleah Park - 2015/02/22 05:26:47
+-- Finished running for Iisah Arena - 2015/02/22 05:26:59
+-- Finished running for Sidi Park - 2015/02/22 05:27:12
+-- Finished stadiums - 2015/02/22 05:27:12

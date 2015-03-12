@@ -1,0 +1,7 @@
+0	Click Editor
+1	Click Database
+2	Click Nations
+3	Search for [REPLACE_NATION]
+4	Open nation
+10	Enter continent
+1	Click Database

@@ -1,0 +1,16 @@
+0	Click Editor
+1	Click Database
+2	Click City
+3	Click add
+4	Enter name
+5	Enter nation
+6	Enter language
+7	Enter Local Region
+8	Enter attraction
+9	Enter inhabitants range
+10	Enter citizen description
+11	Enter latitude
+12	Enter longitude
+13	Enter altitude
+14	Enter weather
+1	Click Database

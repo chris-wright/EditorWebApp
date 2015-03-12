@@ -1,0 +1,4 @@
+Gobi Premiership,Gobi Premiership,BPR,255,255,255,255,192,0,0,0,0,Gobia,Oceania,140,1,1,Freycliff,Morborough,Pinemarsh,Clearville,Coldfield,Fognesse,Spellmill,Belldale,Highedge City,Highedge Town,1
+Gobi Championship,Gobi Championship,GCH,255,255,255,255,192,0,0,0,0,Gobia,Oceania,120,2,2,Landhurst,Westburn City,Glasshaven Town,Blackedge,Westburn United,Highedge Athletic,Glasshaven Rovers,Greymoor,Vertholt,Seabarrow,1
+Gobi Trophy,Gobi Trophy,GTR,255,255,255,255,192,0,0,0,0,Gobia,Oceania,128,5,,,1
+Gobi Supercup,Gobi Supercup,GSC,255,255,255,255,192,0,0,0,0,Gobia,Oceania,115,6,,,1

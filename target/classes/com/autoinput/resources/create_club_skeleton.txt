@@ -1,0 +1,14 @@
+0	Click Editor
+1	Click Database
+2	Click club
+3	Click add
+60	Shift up
+4	Enter name
+9	Enter nation
+10	Enter based nation
+11	Enter continental cup nation
+12	Enter city
+13	Enter status
+15	Enter rep
+40	Click Details
+1	Click Database

@@ -1,0 +1,62 @@
+Adam Grace Stadium,Eros,7498,7498,6733,7498,1,100,2,2,2,3,Kule
+Addersfield,Addersfield,2153,1507,6429,2153,1,100,2,2,2,1,Addersfield Athletic
+Ampleforth Park,Ampleforth,7342,7342,3419,7342,1,100,2,2,2,1,Ampleforth Town
+Anium Sports Complex,Anium,8072,8072,5602,8072,1,100,2,1,2,5,Anium Athletic
+Ardfearn Field,Ardfearn,21101,21101,3134,21101,1,100,2,2,2,1,Ardfearn
+Arkney Dock,Arkney,5412,5412,5440,5412,1,100,2,2,2,1,Arkney Island
+Barfreston Hall,Barfreston,2935,2642,2336,2935,1,100,2,1,2,5,Barfreston Bay
+Blue Star Bowl,Dabar,33677,33677,8737,33677,2,100,2,1,2,5,Blue Star Dabar
+Bramley Street,Thorton,25242,25242,1719,25242,2,100,2,2,2,3,Thorton United
+Cartmel Ground,Cartmel,2136,427,6036,2136,1,100,2,1,2,4,Cartmel County
+Caskill Lane,Suyador,17729,17729,6606,17729,2,100,2,2,2,1,Suyador Knights
+Cleeve Road,Cleeve,10727,10727,2631,10727,1,100,2,1,2,1,Cleeve Victoria
+Colts Field,Itium,30550,30550,4801,30550,1,100,2,2,2,5,Itium Colts
+Crewkerne Arena,Crewkerne,4715,4715,6916,4715,1,100,2,2,2,1,Crewkerne United
+Deerlake Park,Deerlake,2420,1694,4788,2420,1,100,2,2,2,1,Deerlake
+Dele Sports Complex,Dele,22970,22970,189,22970,1,100,2,2,2,2,Dele County
+Eros Park,Eros,2686,1612,4271,2686,2,100,2,1,2,5,Eros Rovers
+Fairbanks Stadium,Fairbanks,2232,1786,6851,2232,1,100,2,1,2,4,Fairbanks
+Falnaird Field,Falnaird,3576,2503,2074,3576,1,100,2,2,2,3,Falnaird
+Fenia Field,Fenia,10113,10113,7874,10113,1,100,2,1,2,2,FC Fenia
+Fenwick View,Abana,28250,28250,6119,28250,1,100,2,2,2,3,Abana
+Fox Corner,Stawford,2479,1240,6167,2479,1,100,2,2,2,1,Stawford Rovers
+Garmsby Arena,Garmsby,1379,690,4078,1379,1,100,2,2,2,1,Garmsby United
+Gayfield,Glenboyle,4368,4368,9878,4368,1,100,2,2,2,1,Glenboyle Victoria
+George Avenue,North Apos,6641,6641,8338,6641,1,100,2,2,2,3,British Apos
+Goodrich Ground,Goodrich,9107,9107,354,9107,1,100,2,1,2,1,Goodrich
+Graycott Field,Graycott,9113,9113,1582,9113,1,100,2,2,2,1,Graycott Town
+Greater Hampden,Alba,2528,1517,1462,2528,1,100,2,2,2,4,Alba Thistle
+Hepburn Lane,Buji,6814,6814,8233,6814,1,100,2,2,2,1,Buji Town
+Hever View,Hever,10659,10659,4377,10659,1,100,2,2,2,1,Hever Athletic
+Inchkeld Park,Inchkeld,15809,15809,2662,15809,1,100,2,1,2,5,Inchkeld
+John Smith Field,Otford,6623,6623,443,6623,1,100,2,2,2,1,Otford Town
+Kilin Stadium,Kilin,2797,1678,9514,2797,1,100,2,2,2,1,Kilin Town
+Lochside Park,Lochvar,806,161,2333,806,1,100,2,2,2,3,Lochvar
+Lora Park,Lora,4264,4264,3820,4264,1,100,2,2,2,5,Lora Town
+Melcome Field,Melcome,8218,8218,4429,8218,1,100,2,1,2,5,Melcome County
+Memorial Stadium,Toosil,7313,7313,7449,7313,2,100,2,2,2,1,Toosil United
+Mill Road,Peca,8450,8450,1200,8450,1,100,2,1,2,4,Peca Wanderers
+Mountain View,Ablos,17008,17008,6621,17008,1,100,2,2,2,2,Ablos
+New Brinkburn Park,Brinkburn,6325,6325,6624,6325,1,100,2,2,2,4,Brinkburn Rovers
+New Davies Park,Llaneilian,1809,724,2934,1809,1,100,2,1,2,1,Llaneilian Dragons
+Newbury Road,Newbury,17012,17012,19,17012,1,100,2,1,2,4,Newbury United
+Newmist Park,Newmist,1874,937,4030,1874,1,100,2,2,2,1,Newmist United
+Old Durness Road,Durness,6081,6081,2135,6081,1,100,2,2,2,1,Durness Rovers
+Old Sleaford Park,Sleaford,11693,11693,7042,11693,2,100,2,1,2,2,Sleaford Town
+Parker Street,Pembroke,8112,8112,37,8112,1,100,2,2,2,2,Pembroke Harriers
+Podor Park,Podor,18710,18710,9389,18710,1,100,2,1,2,3,Podor
+River View,Strathpeffer,4212,3791,8173,4212,1,100,2,2,2,1,Strathpeffer
+Rover Park,Lora,5673,5673,309,5673,1,100,2,2,2,2,Lora Rovers
+Seaside,Idela,8037,8037,3756,8037,1,100,2,1,2,2,Idela Bay
+Silverston Stadium,Silverston,5062,5062,6787,5062,1,100,2,2,2,1,Silverston Town
+Tergaron Square,Tergaron,12044,12044,1828,12044,1,100,2,2,2,1,Tergaron Town
+The Dall,Dallaig,10260,10260,4699,10260,1,100,2,1,2,1,Dallaig
+The Foxhole,Fairchild,10513,10513,3874,10513,1,100,2,2,2,3,Fairchild
+The New Den,Toosil,4862,4862,7747,4862,1,100,2,2,2,5,FC Toosil
+The Orchard,Itium,8278,8278,7521,8278,1,100,2,1,2,4,Itium Irish
+The Riverside,Bevania,6970,6970,1792,6970,2,100,2,2,2,1,Sheppy FC
+Toosilhill Park,Toosil,6390,6390,7272,6390,2,100,2,1,2,3,Toosil City
+Walpole Park,Walpole,12423,12423,8945,12423,2,100,2,2,2,3,Walpole Wanderers
+Walton Road,Barton,17372,17372,7603,17372,1,100,2,1,2,2,Barton Rovers
+Warrior Field,Toosil,10937,10937,2358,10937,2,100,2,1,2,1,Toosil Warriors
+Wellspring Park,Wellspring,10052,10052,6632,10052,1,100,2,2,2,1,Wellspring Wanderers

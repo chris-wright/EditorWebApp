@@ -1,0 +1,14 @@
+Aplua Park,Aplua,2908,2326,6742,2908,2,100,2,1,2,4,Aplua
+Beerenberg Field,Beerenberg,2155,1078,6262,2155,2,100,2,1,2,4,Beerenberg
+Crast Tundra,Crast,2005,1203,6867,2005,2,100,2,1,2,4,FC Crast
+Logro Square,Logro,512,102,8003,512,2,100,2,1,2,4,Logro
+McDonald Park,Nardhvik,2077,1039,775,2077,2,100,2,1,2,4,Nardhvik
+Mount Point,Mount Hoth,844,253,2364,844,2,100,2,1,2,4,Mount Hoth
+Shackleton Field,Skagastrand,1044,418,7645,1044,2,100,2,1,2,4,Skagastrand
+Shackleton Memorial Park,Snowfell,3581,2865,8241,3581,1,100,2,2,2,1,Shackleton FC
+Snowground Park,Greywind,2591,1814,6169,2591,2,100,2,1,2,4,FC Greywind
+The Outlook,Snowfell,3753,3378,1492,3753,2,100,2,1,2,4,Snowfell
+Voyalia View,Voyalia,2412,1447,3354,2412,2,100,2,1,2,4,Voyalia
+Welor Park,Welor,3072,2150,1664,3072,2,100,2,1,2,4,Welor
+Yucor Point,Yucor,2367,1515,4806,2367,2,100,2,1,2,4,Yucor FC
+Saint Elias Stadium,Saint Elias City,40000,15000,40000,40000,1,100,2,1,1,1,Elias Pheonix

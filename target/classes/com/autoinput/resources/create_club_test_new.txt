@@ -1,0 +1,52 @@
+0	Click Editor
+1	Click Database
+2	Click club
+3	Click add
+4	Enter name
+5	Enter short name
+6	Enter six letter name
+7	Enter nickname
+8	Enter second nickname
+9	Enter nation
+10	Enter based nation
+11	Enter continental cup nation
+12	Enter city
+13	Enter status
+14	Enter morale
+15	Enter rep
+16	Add extra teams
+49	Open supporter profile
+50	Enter loyalty
+51	Enter passion
+52	Enter patience
+53	Enter affluence
+54	Enter temperament
+36	Open competition
+37	Set competition
+38	Close competition
+17	Open kits
+18	Click home kit
+19	Select first kit item
+20	Edit shirt
+21	Select second kit item
+22	Edit icon
+23	Select third kit item
+24	Edit text
+25	Select fourth kit item
+26	Edit Shorts
+27	Select fifth kit item
+28	Edit socks
+29	Click away kit
+19	Select first kit item
+30	Edit shirt
+21	Select second kit item
+31	Edit icon
+23	Select third kit item
+32	Edit text
+25	Select fourth kit item
+33	Edit Shorts
+27	Select fifth kit item
+34	Edit socks
+35	Close kits
+40	Click Details
+1	Click Database

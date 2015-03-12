@@ -1,0 +1,14 @@
+0	Click Editor
+1	Click Database
+2	Click competition
+3	Click add
+15	Page up
+4	Enter name
+5	Enter short name
+6	Enter three letter name
+10	Enter nation
+11	Enter continent
+12	Enter rep
+13	Enter type
+14	Enter level
+1	Click Database

@@ -1,0 +1,180 @@
+1	Move	1318	18
+2	ClickRelease
+1	Move	67	856
+2	ClickRelease
+1	Move	1309	835
+2	ClickRelease
+1	Move	1287	638
+2	ClickRelease
+1	Move	974	189
+2	ClickRelease
+3	Type	[FIRSTNAME]
+4	TAB
+5	Type	[SECONDNAME]
+4	TAB
+1	Move	1561	341
+2	ClickRelease
+22	Down	[ETHNICITY]
+7	ENTER
+1	Move	1561	372
+2	ClickRelease
+23	Down	[HAIR_COLOUR]
+7	ENTER
+1	Move	1561	398
+2	ClickRelease
+24	Down	[SKIN_TONE]
+7	ENTER
+1	Move	977	461
+2	ClickRelease
+8	Type	[DOB]
+1	Move	1557	490
+2	ClickRelease
+35	Up	1
+7	ENTER
+1	Move	563	269
+2	ClickRelease
+2	ClickRelease
+12	CTRL A
+13	DEL
+1	Move	563	269
+2	ClickRelease
+2	ClickRelease
+21	Type	[CITY]
+7	ENTER
+1	Move	521	271
+2	ClickRelease
+1	Move	521	294
+2	ClickRelease
+1	Move	839	366
+2	ClickRelease
+35	Up	1
+7	ENTER
+1	Move	1116	636
+2	ClickRelease
+1	Move	609	351
+2	ClickRelease
+1	Move	1049	691
+2	ClickRelease
+1	Move	1557	579
+2	ClickRelease
+35	Up	1
+7	ENTER
+1	Move	563	269
+2	ClickRelease
+12	CTRL A
+13	DEL
+1	Move	563	269
+2	ClickRelease
+2	ClickRelease
+9	Type	[NATION]
+7	ENTER
+1	Move	521	271
+2	ClickRelease
+1	Move	521	294
+2	ClickRelease
+1	Move	839	366
+2	ClickRelease
+35	Up	1
+7	ENTER
+1	Move	1116	636
+2	ClickRelease
+1	Move	609	351
+2	ClickRelease
+1	Move	1049	691
+2	ClickRelease
+34	BREAK	ON
+1	Move	83	458
+2	ClickRelease
+1	Move	1565	129
+2	ClickRelease
+35	Up	1
+7	ENTER
+1	Move	566	266
+2	ClickRelease
+12	CTRL A
+13	DEL
+1	Move	563	269
+2	ClickRelease
+2	ClickRelease
+33	Type	[CLUB]
+1	Move	520	269
+2	ClickRelease
+35	Up	1
+7	ENTER
+1	Move	840	365
+2	ClickRelease
+35	Up	1
+7	ENTER
+1	Move	1116	636
+2	ClickRelease
+1	Move	601	355
+2	ClickRelease
+1	Move	1050	694
+2	ClickRelease
+1	Move	29	453	//Close contract
+2	ClickRelease
+34	BREAK	OFF
+1	Move	74	481	//Open person data
+2	ClickRelease
+1	Move	970	131
+2	ClickRelease
+12	CTRL A
+13	DEL
+25	Type	[ADAPTIBILITY]
+4	TAB
+12	CTRL A
+13	DEL
+26	Type	[AMBITION]
+4	TAB
+12	CTRL A
+13	DEL
+27	Type	[CONTROVERSY]
+4	TAB
+12	CTRL A
+13	DEL
+28	Type	[LOYALTY]
+4	TAB
+12	CTRL A
+13	DEL
+29	Type	[PRESSURE]
+4	TAB
+12	CTRL A
+13	DEL
+30	Type	[PROFESSIONALISM]
+4	TAB
+12	CTRL A
+13	DEL
+31	Type	[SPORTSMANSHIP]
+4	TAB
+12	CTRL A
+13	DEL
+32	Type	[TEMPERAMENT]
+1	Move	28	484	// Close person data
+2	ClickRelease
+2	ClickRelease
+1	Move	76	515	// Open Player data
+2	ClickRelease
+1	Move	984	157
+2	ClickRelease
+10	Type	[CA]
+4	TAB
+11	Type	[PA]
+4	TAB
+14	Type	[CURRENT REP]
+4	TAB
+15	Type	[HOME REP]
+4	TAB
+16	Type	[WORLD REP]
+4	TAB
+17	Type	[HEIGHT]
+4	TAB
+18	Type	[WEIGHT]
+4	TAB
+19	Type	[LEFT FOOT]
+4	TAB
+20	Type	[RIGHT FOOT]
+1	Move	26	515	//Close player data
+2	ClickRelease
+1	Move	28	184	//Return to db
+2	ClickRelease
+2	ClickRelease

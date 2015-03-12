@@ -1,0 +1,12 @@
+0	Click Editor
+1	Click Database
+2	Click Continents
+3	Search for [OLD]
+4	Open continent
+5	Type name
+6	Type three letter name
+7	Type continentality name
+8	Type federation name
+9	Type short federation name
+10	Type regional strength
+1	Click Database

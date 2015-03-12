@@ -1,0 +1,69 @@
+1	Move	1370	9	// Get to editor
+2	ClickRelease
+1	Move	74	883	// click stadium
+2	ClickRelease
+1	Move	1283	829	// click add
+2	ClickRelease
+1	Move	977	190	// click name
+2	ClickRelease
+3	Type	[NAME]
+1	Move	1558	220	// Start of city routine
+2	ClickRelease
+1	Move	1545	245	// Start search
+2	ClickRelease
+1	Move	569	269	
+2	ClickRelease
+5	CTRL A
+6	DEL
+4	Type	[CITY]
+1	Move	493	264
+2	ClickRelease
+1	Move	510	297
+2	ClickRelease
+1	Move	784	364
+2	ClickRelease
+8	Down	1
+7	ENTER
+1	Move	1118	635
+2	ClickRelease
+1	Move	611	350
+2	ClickRelease
+2	ClickRelease
+1	Move	1052	692
+2	ClickRelease
+1	Move	980	373
+2	ClickRelease
+9	Type	[CAPACITY]
+10	TAB
+11	Type	[SEATING_CAPACITY]
+10	TAB
+10	TAB
+12	Type	[EXPANSION_CAPACITY]
+10	TAB
+13	Type	[USED_CAPACITY]
+1	Move	1561	518
+2	ClickRelease
+14	Down	[PITCH_TYPE]
+7	ENTER
+1	Move	988	730
+2	ClickRelease
+5	CTRL A
+6	DEL
+15	Type	[PITCH_CONDITION]
+1	Move	1586	820
+2	ClickRelease
+2	ClickRelease
+2	ClickRelease
+1	Move	988	571
+2	ClickRelease
+16	CondClick	975	753	[IS_COVERED]
+17	CondClick	975	779	[RETRACT_ROOF]
+18	CondClick	975	811	[UNDERSOIL_HEATING]
+1	Move	1561	574
+19	Down	[STATE]
+1	Move	1586	129
+2	ClickRelease
+2	ClickRelease
+2	ClickRelease
+1	Move	40	186
+2	ClickRelease

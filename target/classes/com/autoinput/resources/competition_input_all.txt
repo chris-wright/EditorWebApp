@@ -1,0 +1,79 @@
+Islands League,Islands League,IL,255,255,255,153,51,102,255,255,204,Albini,Atherone,105,1,1,,1
+Northern Islands League,Northern Islands League,NIL,255,255,255,153,51,102,255,255,204,Albini,Atherone,105,1,1,Islands League,1
+Southern Islands League,Southern Islands League,SIL,255,255,255,153,51,102,255,255,204,Albini,Atherone,105,1,1,Islands League,1
+Isles of Albini Cup,Isles of Albini Cup,IAC,255,255,255,153,51,102,255,255,204,Albini,Atherone,110,5,,,1
+Isles of Eria Cup,Isles of Eria Cup,IEC,0,0,128,255,204,0,0,0,0,Eria,Atherone,110,5,,,1
+Islands Supercup,Islands Supercup,ISC,255,255,255,153,51,102,255,255,204,Albini,Atherone,120,7,,,1
+Astari Ertse Liga,Ertse Liga,AEL,0,0,0,255,255,255,255,192,0,Astarya,Atherone,140,1,1,,1
+Astari Zweitliga,Zweitliga,AZL,0,0,0,255,255,255,255,192,0,Astarya,Atherone,130,2,2,,1
+Astari Drittenliga,Drittenliga,ADL,0,0,0,255,255,255,255,192,0,Astarya,Atherone,120,2,3,,1
+Astari Amateurliga,Amateurliga,AAL,0,0,0,255,255,255,255,192,0,Astarya,Atherone,110,2,4,,1
+AFL Pokal,AFL Pokal,ALP,0,0,0,255,255,255,255,192,0,Astarya,Atherone,132,5,,,1
+AFL Schutzen,AFL Schutzen,ALS,0,0,0,255,255,255,255,192,0,Astarya,Atherone,120,6,,,1
+Cyrasian First League,First League,CPL,255,192,0,255,0,0,0,0,0,Cyrasia,Atherone,130,1,1,,1
+Cyrasian Second League,Second League,CVL,255,192,0,255,0,0,0,0,0,Cyrasia,Atherone,120,2,2,,1
+Cyrasian Third League,Third League,CTL,255,192,0,255,0,0,0,0,0,Cyrasia,Atherone,110,2,3,,1
+Cyrasian Amateurs League,Amateur League,CLL,255,192,0,255,0,0,0,0,0,Cyrasia,Atherone,90,2,4,,1
+Cyrasian Cup,Cyrasian Cup,CCU,255,192,0,255,0,0,0,0,0,Cyrasia,Atherone,100,5,,,1
+Cyrasian Shchit,Cyrasian Shchit,CSU,255,192,0,255,0,0,0,0,0,Cyrasia,Atherone,90,6,,,1
+Gobi Premiership,Gobi Premiership,BPR,255,255,255,255,192,0,0,0,0,Gobia,Atherone,140,1,1,,1
+Gobi Lower League,Gobi Lower League,GLL,255,255,255,255,192,0,0,0,0,Gobia,Atherone,100,2,2,,1
+Gobi Trophy,Gobi Trophy,GTR,255,255,255,255,192,0,0,0,0,Gobia,Atherone,128,5,,,1
+Gobi Supercup,Gobi Supercup,GSC,255,255,255,255,192,0,0,0,0,Gobia,Atherone,115,6,,,1
+Haverford Cup,Haverford Cup,HAC,255,255,255,0,128,0,0,0,0,Haverford,Atherone,110,5,,,1
+Montaria Major League,Montaria Major League,MML,255,0,0,255,255,255,0,0,255,Montaria,Atherone,130,1,1,,1
+Montaria Open Championship,Montaria Open Championship,MOC,255,0,0,255,255,255,0,0,255,Montaria,Atherone,125,5,,,1
+North Azuri Premier League,Premier League,NPL,255,255,255,0,32,96,255,0,0,North Azura,Atherone,160,1,1,,1
+North Azuri Division One,Division One,ND1,255,255,255,0,32,96,255,0,0,North Azura,Atherone,140,2,2,,1
+North Azuri Division Two,Division Two,ND2,255,255,255,0,32,96,255,0,0,North Azura,Atherone,120,2,3,,1
+North Azuri Division Three,Division Three,ND3,255,255,255,0,32,96,255,0,0,North Azura,Atherone,120,2,4,,1
+North Azuri Division Four,Division Four,ND4,255,255,255,0,32,96,255,0,0,North Azura,Atherone,120,2,5,,1
+North Azuri FA Cup,FA Cup,NFC,255,255,255,0,32,96,255,0,0,North Azura,Atherone,145,5,,,1
+North Azuri Supercup,Super Cup,NSC,255,255,255,0,32,96,255,0,0,North Azura,Atherone,105,6,,,1
+Pinemarsh Premier League,Pinemarsh Premier League,PPL,255,255,255,0,51,0,128,0,0,Pinemarsh,Atherone,130,1,1,,1
+Pinemarsh Lower League,Pinemarsh Lower League,PLL,255,255,255,0,51,0,128,0,0,Pinemarsh,Atherone,115,2,2,,1
+Pinemarsh Amateur League,Pinemarsh Amateur League,PAL,255,255,255,0,51,0,128,0,0,Pinemarsh,Atherone,90,2,3,,1
+Pinemarsh Cup,Pinemarsh Cup,PIC,255,255,255,0,51,0,128,0,0,Pinemarsh,Atherone,120,5,,,1
+Pinemarsh Super Cup,Pinemarsh Super Cup,PSC,255,255,255,0,51,0,128,0,0,Pinemarsh,Atherone,95,6,,,1
+Recaladian Primera Liga,Primera Liga,RPL,0,32,96,162,0,0,255,192,0,Recalada,Atherone,140,1,1,,1
+Recaladian Segunda Liga,Segunda Liga,RSL,0,32,96,162,0,0,255,192,0,Recalada,Atherone,120,2,2,,1
+Recaladian Tercera Liga,Tercera Liga,RTL,0,32,96,162,0,0,255,192,0,Recalada,Atherone,100,2,3,,1
+Recaladian Conferencia,Conferencia,RCO,0,32,96,162,0,0,255,192,0,Recalada,Atherone,100,2,4,,1
+Recaladian Copa del Rey,King's Cup,CDR,0,32,96,162,0,0,255,192,0,Recalada,Atherone,125,5,,,1
+Recaladian escudo del Rey,El escudo del Rey,EDR,0,32,96,162,0,0,255,192,0,Recalada,Atherone,110,6,,,1
+Saint Elias League,Saint Elias League,SEL,0,0,0,255,102,0,255,0,0,Saint Elias City,Atherone,90,1,1,,1
+Saint Elias Cup,Saint Elias Cup,SEC,0,0,0,255,102,0,255,0,0,Saint Elias City,Atherone,90,5,,,1
+Saint Elias Shield,Saint Elias Shield,SES,0,0,0,255,102,0,255,0,0,Saint Elias City,Atherone,90,6,,,1
+South Azuri Premiership,Premiership,SPR,255,255,255,255,0,0,0,0,255,South Azura,Atherone,170,1,1,,1
+South Azuri Championship,Championship,SCH,255,255,255,255,0,0,0,0,255,South Azura,Atherone,160,2,2,,1
+South Azuri League One,League One,SL1,255,255,255,255,0,0,0,0,255,South Azura,Atherone,140,2,3,,1
+South Azuri League Two,League Two,SL2,255,255,255,255,0,0,0,0,255,South Azura,Atherone,120,2,4,,1
+South Azuri League Three,League Three,SL3,255,255,255,255,0,0,0,0,255,South Azura,Atherone,110,2,5,,1
+South Azuri Conference,Conference,SCO,255,255,255,255,0,0,0,0,255,South Azura,Atherone,100,2,6,,1
+South Azuri President's Cup,President's Cup,SPC,255,255,255,255,0,0,0,0,255,South Azura,Atherone,165,5,,,1
+South Azuri Champions' Shield,Champions' Shield,SCS,255,255,255,255,0,0,0,0,255,South Azura,Atherone,110,6,,,1
+Iron Trophy,Iron Trophy,ITR,0,0,0,128,128,128,0,0,255,The Ferrous Isles,Atherone,110,5,,,1
+The Winterlands Premier League,Winterlands Premier League,WPL,255,255,255,0,80,208,255,255,0,The Winterlands,Atherone,120,1,1,,1
+The Winterlands Amateur League,Winterlands Amateur League,WAL,255,255,255,0,80,208,255,255,0,The Winterlands,Atherone,90,2,2,,1
+The Winterlands Cup,Winterlands Cup,WIC,255,255,255,0,80,208,255,255,0,The Winterlands,Atherone,110,5,,,1
+The Shackleton Shield,Shackleton Shield,WSS,255,255,255,0,80,208,255,255,0,The Winterlands,Atherone,100,6,,,1
+Atheronian Champions League,Atheronian Champions League,ACL,0,0,0,255,255,255,255,0,0,,Atherone,180,25,,,1
+Atheronian Christmas Cup,Atheronian Christmas Cup,ACC,0,0,0,255,255,255,255,0,0,,Atherone,150,26,,,1
+Velusian Premier League,Velusian Premier League,VPL,0,0,0,204,102,0,255,255,255,Aurelia,Velusia,150,1,1,,1
+Velusian Division One,Velusian Division One,VD1,0,0,0,204,102,0,255,255,255,Aurelia,Velusia,130,2,2,,1
+Velusian Division Two,Velusian Division Two,VD2,0,0,0,204,102,0,255,255,255,Aurelia,Velusia,110,2,3,,1
+Velusian Division Three,Velusian Division Three,VD3,0,0,0,204,102,0,255,255,255,Aurelia,Velusia,90,2,4,,1
+Velusian Cup,Velusian Cup,VC,0,0,0,204,102,0,255,255,255,Aurelia,Velusia,140,3,,,1
+Velusian Supercup,Velusian Supercup,VSC,0,0,0,204,102,0,255,255,255,Aurelia,Velusia,120,6,,,1
+Velusian Lower League Trophy,Velusian Lower League Trophy,VLL,0,0,0,204,102,0,255,255,255,Aurelia,Velusia,120,5,,,1
+Aurelian Vase,Aurelian Vase,AUV,0,0,0,204,102,0,255,255,255,Aurelia,Velusia,120,5,,,1
+Rovkan Vase,Rovkan Vase,ROV,0,0,0,204,102,0,255,255,255,Aurelia,Velusia,120,5,,,1
+Norlandian Vase,Norlandian Vase,NOV,0,0,0,204,102,0,255,255,255,Aurelia,Velusia,120,5,,,1
+Lauranian Trophy,Lauranian Trophy,LTR,0,0,0,204,102,0,255,255,255,Aurelia,Velusia,120,5,,,1
+Gileadian Bowl,Gileadian Bowl,GIB,0,0,0,204,102,0,255,255,255,Aurelia,Velusia,120,5,,,1
+Bielyan Trophy,Bielyan Trophy,BIT,0,0,0,204,102,0,255,255,255,Aurelia,Velusia,120,5,,,1
+Aerugian Vase,Aerugian Vase,AEV,0,0,0,204,102,0,255,255,255,Aurelia,Velusia,120,5,,,1
+Sundan Vase,Sundan Vase,SUV,0,0,0,204,102,0,255,255,255,Aurelia,Velusia,120,5,,,1
+Cretan Cup,Cretan Cup,CRC,0,0,0,204,102,0,255,255,255,Aurelia,Velusia,120,5,,,1
+Fiorian Shield,Fiorian Shield,FIS,0,0,0,204,102,0,255,255,255,Aurelia,Velusia,120,5,,,1
+Velusian Cup Winners Cup,Velusian Cup Winners Cup,CWC,0,0,0,204,102,0,255,255,255,Aurelia,Velusia,145,5,,,1

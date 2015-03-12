@@ -1,0 +1,20 @@
+Doveport Arena,Doveport,6489,6489,1487,6489,2,100,2,1,2,1,Doveport Dynamos
+Berkton Stadium,Berkton,12606,12606,8135,12606,2,100,2,1,2,1,Berkton Bears
+Bexley Field,Bexley,11388,11388,6470,11388,2,100,2,1,2,1,Bexley Bandicoots
+Orilon Field,Orilon,7701,7701,3976,7701,2,100,2,1,2,1,Orilon Orioles
+Eisley Stadium,Eisley,3821,3821,4738,3821,2,100,2,1,2,1,Eisley Eagles
+Ulrich Arena,Jericho,11954,11954,9654,11954,2,100,2,1,2,1,Jericho Jaguars
+Port Springfield Stadium,Port Springfield,3590,3590,7042,3590,2,100,2,1,2,1,Port Springfield Nets
+Ringchurch Field,Ringchurch,11761,11761,3895,11761,2,100,2,1,2,1,Ringchurch Raccoons
+Aldby Arsenal Arena,Aldby,9853,9853,8359,9853,2,100,2,1,2,1,Aldby Arsenal
+Birkenleen Square Arena,Birkenleen,6113,6113,6424,6113,2,100,2,1,2,1,Birkenleen Ducks
+Berend Park,Berend,4291,4291,9504,4291,2,100,2,1,2,1,Berend Buffalos
+Trentstone Sporting Complex,Trentstone,12705,12705,3856,12705,2,100,2,1,2,1,Trentstone Tigers
+George Field,Washington,12971,12971,5707,12971,2,100,2,1,2,1,Washington Warriors
+Carver Park,Carver,5372,5372,228,5372,2,100,2,1,2,1,Carver Cats
+Lincoln Arena,Lincoln,4135,4135,7033,4135,2,100,2,1,2,1,Lincoln Lions
+Haverville,Haverville,3598,3598,7602,3598,2,100,2,1,2,1,Haverville Hounds
+Ogdenbrooke Arena,Ogdenbrooke,5989,5989,699,5989,2,100,2,1,2,1,Ogdenbrooke Owls
+Charlotteville Park,Charlotteville,4043,4043,1320,4043,2,100,2,1,2,1,Charlotteville Cannons
+Fort Park,Fort Peace,5064,5064,4221,5064,2,100,2,1,2,1,Fort Peace Flyers
+Hopeland Stadium,Hopeland,10774,10774,4659,10774,2,100,2,1,2,1,Hopeland Harriers

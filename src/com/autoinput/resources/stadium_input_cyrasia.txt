@@ -1,0 +1,35 @@
+Arcso Stadium,Arcso,10480,10480,4465,10480,1,100,2,2,2,1,Arcso
+Arena Boreas,Boreas,5385,5385,8553,5385,1,100,2,1,2,1,Dynamo Boreas
+Arena Pioneer,Seye,1964,393,9030,1964,2,100,2,2,2,5,Zenit Seye
+Ayar Arena,Ayar,5781,5781,2067,5781,1,100,2,2,2,1,Spartak Ayar
+Ayar Stadium,Ayar,5216,5216,6289,5216,1,100,2,2,2,3,FC Ayar
+Boburg Bowl,Boburg,2632,1842,7437,2632,1,100,2,2,2,1,Spartak Boburg
+Boburg Stadium,Boburg,7129,7129,58,7129,2,100,2,1,2,1,Sporting Club Boburg
+Deburg Stadium,Deburg,8024,8024,6756,8024,1,100,2,2,2,3,Deburg
+Eplzen Stadium,Eplzen,12486,12486,4319,12486,1,100,2,2,2,2,Lokomotiv Eplzen
+Esmen Stadium,Esmen,6343,3806,2757,6343,1,100,2,1,2,5,Esmen
+Fodora Stadium,Fodora,2560,1280,1143,2560,1,100,2,2,2,2,Fodora
+Imatsu Stadium,Imatsu,13344,13344,3918,13344,1,100,2,1,2,5,Imatsu
+Ismrus Stadium,Ismrus,12563,12563,1607,12563,1,100,2,2,2,2,Ismrus
+Iza Stadium,Iza,3926,1570,8370,3926,1,100,2,1,2,1,Olimpic Iza
+Kerekhalom Stadium,Kerekhalom,11717,11717,4273,11717,1,100,2,1,2,1,Kerekhalom
+Khatyb Stadium,Khatyb,6414,6414,8212,6414,1,100,2,1,2,1,Khatyb
+Machinostroitel,Anemoi,8907,5344,7740,8907,2,100,2,1,2,2,Spartak Anemoi
+Margine Stadium,Margine,17808,17808,3004,17808,1,100,2,2,2,4,Margine
+Mermecs Stadium,Mermecs,15454,15454,8236,15454,1,100,2,2,2,5,Mermecs
+Mindon Stadium,Mindon,4312,2587,2323,4312,1,100,2,2,2,3,Mindon
+Misto Stadium,Misto Volgosia,4974,4974,5958,4974,1,100,2,2,2,1,Misto Volgosia
+Mistra Stadium,Mistra,5007,5007,715,5007,1,100,2,2,2,3,Mistra
+Oclela Stadium,Oclela,2681,1877,8153,2681,1,100,2,2,2,2,Oclela
+Ocsnos Stadium,Ocsnos,1622,324,9538,1622,1,100,2,1,2,2,Ocsnos
+Omgresh Stadium,Omgresh,9977,9977,5583,9977,1,100,2,2,2,2,Omgresh
+Oslium Stadium,Oslium,934,187,1447,934,1,100,2,2,2,1,Oslium
+Ozor Bowl,Ozor,6845,6845,7010,6845,1,100,2,2,2,1,Spartak Ozor
+Paburg Stadium,Paburg,9306,9306,6462,9306,1,100,2,2,2,4,Paburg
+Pankasz Stadium,Pankasz,6319,6319,6521,6319,1,100,2,2,2,1,Pankasz
+Plavil'nyy Kotel,Ozor,5483,5483,6804,5483,1,100,2,2,2,2,Dynamo Ozor
+Suules Stadium,Suules,20108,20108,7511,20108,2,100,2,1,2,2,Suules
+Takahama Bowl,Takahama,20364,20364,8978,20364,2,100,2,1,2,1,Takahama
+Tonaki Stadium,Tonaki,27232,27232,3422,27232,1,100,2,2,2,4,Tonaki
+Yanto Stadium,Yanto,1686,1012,7930,1686,2,100,2,1,2,4,Yanto
+Zedan Stadium,Zedan,6823,6823,5708,6823,2,100,2,1,2,5,Zedan

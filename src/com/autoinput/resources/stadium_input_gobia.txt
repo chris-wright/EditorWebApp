@@ -1,0 +1,25 @@
+Benfield Road,Landhurst,5057,5057,7708,5057,1,100,2,1,2,3,Landhurst
+Bens Park,Glasshaven,6005,6005,2456,6005,1,100,2,1,2,2,Glasshaven Town
+City Ground,Highedge,14521,14521,2971,14521,1,100,2,1,2,2,Highedge City
+Clearville Road,Clearville,9155,9155,9159,9155,1,100,2,1,2,2,Clearville
+Cliff Road,Freycliff,19934,19934,4370,19934,1,100,2,1,2,3,Freycliff
+Crease Crescent,Seabarrow,1911,382,3956,1911,1,100,2,1,2,3,Seabarrow
+Edgefield,Blackedge,4751,4751,2255,4751,1,100,2,1,2,1,Blackedge
+Greymoor Park,Greymoor,4154,2492,4517,4154,1,100,2,1,2,4,Greymoor
+Grypoort Stadium,Grypoort,2026,1013,7313,2026,1,100,2,2,2,1,Grypoort
+Lanfield,Glasshaven,2494,2245,5144,2494,1,100,2,1,2,4,Glasshaven Rovers
+Lennon Park,Westburn,10934,10934,728,10934,1,100,2,1,2,1,Westburn City
+Lowbury,Fognesse,14119,14119,3300,14119,1,100,2,1,2,4,Fognesse
+Macireni Stadium,Macireni,2357,1650,5272,2357,1,100,2,2,2,1,Macireni
+Mengete Field,Mengete,2076,1246,9025,2076,1,100,2,2,2,1,Mengete
+Morborough Road,Morborough,12455,12455,1949,12455,1,100,2,1,2,2,Morborough
+New Highedge,Highedge,5503,5503,5841,5503,1,100,2,1,2,3,Highedge Town
+Old Highedge,Highedge,4797,4797,6241,4797,1,100,2,1,2,2,Highedge Athletic
+Pinemarsh Field,Pinemarsh,10752,10752,3875,10752,1,100,2,1,2,1,Pinemarsh
+Shongwe Stadium,Shongwe,5762,5762,5179,5762,1,100,2,2,2,1,Shongwe
+Spell Stadium,Spellmill,19409,19409,3800,19409,1,100,2,1,2,2,Spellmill
+The Gables,Belldale,14607,14607,369,14607,1,100,2,1,2,2,Belldale
+Tobermory Field,Westburn,6458,6458,8081,6458,1,100,2,1,2,1,Westburn United
+Vertholt Park,Vertholt,3561,1781,8774,3561,1,100,2,1,2,2,Vertholt
+Vleirivier Park,Vleirivier,1909,764,1656,1909,1,100,2,2,2,1,Vleirivier
+West Coldfield,Coldfield,23164,23164,7099,23164,1,100,2,1,2,5,Coldfield

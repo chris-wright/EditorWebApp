@@ -1,0 +1,10 @@
+Galssop Park,Galssop,2500,522,3446,2500,2,100,2,2,2,3,Galssop
+Halsworthy Park,Halsworthy,2250,473,2822,2250,2,100,2,2,2,3,Halsworthy
+Hewe Park,Hewe,1500,641,2756,1500,2,100,2,2,2,3,Hewe
+Holmfirth Park,Holmfirth,1500,731,2621,1500,2,100,2,2,2,3,Holmfirth
+Kelna Park,Kelna,1250,836,2234,1250,2,100,2,2,2,3,Kelna
+Meteli Park,Meteli,1500,652,2697,1500,2,100,2,2,2,3,Meteli
+Moressley Park,Moressley,2000,735,3093,2000,2,100,2,2,2,3,Moressley
+Myrefall Park,Myrefall,2000,405,3178,2000,2,100,2,2,2,3,Myrefall
+Penketh Park,Penketh,2500,911,4874,2500,2,100,2,2,2,3,Penketh
+Pinnella Park,Pinnella Pass,1250,848,2358,1250,2,100,2,2,2,3,Pinnella Pass

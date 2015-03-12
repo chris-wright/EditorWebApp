@@ -1,0 +1,4 @@
+The Winterlands Premier League,Winterlands Premier League,WPL,255,255,255,0,80,208,255,255,0,The Winterlands,Oceania,120,1,1,Aplua,Beerenberg,FC Crast,FC Greywind,Logro,Mount Hoth,Nardhvik,Skagastrand,Snowfell,Voyalia,Welor,Yucor FC,1
+The Winterlands Amateur League,Winterlands Amateur League,WAL,255,255,255,0,80,208,255,255,0,The Winterlands,Oceania,90,2,2,,1
+The Winterlands Cup,Winterlands Cup,WIC,255,255,255,0,80,208,255,255,0,The Winterlands,Oceania,110,5,,,1
+The Shackleton Shield,Shackleton Shield,WSS,255,255,255,0,80,208,255,255,0,The Winterlands,Oceania,100,6,,,1

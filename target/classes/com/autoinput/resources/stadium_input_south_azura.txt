@@ -1,0 +1,70 @@
+Afsmus Arena,Afsmus,5410,3787,8447,5410,1,100,2,2,2,1,Afsmus
+Allardt Arena,Allardt,1845,1292,1504,1845,1,100,2,2,2,2,Allardt
+Alsea Arena,Alsea,2928,1171,8275,2928,1,100,2,2,2,1,Alsea 
+Ashtabula Arena,Ashtabula,5479,5479,7746,5479,1,100,2,2,2,5,Ashtabula Ospreys
+Asnela Stadium,Asnela,5014,5014,9934,5014,1,100,2,2,2,2,Asnela
+Ayil Arena,Ayil,6132,6132,1290,6132,1,100,2,2,2,4,Ayil
+Blubridge Park,Blubridge,8663,8663,2634,8663,1,100,2,1,2,4,Blubridge
+Border Park,South Apos,12487,12487,7183,12487,1,100,2,1,2,2,Apos United
+Calcheth Park,Calcheth,2581,1807,4314,2581,1,100,2,2,2,5,Calcheth Town
+City of Ehar Arena,Ehar,9594,9594,5089,9594,1,100,2,1,2,2,Ehar
+Cliff View,Bycoast,10557,10557,5463,10557,1,100,2,1,2,1,Bycoast
+Deepston Stadium,Deepston,8000,8000,6574,8000,1,100,2,2,2,5,Deepston South Side
+Del City Stadium,Del City,5406,5406,1341,5406,1,100,2,2,2,3,Del City Kings
+Dorville Field,Dorville,6979,6979,7330,6979,1,100,2,1,2,3,Dorville Rovers
+Easthallow Park,Easthallow,17080,17080,4218,17080,1,100,2,1,2,3,Easthallow
+Eelry Arena,Eelry,15293,15293,3496,15293,1,100,2,2,2,3,Eelry Town
+Enoshill,Enos,20886,20886,8615,20886,1,100,2,1,2,5,Royal Enos
+Erith Park,Erith,3592,1796,3836,3592,1,100,2,2,2,1,Erith Town
+Erith Stadium,Erith,15630,15630,1214,15630,1,100,2,2,2,1,Erith United
+Esnus Park,Esnus,3621,2173,4767,3621,1,100,2,2,2,5,Esnus City
+Esnus Stadium,Esnus,16094,16094,8020,16094,1,100,2,2,2,1,Esnus Harriers
+Eyad Stadium,Eyad,4013,2007,5698,4013,1,100,2,2,2,1,Eyad Town
+Fairlight Field,Fairlight,8437,8437,6893,8437,1,100,2,2,2,4,Fairlight
+Falmouth Road,Newham,14841,14841,1059,14841,1,100,2,2,2,1,Newham United
+Farmouth Road,Abspor,10166,10166,1027,10166,1,100,2,1,2,2,Abspor Athletic
+Four Lakes Stadium,Four Lakes,5322,5322,7561,5322,1,100,2,2,2,3,Four Lakes
+Freeway Point,Bubar,12782,12782,4277,12782,1,100,2,1,2,4,Esnos
+Fruithurst Field,Fruithurst,4950,4950,3822,4950,1,100,2,2,2,2,Fruithurst Flyers
+Fusilier Field,Fairlight,24108,24108,1842,24108,1,100,2,2,2,1,Cannons
+Glasslyn Park,Glasslyn,11235,11235,3684,11235,1,100,2,1,2,3,Glasslyn
+Goca Park,Goca,19760,19760,2103,19760,1,100,2,1,2,3,Goca Juniors
+Greens Field,Gering,20677,20677,8674,20677,1,100,2,1,2,4,Gering Greens
+Greyapple Park,Greyapple,1831,366,7536,1831,1,100,2,2,2,3,Greyapple Harriers
+Hampton Road,Cudan,10662,10662,1385,10662,1,100,2,2,2,1,Cudan
+Hatfield Park,Hatfield,15889,15889,1524,15889,1,100,2,2,2,3,Hatfield Harriers
+Hawkhead,Adros,6067,6067,7268,6067,1,100,2,1,2,3,Adros Athletic
+Higginson Field,Higginson,6290,5661,5906,6290,1,100,2,2,2,4,Higginson Hawks
+Highlake Arena,Highlake,6141,4299,5314,6141,1,100,2,2,2,4,Highlake
+Iceford Park,Iceford,2365,473,4509,2365,1,100,2,2,2,1,Iceford
+Island Overlook,Hancock,5853,5268,4698,5853,1,100,2,2,2,4,Hanock Island
+Kavania Park,Kavania,6468,6468,2216,6468,1,100,2,2,2,2,Kavania Wasps
+Keldbrook Arena,Keldbrook,6379,6379,3540,6379,1,100,2,2,2,3,Keldbrook
+Linhedge Field,Linhedge,20836,20836,3808,20836,1,100,2,1,2,1,Linhedge
+Linmeadow Field,Linmeadow,1074,322,97,1074,1,100,2,2,2,2,Linmeadow
+Lublin Park,Lublin,3884,3884,2920,3884,1,100,2,2,2,3,Lublin Lions
+Ludgershall,Ludgershall,12635,12635,3006,12635,1,100,2,2,2,1,Ludgershall
+Millway Road,Ola,7401,5921,5684,7401,1,100,2,2,2,1,Ola Fighters
+Mournstead Stadium,Mournstead,13744,13744,673,13744,1,100,2,1,2,3,Mournstead
+Muldraugh Park,Muldraugh,9329,9329,1777,9329,1,100,2,2,2,1,Muldraugh United
+Muldraugh Stadium,Muldraugh,25927,25927,5126,25927,1,100,2,1,2,2,Muldraugh 
+Murlay Road,Murlayfield,19271,19271,9006,19271,1,100,2,1,2,4,Murlayfield
+Murlayfield Park,Murlayfield,13208,13208,1111,13208,1,100,2,2,2,1,Murlayfield United
+New Glory Road,Newham,12515,12515,898,12515,1,100,2,1,2,5,Newham
+Old Highground,Aspax,18944,18944,2355,18944,1,100,2,2,2,5,Matan Town
+Osprey Field,Oprela,12231,12231,2537,12231,1,100,2,1,2,2,Oprela Ospreys
+Paton Park,Paton,3986,3986,9333,3986,1,100,2,2,2,3,Paton Roar
+Rigby Park,Eelry,2369,474,9798,2369,1,100,2,2,2,1,Rigby Road
+Rogate Road,Rogate,6827,4096,8824,6827,1,100,2,2,2,4,Rogate Town
+Shoreham Park,Shoreham,4948,4948,9037,4948,1,100,2,2,2,1,Shoreham United
+Silvermill Park,Silvermill,6614,4630,5489,6614,1,100,2,2,2,3,Silvermill
+Swyngate Field,Swyngate,2450,1470,5354,2450,1,100,2,2,2,4,Swyngate
+The Dale,Eyad,6338,6338,5398,6338,1,100,2,2,2,5,Eyad Eagles
+The Etymol,Aspax,4153,1661,4312,4153,1,100,2,2,2,3,Sporting Aspax
+The Hole,Aspax,10275,10275,5697,10275,1,100,2,2,2,4,Aspax Pheonix
+Thomson Memorial Field,Browns,6698,6028,4883,6698,1,100,2,2,2,4,Browns Bears
+Tilly Avenue,Tillydrone,13070,13070,5073,13070,1,100,2,1,2,3,Tillydrone
+Transway Road,Carpenter,6038,6038,178,6038,1,100,2,2,2,1,Carpenter Conkers
+Venzor Arena,Venzor,24995,24995,7428,24995,1,100,2,1,2,5,Venzor
+Villa Field,Pioneer Village,1188,475,5750,1188,1,100,2,2,2,4,Pioneer Village
+Witham Park,Witham,4522,2713,7501,4522,1,100,2,2,2,5,Witham Village

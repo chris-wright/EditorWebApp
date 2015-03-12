@@ -1,0 +1,393 @@
+Llaneilian,North Azura,Welsh,,4,9,,,,0,,1
+Skagastrand,The Winterlands,Swedish,,12,6,,,,0,,1
+Nardhvik,The Winterlands,Swedish,,14,3,,,,0,,1
+Cadret,Recalada,Spanish,,17,10,,,,0,,1
+San Ignacio,Recalada,Spanish,,9,10,,,,0,,1
+Achupallas,Recalada,Spanish,,10,10,,,,0,,1
+Azon,Recalada,Spanish,,12,9,,,,0,,1
+Asar,Recalada,Spanish,,17,10,,,,0,,1
+Itambe,Recalada,Spanish,,9,9,,,,0,,1
+Joubia,Recalada,Spanish,,17,9,,,,0,,1
+Jetan,Recalada,Spanish,,12,9,,,,0,,1
+Gerena,Recalada,Spanish,,12,8,,,,0,,1
+Alfacar,Recalada,Spanish,,9,9,,,,0,,1
+Mondego,Recalada,Spanish,,7,9,,,,0,,1
+Yapac,Recalada,Spanish,,11,9,,,,0,,1
+Redonda,Recalada,Spanish,,13,8,,,,0,,1
+Chuco,Recalada,Spanish,,16,8,,,,0,,1
+Conia,Recalada,Spanish,,16,8,,,,0,,1
+Oto,Recalada,Spanish,,10,8,,,,0,,1
+Cozcojar,Recalada,Spanish,,10,8,,,,0,,1
+Arandilla,Recalada,Spanish,,7,8,,,,0,,1
+Espinilho,Recalada,Spanish,,15,8,,,,0,,1
+Cutiellos,Recalada,Spanish,,14,8,,,,0,,1
+Pano,Recalada,Spanish,,10,6,,,,0,,1
+Torreblacos,Recalada,Spanish,,8,7,,,,0,,1
+Vieytes,Recalada,Spanish,,14,8,,,,0,,1
+Montanha,Recalada,Spanish,,14,7,,,,0,,1
+Ferreros,Recalada,Spanish,,9,5,,,,0,,1
+Uspary,Recalada,Spanish,,14,6,,,,0,,1
+Cantabrana,Recalada,Spanish,,10,8,,,,0,,1
+Vilela,Recalada,Spanish,,13,6,,,,0,,1
+Udaria,Recalada,Spanish,,15,7,,,,0,,1
+Umirim,Recalada,Spanish,,14,2,,,,0,,1
+Cheques,Recalada,Spanish,,11,7,,,,0,,1
+Teseador,Recalada,Spanish,,8,6,,,,0,,1
+Uhain,Recalada,Spanish,,15,8,,,,0,,1
+Boburg,Cyrasia,Russian,,19,10,,,,0,,1
+Fodora,Cyrasia,Russian,,15,10,,,,0,,1
+Deburg,Cyrasia,Russian,,10,10,,,,0,,1
+Esmen,Cyrasia,Russian,,12,10,,,,0,,1
+Anemoi,Cyrasia,Russian,,18,10,,,,0,,1
+Eplzen,Cyrasia,Russian,,12,10,,,,0,,1
+Arcso,Cyrasia,Russian,,14,9,,,,0,,1
+Boreas,Cyrasia,Russian,,18,9,,,,0,,1
+Ayar,Cyrasia,Russian,,11,9,,,,0,,1
+Mistra,Cyrasia,Russian,,8,9,,,,0,,1
+Oslium,Cyrasia,Russian,,9,8,,,,0,,1
+Suules,Cyrasia,Russian,,13,8,,,,0,,1
+Yanto,Cyrasia,Russian,,18,5,,,,0,,1
+Ismrus,Cyrasia,Russian,,11,8,,,,0,,1
+Kerekhalom,Cyrasia,Russian,,14,7,,,,0,,1
+Seye,Cyrasia,Russian,,17,7,,,,0,,1
+Khatyb,Cyrasia,Russian,,12,8,,,,0,,1
+Zedan,Cyrasia,Russian,,10,5,,,,0,,1
+Misto Volgosia,Cyrasia,Russian,,13,8,,,,0,,1
+Pankasz,Cyrasia,Russian,,9,8,,,,0,,1
+Ocsnos,Cyrasia,Russian,,13,7,,,,0,,1
+Oclela,Cyrasia,Russian,,9,7,,,,0,,1
+Mermecs,Cyrasia,Russian,,16,7,,,,0,,1
+Omgresh,Cyrasia,Russian,,18,5,,,,0,,1
+Mindon,Cyrasia,Russian,,9,7,,,,0,,1
+Paburg,Cyrasia,Russian,,10,7,,,,0,,1
+Margine,Cyrasia,Russian,,7,7,,,,0,,1
+Puvania,Recalada,Portuguese,,13,8,,,,0,,1
+Puqua,Recalada,Portuguese,,10,8,,,,0,,1
+Teji,Recalada,Portuguese,,9,8,,,,0,,1
+Sania,Recalada,Portuguese,,17,7,,,,0,,1
+Imatsu,Cyrasia,Japanese,,15,10,,,,0,,1
+Tonaki,Cyrasia,Japanese,,10,8,,,,0,,1
+Takahama,Cyrasia,Japanese,,11,7,,,,0,,1
+Cardinale,Astarya,Italian,,14,10,,,,0,,1
+Mara,Astarya,Italian,,13,10,,,,0,,1
+Abus,Astarya,Italian,,14,9,,,,0,,1
+Olos,Astarya,Italian,,8,7,,,,0,,1
+Murialdo,Astarya,Italian,,15,6,,,,0,,1
+Luttach,Astarya,Italian,,3,8,,,,0,,1
+Osmal,Astarya,Italian,,10,8,,,,0,,1
+Stribugliano,Astarya,Italian,,11,8,,,,0,,1
+Thule,Astarya,German,,20,10,,,,0,,1
+Umos,Astarya,German,,11,10,,,,0,,1
+Apar,Astarya,German,,15,9,,,,0,,1
+Edhof,Astarya,German,,16,8,,,,0,,1
+Osterwinnert,Astarya,German,,4,8,,,,0,,1
+Iglgos,Astarya,German,,6,8,,,,0,,1
+Ichwein,Astarya,German,,5,8,,,,0,,1
+Pfaben,Astarya,German,,11,7,,,,0,,1
+Ludwigsfeld,Astarya,German,,8,8,,,,0,,1
+Dachtel,Astarya,German,,5,7,,,,0,,1
+Peretshofen,Astarya,German,,14,7,,,,0,,1
+Ziegelberg,Astarya,German,,17,8,,,,0,,1
+Eresing,Astarya,German,,2,8,,,,0,,1
+Ciyosil,Astarya,German,,17,7,,,,0,,1
+Alserwurp,Astarya,German,,2,8,,,,0,,1
+Neukamern,Astarya,German,,3,8,,,,0,,1
+Allardt,South Azura,German,,9,9,,,,0,,1
+Genod,Astarya,French,,17,10,,,,0,,1
+Chione,Astarya,French,,14,8,,,,0,,1
+Oyonnax,Astarya,French,,3,6,,,,0,,1
+Acthela,Astarya,French,,4,7,,,,0,,1
+Pimprez,Astarya,French,,10,6,,,,0,,1
+Caijoula,Astarya,French,,17,7,,,,0,,1
+Foce,Astarya,French,,12,8,,,,0,,1
+Sizun,Astarya,French,,11,8,,,,0,,1
+Tarabel,Astarya,French,,16,6,,,,0,,1
+Soonia,Astarya,French,,12,6,,,,0,,1
+Eastcliff,Albini,English,,18,9,,,,0,,1
+Brickelwhyte,Albini,English,,13,8,,,,0,,1
+Aberuthven,Albini,English,,16,8,,,,0,,1
+Drumnacanvy,Albini,English,,5,8,,,,0,,1
+Burrafirth,Albini,English,,2,8,,,,0,,1
+Darkwell,Albini,English,,14,7,,,,0,,1
+Calmarnock,Albini,English,,16,7,,,,0,,1
+Aquarin,Albini,English,,12,7,,,,0,,1
+Dunwich,Albini,English,,15,7,,,,0,,1
+Fallholt,Albini,English,,15,6,,,,0,,1
+Kelna,Eria,English,,15,8,,,,0,,1
+Myrefall,Eria,English,,14,7,,,,0,,1
+Meteli,Eria,English,,9,7,,,,0,,1
+Penketh,Eria,English,,5,6,,,,0,,1
+Pinnella Pass,Eria,English,,14,6,,,,0,,1
+Hewe,Eria,English,,1,6,,,,0,,1
+Holmfirth,Eria,English,,5,6,,,,0,,1
+Moressley,Eria,English,,12,6,,,,0,,1
+Galssop,Eria,English,,2,5,,,,0,,1
+Halsworthy,Eria,English,,2,5,,,,0,,1
+Mensfield,Ferrous Isles,English,,14,6,,,,0,,1
+Limemill,Ferrous Isles,English,,14,6,,,,0,,1
+Wolfden,Ferrous Isles,English,,14,5,,,,0,,1
+Ironhaven,Ferrous Isles,English,,15,4,,,,0,,1
+Highedge,Gobia,English,,18,10,,,,0,,1
+Glasshaven,Gobia,English,,11,10,,,,0,,1
+Coldfield,Gobia,English,,17,9,,,,0,,1
+Freycliff,Gobia,English,,3,9,,,,0,,1
+Spellmill,Gobia,English,,13,9,,,,0,,1
+Vertholt,Gobia,English,,17,8,,,,0,,1
+Fognesse,Gobia,English,,12,9,,,,0,,1
+Landhurst,Gobia,English,,11,8,,,,0,,1
+Belldale,Gobia,English,,3,8,,,,0,,1
+Clearville,Gobia,English,,11,9,,,,0,,1
+Blackedge,Gobia,English,,7,8,,,,0,,1
+Greymoor,Gobia,English,,13,8,,,,0,,1
+Seabarrow,Gobia,English,,3,8,,,,0,,1
+Morborough,Gobia,English,,9,8,,,,0,,1
+Westburn,Gobia,English,,16,6,,,,0,,1
+Oakmarsh,Gobia,English,,9,7,,,,0,,1
+Riverforth,Haverford,English,,12,8,,,,0,,1
+Port Haver,Haverford,English,,15,7,,,,0,,1
+Birkenleen,Montaria,English,,8,9,,,,0,,1
+Washington,Montaria,English,,6,9,,,,0,,1
+Port Springfield,Montaria,English,,9,9,,,,0,,1
+Eisley,Montaria,English,,10,9,,,,0,,1
+Fort Peace,Montaria,English,,4,9,,,,0,,1
+Doveport,Montaria,English,,12,9,,,,0,,1
+Trentstone,Montaria,English,,10,9,,,,0,,1
+Jericho,Montaria,English,,7,9,,,,0,,1
+Charlotteville,Montaria,English,,7,9,,,,0,,1
+Haverville,Montaria,English,,9,9,,,,0,,1
+Berkton,Montaria,English,,12,8,,,,0,,1
+Orilon,Montaria,English,,8,9,,,,0,,1
+Ringchurch,Montaria,English,,6,8,,,,0,,1
+Bexley,Montaria,English,,8,8,,,,0,,1
+Aldby,Montaria,English,,7,8,,,,0,,1
+Berend,Montaria,English,,10,7,,,,0,,1
+Carver,Montaria,English,,9,8,,,,0,,1
+Lincoln,Montaria,English,,9,7,,,,0,,1
+Hopeland,Montaria,English,,5,8,,,,0,,1
+Ogdenbrooke,Montaria,English,,4,3,,,,0,,1
+Toosil,North Azura,English,,16,11,,,,0,,1
+Abana,North Azura,English,,9,10,,,,0,,1
+Barfreston,North Azura,English,,4,10,,,,0,,1
+Thorton,North Azura,English,,17,10,,,,0,,1
+Ablos,North Azura,English,,1,10,,,,0,,1
+Pembroke,North Azura,English,,6,10,,,,0,,1
+Graycott,North Azura,English,,9,10,,,,0,,1
+Tergaron,North Azura,English,,3,10,,,,0,,1
+Garmsby,North Azura,English,,2,9,,,,0,,1
+Peca,North Azura,English,,2,10,,,,0,,1
+Suyador,North Azura,English,,15,10,,,,0,,1
+Kilin,North Azura,English,,15,10,,,,0,,1
+Stawford,North Azura,English,,16,10,,,,0,,1
+Ardfearn,North Azura,English,,1,9,,,,0,,1
+Newmist,North Azura,English,,12,10,,,,0,,1
+Hever,North Azura,English,,2,10,,,,0,,1
+Podor,North Azura,English,,9,10,,,,0,,1
+Glenboyle,North Azura,English,,7,9,,,,0,,1
+Cartmel,North Azura,English,,6,7,,,,0,,1
+Lora,North Azura,English,,18,6,,,,0,,1
+Dallaig,North Azura,English,,11,8,,,,0,,1
+Melcome,North Azura,English,,6,10,,,,0,,1
+Fairchild,North Azura,English,,9,9,,,,0,,1
+Crewkerne,North Azura,English,,11,10,,,,0,,1
+Durness,North Azura,English,,1,9,,,,0,,1
+Goodrich,North Azura,English,,9,8,,,,0,,1
+Idela,North Azura,English,,15,8,,,,0,,1
+Fairbanks,North Azura,English,,6,8,,,,0,,1
+Dele,North Azura,English,,16,9,,,,0,,1
+Otford,North Azura,English,,13,9,,,,0,,1
+Sleaford,North Azura,English,,13,9,,,,0,,1
+Eros,North Azura,English,,11,9,,,,0,,1
+Walpole,North Azura,English,,9,7,,,,0,,1
+Alba,North Azura,English,,17,10,,,,0,,1
+Itium,North Azura,English,,18,9,,,,0,,1
+Anium,North Azura,English,,2,9,,,,0,,1
+Wellspring,North Azura,English,,5,8,,,,0,,1
+Cleeve,North Azura,English,,3,8,,,,0,,1
+Dabar,North Azura,English,,2,9,,,,0,,1
+Strathpeffer,North Azura,English,,10,9,,,,0,,1
+Buji,North Azura,English,,12,8,,,,0,,1
+Falnaird,North Azura,English,,5,9,,,,0,,1
+Ampleforth,North Azura,English,,9,6,,,,0,,1
+Brinkburn,North Azura,English,,4,9,,,,0,,1
+North Apos,North Azura,English,,9,8,,,,0,,1
+Arkney,North Azura,English,,17,9,,,,0,,1
+Lochvar,North Azura,English,,16,9,,,,0,,1
+Addersfield,North Azura,English,,17,8,,,,0,,1
+Fenia,North Azura,English,,7,9,,,,0,,1
+Silverston,North Azura,English,,14,8,,,,0,,1
+Deerlake,North Azura,English,,10,8,,,,0,,1
+Barton,North Azura,English,,4,7,,,,0,,1
+Newbury,North Azura,English,,15,9,,,,0,,1
+Bevania,North Azura,English,,10,8,,,,0,,1
+Inchkeld,North Azura,English,,8,9,,,,0,,1
+Northon,Pinemarsh,English,,20,8,,,,0,,1
+Dalelry,Pinemarsh,English,,9,7,,,,0,,1
+Findochty,Pinemarsh,English,,10,7,,,,0,,1
+Foolshope,Pinemarsh,English,,12,7,,,,0,,1
+Barkamsted,Pinemarsh,English,,9,7,,,,0,,1
+Larkinge,Pinemarsh,English,,14,7,,,,0,,1
+Nerton,Pinemarsh,English,,13,6,,,,0,,1
+Swindmore,Pinemarsh,English,,17,7,,,,0,,1
+Farncombe,Pinemarsh,English,,11,6,,,,0,,1
+Braedon,Pinemarsh,English,,15,6,,,,0,,1
+Briar Glen,Pinemarsh,English,,12,7,,,,0,,1
+Erostey,Pinemarsh,English,,16,6,,,,0,,1
+Sanlow,Pinemarsh,English,,12,5,,,,0,,1
+Wheldrake,Pinemarsh,English,,6,4,,,,0,,1
+Saint Elias City,Saint Elias City,English,,18,6,,,,0,,1
+Aspax,South Azura,English,,14,11,,,,0,,1
+Deepston,South Azura,English,,14,10,,,,0,,1
+Esnus,South Azura,English,,7,10,,,,0,,1
+Eelry,South Azura,English,,9,10,,,,0,,1
+Eyad,South Azura,English,,12,10,,,,0,,1
+Erith,South Azura,English,,10,10,,,,0,,1
+Ludgershall,South Azura,English,,11,9,,,,0,,1
+Fairlight,South Azura,English,,9,10,,,,0,,1
+Adros,South Azura,English,,8,10,,,,0,,1
+Cudan,South Azura,English,,7,10,,,,0,,1
+Newham,South Azura,English,,10,10,,,,0,,1
+Abspor,South Azura,English,,11,10,,,,0,,1
+Afsmus,South Azura,English,,9,9,,,,0,,1
+Muldraugh,South Azura,English,,8,9,,,,0,,1
+Silvermill,South Azura,English,,11,10,,,,0,,1
+South Apos,South Azura,English,,7,10,,,,0,,1
+Ehar,South Azura,English,,7,8,,,,0,,1
+Kavania,South Azura,English,,11,10,,,,0,,1
+Browns,South Azura,English,,10,10,,,,0,,1
+Paton,South Azura,English,,7,9,,,,0,,1
+Shoreham,South Azura,English,,9,10,,,,0,,1
+Fruithurst,South Azura,English,,3,8,,,,0,,1
+Del City,South Azura,English,,3,6,,,,0,,1
+Ola,South Azura,English,,8,8,,,,0,,1
+Bubar,South Azura,English,,8,10,,,,0,,1
+Higginson,South Azura,English,,11,8,,,,0,,1
+Linmeadow,South Azura,English,,7,8,,,,0,,1
+Four Lakes,South Azura,English,,1,9,,,,0,,1
+Easthallow,South Azura,English,,1,10,,,,0,,1
+Hancock,South Azura,English,,7,10,,,,0,,1
+Alsea,South Azura,English,,7,8,,,,0,,1
+Hatfield,South Azura,English,,12,9,,,,0,,1
+Lublin,South Azura,English,,1,10,,,,0,,1
+Dorville,South Azura,English,,2,8,,,,0,,1
+Ashtabula,South Azura,English,,10,9,,,,0,,1
+Murlayfield,South Azura,English,,10,10,,,,0,,1
+Iceford,South Azura,English,,6,9,,,,0,,1
+Ayil,South Azura,English,,12,9,,,,0,,1
+Oprela,South Azura,English,,14,9,,,,0,,1
+Witham,South Azura,English,,17,7,,,,0,,1
+Blubridge,South Azura,English,,7,9,,,,0,,1
+Calcheth,South Azura,English,,1,9,,,,0,,1
+Linhedge,South Azura,English,,4,9,,,,0,,1
+Enos,South Azura,English,,9,9,,,,0,,1
+Highlake,South Azura,English,,8,9,,,,0,,1
+Pioneer Village,South Azura,English,,8,10,,,,0,,1
+Rogate,South Azura,English,,7,10,,,,0,,1
+Asnela,South Azura,English,,11,8,,,,0,,1
+Mournstead,South Azura,English,,5,8,,,,0,,1
+Gering,South Azura,English,,1,10,,,,0,,1
+Goca,South Azura,English,,6,8,,,,0,,1
+Swyngate,South Azura,English,,5,7,,,,0,,1
+Greyapple,South Azura,English,,5,5,,,,0,,1
+Tillydrone,South Azura,English,,1,9,,,,0,,1
+Carpenter,South Azura,English,,2,8,,,,0,,1
+Venzor,South Azura,English,,14,4,,,,0,,1
+Glasslyn,South Azura,English,,1,8,,,,0,,1
+Keldbrook,South Azura,English,,2,9,,,,0,,1
+Bycoast,South Azura,English,,1,6,,,,0,,1
+Brightwald,South Azura,English,,2,10,,,,0,,1
+Wyvernston,South Azura,English,,9,9,,,,0,,1
+Oldwell,South Azura,English,,9,5,,,,0,,1
+Belfield,South Azura,English,,8,9,,,,0,,1
+Lordale,South Azura,English,,8,9,,,,0,,1
+Swynfort,South Azura,English,,4,10,,,,0,,1
+Wildeborne,South Azura,English,,12,5,,,,0,,1
+Snowfell,The Winterlands,English,,17,7,,,,0,,1
+Crast,The Winterlands,English,,1,6,,,,0,,1
+Voyalia,The Winterlands,English,,7,6,,,,0,,1
+Greywind,The Winterlands,English,,1,6,,,,0,,1
+Aplua,The Winterlands,English,,13,4,,,,0,,1
+Beerenberg,The Winterlands,English,,9,4,,,,0,,1
+Welor,The Winterlands,English,,11,4,,,,0,,1
+Logro,The Winterlands,English,,8,4,,,,0,,1
+Mount Hoth,The Winterlands,English,,12,3,,,,0,,1
+Yucor,The Winterlands,English,,8,3,,,,0,,1
+Ghil,Astarya,Dutch,,16,9,,,,0,,1
+Schottershuizen,Astarya,Dutch,,7,8,,,,0,,1
+Wolfsbarge,Astarya,Dutch,,11,8,,,,0,,1
+Aqia,Astarya,Dutch,,16,7,,,,0,,1
+Staveren,Astarya,Dutch,,16,8,,,,0,,1
+Panningen,Astarya,Dutch,,4,1,,,,0,,1
+Ozor,Cyrasia,Chinese,,15,10,,,,0,,1
+Iza,Cyrasia,Chinese,,12,10,,,,0,,1
+Mengete,Gobia,Afrikaans,,12,7,,,,0,,1
+Macireni,Gobia,Afrikaans,,12,8,,,,0,,1
+Vleirivier,Gobia,Afrikaans,,11,8,,,,0,,1
+Shongwe,Gobia,Afrikaans,,10,7,,,,0,,1
+Grypoort,Gobia,Afrikaans,,15,3,,,,0,,1
+Kiru,Gobia,Afrikaans,,9,6,,,,0,,1
+Makokoni,Gobia,Afrikaans,,14,8,,,,0,,1
+Kagera Port,Gobia,Afrikaans,,10,7,,,,0,,1
+Seba,Aerugo,English,,14,8,,,,0,,1
+Hena,Aerugo,English,,7,6,,,,0,,1
+Dina,Aerugo,English,,9,7,,,,0,,1
+Nekhur,Aerugo,English,,12,6,,,,0,,1
+Semna,Aerugo,English,,6,7,,,,0,,1
+Arnak,Aerugo,English,,2,8,,,,0,,1
+Port Aurelia,Aurelia,English,,1,9,,,,0,,1
+Elis,Aurelia,English,,8,8,,,,0,,1
+Assus,Aurelia,English,,10,8,,,,0,,1
+Mene,Aurelia,English,,7,9,,,,0,,1
+Enens,Aurelia,English,,8,8,,,,0,,1
+Halos,Aurelia,English,,8,8,,,,0,,1
+Acyra,Aurelia,English,,4,9,,,,0,,1
+Kassia,Aurelia,English,,10,9,,,,0,,1
+Laeusia,Aurelia,English,,2,7,,,,0,,1
+Egalo,Aurelia,English,,11,8,,,,0,,1
+Aros,Aurelia,English,,8,6,,,,0,,1
+Manta,Aurelia,English,,6,7,,,,0,,1
+Port Bielya,Bielya,English,,9,8,,,,0,,1
+Bernifell,Bielya,English,,10,7,,,,0,,1
+Henevik,Bielya,English,,10,8,,,,0,,1
+Amarholm,Bielya,English,,6,8,,,,0,,1
+Port Creta,Creta,English,,1,9,,,,0,,1
+Marburgh,Creta,English,,9,7,,,,0,,1
+Grenton,Creta,English,,8,8,,,,0,,1
+Gloslake,Creta,English,,5,8,,,,0,,1
+Ansali,Creta,English,,3,7,,,,0,,1
+Byde,Creta,English,,7,7,,,,0,,1
+Delphi,Creta,English,,6,8,,,,0,,1
+Cynthi,Creta,English,,6,8,,,,0,,1
+Port Fiore,Fiore,English,,7,9,,,,0,,1
+Lentia,Fiore,English,,8,7,,,,0,,1
+Capuum,Fiore,English,,10,8,,,,0,,1
+Lodia,Fiore,English,,9,7,,,,0,,1
+Mogium,Fiore,English,,2,7,,,,0,,1
+Agusum,Fiore,English,,7,8,,,,0,,1
+Arpica,Fiore,English,,5,7,,,,0,,1
+Atiala,Fiore,English,,13,8,,,,0,,1
+Cayhill,Gilead,English,,15,8,,,,0,,1
+Peminster,Gilead,English,,14,8,,,,0,,1
+Cobrook,Gilead,English,,11,8,,,,0,,1
+Ramoor,Gilead,English,,14,7,,,,0,,1
+Caford,Gilead,English,,8,6,,,,0,,1
+Hibury,Gilead,English,,15,7,,,,0,,1
+Wyeton,Gilead,English,,9,8,,,,0,,1
+Knefalls,Gilead,English,,7,6,,,,0,,1
+Cara,Laurania,English,,9,9,,,,0,,1
+Chieto,Laurania,English,,13,8,,,,0,,1
+Massa,Laurania,English,,16,7,,,,0,,1
+Vicia,Laurania,English,,16,9,,,,0,,1
+Pobia,Laurania,English,,14,8,,,,0,,1
+Vena,Laurania,English,,16,8,,,,0,,1
+Astellthorp,Norland,English,,15,9,,,,0,,1
+Rikibyr,Norland,English,,10,8,,,,0,,1
+Naribyr,Norland,English,,10,9,,,,0,,1
+Holvefell,Norland,English,,8,9,,,,0,,1
+Naaba,Rovka,English,,16,8,,,,0,,1
+Baheii,Rovka,English,,10,7,,,,0,,1
+Tsidi,Rovka,English,,10,8,,,,0,,1
+Hili,Rovka,English,,17,8,,,,0,,1
+Ahish,Sunda,English,,14,9,,,,0,,1
+Aleah,Sunda,English,,10,7,,,,0,,1
+Iisah,Sunda,English,,11,8,,,,0,,1
+Sidi,Sunda,English,,17,8,,,,0,,1

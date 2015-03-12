@@ -1,0 +1,10 @@
+Aberuthven Park,Aberuthven,2500,709,2823,2500,2,100,2,2,2,3,Aberuthven
+Aquarin Park,Aquarin,2250,415,4471,2250,2,100,2,2,2,3,Aquarin
+Brickelwhyte Park,Brickelwhyte,2000,478,2288,2000,2,100,2,2,2,3,Brickelwhyte
+Burrafirth Park,Burrafirth,1500,636,1797,1500,2,100,2,2,2,3,Burrafirth
+Calmarnock Park,Calmarnock,1750,676,2229,1750,2,100,2,2,2,3,Calmarnock
+Darkwell Park,Darkwell,2500,765,2730,2500,2,100,2,2,2,3,Darkwell
+Drumnacanvy Park,Drumnacanvy,2250,584,3395,2250,2,100,2,2,2,3,Drumnacanvy
+Dunwich Park,Dunwich,2500,371,4241,2500,2,100,2,2,2,3,Dunwich
+Eastcliff Park,Eastcliff,1250,279,1876,1250,2,100,2,2,2,3,Eastcliff
+Fallholt Park,Fallholt,2500,469,3848,2500,2,100,2,2,2,3,Fallholt

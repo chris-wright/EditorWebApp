@@ -1,0 +1,454 @@
+Adam Grace Stadium,Eros,7498,7498,10107,7498,1,100,2,2,2,3,Kule,North Azura,1
+Addersfield,Addersfield,2153,1507,2272,2153,1,100,2,2,2,1,Addersfield Athletic,North Azura,1
+Afsmus Arena,Afsmus,5410,3787,6661,5410,1,100,2,2,2,1,Afsmus,South Azura,1
+Allardt Arena,Allardt,1845,1292,11330,1845,1,100,2,2,2,2,Allardt,South Azura,1
+Alsea Arena,Alsea,2928,1171,8337,2928,1,100,2,2,2,1,Alsea ,South Azura,1
+Ampleforth Park,Ampleforth,7342,7342,15597,7342,1,100,2,2,2,1,Ampleforth Town,North Azura,1
+Anium Sports Complex,Anium,8072,8072,13493,8072,1,100,2,1,2,5,Anium Athletic,North Azura,1
+Aplua Park,Aplua,2908,2326,5915,2908,2,100,2,1,2,4,Aplua,The Winterlands,1
+Arcso Stadium,Arcso,10480,10480,18051,10480,1,100,2,2,2,1,Arcso,Cyrasia,1
+Ardfearn Field,Ardfearn,21101,21101,28973,21101,1,100,2,2,2,1,Ardfearn,North Azura,1
+Arena Boreas,Boreas,5385,5385,5896,5385,1,100,2,1,2,1,Dynamo Boreas,Cyrasia,1
+Arena Pioneer,Seye,1964,393,6766,1964,2,100,2,2,2,5,Zenit Seye,Cyrasia,1
+Arkney Dock,Arkney,5412,5412,14287,5412,1,100,2,2,2,1,Arkney Island,North Azura,1
+Ashtabula Arena,Ashtabula,5479,5479,7295,5479,1,100,2,2,2,5,Ashtabula Ospreys,South Azura,1
+Aslerstadion,Alserwurp,14166,14166,16507,14166,1,100,2,2,2,1,Alserwurp,Astarya,1
+Asnela Stadium,Asnela,5014,5014,9408,5014,1,100,2,2,2,2,Asnela,South Azura,1
+Ayar Arena,Ayar,5781,5781,10335,5781,1,100,2,2,2,1,Spartak Ayar,Cyrasia,1
+Ayar Stadium,Ayar,5216,5216,10903,5216,1,100,2,2,2,3,FC Ayar,Cyrasia,1
+Ayil Arena,Ayil,6132,6132,13328,6132,1,100,2,2,2,4,Ayil,South Azura,1
+Barfreston Hall,Barfreston,2935,2642,5420,2935,1,100,2,1,2,5,Barfreston Bay,North Azura,1
+Beerenberg Field,Beerenberg,2155,1078,10385,2155,2,100,2,1,2,4,Beerenberg,The Winterlands,1
+Benfield Road,Landhurst,5057,5057,10850,5057,1,100,2,1,2,3,Landhurst,Gobia,1
+Bens Park,Glasshaven,6005,6005,12468,6005,1,100,2,1,2,2,Glasshaven Town,Gobia,1
+Bergpark,Umos,8795,8795,18057,8795,1,100,2,1,2,4,FC Umos,Astarya,1
+Blubridge Park,Blubridge,8663,8663,13527,8663,1,100,2,1,2,4,Blubridge,South Azura,1
+Blue Star Bowl,Dabar,33677,33677,35773,33677,2,100,2,1,2,5,Blue Star Dabar,North Azura,1
+Boburg Bowl,Boburg,2632,1842,11590,2632,1,100,2,2,2,1,Spartak Boburg,Cyrasia,1
+Boburg Stadium,Boburg,7129,7129,15522,7129,2,100,2,1,2,1,Sporting Club Boburg,Cyrasia,1
+Border Park,South Apos,12487,12487,12736,12487,1,100,2,1,2,2,Apos United,South Azura,1
+Bramley Street,Thorton,25242,25242,30204,25242,2,100,2,2,2,3,Thorton United,North Azura,1
+Calcheth Park,Calcheth,2581,1807,4231,2581,1,100,2,2,2,5,Calcheth Town,South Azura,1
+Cartmel Ground,Cartmel,2136,427,4074,2136,1,100,2,1,2,4,Cartmel County,North Azura,1
+Caskill Lane,Suyador,17729,17729,27517,17729,2,100,2,2,2,1,Suyador Knights,North Azura,1
+City Ground,Highedge,14521,14521,23125,14521,1,100,2,1,2,2,Highedge City,Gobia,1
+City of Ehar Arena,Ehar,9594,9594,10304,9594,1,100,2,1,2,2,Ehar,South Azura,1
+Ciyosil Park,Ciyosil,7109,7109,8797,7109,1,100,2,2,2,4,AC Ciyosil,Astarya,1
+Ciyosilstadion,Ciyosil,7986,7986,10872,7986,1,100,2,2,2,1,Bayer Ciyosil,Astarya,1
+Clearville Road,Clearville,9155,9155,18246,9155,1,100,2,1,2,2,Clearville,Gobia,1
+Cleeve Road,Cleeve,10727,10727,16129,10727,1,100,2,1,2,1,Cleeve Victoria,North Azura,1
+Cliff Road,Freycliff,19934,19934,22773,19934,1,100,2,1,2,3,Freycliff,Gobia,1
+Cliff View,Bycoast,10557,10557,20139,10557,1,100,2,1,2,1,Bycoast,South Azura,1
+Colts Field,Itium,30550,30550,36624,30550,1,100,2,2,2,5,Itium Colts,North Azura,1
+Complexe Osmal,Osmal,4992,4992,7628,4992,1,100,2,1,2,2,AJ Osmal,Astarya,1
+Crast Tundra,Crast,2005,1203,11203,2005,2,100,2,1,2,4,FC Crast,The Winterlands,1
+Crease Crescent,Seabarrow,1911,382,7024,1911,1,100,2,1,2,3,Seabarrow,Gobia,1
+Crewkerne Arena,Crewkerne,4715,4715,5008,4715,1,100,2,2,2,1,Crewkerne United,North Azura,1
+Dachtelpark,Dachtel,2000,600,7668,2000,1,100,2,2,2,4,Dachtel,Astarya,1
+De Krom,Aqia,1469,294,3848,1469,1,100,2,2,2,5,Aqia,Astarya,1
+Deburg Stadium,Deburg,8024,8024,14540,8024,1,100,2,2,2,3,Deburg,Cyrasia,1
+Deepston Stadium,Deepston,8000,8000,8203,8000,1,100,2,2,2,5,Deepston South Side,South Azura,1
+Deerlake Park,Deerlake,2420,1694,5399,2420,1,100,2,2,2,1,Deerlake,North Azura,1
+Del City Stadium,Del City,5406,5406,9342,5406,1,100,2,2,2,3,Del City Kings,South Azura,1
+Dele Sports Complex,Dele,22970,22970,30148,22970,1,100,2,2,2,2,Dele County,North Azura,1
+Dorville Field,Dorville,6979,6979,9566,6979,1,100,2,1,2,3,Dorville Rovers,South Azura,1
+Easthallow Park,Easthallow,17080,17080,20699,17080,1,100,2,1,2,3,Easthallow,South Azura,1
+Edgefield,Blackedge,4751,4751,10756,4751,1,100,2,1,2,1,Blackedge,Gobia,1
+Eelry Arena,Eelry,15293,15293,16656,15293,1,100,2,2,2,3,Eelry Town,South Azura,1
+Enoshill,Enos,20886,20886,24477,20886,1,100,2,1,2,5,Royal Enos,South Azura,1
+Eplzen Stadium,Eplzen,12486,12486,21326,12486,1,100,2,2,2,2,Lokomotiv Eplzen,Cyrasia,1
+Eresingstadion,Eresing,2019,606,4051,2019,1,100,2,1,2,5,Eresing,Astarya,1
+Erith Park,Erith,3592,1796,10843,3592,1,100,2,2,2,1,Erith Town,South Azura,1
+Erith Stadium,Erith,15630,15630,17326,15630,1,100,2,2,2,1,Erith United,South Azura,1
+Eros Park,Eros,2686,1612,3711,2686,2,100,2,1,2,5,Eros Rovers,North Azura,1
+Esmen Stadium,Esmen,6343,3806,12655,6343,1,100,2,1,2,5,Esmen,Cyrasia,1
+Esnus Park,Esnus,3621,2173,9670,3621,1,100,2,2,2,5,Esnus City,South Azura,1
+Esnus Stadium,Esnus,16094,16094,22482,16094,1,100,2,2,2,1,Esnus Harriers,South Azura,1
+Estadio Achupallas,Achupallas,10695,10695,15747,10695,1,100,2,2,2,3,Achupallas,Recalada,1
+Estadio Alfacar,Alfacar,2249,1349,11253,2249,1,100,2,1,2,2,Alfacar,Recalada,1
+Estadio Andres Juan,Pano,5833,5833,8082,5833,1,100,2,2,2,1,Pano,Recalada,1
+Estadio Asar,Asar,21116,21116,27075,21116,1,100,2,1,2,1,Asar,Recalada,1
+Estadio Azon,Azon,1544,618,11319,1544,1,100,2,1,2,5,Azon,Recalada,1
+Estadio Cadret,Cadret,9775,9775,18049,9775,1,100,2,2,2,1,Cadret,Recalada,1
+Estadio Cantabrana,Cantabrana,18995,18995,26746,18995,1,100,2,1,2,3,Cantabrana,Recalada,1
+Estadio Cheques,Cheques,12439,12439,20475,12439,1,100,2,1,2,4,Cheques,Recalada,1
+Estadio Chuco,Chuco,9749,9749,10087,9749,1,100,2,2,2,2,Chuco,Recalada,1
+Estadio Conia,Conia,9415,9415,18652,9415,1,100,2,1,2,3,Conia,Recalada,1
+Estadio Cozcojar,Cozcojar,3212,1606,5801,3212,1,100,2,1,2,4,Cozcojar,Recalada,1
+Estadio Cutiellos,Cutiellos,10258,10258,15966,10258,1,100,2,2,2,1,Cutiellos,Recalada,1
+Estadio Espinilho,Espinilho,6419,6419,10706,6419,1,100,2,2,2,5,Espinilho,Recalada,1
+Estadio Estevino,Oto,4987,4987,14756,4987,1,100,2,2,2,1,Oto,Recalada,1
+Estadio Fernando,Torreblacos,2478,1735,3656,2478,1,100,2,2,2,1,Torreblacos,Recalada,1
+Estadio Ferreros,Ferreros,9919,9919,12031,9919,1,100,2,2,2,1,Ferreros Rochet,Recalada,1
+Estadio Gerena,Gerena,16512,16512,22437,16512,1,100,2,1,2,2,Gerena,Recalada,1
+Estadio Itambe,Itambe,1948,1169,10341,1948,1,100,2,1,2,2,Itambe,Recalada,1
+Estadio Jetan,Jetan,5033,5033,10446,5033,1,100,2,2,2,5,Jetan,Recalada,1
+Estadio Juan Jose,Arandilla,8916,8916,14907,8916,1,100,2,2,2,1,FC Arandilla,Recalada,1
+Estadio Mondego,Mondego,9020,9020,13472,9020,1,100,2,1,2,4,Mondego,Recalada,1
+Estadio Montanha,Montanha,4768,4768,5159,4768,1,100,2,2,2,1,Montanha,Recalada,1
+Estadio Puqua,Puqua,22904,22904,24777,22904,1,100,2,2,2,5,Puqua,Recalada,1
+Estadio Puvania,Puvania,7680,6144,14880,7680,1,100,2,1,2,4,Puvania,Recalada,1
+Estadio Redonda,Redonda,4495,2697,11072,4495,1,100,2,1,2,2,Redonda,Recalada,1
+Estadio San Ignacio,San Ignacio,8262,8262,11293,8262,1,100,2,2,2,1,San Ignacio,Recalada,1
+Estadio Sania,Sania,10053,10053,19608,10053,1,100,2,2,2,5,Sania,Recalada,1
+Estadio Teji,Teji,14117,14117,21443,14117,1,100,2,2,2,4,Teji,Recalada,1
+Estadio Teseador,Teseador,13462,13462,20858,13462,1,100,2,2,2,4,Teseador,Recalada,1
+Estadio Udaria,Udaria,8274,8274,10561,8274,1,100,2,2,2,5,Udaria,Recalada,1
+Estadio Uhain,Uhain,5172,3620,12914,5172,1,100,2,1,2,2,Uhain,Recalada,1
+Estadio Umirim,Umirim,4205,2523,6618,4205,1,100,2,1,2,5,Umirim,Recalada,1
+Estadio Uspary,Uspary,8785,8785,14504,8785,1,100,2,1,2,1,Uspary,Recalada,1
+Estadio Vieytes,Vieytes,16593,16593,17821,16593,1,100,2,2,2,3,Vieytes,Recalada,1
+Estadio Vilela,Vilela,11183,11183,13095,11183,1,100,2,1,2,1,Vilela,Recalada,1
+Estadio Yapac,Yapac,5045,5045,6938,5045,1,100,2,2,2,2,Yapac,Recalada,1
+Eyad Stadium,Eyad,4013,2007,4518,4013,1,100,2,2,2,1,Eyad Town,South Azura,1
+Fairbanks Stadium,Fairbanks,2232,1786,6504,2232,1,100,2,1,2,4,Fairbanks,North Azura,1
+Fairlight Field,Fairlight,8437,8437,16627,8437,1,100,2,2,2,4,Fairlight,South Azura,1
+Falmouth Road,Newham,14841,14841,23595,14841,1,100,2,2,2,1,Newham United,South Azura,1
+Falnaird Field,Falnaird,3576,2503,13334,3576,1,100,2,2,2,3,Falnaird,North Azura,1
+Farmouth Road,Abspor,10166,10166,17079,10166,1,100,2,1,2,2,Abspor Athletic,South Azura,1
+Fenia Field,Fenia,10113,10113,12283,10113,1,100,2,1,2,2,FC Fenia,North Azura,1
+Fenwick View,Abana,28250,28250,34029,28250,1,100,2,2,2,3,Abana,North Azura,1
+Fodora Stadium,Fodora,2560,1280,7298,2560,1,100,2,2,2,2,Fodora,Cyrasia,1
+Forth View,Riverforth,7275,7275,8036,7275,1,100,2,1,2,4,Northforth,Haverford,1
+Four Lakes Stadium,Four Lakes,5322,5322,14447,5322,1,100,2,2,2,3,Four Lakes,South Azura,1
+Fox Corner,Stawford,2479,1240,10275,2479,1,100,2,2,2,1,Stawford Rovers,North Azura,1
+Freeway Point,Bubar,12782,12782,14919,12782,1,100,2,1,2,4,Esnos,South Azura,1
+Fruithurst Field,Fruithurst,4950,4950,11614,4950,1,100,2,2,2,2,Fruithurst Flyers,South Azura,1
+Fusilier Field,Fairlight,24108,24108,25878,24108,1,100,2,2,2,1,Cannons,South Azura,1
+Garmsby Arena,Garmsby,1379,690,10181,1379,1,100,2,2,2,1,Garmsby United,North Azura,1
+Gayfield,Glenboyle,4368,4368,9120,4368,1,100,2,2,2,1,Glenboyle Victoria,North Azura,1
+Genod Arena,Genod,2751,2201,9362,2751,1,100,2,2,2,1,Genod,Astarya,1
+George Avenue,North Apos,6641,6641,15290,6641,1,100,2,2,2,3,British Apos,North Azura,1
+Ghil Schussel,Ghil,23881,23881,23971,23881,1,100,2,2,2,2,Club Ghil,Astarya,1
+Glasslyn Park,Glasslyn,11235,11235,20188,11235,1,100,2,1,2,3,Glasslyn,South Azura,1
+Goca Park,Goca,19760,19760,24548,19760,1,100,2,1,2,3,Goca Juniors,South Azura,1
+Goodrich Ground,Goodrich,9107,9107,14944,9107,1,100,2,1,2,1,Goodrich,North Azura,1
+Graycott Field,Graycott,9113,9113,16323,9113,1,100,2,2,2,1,Graycott Town,North Azura,1
+Greater Hampden,Alba,2528,1517,8902,2528,1,100,2,2,2,4,Alba Thistle,North Azura,1
+Greens Field,Gering,20677,20677,23257,20677,1,100,2,1,2,4,Gering Greens,South Azura,1
+Greyapple Park,Greyapple,1831,366,3647,1831,1,100,2,2,2,3,Greyapple Harriers,South Azura,1
+Greymoor Park,Greymoor,4154,2492,7277,4154,1,100,2,1,2,4,Greymoor,Gobia,1
+Grypoort Stadium,Grypoort,2026,1013,3147,2026,1,100,2,2,2,1,Grypoort,Gobia,1
+Hampton Road,Cudan,10662,10662,16543,10662,1,100,2,2,2,1,Cudan,South Azura,1
+Hatfield Park,Hatfield,15889,15889,19953,15889,1,100,2,2,2,3,Hatfield Harriers,South Azura,1
+Hawkhead,Adros,6067,6067,6293,6067,1,100,2,1,2,3,Adros Athletic,South Azura,1
+Hepburn Lane,Buji,6814,6814,11920,6814,1,100,2,2,2,1,Buji Town,North Azura,1
+Het Kasteel,Panningen,2743,2057,9610,2743,1,100,2,1,2,2,Panningen,Astarya,1
+Hever View,Hever,10659,10659,11374,10659,1,100,2,2,2,1,Hever Athletic,North Azura,1
+Higginson Field,Higginson,6290,5661,12795,6290,1,100,2,2,2,4,Higginson Hawks,South Azura,1
+Highlake Arena,Highlake,6141,4299,14205,6141,1,100,2,2,2,4,Highlake,South Azura,1
+Iceford Park,Iceford,2365,473,3348,2365,1,100,2,2,2,1,Iceford,South Azura,1
+Ichwein Arena,Ichwein,23114,23114,31326,23114,1,100,2,2,2,2,Ichwein SV,Astarya,1
+Iglgos Park,Iglgos,16591,16591,18586,16591,1,100,2,1,2,3,Iglgos,Astarya,1
+Imatsu Stadium,Imatsu,13344,13344,20665,13344,1,100,2,1,2,5,Imatsu,Cyrasia,1
+Inchkeld Park,Inchkeld,15809,15809,19222,15809,1,100,2,1,2,5,Inchkeld,North Azura,1
+Island Overlook,Hancock,5853,5268,6464,5853,1,100,2,2,2,4,Hanock Island,South Azura,1
+Ismrus Stadium,Ismrus,12563,12563,13767,12563,1,100,2,2,2,2,Ismrus,Cyrasia,1
+Iza Stadium,Iza,3926,1570,5888,3926,1,100,2,1,2,1,Olimpic Iza,Cyrasia,1
+John Smith Field,Otford,6623,6623,8649,6623,1,100,2,2,2,1,Otford Town,North Azura,1
+Kavania Park,Kavania,6468,6468,10409,6468,1,100,2,2,2,2,Kavania Wasps,South Azura,1
+Keldbrook Arena,Keldbrook,6379,6379,6467,6379,1,100,2,2,2,3,Keldbrook,South Azura,1
+Kerekhalom Stadium,Kerekhalom,11717,11717,21680,11717,1,100,2,1,2,1,Kerekhalom,Cyrasia,1
+Khatyb Stadium,Khatyb,6414,6414,11516,6414,1,100,2,1,2,1,Khatyb,Cyrasia,1
+Kilin Stadium,Kilin,2797,1678,4691,2797,1,100,2,2,2,1,Kilin Town,North Azura,1
+La Creuset,Soonia,3170,2219,8932,3170,1,100,2,1,2,5,St Soonia,Astarya,1
+Lanfield,Glasshaven,2494,2245,8740,2494,1,100,2,1,2,4,Glasshaven Rovers,Gobia,1
+Lennon Park,Westburn,10934,10934,18147,10934,1,100,2,1,2,1,Westburn City,Gobia,1
+Linhedge Field,Linhedge,20836,20836,24417,20836,1,100,2,1,2,1,Linhedge,South Azura,1
+Linmeadow Field,Linmeadow,1074,322,5211,1074,1,100,2,2,2,2,Linmeadow,South Azura,1
+Lochside Park,Lochvar,806,161,6218,806,1,100,2,2,2,3,Lochvar,North Azura,1
+Logro Square,Logro,512,102,5775,512,2,100,2,1,2,4,Logro United,The Winterlands,1
+Lora Park,Lora,4264,4264,4549,4264,1,100,2,2,2,5,Lora Town,North Azura,1
+Lowbury,Fognesse,14119,14119,21596,14119,1,100,2,1,2,4,Fognesse,Gobia,1
+Lublin Park,Lublin,3884,3884,8459,3884,1,100,2,2,2,3,Lublin Lions,South Azura,1
+Ludgershall,Ludgershall,12635,12635,12952,12635,1,100,2,2,2,1,Ludgershall,South Azura,1
+Ludwigsfeld,Ludwigsfeld,540,108,2127,540,1,100,2,2,2,5,Ludwigsfeld,Astarya,1
+Machinostroitel,Anemoi,8907,5344,9631,8907,2,100,2,1,2,2,Spartak Anemoi,Cyrasia,1
+Macireni Stadium,Macireni,2357,1650,7297,2357,1,100,2,2,2,1,Macireni,Gobia,1
+Mara Park,Mara,8177,8177,10590,8177,1,100,2,2,2,1,Mara United,Astarya,1
+Mara Stadium,Mara,11410,11410,17779,11410,1,100,2,2,2,1,Mara Town,Astarya,1
+Margine Stadium,Margine,17808,17808,21550,17808,1,100,2,2,2,4,Margine,Cyrasia,1
+McDonald Park,Nardhvik,2077,1039,3012,2077,2,100,2,1,2,4,Nardhvik,The Winterlands,1
+Melcome Field,Melcome,8218,8218,8773,8218,1,100,2,1,2,5,Melcome County,North Azura,1
+Memorial Stadium,Toosil,7313,7313,14311,7313,2,100,2,2,2,1,Toosil United,North Azura,1
+Mengete Field,Mengete,2076,1246,7428,2076,1,100,2,2,2,1,Mengete,Gobia,1
+Mermecs Stadium,Mermecs,15454,15454,15732,15454,1,100,2,2,2,5,Mermecs,Cyrasia,1
+Mill Road,Peca,8450,8450,14528,8450,1,100,2,1,2,4,Peca Wanderers,North Azura,1
+Millway Road,Ola,7401,5921,9886,7401,1,100,2,2,2,1,Ola Fighters,South Azura,1
+Mindon Stadium,Mindon,4312,2587,5536,4312,1,100,2,2,2,3,Mindon,Cyrasia,1
+Misto Stadium,Misto Volgosia,4974,4974,8083,4974,1,100,2,2,2,1,Misto Volgosia,Cyrasia,1
+Mistra Stadium,Mistra,5007,5007,7458,5007,1,100,2,2,2,3,Mistra,Cyrasia,1
+Morborough Road,Morborough,12455,12455,13689,12455,1,100,2,1,2,2,Morborough,Gobia,1
+Mount Point,Mount Hoth,844,253,6817,844,2,100,2,1,2,4,Mount Hoth,The Winterlands,1
+Mountain View,Ablos,17008,17008,18263,17008,1,100,2,2,2,2,Ablos,North Azura,1
+Mournstead Stadium,Mournstead,13744,13744,15917,13744,1,100,2,1,2,3,Mournstead,South Azura,1
+Muldraugh Park,Muldraugh,9329,9329,12896,9329,1,100,2,2,2,1,Muldraugh United,South Azura,1
+Muldraugh Stadium,Muldraugh,25927,25927,35788,25927,1,100,2,1,2,2,Muldraugh ,South Azura,1
+Murlay Road,Murlayfield,19271,19271,26158,19271,1,100,2,1,2,4,Murlayfield,South Azura,1
+Murlayfield Park,Murlayfield,13208,13208,13551,13208,1,100,2,2,2,1,Murlayfield United,South Azura,1
+Neukamernstadion,Neukamern,2410,2290,10037,2410,1,100,2,1,2,4,Neukamern,Astarya,1
+New Brinkburn Park,Brinkburn,6325,6325,8914,6325,1,100,2,2,2,4,Brinkburn Rovers,North Azura,1
+New Davies Park,Llaneilian,1809,724,7034,1809,1,100,2,1,2,1,Llaneilian Dragons,North Azura,1
+New Glory Road,Newham,12515,12515,13245,12515,1,100,2,1,2,5,Newham,South Azura,1
+New Highedge,Highedge,5503,5503,12903,5503,1,100,2,1,2,3,Highedge Town,Gobia,1
+Newbury Road,Newbury,17012,17012,23934,17012,1,100,2,1,2,4,Newbury United,North Azura,1
+Newmist Park,Newmist,1874,937,4414,1874,1,100,2,2,2,1,Newmist United,North Azura,1
+Oclela Stadium,Oclela,2681,1877,8926,2681,1,100,2,2,2,2,Oclela,Cyrasia,1
+Ocsnos Stadium,Ocsnos,1622,324,2309,1622,1,100,2,1,2,2,Ocsnos,Cyrasia,1
+Old Durness Road,Durness,6081,6081,9816,6081,1,100,2,2,2,1,Durness Rovers,North Azura,1
+Old Highedge,Highedge,4797,4797,7792,4797,1,100,2,1,2,2,Highedge Athletic,Gobia,1
+Old Highground,Aspax,18944,18944,25508,18944,1,100,2,2,2,5,Matan Town,South Azura,1
+Old Sleaford Park,Sleaford,11693,11693,12224,11693,2,100,2,1,2,2,Sleaford Town,North Azura,1
+Omgresh Stadium,Omgresh,9977,9977,12249,9977,1,100,2,2,2,2,Omgresh,Cyrasia,1
+Oslium Stadium,Oslium,934,187,1787,934,1,100,2,2,2,1,Oslium,Cyrasia,1
+Osprey Field,Oprela,12231,12231,15024,12231,1,100,2,1,2,2,Oprela Ospreys,South Azura,1
+Osterstadion,Osterwinnert,1738,1390,3448,1738,1,100,2,2,2,4,Osterwinnert,Astarya,1
+Ozor Bowl,Ozor,6845,6845,10925,6845,1,100,2,2,2,1,Spartak Ozor,Cyrasia,1
+Paburg Stadium,Paburg,9306,9306,10265,9306,1,100,2,2,2,4,Paburg,Cyrasia,1
+Pankasz Stadium,Pankasz,6319,6319,14706,6319,1,100,2,2,2,1,Pankasz,Cyrasia,1
+Park Edhof,Edhof,17951,17951,24392,17951,1,100,2,2,2,4,Edhof,Astarya,1
+Parker Street,Pembroke,8112,8112,12912,8112,1,100,2,2,2,2,Pembroke Harriers,North Azura,1
+Paton Park,Paton,3986,3986,5640,3986,1,100,2,2,2,3,Paton Roar,South Azura,1
+Peretshofen Park,Peretshofen,5405,4756,7999,5405,1,100,2,1,2,4,Peretshofen,Astarya,1
+Pfabenstadion,Pfaben,3906,3906,12974,3906,1,100,2,2,2,1,Pfaben,Astarya,1
+Oakmarsh Field,Oakmarsh,10752,10752,14047,10752,1,100,2,1,2,1,Oakmarsh,Gobia,1
+Plavil'nyy Kotel,Ozor,5483,5483,7259,5483,1,100,2,2,2,2,Dynamo Ozor,Cyrasia,1
+Podor Park,Podor,18710,18710,25220,18710,1,100,2,1,2,3,Podor,North Azura,1
+Port Haver Stadium,Port Haver,10000,4000,14610,10000,2,100,2,1,2,1,Port Haver FC,Haverford,1
+Rigby Park,Eelry,2369,474,8296,2369,1,100,2,2,2,1,Rigby Road,South Azura,1
+River View,Strathpeffer,4212,3791,7072,4212,1,100,2,2,2,1,Strathpeffer,North Azura,1
+Riverbank Stadium,Riverforth,12431,12431,20281,12431,1,100,2,1,2,5,Riverforth Rovers,Haverford,1
+Riverforth Park,Riverforth,20000,8000,24933,20000,2,100,2,1,2,1,Riverforth Town,Haverford,1
+Riverside,Riverforth,6013,6013,8712,6013,1,100,2,2,2,1,Riverforth United,Haverford,1
+Rogate Road,Rogate,6827,4096,11836,6827,1,100,2,2,2,4,Rogate Town,South Azura,1
+Rover Park,Lora,5673,5673,8773,5673,1,100,2,2,2,2,Lora Rovers,North Azura,1
+Schottershuizenstadion,Schottershuizen,9496,9496,16172,9496,1,100,2,1,2,4,Schottershuizen,Astarya,1
+Seaside,Idela,8037,8037,11629,8037,1,100,2,1,2,2,Idela Bay,North Azura,1
+Shackleton Field,Skagastrand,1044,418,5724,1044,2,100,2,1,2,4,Skagastrand,The Winterlands,1
+Shackleton Memorial Park,Snowfell,3581,2865,5432,3581,1,100,2,2,2,1,Shackleton FC,The Winterlands,1
+Shongwe Stadium,Shongwe,5762,5762,10052,5762,1,100,2,2,2,1,Shongwe,Gobia,1
+Shoreham Park,Shoreham,4948,4948,9612,4948,1,100,2,2,2,1,Shoreham United,South Azura,1
+Silvermill Park,Silvermill,6614,4630,14426,6614,1,100,2,2,2,3,Silvermill,South Azura,1
+Silverston Stadium,Silverston,5062,5062,13539,5062,1,100,2,2,2,1,Silverston Town,North Azura,1
+Snowground Park,Greywind,2591,1814,7324,2591,2,100,2,1,2,4,FC Greywind,The Winterlands,1
+Spell Stadium,Spellmill,19409,19409,23676,19409,1,100,2,1,2,2,Spellmill,Gobia,1
+Stade de Chione,Chione,15711,15711,15964,15711,1,100,2,2,2,5,Olympique Chione,Astarya,1
+Stade de Foce,Foce,2535,2129,7382,2535,1,100,2,2,2,5,AS Foce,Astarya,1
+Stade de Louis Pamplon,Olos,3356,3020,9980,3356,1,100,2,1,2,2,AS Olos,Astarya,1
+Stade de Sizun,Sizun,3481,3307,12258,3481,1,100,2,2,2,5,Sizun,Astarya,1
+Stade de Tarabel,Tarabel,9108,9108,14514,9108,1,100,2,1,2,5,Tarabel,Astarya,1
+Stade do Oyonnax,Oyonnax,8987,8987,17284,8987,1,100,2,2,2,4,Oyonnax,Astarya,1
+Stade du Tivoli ,Caijoula,7588,7588,8574,7588,1,100,2,2,2,2,Caijoula,Astarya,1
+Stade Genod,Genod,4965,4071,6734,4965,1,100,2,2,2,5,Racing Genod,Astarya,1
+Stade Hans Furth,Apar,1291,387,3624,1291,1,100,2,2,2,4,Bayer Apar,Astarya,1
+Stade Pimprez,Pimprez,11812,11812,18917,11812,1,100,2,1,2,5,Pimprez,Astarya,1
+Stade Saint-Acthela,Acthela,6628,6628,14226,6628,1,100,2,1,2,2,St Acthela,Astarya,1
+Stade Saint-Claire,Cardinale,10820,10820,10839,10820,1,100,2,2,2,3,Cardinale Saint Claire,Astarya,1
+Stadio Abus,Abus,6512,6512,10439,6512,1,100,2,2,2,3,Abus,Astarya,1
+Stadio Cardinale,Cardinale,1282,385,2984,1282,1,100,2,2,2,5,Cardinale,Astarya,1
+Stadio Luttach,Luttach,4554,4554,7402,4554,1,100,2,2,2,3,Luttach,Astarya,1
+Stadio Murialdo,Murialdo,12258,12258,20226,12258,1,100,2,2,2,4,Murialdo,Astarya,1
+Stadio san Marc,Stribugliano,17199,17199,26835,17199,1,100,2,2,2,1,Stribugliano,Astarya,1
+Stadio san Paulo,Abus,1703,307,9034,1703,1,100,2,2,2,4,Abus Town,Astarya,1
+Stadion am berg,Apar,7510,7510,10799,7510,1,100,2,2,2,4,1850 Apar,Astarya,1
+Stadion am wasser,Ziegelberg,4913,3193,9390,4913,1,100,2,2,2,4,Ziegelberg,Astarya,1
+Staveren Stadion,Staveren,5122,5122,9797,5122,1,100,2,1,2,1,Staveren,Astarya,1
+Suules Stadium,Suules,20108,20108,26335,20108,2,100,2,1,2,2,Suules,Cyrasia,1
+Swyngate Field,Swyngate,2450,1470,10622,2450,1,100,2,2,2,4,Swyngate,South Azura,1
+Takahama Bowl,Takahama,20364,20364,29733,20364,2,100,2,1,2,1,Takahama,Cyrasia,1
+Tergaron Square,Tergaron,12044,12044,15191,12044,1,100,2,2,2,1,Tergaron Town,North Azura,1
+The Dale,Eyad,6338,6338,15876,6338,1,100,2,2,2,5,Eyad Eagles,South Azura,1
+The Dall,Dallaig,10260,10260,15814,10260,1,100,2,1,2,1,Dallaig,North Azura,1
+The Etymol,Aspax,4153,1661,8197,4153,1,100,2,2,2,3,Sporting Aspax,South Azura,1
+The Foxhole,Fairchild,10513,10513,15436,10513,1,100,2,2,2,3,Fairchild,North Azura,1
+The Gables,Belldale,14607,14607,20266,14607,1,100,2,1,2,2,Belldale,Gobia,1
+The Hole,Aspax,10275,10275,15347,10275,1,100,2,2,2,4,Aspax Pheonix,South Azura,1
+The New Den,Toosil,4862,4862,11000,4862,1,100,2,2,2,5,FC Toosil,North Azura,1
+The Orchard,Itium,8278,8278,8403,8278,1,100,2,1,2,4,Itium Irish,North Azura,1
+The Outlook,Snowfell,3753,3378,6101,3753,2,100,2,1,2,4,Snowfell,The Winterlands,1
+The Riverside,Bevania,6970,6970,10035,6970,2,100,2,2,2,1,Sheppy FC,North Azura,1
+Thomson Memorial Field,Browns,6698,6028,9948,6698,1,100,2,2,2,4,Browns Bears,South Azura,1
+Thule Arena,Thule,7897,7897,14235,7897,1,100,2,2,2,4,Borussia Thule,Astarya,1
+Thulestadion,Thule,4415,4415,7125,4415,1,100,2,2,2,1,Bayern Thule,Astarya,1
+Tilly Avenue,Tillydrone,13070,13070,19765,13070,1,100,2,1,2,3,Tillydrone,South Azura,1
+Tobermory Field,Westburn,6458,6458,10634,6458,1,100,2,1,2,1,Westburn United,Gobia,1
+Tonaki Stadium,Tonaki,27232,27232,33088,27232,1,100,2,2,2,4,Tonaki,Cyrasia,1
+Toosilhill Park,Toosil,6390,6390,16322,6390,2,100,2,1,2,3,Toosil City,North Azura,1
+Transway Road,Carpenter,6038,6038,14921,6038,1,100,2,2,2,1,Carpenter Conkers,South Azura,1
+Umos Park,Umos,3746,3746,13016,3746,1,100,2,1,2,2,Umos Pheonix,Astarya,1
+Venzor Arena,Venzor,24995,24995,31255,24995,1,100,2,1,2,5,Venzor,South Azura,1
+Vertholt Park,Vertholt,3561,1781,11614,3561,1,100,2,1,2,2,Vertholt,Gobia,1
+Villa Field,Pioneer Village,1188,475,1626,1188,1,100,2,2,2,4,Pioneer Village,South Azura,1
+Vleirivier Park,Vleirivier,1909,764,10481,1909,1,100,2,2,2,1,Vleirivier,Gobia,1
+Voyalia View,Voyalia,2412,1447,10323,2412,2,100,2,1,2,4,Voyalia,The Winterlands,1
+Walpole Park,Walpole,12423,12423,18327,12423,2,100,2,2,2,3,Walpole Wanderers,North Azura,1
+Walton Road,Barton,17372,17372,21625,17372,1,100,2,1,2,2,Barton Rovers,North Azura,1
+Warrior Field,Toosil,10937,10937,13374,10937,2,100,2,1,2,1,Toosil Warriors,North Azura,1
+Wellspring Park,Wellspring,10052,10052,14127,10052,1,100,2,2,2,1,Wellspring Wanderers,North Azura,1
+Welor Park,Welor,3072,2150,4358,3072,2,100,2,1,2,4,Welor,The Winterlands,1
+West Coldfield,Coldfield,23164,23164,23612,23164,1,100,2,1,2,5,Coldfield,Gobia,1
+Westward Field,Riverforth,6071,6071,6286,6071,1,100,2,2,2,1,Westforth,Haverford,1
+Witham Park,Witham,4522,2713,10414,4522,1,100,2,2,2,5,Witham Village,South Azura,1
+Wolf Stadion,Wolfsbarge,9705,9705,13232,9705,1,100,2,1,2,3,Wolfsbarge,Astarya,1
+Yanto Stadium,Yanto,1686,1012,3768,1686,2,100,2,1,2,4,Yanto,Cyrasia,1
+Yucor Point,Yucor,2367,1515,12259,2367,2,100,2,1,2,4,Yucor FC,The Winterlands,1
+Zedan Stadium,Zedan,6823,6823,9356,6823,2,100,2,1,2,5,Zedan,Cyrasia,1
+Saint Elias Stadium,Saint Elias City,40000,15000,40690,40000,1,100,2,1,1,1,,Saint Elias City,1
+Mensfield Road,Mensfield,3272,2290,11986,3272,1,100,2,2,2,3,Mensfield Diggers,Ferrous Isles,1
+Wolfden Park,Wolfden,951,190,10273,951,1,100,2,2,2,3,Wolfden Flyers,Ferrous Isles,1
+Forders Cove,Ironhaven,3003,2102,10748,3003,1,100,2,2,2,3,Ironhaven United,Ferrous Isles,1
+Limemill Park,Limemill,833,250,4664,833,1,100,2,2,2,3,Limemill Juniors,Ferrous Isles,1
+George Square,Wolfden,1347,404,1885,1347,1,100,2,2,2,3,Wolfden FC,Ferrous Isles,1
+Ironhaven Park,Ironhaven,989,198,7844,989,1,100,2,2,2,3,Ironhaven Town,Ferrous Isles,1
+Edward Road,Limemill,1422,711,3012,1422,1,100,2,2,2,3,Limemill Pit,Ferrous Isles,1
+Northon Road,Northon,3684,3684,6137,3684,1,100,2,2,2,3,Northon United,Pinemarsh,1
+Braedon Park,Braedon,5457,5457,6566,5457,1,100,2,2,2,3,Braedon Town,Pinemarsh,1
+Swindmore Field,Swindmore,5894,5894,12560,5894,1,100,2,2,2,3,Swindmore Rovers,Pinemarsh,1
+Briar Park,Briar Glen,1554,777,4740,1554,1,100,2,2,2,3,Briar Glen,Pinemarsh,1
+Findochty Railway Yard,Findochty,1306,653,4940,1306,1,100,2,2,2,3,Findochty Locomotive,Pinemarsh,1
+Nerton Field,Nerton,4327,4327,9433,4327,1,100,2,2,2,3,Nerton Villa,Pinemarsh,1
+Erostey Park,Erostey,2281,1597,3682,2281,1,100,2,2,2,3,Erostey Town,Pinemarsh,1
+Wheldrake Arena,Wheldrake,2614,1830,11786,2614,1,100,2,2,2,3,Wheldrake Warriors,Pinemarsh,1
+Larkinge Hill,Larkinge,5054,5054,10743,5054,1,100,2,2,2,3,Larkinge Thistle,Pinemarsh,1
+Farncombe Field,Farncombe,3647,3282,12316,3647,1,100,2,2,2,3,Farncombe Thistle,Pinemarsh,1
+Dalelry Rail Yard,Dalelry,2693,2424,4437,2693,1,100,2,2,2,3,Dalelry Railworks,Pinemarsh,1
+Braedon Field,Braedon,5115,5115,13417,5115,1,100,2,2,2,3,Braedon Rovers,Pinemarsh,1
+Michaels Field,Swindmore,1625,975,8323,1625,1,100,2,2,2,3,Swindmore City,Pinemarsh,1
+Erostey Road,Erostey,3180,2226,7112,3180,1,100,2,2,2,3,Erostey Rovers,Pinemarsh,1
+Findochty Field,Findochty,2337,1870,10437,2337,1,100,2,2,2,3,Findochty United,Pinemarsh,1
+Foolshope Field,Foolshope,2876,1726,5355,2876,1,100,2,2,2,3,Foolshope,Pinemarsh,1
+Sanlow Stadium,Sanlow,1592,955,1703,1592,1,100,2,2,2,3,Sanlow,Pinemarsh,1
+Barkam Stadium,Barkamsted,6571,6571,11189,6571,1,100,2,2,2,3,Barkamstead,Pinemarsh,1
+Doveport Arena,Doveport,6489,6489,9792,6489,2,100,2,1,2,1,Doveport Dynamos,Montaria,1
+Berkton Stadium,Berkton,12606,12606,12664,12606,2,100,2,1,2,1,Berkton Bears,Montaria,1
+Bexley Field,Bexley,11388,11388,13207,11388,2,100,2,1,2,1,Bexley Bandicoots,Montaria,1
+Orilon Field,Orilon,7701,7701,11851,7701,2,100,2,1,2,1,Orilon Orioles,Montaria,1
+Eisley Stadium,Eisley,3821,3821,12687,3821,2,100,2,1,2,1,Eisley Eagles,Montaria,1
+Ulrich Arena,Jericho,11954,11954,16426,11954,2,100,2,1,2,1,Jericho Jaguars,Montaria,1
+Port Springfield Stadium,Port Springfield,3590,3590,7903,3590,2,100,2,1,2,1,Port Springfield Nets,Montaria,1
+Ringchurch Field,Ringchurch,11761,11761,15861,11761,2,100,2,1,2,1,Ringchurch Raccoons,Montaria,1
+Aldby Arsenal Arena,Aldby,9853,9853,16697,9853,2,100,2,1,2,1,Aldby Arsenal,Montaria,1
+Birkenleen Square Arena,Birkenleen,6113,6113,14915,6113,2,100,2,1,2,1,Birkenleen Ducks,Montaria,1
+Berend Park,Berend,4291,4291,5535,4291,2,100,2,1,2,1,Berend Buffalos,Montaria,1
+Trentstone Sporting Complex,Trentstone,12705,12705,16327,12705,2,100,2,1,2,1,Trentstone Tigers,Montaria,1
+George Field,Washington,12971,12971,18350,12971,2,100,2,1,2,1,Washington Warriors,Montaria,1
+Carver Park,Carver,5372,5372,7193,5372,2,100,2,1,2,1,Carver Cats,Montaria,1
+Lincoln Arena,Lincoln,4135,4135,10703,4135,2,100,2,1,2,1,Lincoln Lions,Montaria,1
+Haverville,Haverville,3598,3598,12614,3598,2,100,2,1,2,1,Haverville Hounds,Montaria,1
+Ogdenbrooke Arena,Ogdenbrooke,5989,5989,7756,5989,2,100,2,1,2,1,Ogdenbrooke Owls,Montaria,1
+Charlotteville Park,Charlotteville,4043,4043,8320,4043,2,100,2,1,2,1,Charlotteville Cannons,Montaria,1
+Fort Park,Fort Peace,5064,5064,14565,5064,2,100,2,1,2,1,Fort Peace Flyers,Montaria,1
+Hopeland Stadium,Hopeland,10774,10774,14487,10774,2,100,2,1,2,1,Hopeland Harriers,Montaria,1
+Aberuthven Park,Aberuthven,2500,320,5889,2500,2,100,2,2,2,3,Aberuthven,Albini,1
+Aquarin Park,Aquarin,2250,630,3845,2250,2,100,2,2,2,3,Aquarin,Albini,1
+Brickelwhyte Park,Brickelwhyte,2000,381,7615,2000,2,100,2,2,2,3,Brickelwhyte,Albini,1
+Burrafirth Park,Burrafirth,1500,401,10714,1500,2,100,2,2,2,3,Burrafirth,Albini,1
+Calmarnock Park,Calmarnock,1750,330,7257,1750,2,100,2,2,2,3,Calmarnock,Albini,1
+Darkwell Park,Darkwell,2500,827,10316,2500,2,100,2,2,2,3,Darkwell,Albini,1
+Drumnacanvy Park,Drumnacanvy,2250,745,9690,2250,2,100,2,2,2,3,Drumnacanvy,Albini,1
+Dunwich Park,Dunwich,2500,826,4251,2500,2,100,2,2,2,3,Dunwich,Albini,1
+Eastcliff Park,Eastcliff,1250,717,6038,1250,2,100,2,2,2,3,Eastcliff,Albini,1
+Fallholt Park,Fallholt,2500,389,4784,2500,2,100,2,2,2,3,Fallholt,Albini,1
+Galssop Park,Galssop,2500,532,11021,2500,2,100,2,2,2,3,Galssop,Eria,1
+Halsworthy Park,Halsworthy,2250,553,6756,2250,2,100,2,2,2,3,Halsworthy,Eria,1
+Hewe Park,Hewe,1500,363,6522,1500,2,100,2,2,2,3,Hewe,Eria,1
+Holmfirth Park,Holmfirth,1500,574,5984,1500,2,100,2,2,2,3,Holmfirth,Eria,1
+Kelna Park,Kelna,1250,284,7103,1250,2,100,2,2,2,3,Kelna,Eria,1
+Meteli Park,Meteli,1500,445,7677,1500,2,100,2,2,2,3,Meteli,Eria,1
+Moressley Park,Moressley,2000,633,4254,2000,2,100,2,2,2,3,Moressley,Eria,1
+Myrefall Park,Myrefall,2000,698,6824,2000,2,100,2,2,2,3,Myrefall,Eria,1
+Penketh Park,Penketh,2500,628,7829,2500,2,100,2,2,2,3,Penketh,Eria,1
+Pinnella Park,Pinnella Pass,1250,298,10339,1250,2,100,2,2,2,3,Pinnella Pass,Eria,1
+Astarya National Stadium,Thule,40000,40000,0,40000,1,100,2,1,2,2,,Astarya,1
+Cyrasia National Stadium,Ozor,38000,38000,0,38000,1,100,2,1,2,2,,Cyrasia,1
+Toosil National Stadium,Toosil,53000,53000,0,53000,1,100,2,1,2,2,,North Azura,1
+Estadio San Joaquin,San Ignacio,41000,41000,0,41000,1,100,2,1,2,2,,Recalada,1
+King George Stadium,Aspax,67000,67000,0,67000,1,100,2,1,2,2,,South Azura,1
+Eastcliff National Stadium,Eastcliff,8000,8000,0,8000,1,100,2,1,2,2,,Albini,1
+Coconut Grove Stadium,Kelna,6000,6000,0,6000,1,100,2,1,2,2,,Eria,1
+George Washington Stadium,Washington,80000,80000,0,80000,1,100,2,1,2,2,,Montaria,1
+Thulegarten,Thule,250,796,513,250,2,100,2,2,2,3,Thule Amateure,Astarya,1
+Umosgarten,Umos,250,664,939,250,2,100,2,2,2,3,Umos Amateure,Astarya,1
+Parco Cardinale,Cardinale,250,756,1833,250,2,100,2,2,2,3,Cardinale Amateure,Astarya,1
+Parc de Genod,Genod,250,835,1421,250,2,100,2,2,2,3,Genod Amateure,Astarya,1
+Parco Mara,Mara,500,491,1645,500,2,100,2,2,2,3,Mara Amateure,Astarya,1
+Apargarten,Apar,250,966,1105,250,2,100,2,2,2,3,Apar Amateure,Astarya,1
+Park Ghil,Ghil,750,767,875,750,2,100,2,2,2,3,Ghil Amateure,Astarya,1
+Zenit Kerek Stadium,Kerekhalom,1500,464,3228,1500,2,100,2,2,2,3,FC Zenit Kerekhalom,Cyrasia,1
+Oslium Zenit Stadium,Oslium,1625,907,1823,1625,2,100,2,2,2,3,FC Zenit Oslium,Cyrasia,1
+Zenit Suules Stadium,Suules,1875,486,2925,1875,2,100,2,2,2,3,FC Zenit Suules,Cyrasia,1
+Zenit Yanto Stadium,Yanto,1375,756,2025,1375,2,100,2,2,2,3,FC Zenit Yanto,Cyrasia,1
+Adamslie Park,Brightwald,1345,538,4984,1345,1,100,2,2,2,4,Brightwald Youth Club,South Azura,1
+Swynfort Park,Swynfort,1629,652,9592,1629,1,100,2,2,2,4,Swynfort,South Azura,1
+Wildeborne Park,Wildeborne,1510,604,5602,1510,1,100,2,2,2,4,Wildeborne Wanderers,South Azura,1
+Wyvernston Field,Wyvernston,1500,450,9188,1500,1,100,2,2,2,4,Wyvernston Park,South Azura,1
+Racecourse Ground,Belfield,1431,429,4128,1431,1,100,2,2,2,4,Belfield Amateurs,South Azura,1
+Lordale Park,Lordale,1499,450,8040,1499,1,100,2,2,2,4,Lordale Juniors,South Azura,1
+Oldwell Park,Oldwell,459,46,3877,459,1,100,2,2,2,4,Oldwell Youths,South Azura,1
+George Benson Ground,Kiru,2159,1209,11812,2159,1,100,2,2,2,4,Kiru,Gobia,1
+Samuel Makokoni Park,Makokoni,7345,5876,14084,7345,1,100,2,2,2,4,Makokoni,Gobia,1
+Kagera Port,Kagera Port,8543,8543,16902,8543,1,100,2,2,2,4,Kagera Port,Gobia,1
+Seba Field,Seba,4650,465,9300,4650,2,100,2,2,2,3,Seba,Aerugo,1
+Hena Stadium,Hena,2048,205,4096,2048,2,100,2,2,2,3,Hena,Aerugo,1
+Dina Community Stadium,Dina,3344,334,6688,3344,2,100,2,2,2,3,Dina,Aerugo,1
+Nekhur Stadium,Nekhur,5431,543,10862,5431,2,100,2,2,2,3,Nekhur,Aerugo,1
+Semna Stadium,Semna,5386,539,10772,5386,2,100,2,2,2,3,Semna,Aerugo,1
+Arnak Field,Arnak,3344,334,6688,3344,2,100,2,2,2,3,Arnak,Aerugo,1
+Port Aurelia Field,Port Aurelia,6611,661,13222,6611,2,100,2,2,2,3,Port Aurelia,Aurelia,1
+Elis Field,Elis,2910,291,5820,2910,2,100,2,2,2,3,Elis,Aurelia,1
+Assus Community Stadium,Assus,1998,200,3996,1998,2,100,2,2,2,3,Assus,Aurelia,1
+Mene Arena,Mene,4840,484,9680,4840,2,100,2,2,2,3,Mene,Aurelia,1
+Enens Arena,Enens,2902,290,5804,2902,2,100,2,2,2,3,Enens,Aurelia,1
+Halos Arena,Halos,3519,352,7038,3519,2,100,2,2,2,3,Halos,Aurelia,1
+Acyra Park,Acyra,3307,331,6614,3307,2,100,2,2,2,3,Acyra,Aurelia,1
+Kassia Field,Kassia,3854,385,7708,3854,2,100,2,2,2,3,Kassia,Aurelia,1
+Laeusia Park,Laeusia,3532,353,7064,3532,2,100,2,2,2,3,Laeusia,Aurelia,1
+Egalo Community Stadium,Egalo,6342,634,12684,6342,2,100,2,2,2,3,Egalo,Aurelia,1
+Aros Community Stadium,Aros,3751,375,7502,3751,2,100,2,2,2,3,Aros,Aurelia,1
+Manta Community Stadium,Manta,3106,311,6212,3106,2,100,2,2,2,3,Manta,Aurelia,1
+Port Bielya Community Stadium,Port Bielya,2739,274,5478,2739,2,100,2,2,2,3,Port Bielya,Bielya,1
+Bernifell Stadium,Bernifell,4987,499,9974,4987,2,100,2,2,2,3,Bernifell,Bielya,1
+Henevik Stadium,Henevik,3897,390,7794,3897,2,100,2,2,2,3,Henevik,Bielya,1
+Amarholm Arena,Amarholm,4140,414,8280,4140,2,100,2,2,2,3,Amarholm,Bielya,1
+Port Creta Arena,Port Creta,5065,507,10130,5065,2,100,2,2,2,3,Port Creta,Creta,1
+Marburgh Arena,Marburgh,2975,298,5950,2975,2,100,2,2,2,3,Marburgh,Creta,1
+Grenton Community Stadium,Grenton,7831,783,15662,7831,2,100,2,2,2,3,Grenton,Creta,1
+Gloslake Arena,Gloslake,7346,735,14692,7346,2,100,2,2,2,3,Gloslake,Creta,1
+Mene Field,Mene,5029,503,10058,5029,2,100,2,2,2,3,Mene,Aurelia,1
+Byde Park,Byde,4734,473,9468,4734,2,100,2,2,2,3,Byde,Creta,1
+Delphi Park,Delphi,5923,592,11846,5923,2,100,2,2,2,3,Delphi,Creta,1
+Cynthi Field,Cynthi,6612,661,13224,6612,2,100,2,2,2,3,Cynthi,Creta,1
+Port Fiore Arena,Port Fiore,2265,227,4530,2265,2,100,2,2,2,3,Port Fiore,Fiore,1
+Lentia Park,Lentia,5413,541,10826,5413,2,100,2,2,2,3,Lentia,Fiore,1
+Capuum Field,Capuum,5502,550,11004,5502,2,100,2,2,2,3,Capuum,Fiore,1
+Lodia Park,Lodia,3023,302,6046,3023,2,100,2,2,2,3,Lodia,Fiore,1
+Mogium Arena,Mogium,5377,538,10754,5377,2,100,2,2,2,3,Mogium,Fiore,1
+Agusum Field,Agusum,7393,739,14786,7393,2,100,2,2,2,3,Agusum,Fiore,1
+Arpica Park,Arpica,5433,543,10866,5433,2,100,2,2,2,3,Arpica,Fiore,1
+Atiala Park,Atiala,4086,409,8172,4086,2,100,2,2,2,3,Atiala,Fiore,1
+Cayhill Community Stadium,Cayhill,9091,909,18182,9091,2,100,2,2,2,3,Cayhill,Gilead,1
+Peminster Park,Peminster,7200,720,14400,7200,2,100,2,2,2,3,Peminster,Gilead,1
+Cobrook Park,Cobrook,7310,731,14620,7310,2,100,2,2,2,3,Cobrook,Gilead,1
+Ramoor Arena,Ramoor,3634,363,7268,3634,2,100,2,2,2,3,Ramoor,Gilead,1
+Caford Arena,Caford,4259,426,8518,4259,2,100,2,2,2,3,Caford,Gilead,1
+Hibury Field,Hibury,3125,313,6250,3125,2,100,2,2,2,3,Hibury,Gilead,1
+Wyeton Park,Wyeton,4701,470,9402,4701,2,100,2,2,2,3,Wyeton,Gilead,1
+Knefalls Park,Knefalls,2883,288,5766,2883,2,100,2,2,2,3,Knefalls,Gilead,1
+Cara Arena,Cara,11143,1114,22286,11143,2,100,2,2,2,3,Cara,Laurania,1
+Chieto Field,Chieto,2656,266,5312,2656,2,100,2,2,2,3,Chieto,Laurania,1
+Massa Park,Massa,3471,347,6942,3471,2,100,2,2,2,3,Massa,Laurania,1
+Vicia Community Stadium,Vicia,6095,610,12190,6095,2,100,2,2,2,3,Vicia,Laurania,1
+Pobia Stadium,Pobia,9557,956,19114,9557,2,100,2,2,2,3,Pobia,Laurania,1
+Vena Community Stadium,Vena,5336,534,10672,5336,2,100,2,2,2,3,Vena,Laurania,1
+Astellthorp Arena,Astellthorp,9447,945,18894,9447,2,100,2,2,2,3,Astellthorp,Norland,1
+Rikibyr Arena,Rikibyr,1667,167,3334,1667,2,100,2,2,2,3,Rikibyr,Norland,1
+Naribyr Field,Naribyr,5447,545,10894,5447,2,100,2,2,2,3,Naribyr,Norland,1
+Holvefell Park,Holvefell,7475,748,14950,7475,2,100,2,2,2,3,Holvefell,Norland,1
+Naaba Stadium,Naaba,4349,435,8698,4349,2,100,2,2,2,3,Naaba,Rovka,1
+Baheii Park,Baheii,5029,503,10058,5029,2,100,2,2,2,3,Baheii,Rovka,1
+Tsidi Park,Tsidi,3649,365,7298,3649,2,100,2,2,2,3,Tsidi,Rovka,1
+Hili Arena,Hili,5944,594,11888,5944,2,100,2,2,2,3,Hili,Rovka,1
+Ahish Stadium,Ahish,6053,605,12106,6053,2,100,2,2,2,3,Ahish,Sunda,1
+Aleah Park,Aleah,2969,297,5938,2969,2,100,2,2,2,3,Aleah,Sunda,1
+Iisah Arena,Iisah,4139,414,8278,4139,2,100,2,2,2,3,Iisah,Sunda,1
+Sidi Park,Sidi,2478,248,4956,2478,2,100,2,2,2,3,Sidi,Sunda,1

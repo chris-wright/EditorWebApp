@@ -1,0 +1,20 @@
+0	Click Editor
+1	Click Database
+2	Click Nations
+3	Search for [REPLACE_NATION]
+4	Open nation
+5	Enter name
+6	Enter short name
+7	Enter nickname
+8	Enter three letter name
+9	Enter nationality
+10	Enter continent
+11	Enter region
+12	Enter rep
+37	Enter currency
+38	page down
+34	Click languages
+35	Click clear
+36	Add languages
+39	page up
+1	Click Database

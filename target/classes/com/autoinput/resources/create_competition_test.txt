@@ -1,0 +1,124 @@
+1	Move	1370	9
+2	ClickRelease
+1	Move	94	544
+2	ClickRelease
+1	Move	1288	834
+2	ClickRelease
+1	Move	976	187
+2	ClickRelease
+3	Type	[NAME]
+4	TAB
+5	Type	[SHORT_NAME]
+4	TAB
+6	Type	[THREE_LETTER_NAME]
+1	Move	997	279	//Colour 1
+2	ClickRelease
+1	Move	729	547
+2	ClickRelease
+7	CTRL A
+8	DEL
+9	Type	[FG_R]
+4	TAB
+10	Type	[FG_G]
+4	TAB
+11	Type	[FG_B]
+1	Move	868	645
+2	ClickRelease
+1	Move	997	309	//Colour 2
+2	ClickRelease
+1	Move	729	547
+2	ClickRelease
+7	CTRL A
+8	DEL
+12	Type	[BG_R]
+4	TAB
+13	Type	[BG_G]
+4	TAB
+14	Type	[BG_B]
+1	Move	868	645
+2	ClickRelease
+1	Move	997	340	//Colour 3
+2	ClickRelease
+1	Move	729	547
+2	ClickRelease
+7	CTRL A
+8	DEL
+15	Type	[T_R]
+4	TAB
+16	Type	[T_G]
+4	TAB
+17	Type	[T_B]
+1	Move	868	645
+2	ClickRelease
+1	Move	1557	369	//Start nation
+2	ClickRelease
+18	UP	1
+19	ENTER
+1	Move	555	268
+2	ClickRelease
+7	CTRL A
+8	DEL
+20	Type	[NATION]
+19	ENTER
+1	Move	523	271
+2	ClickRelease
+18	UP	1
+19	ENTER
+1	Move	842	366
+2	ClickRelease
+18	UP	1
+19	ENTER
+1	Move	1116	638
+2	ClickRelease
+1	Move	613	357
+2	ClickRelease
+1	Move	1051	692
+2	ClickRelease
+1	Move	1557	401	//Start continent
+2	ClickRelease
+18	UP	1
+19	ENTER
+1	Move	555	268
+2	ClickRelease
+7	CTRL A
+8	DEL
+27	Type	[CONTINENT]
+
+19	ENTER
+1	Move	523	271
+2	ClickRelease
+18	UP	1
+19	ENTER
+1	Move	842	366
+2	ClickRelease
+18	UP	1
+19	ENTER
+1	Move	1116	638
+2	ClickRelease
+1	Move	613	357
+2	ClickRelease
+1	Move	1051	692
+2	ClickRelease
+1	Move	977	487	//Rep
+2	ClickRelease
+7	CTRL A
+8	DEL
+21	Type	[REP]
+22	BLOCK	ON
+1	Move	336	609
+2	ClickRelease
+1	Move	1560	612
+2	ClickRelease
+24	Down	[TYPE]
+19	ENTER
+22	BLOCK	OFF
+23	BLOCK	ON
+1	Move	336	638
+2	ClickRelease
+1	Move	976	636
+7	CTRL A
+8	DEL
+26	Type	[LEVEL]
+23	BLOCK	OFF
+1	Move	39	184
+2	ClickRelease

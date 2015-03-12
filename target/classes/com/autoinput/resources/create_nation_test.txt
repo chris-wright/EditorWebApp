@@ -1,0 +1,55 @@
+0	Click Editor
+1	Click Database
+2	Click Nations
+3	Search for [REPLACE_NATION]
+4	Open nation
+5	Enter name
+6	Enter short name
+7	Enter nickname
+8	Enter three letter name
+9	Enter nationality
+10	Enter continent
+11	Enter region
+12	Enter rep
+37	Enter currency
+13	Select home kits
+33	Clear all kit objects
+15	Add kit
+15	Add kit
+15	Add kit
+15	Add kit
+15	Add kit
+30	Select First kit item
+31	Edit shirt
+16	Select Second kit item
+17	Edit shorts
+18	Select Third kit item
+19	Edit socks
+20	Select Fourth kit item
+21	Edit icon
+22	Select Fifth kit item
+23	Edit text
+24	Select away kits
+33	Clear all kit objects
+15	Add kit
+15	Add kit
+15	Add kit
+15	Add kit
+15	Add kit
+30	Select First kit item
+32	Edit shirt
+16	Select Second kit item
+26	Edit shorts
+18	Select Third kit item
+27	Edit socks
+20	Select Fourth kit item
+28	Edit icon
+22	Select Fifth kit item
+29	Edit text
+14	Close kits
+38	page down
+34	Click languages
+35	Click clear
+36	Add languages
+39	page up
+1	Click Database

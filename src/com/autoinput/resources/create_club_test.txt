@@ -1,0 +1,585 @@
+1	Move	1370	9	// Get to editor
+2	ClickRelease
+1	Move	74	482	// click club
+2	ClickRelease
+1	Move	1283	829	// click add
+2	ClickRelease
+1	Move	977	190	// click name
+2	ClickRelease
+3	Type	[NAME]
+4	TAB
+5	Type	[SHORT_NAME]
+4	TAB
+6	Type	[SIX_LETTER_NAME]
+4	TAB
+7	Type	[NICKNAME]
+4	TAB
+8	Type	[SECOND_NICKNAME]
+1	Move	1552	371
+2	ClickRelease
+1	Move	1500	396
+2	ClickRelease
+1	Move	569	269	
+2	ClickRelease
+9	CTRL A
+10	DEL
+11	Type	[NATION]
+1	Move	493	264
+2	ClickRelease
+1	Move	510	297
+2	ClickRelease
+1	Move	784	364
+2	ClickRelease
+13	Down	1
+12	ENTER
+1	Move	1118	635
+2	ClickRelease
+1	Move	611	350
+2	ClickRelease
+2	ClickRelease
+1	Move	1558	461
+2	ClickRelease
+13	Down	1
+12	ENTER
+1	Move	569	269	
+2	ClickRelease
+9	CTRL A
+10	DEL
+14	Type	[CITY]
+1	Move	493	264
+2	ClickRelease
+1	Move	510	297
+2	ClickRelease
+1	Move	784	364
+2	ClickRelease
+13	Down	1
+12	ENTER
+1	Move	1118	635
+2	ClickRelease
+1	Move	611	350
+2	ClickRelease
+2	ClickRelease
+1	Move	1562	549
+2	ClickRelease
+15	Down	[STATUS]
+12	ENTER
+1	Move	976	641
+2	ClickRelease
+9	CTRL A
+10	DEL
+16	Type	[MORALE]
+4	TAB
+9	CTRL A
+10	DEL
+17	Type	[REP]
+1	Move	1353	771
+2	ClickRelease
+1	Move	1353	796
+2	ClickRelease
+1	Move	1353	809
+2	ClickRelease
+13	Down	7
+12	ENTER
+1	Move	1353	835
+2	ClickRelease
+13	Down	9
+12	ENTER
+1	Move	69	483
+2	ClickRelease
+1	Move	1563	130
+2	ClickRelease
+1	Move	1563	156
+2	ClickRelease
+1	Move	569	269	
+2	ClickRelease
+9	CTRL A
+10	DEL
+19	Type	[STADIUM]
+12	ENTER
+1	Move	493	264
+2	ClickRelease
+1	Move	510	297
+2	ClickRelease
+1	Move	784	364
+2	ClickRelease
+13	Down	1
+12	ENTER
+1	Move	1118	635
+2	ClickRelease
+1	Move	611	350
+2	ClickRelease
+2	ClickRelease
+1	Move	1052	692
+2	ClickRelease
+1	Move	974	341
+2	ClickRelease
+9	CTRL A
+10	DEL
+20	Type	[TRAINING]
+4	TAB
+21	Type	[YOUTH_COACHING]
+4	TAB
+22	Type	[YOUTH_FACILITIES]
+4	TAB
+23	Type	[YOUTH_RECRUITMENT]
+1	Move	51	186
+2	ClickRelease
+1	Move	27	483
+2	ClickRelease
+1	Move	83	669	// Start of shirt
+2	ClickRelease
+2	ClickRelease
+1	Move	357	158
+2	ClickRelease
+1	Move	357	158
+2	ClickRelease
+1	Move	1535	665	// Shirt Type
+2	ClickRelease
+33	Move Shirt Type
+2	ClickRelease
+1	Move	1074	798
+2	ClickRelease
+1	Move	730	546
+2	ClickRelease
+9	CTRL A
+10	DEL
+24	Type	[1R]
+4	TAB
+25	Type	[1G]
+4	TAB
+26	Type	[1B]
+1	Move	866	641
+2	ClickRelease
+1	Move	1114	720
+2	ClickRelease
+1	Move	730	546
+2	ClickRelease
+9	CTRL A
+10	DEL
+27	Type	[2R]
+4	TAB
+28	Type	[2G]
+4	TAB
+29	Type	[2B]
+1	Move	866	641
+2	ClickRelease
+1	Move	1114	753
+2	ClickRelease
+1	Move	730	546
+2	ClickRelease
+9	CTRL A
+10	DEL
+30	Type	[3R]
+4	TAB
+31	Type	[3G]
+4	TAB
+32	Type	[3B]
+1	Move	866	641
+2	ClickRelease
+1	Move	357	186
+2	ClickRelease
+1	Move	1025	651
+2	ClickRelease
+1	Move	730	546
+2	ClickRelease
+9	CTRL A
+10	DEL
+24	Type	[1R]
+4	TAB
+25	Type	[1G]
+4	TAB
+26	Type	[1B]
+1	Move	866	641
+2	ClickRelease
+1	Move	1025	685
+2	ClickRelease
+1	Move	730	546
+2	ClickRelease
+9	CTRL A
+10	DEL
+27	Type	[2R]
+4	TAB
+28	Type	[2G]
+4	TAB
+29	Type	[2B]
+1	Move	866	641
+2	ClickRelease
+1	Move	1025	713
+2	ClickRelease
+1	Move	730	546
+2	ClickRelease
+9	CTRL A
+10	DEL
+30	Type	[3R]
+4	TAB
+31	Type	[3G]
+4	TAB
+32	Type	[3B]
+1	Move	866	641
+2	ClickRelease
+1	Move	357	212
+2	ClickRelease
+1	Move	1121	655
+2	ClickRelease
+1	Move	730	546
+2	ClickRelease
+9	CTRL A
+10	DEL
+24	Type	[1R]
+4	TAB
+25	Type	[1G]
+4	TAB
+26	Type	[1B]
+1	Move	866	641
+2	ClickRelease
+1	Move	1121	685
+2	ClickRelease
+1	Move	730	546
+2	ClickRelease
+9	CTRL A
+10	DEL
+27	Type	[2R]
+4	TAB
+28	Type	[2G]
+4	TAB
+29	Type	[2B]
+1	Move	866	641
+2	ClickRelease
+1	Move	1121	717
+2	ClickRelease
+1	Move	730	546
+2	ClickRelease
+9	CTRL A
+10	DEL
+30	Type	[3R]
+4	TAB
+31	Type	[3G]
+4	TAB
+32	Type	[3B]
+1	Move	866	641
+2	ClickRelease
+1	Move	354	238
+2	ClickRelease
+1	Move	1535	665	// Shorts Type
+2	ClickRelease
+35	Move Shorts Type
+2	ClickRelease
+1	Move	1074	798
+2	ClickRelease
+
+1	Move	1121	691
+2	ClickRelease
+1	Move	730	546
+2	ClickRelease
+9	CTRL A
+10	DEL
+24	Type	[1R]
+4	TAB
+25	Type	[1G]
+4	TAB
+26	Type	[1B]
+1	Move	866	641
+2	ClickRelease
+1	Move	1121	717
+2	ClickRelease
+1	Move	730	546
+2	ClickRelease
+9	CTRL A
+10	DEL
+27	Type	[2R]
+4	TAB
+28	Type	[2G]
+4	TAB
+29	Type	[2B]
+1	Move	866	641
+2	ClickRelease
+1	Move	1121	749
+2	ClickRelease
+1	Move	730	546
+2	ClickRelease
+9	CTRL A
+10	DEL
+30	Type	[3R]
+4	TAB
+31	Type	[3G]
+4	TAB
+32	Type	[3B]
+1	Move	866	641
+2	ClickRelease
+1	Move	354	268
+2	ClickRelease
+1	Move	1535	665	// Socks Type
+2	ClickRelease
+37	Move Socks Type
+2	ClickRelease
+1	Move	1074	798
+2	ClickRelease
+1	Move	1121	685
+2	ClickRelease
+1	Move	730	546
+2	ClickRelease
+9	CTRL A
+10	DEL
+24	Type	[1R]
+4	TAB
+25	Type	[1G]
+4	TAB
+26	Type	[1B]
+1	Move	866	641
+2	ClickRelease
+1	Move	1121	717
+2	ClickRelease
+1	Move	730	546
+2	ClickRelease
+9	CTRL A
+10	DEL
+27	Type	[2R]
+4	TAB
+28	Type	[2G]
+4	TAB
+29	Type	[2B]
+1	Move	866	641
+2	ClickRelease
+1	Move	1121	749
+2	ClickRelease
+1	Move	730	546
+2	ClickRelease
+9	CTRL A
+10	DEL
+30	Type	[3R]
+4	TAB
+31	Type	[3G]
+4	TAB
+32	Type	[3B]
+1	Move	866	641
+2	ClickRelease
+1	Move	83	731	// Start of away shirt
+2	ClickRelease
+2	ClickRelease
+1	Move	357	158
+2	ClickRelease
+1	Move	357	158
+2	ClickRelease
+1	Move	1535	665	// Shirt Type
+2	ClickRelease
+34	Move Shirt Type
+2	ClickRelease
+1	Move	1074	798
+2	ClickRelease
+1	Move	730	546
+2	ClickRelease
+9	CTRL A
+10	DEL
+24	Type	[1R]
+4	TAB
+25	Type	[1G]
+4	TAB
+26	Type	[1B]
+1	Move	866	641
+2	ClickRelease
+1	Move	1114	720
+2	ClickRelease
+1	Move	730	546
+2	ClickRelease
+9	CTRL A
+10	DEL
+27	Type	[2R]
+4	TAB
+28	Type	[2G]
+4	TAB
+29	Type	[2B]
+1	Move	866	641
+2	ClickRelease
+1	Move	1114	753
+2	ClickRelease
+1	Move	730	546
+2	ClickRelease
+9	CTRL A
+10	DEL
+30	Type	[3R]
+4	TAB
+31	Type	[3G]
+4	TAB
+32	Type	[3B]
+1	Move	866	641
+2	ClickRelease
+1	Move	357	186
+2	ClickRelease
+1	Move	1025	651
+2	ClickRelease
+1	Move	730	546
+2	ClickRelease
+9	CTRL A
+10	DEL
+24	Type	[1R]
+4	TAB
+25	Type	[1G]
+4	TAB
+26	Type	[1B]
+1	Move	866	641
+2	ClickRelease
+1	Move	1025	685
+2	ClickRelease
+1	Move	730	546
+2	ClickRelease
+9	CTRL A
+10	DEL
+27	Type	[2R]
+4	TAB
+28	Type	[2G]
+4	TAB
+29	Type	[2B]
+1	Move	866	641
+2	ClickRelease
+1	Move	1025	713
+2	ClickRelease
+1	Move	730	546
+2	ClickRelease
+9	CTRL A
+10	DEL
+30	Type	[3R]
+4	TAB
+31	Type	[3G]
+4	TAB
+32	Type	[3B]
+1	Move	866	641
+2	ClickRelease
+1	Move	357	212
+2	ClickRelease
+1	Move	1121	655
+2	ClickRelease
+1	Move	730	546
+2	ClickRelease
+9	CTRL A
+10	DEL
+24	Type	[1R]
+4	TAB
+25	Type	[1G]
+4	TAB
+26	Type	[1B]
+1	Move	866	641
+2	ClickRelease
+1	Move	1121	685
+2	ClickRelease
+1	Move	730	546
+2	ClickRelease
+9	CTRL A
+10	DEL
+27	Type	[2R]
+4	TAB
+28	Type	[2G]
+4	TAB
+29	Type	[2B]
+1	Move	866	641
+2	ClickRelease
+1	Move	1121	717
+2	ClickRelease
+1	Move	730	546
+2	ClickRelease
+9	CTRL A
+10	DEL
+30	Type	[3R]
+4	TAB
+31	Type	[3G]
+4	TAB
+32	Type	[3B]
+1	Move	866	641
+2	ClickRelease
+1	Move	354	238
+2	ClickRelease
+1	Move	1535	665	// Shorts Type
+2	ClickRelease
+36	Move Shorts Type
+2	ClickRelease
+1	Move	1074	798
+2	ClickRelease
+1	Move	1121	691
+2	ClickRelease
+1	Move	730	546
+2	ClickRelease
+9	CTRL A
+10	DEL
+24	Type	[1R]
+4	TAB
+25	Type	[1G]
+4	TAB
+26	Type	[1B]
+1	Move	866	641
+2	ClickRelease
+1	Move	1121	717
+2	ClickRelease
+1	Move	730	546
+2	ClickRelease
+9	CTRL A
+10	DEL
+27	Type	[2R]
+4	TAB
+28	Type	[2G]
+4	TAB
+29	Type	[2B]
+1	Move	866	641
+2	ClickRelease
+1	Move	1121	749
+2	ClickRelease
+1	Move	730	546
+2	ClickRelease
+9	CTRL A
+10	DEL
+30	Type	[3R]
+4	TAB
+31	Type	[3G]
+4	TAB
+32	Type	[3B]
+1	Move	866	641
+2	ClickRelease
+1	Move	354	268
+2	ClickRelease
+1	Move	1535	665	// Socks Type
+2	ClickRelease
+38	Move Socks Type
+2	ClickRelease
+1	Move	1074	798
+2	ClickRelease
+1	Move	1121	685
+2	ClickRelease
+1	Move	730	546
+2	ClickRelease
+9	CTRL A
+10	DEL
+24	Type	[1R]
+4	TAB
+25	Type	[1G]
+4	TAB
+26	Type	[1B]
+1	Move	866	641
+2	ClickRelease
+1	Move	1121	717
+2	ClickRelease
+1	Move	730	546
+2	ClickRelease
+9	CTRL A
+10	DEL
+27	Type	[2R]
+4	TAB
+28	Type	[2G]
+4	TAB
+29	Type	[2B]
+1	Move	866	641
+2	ClickRelease
+1	Move	1121	749
+2	ClickRelease
+1	Move	730	546
+2	ClickRelease
+9	CTRL A
+10	DEL
+30	Type	[3R]
+4	TAB
+31	Type	[3G]
+4	TAB
+32	Type	[3B]
+1	Move	866	641
+2	ClickRelease
+1	Move	27	668
+2	ClickRelease
+1	Move	39	186
+2	ClickRelease

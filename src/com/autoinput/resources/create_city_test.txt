@@ -1,0 +1,83 @@
+1	Move	66	514
+2	ClickRelease
+1	Move	1370	9
+2	ClickRelease
+1	Move	79	516
+2	ClickRelease
+1	Move	1283	829
+2	ClickRelease
+1	Move	977	189
+2	ClickRelease
+3	Type	[NAME]
+1	Move	1561	220	// Start of nation routine
+2	ClickRelease
+1	Move	1545	248	// Start search
+2	ClickRelease
+1	Move	569	269	
+2	ClickRelease
+12	CTRL A
+13	DEL
+10	Type	[NATION]
+1	Move	493	264
+2	ClickRelease
+1	Move	510	297
+2	ClickRelease
+1	Move	784	364
+2	ClickRelease
+22	Down	1
+7	ENTER
+1	Move	1118	635
+2	ClickRelease
+1	Move	611	350
+2	ClickRelease
+2	ClickRelease
+1	Move	1052	692
+2	ClickRelease
+1	Move	1558	245	// Start of language routine
+2	ClickRelease
+1	Move	1545	279	// Start search
+2	ClickRelease
+1	Move	569	269	
+2	ClickRelease
+12	CTRL A
+13	DEL
+9	Type	[LANGUAGE]
+1	Move	493	264
+2	ClickRelease
+1	Move	510	297
+2	ClickRelease
+1	Move	784	364
+2	ClickRelease
+22	Down	1
+7	ENTER
+1	Move	1118	635
+2	ClickRelease
+1	Move	611	350
+2	ClickRelease
+2	ClickRelease
+1	Move	1052	692
+2	ClickRelease
+1	Move	975	309	//Click on attraction
+2	ClickRelease
+12	CTRL A
+13	DEL
+24	Type	[ATTRACTION]
+1	Move	981	338	//Click on inhabitants range
+2	ClickRelease
+22	Down	[INHABITANTS]
+1	Move	993	369	//Click on citizen description
+2	ClickRelease
+1	Move	976	371	//Click on citizen description
+2	ClickRelease
+12	CTRL A
+13	DEL
+25	Type	[CITIZEN_DESC]
+4	TAB
+26	Type	[LATITUDE]
+4	TAB
+27	Type	[LONGITUDE]
+4	TAB
+28	Type	[ALTITUDE]
+4	TAB
+1	Move	50	186	//Return to database, start again
+2	ClickRelease

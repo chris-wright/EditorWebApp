@@ -1,0 +1,37 @@
+Estadio Achupallas,Achupallas,10695,10695,1693,10695,1,100,2,2,2,3,Achupallas
+Estadio Alfacar,Alfacar,2249,1349,4527,2249,1,100,2,1,2,2,Alfacar
+Estadio Andres Juan,Pano,5833,5833,2388,5833,1,100,2,2,2,1,Pano
+Estadio Asar,Asar,21116,21116,8218,21116,1,100,2,1,2,1,Asar
+Estadio Azon,Azon,1544,618,8612,1544,1,100,2,1,2,5,Azon
+Estadio Cadret,Cadret,9775,9775,2337,9775,1,100,2,2,2,1,Cadret
+Estadio Cantabrana,Cantabrana,18995,18995,3844,18995,1,100,2,1,2,3,Cantabrana
+Estadio Cheques,Cheques,12439,12439,1854,12439,1,100,2,1,2,4,Cheques
+Estadio Chuco,Chuco,9749,9749,8665,9749,1,100,2,2,2,2,Chuco
+Estadio Conia,Conia,9415,9415,9024,9415,1,100,2,1,2,3,Conia
+Estadio Cozcojar,Cozcojar,3212,1606,9024,3212,1,100,2,1,2,4,Cozcojar
+Estadio Cutiellos,Cutiellos,10258,10258,2741,10258,1,100,2,2,2,1,Cutiellos
+Estadio Espinilho,Espinilho,6419,6419,3090,6419,1,100,2,2,2,5,Espinilho
+Estadio Estevino,Oto,4987,4987,5381,4987,1,100,2,2,2,1,Oto
+Estadio Fernando,Torreblacos,2478,1735,3304,2478,1,100,2,2,2,1,Torreblacos
+Estadio Ferreros,Ferreros,9919,9919,8158,9919,1,100,2,2,2,1,Ferreros Rochet
+Estadio Gerena,Gerena,16512,16512,8056,16512,1,100,2,1,2,2,Gerena
+Estadio Itambe,Itambe,1948,1169,9844,1948,1,100,2,1,2,2,Itambe
+Estadio Jetan,Jetan,5033,5033,3530,5033,1,100,2,2,2,5,Jetan
+Estadio Joubia,Joubia,1891,378,7244,1891,1,100,2,2,2,5,Joubia
+Estadio Juan Jose,Arandilla,8916,8916,9066,8916,1,100,2,2,2,1,FC Arandilla
+Estadio Mondego,Mondego,9020,9020,7438,9020,1,100,2,1,2,4,Mondego
+Estadio Montanha,Montanha,4768,4768,1537,4768,1,100,2,2,2,1,Montanha
+Estadio Puqua,Puqua,22904,22904,9698,22904,1,100,2,2,2,5,Puqua
+Estadio Puvania,Puvania,7680,6144,4791,7680,1,100,2,1,2,4,Puvania
+Estadio Redonda,Redonda,4495,2697,8166,4495,1,100,2,1,2,2,Redonda
+Estadio San Ignacio,San Ignacio,8262,8262,1565,8262,1,100,2,2,2,1,San Ignacio
+Estadio Sania,Sania,10053,10053,7242,10053,1,100,2,2,2,5,Sania
+Estadio Teji,Teji,14117,14117,2362,14117,1,100,2,2,2,4,Teji
+Estadio Teseador,Teseador,13462,13462,6322,13462,1,100,2,2,2,4,Teseador
+Estadio Udaria,Udaria,8274,8274,808,8274,1,100,2,2,2,5,Udaria
+Estadio Uhain,Uhain,5172,3620,7878,5172,1,100,2,1,2,2,Uhain
+Estadio Umirim,Umirim,4205,2523,5399,4205,1,100,2,1,2,5,Umirim
+Estadio Uspary,Uspary,8785,8785,5984,8785,1,100,2,1,2,1,Uspary
+Estadio Vieytes,Vieytes,16593,16593,9371,16593,1,100,2,2,2,3,Vieytes
+Estadio Vilela,Vilela,11183,11183,6890,11183,1,100,2,1,2,1,Vilela
+Estadio Yapac,Yapac,5045,5045,7130,5045,1,100,2,2,2,2,Yapac

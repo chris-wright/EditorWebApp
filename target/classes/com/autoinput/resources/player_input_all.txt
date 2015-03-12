@@ -1,0 +1,1000 @@
+Rubin,Angric,The Winterlands,55,64,21/01/1993,43,43,43,191,98,11,1,Aplua,1,2,4,4,9,3,5,5,9,19,7,11,,1
+Herschel,Ebenezer,The Winterlands,72,72,02/11/1986,75,75,75,197,77,2,19,Aplua,1,2,6,5,12,8,7,15,19,4,18,11,Aplua,1
+Leon,Barck,The Winterlands,95,95,27/12/1981,88,88,88,178,88,6,12,Aplua,1,2,3,5,19,17,15,2,2,20,1,6,Aplua,1
+Cleo,Itzak,The Winterlands,44,45,21/04/1987,33,33,33,186,96,20,8,Aplua,1,2,5,4,16,2,6,6,9,3,2,19,Aplua,1
+Cruz,Von Hindenburg,The Winterlands,42,50,04/10/1992,50,50,50,178,91,7,19,Beerenberg,1,2,10,3,20,5,10,13,14,19,4,13,Beerenberg,1
+Filiberto,Hannaby,The Winterlands,33,33,16/02/1987,29,29,29,176,110,14,17,Logro,1,2,4,5,5,9,17,10,11,8,1,13,Logro,1
+Edmundo,Ropars,The Winterlands,34,47,19/08/1980,27,27,27,191,96,17,2,Voyalia,1,2,9,3,3,13,5,11,2,1,14,1,Voyalia,1
+Marcel,Orthmann,The Winterlands,81,81,05/03/1985,100,100,100,180,74,12,11,Welor,1,2,5,8,7,6,13,17,17,8,8,16,Welor,1
+Antonia,Haggas,The Winterlands,80,81,05/09/1993,90,90,90,172,95,5,6,Welor,1,2,10,5,4,8,17,9,5,5,1,19,Welor,1
+Reynaldo,Lammerts,The Winterlands,84,85,16/10/1983,84,84,84,179,106,1,4,Yucor,1,2,10,8,9,3,12,16,11,19,7,6,Yucor FC,1
+Britt,Millichap,The Winterlands,44,45,09/01/1979,38,38,38,180,109,12,17,Yucor,1,2,9,7,12,9,4,16,17,16,11,16,Yucor FC,1
+Weston,Klugel,The Winterlands,46,48,07/11/1980,60,60,60,193,88,2,15,Aplua,1,2,6,8,6,2,19,19,7,10,13,8,Aplua,1
+Donny,Shuxsmith,The Winterlands,49,80,07/01/1980,73,73,73,184,108,6,12,Beerenberg,1,2,6,2,11,7,8,2,2,12,8,2,Beerenberg,1
+Anton,Dockerty,The Winterlands,65,69,05/02/1987,79,79,79,176,95,15,17,Mount Hoth,1,2,5,3,2,14,6,17,4,5,14,7,Mount Hoth,1
+Kevin,Selland,The Winterlands,19,20,17/12/1982,11,11,11,180,93,3,9,Skagastrand,1,2,4,4,11,11,19,13,3,18,17,4,Skagastrand,1
+Andrea,Capewell,The Winterlands,48,54,13/07/1984,62,62,62,172,95,9,8,Snowfell,1,2,4,7,11,11,12,9,11,13,5,9,Snowfell,1
+Patrick,Christescu,The Winterlands,32,32,23/11/1984,25,25,25,177,99,13,13,Voyalia,1,2,3,5,2,3,9,1,5,2,6,9,Voyalia,1
+Sonny,Spellacey,The Winterlands,53,57,23/09/1993,62,62,62,180,103,4,14,Voyalia,1,2,2,6,4,16,7,17,3,3,20,16,Voyalia,1
+Jay,Woakes,The Winterlands,44,46,26/11/1992,30,30,30,189,92,17,16,Aplua,1,2,10,4,13,3,20,13,7,5,3,3,Aplua,1
+Chas,Bondesen,The Winterlands,75,76,07/02/1981,83,83,83,184,97,13,3,Beerenberg,1,2,9,6,5,15,9,9,15,12,20,17,Beerenberg,1
+Shawn,Killoran,The Winterlands,41,42,06/08/1983,46,46,46,181,51,18,18,Beerenberg,1,2,7,8,19,14,6,11,17,2,12,16,Beerenberg,1
+Trent,Nesbit,The Winterlands,37,41,13/12/1981,42,42,42,193,102,16,8,Logro,1,2,4,2,17,8,19,14,17,19,17,15,Logro,1
+Adrian,Bohman,The Winterlands,45,107,13/10/1989,75,75,75,172,108,15,19,Mount Hoth,1,2,7,3,2,4,15,1,20,13,19,20,Mount Hoth,1
+Efren,Sproat,The Winterlands,31,31,24/08/1980,24,24,24,191,92,20,3,Skagastrand,1,2,3,3,9,5,8,10,19,10,10,9,Skagastrand,1
+Michael,Linge,The Winterlands,46,52,24/10/1990,35,35,35,185,109,16,10,Voyalia,1,2,6,7,8,1,1,15,2,16,8,1,Voyalia,1
+Bruce,Saben,The Winterlands,77,77,28/10/1986,66,66,66,183,95,4,17,Welor,1,2,4,5,20,20,1,10,12,20,20,13,Welor,1
+Jamaal,Penson,The Winterlands,91,117,28/06/1990,112,112,112,173,97,8,1,Welor,1,2,7,6,2,15,15,15,17,8,2,19,Welor,1
+Dudley,Hughland,The Winterlands,75,76,12/08/1987,89,89,89,188,101,7,1,Beerenberg,1,2,5,6,8,13,18,1,1,20,10,12,Beerenberg,1
+Doyle,Breslau,The Winterlands,50,70,09/02/1983,42,42,42,203,98,9,18,Crast,1,2,8,8,8,17,6,13,17,8,9,3,FC Crast,1
+Bennett,Westmorland,The Winterlands,36,36,23/08/1988,30,30,30,183,97,16,11,Logro,1,2,8,2,20,8,17,4,15,17,8,19,Logro,1
+Sid,Tabram,The Winterlands,48,64,06/12/1982,40,40,40,185,83,8,5,Logro,1,2,7,4,2,2,12,7,17,1,17,8,Logro,1
+Johnny,Brittles,The Winterlands,28,28,09/02/1992,45,45,45,183,99,10,5,Mount Hoth,1,2,7,8,17,5,13,13,11,1,7,7,Mount Hoth,1
+Rupert,Pasby,The Winterlands,21,81,04/01/1982,43,43,43,184,98,12,9,Nardhvik,1,2,7,4,3,17,17,15,5,17,4,9,Nardhvik,1
+Freddie,Chalcroft,The Winterlands,66,105,06/04/1983,100,100,100,175,94,9,19,Snowfell,1,2,2,2,5,6,1,1,7,10,9,20,Snowfell,1
+Lupe,Antonoczyk,The Winterlands,67,91,03/01/1993,77,77,77,195,113,20,13,Welor,1,2,6,7,1,20,6,15,13,6,20,15,Welor,1
+Isidro,Shuttle,The Winterlands,70,70,24/06/1988,69,69,69,180,90,3,17,Yucor,1,2,9,7,6,13,9,12,10,5,19,2,Yucor FC,1
+Shad,Sansbury,The Winterlands,76,82,09/07/1981,69,69,69,169,94,1,8,Aplua,1,2,7,3,13,9,14,12,8,5,13,17,Aplua,1
+Trevor,Gencke,The Winterlands,29,29,28/02/1985,34,34,34,192,102,7,2,Beerenberg,1,2,4,5,9,2,16,18,3,12,16,14,Beerenberg,1
+Diego,Foster,The Winterlands,38,47,18/12/1982,36,36,36,174,93,15,11,Beerenberg,1,2,9,2,1,9,5,5,20,13,4,1,Beerenberg,1
+Jules,Tansly,The Winterlands,10,73,08/03/1990,27,27,27,179,96,1,5,Logro,1,2,3,3,4,18,16,9,20,16,6,11,Logro,1
+Refugio,Jobern,The Winterlands,69,138,17/08/1987,93,93,93,196,103,9,5,Skagastrand,1,2,8,2,16,16,20,8,17,7,1,5,Skagastrand,1
+Delbert,Haddleston,The Winterlands,53,54,08/01/1984,56,56,56,203,106,8,17,Voyalia,1,2,2,3,8,10,9,10,10,11,10,1,Voyalia,1
+Sandy,Holdin,The Winterlands,83,110,11/04/1979,111,111,111,195,96,7,4,Welor,1,2,8,2,7,7,3,3,20,12,3,3,Welor,1
+Wilbert,Fruchter,The Winterlands,77,78,04/10/1993,79,79,79,176,99,18,11,Aplua,1,2,5,7,10,12,18,6,20,6,17,18,Aplua,1
+Kelley,Yuryev,The Winterlands,84,159,20/02/1983,123,123,123,176,107,8,11,Aplua,1,2,4,2,5,12,6,4,3,17,8,19,Aplua,1
+Emmitt,Weems,The Winterlands,40,40,21/08/1985,37,37,37,174,100,3,7,Aplua,1,2,6,8,11,4,15,10,9,10,16,1,Aplua,1
+Ignacio,Shepherdson,The Winterlands,64,98,22/02/1985,70,70,70,174,81,6,15,Aplua,1,2,6,6,3,20,4,20,19,4,13,13,Aplua,1
+Buddy,Bartosiak,The Winterlands,57,81,13/10/1986,68,68,68,178,97,19,7,Beerenberg,1,2,5,3,9,3,18,15,8,9,13,13,Beerenberg,1
+Anibal,McKeaveney,The Winterlands,31,75,27/05/1989,41,41,41,179,78,19,5,Beerenberg,1,2,3,5,3,13,18,18,17,11,5,16,Beerenberg,1
+Antoine,Wyer,The Winterlands,59,59,23/10/1980,47,47,47,199,90,8,17,Crast,1,2,4,2,3,5,1,4,1,6,5,10,FC Crast,1
+Chong,Gandar,The Winterlands,32,58,10/05/1986,53,53,53,181,99,9,20,Logro,1,2,8,6,4,16,5,13,18,17,7,4,Logro,1
+Carl,Pountain,The Winterlands,20,21,25/05/1993,8,8,8,168,109,17,8,Mount Hoth,1,2,3,6,13,7,16,8,16,14,20,13,Mount Hoth,1
+Sam,Bowcock,The Winterlands,76,131,21/02/1984,92,92,92,171,88,15,7,Nardhvik,1,2,9,8,17,5,4,15,5,14,17,5,Nardhvik,1
+Jefferson,Jakaway,The Winterlands,69,70,19/06/1993,58,58,58,196,100,2,15,Nardhvik,1,2,9,3,12,4,4,6,11,11,7,13,Nardhvik,1
+Carlton,Coppledike,The Winterlands,52,72,05/11/1980,42,42,42,179,83,14,19,Nardhvik,1,2,7,7,17,5,17,6,15,18,15,6,Nardhvik,1
+Deangelo,Trollope,The Winterlands,40,56,21/06/1991,55,55,55,179,88,10,17,Skagastrand,1,2,5,2,15,7,17,17,11,2,19,10,Skagastrand,1
+Cristopher,Janczewski,The Winterlands,32,95,06/07/1988,71,71,71,178,105,12,10,Skagastrand,1,2,3,2,19,11,11,18,20,20,11,20,Skagastrand,1
+Jude,Bank,The Winterlands,60,118,17/06/1979,90,90,90,188,87,8,20,Skagastrand,1,2,7,2,8,14,5,4,18,20,8,19,Skagastrand,1
+Gerard,Creevy,The Winterlands,44,97,11/12/1988,82,82,82,192,87,15,14,Voyalia,1,2,5,2,6,12,6,12,10,19,8,19,Voyalia,1
+Keneth,Grigorey,The Winterlands,48,115,12/12/1987,78,78,78,180,77,18,13,Voyalia,1,2,8,7,8,3,13,12,7,2,14,10,Voyalia,1
+Buford,Guisot,The Winterlands,30,30,15/01/1982,40,40,40,185,117,1,6,Yucor,1,2,5,3,18,4,9,19,20,19,4,9,Yucor FC,1
+Otto,Hanbury-Brown,The Winterlands,30,31,17/02/1987,42,42,42,186,103,13,15,Logro,1,2,6,5,14,5,17,13,5,7,20,17,Logro,1
+Herbert,Lochead,The Winterlands,46,46,05/02/1980,41,41,41,210,80,8,16,Logro,1,2,2,6,8,16,9,14,19,3,5,5,Logro,1
+Lamar,Rawlcliffe,The Winterlands,30,56,27/07/1991,44,44,44,169,84,17,5,Mount Hoth,1,2,2,5,3,1,7,7,9,17,5,20,Mount Hoth,1
+Dustin,Gatlin,The Winterlands,62,63,21/12/1991,79,79,79,181,59,10,12,Nardhvik,1,2,3,5,12,7,3,9,4,18,18,19,Nardhvik,1
+Refugio,Merle,The Winterlands,55,68,26/04/1982,45,45,45,188,88,1,1,Skagastrand,1,2,3,4,15,10,2,4,10,14,17,20,Skagastrand,1
+Bret,Liggens,The Winterlands,101,101,14/12/1987,106,106,106,174,80,9,14,Snowfell,1,2,4,6,2,19,12,14,7,17,5,15,Snowfell,1
+Charley,Miller,The Winterlands,58,59,23/12/1982,70,70,70,186,104,14,15,Snowfell,1,2,8,3,11,1,16,4,13,20,4,15,Snowfell,1
+Gale,Seer,The Winterlands,60,60,25/04/1991,69,69,69,183,92,7,20,Welor,1,2,9,3,9,6,2,9,15,17,3,14,Welor,1
+Cole,O'Gaven,The Winterlands,40,65,25/10/1982,43,43,43,184,92,3,1,Welor,1,2,9,7,6,1,10,8,9,19,18,16,Welor,1
+Jonathan,Albro,The Winterlands,67,77,17/12/1992,74,74,74,198,107,16,15,Welor,1,2,9,8,14,8,13,9,8,10,9,4,Welor,1
+Graig,Dick,The Winterlands,44,44,20/04/1980,43,43,43,180,100,8,8,Yucor,1,2,6,4,8,17,4,15,20,19,1,11,Yucor FC,1
+Otha,Cecchi,The Winterlands,39,40,02/04/1988,40,40,40,183,96,13,5,Crast,1,2,3,3,15,9,8,10,19,8,19,5,FC Crast,1
+Jean,Vittet,The Winterlands,61,107,01/03/1979,64,64,64,184,99,1,6,Crast,1,2,8,6,7,11,16,19,7,1,19,14,FC Crast,1
+Derek,Jankiewicz,The Winterlands,82,82,21/05/1981,65,65,65,185,101,11,12,Crast,1,2,3,6,20,4,10,9,4,11,10,17,FC Crast,1
+Dana,Slite,The Winterlands,12,12,24/11/1984,15,15,15,177,101,19,9,Logro,1,2,8,2,20,17,7,2,18,11,9,13,Logro,1
+Rod,St. Hill,The Winterlands,69,70,10/10/1991,89,89,89,177,72,3,2,Mount Hoth,1,2,10,8,20,6,20,14,20,5,15,1,Mount Hoth,1
+Sebastian,Risby,The Winterlands,33,38,24/03/1987,47,47,47,199,101,13,13,Mount Hoth,1,2,4,7,6,10,13,11,6,19,20,3,Mount Hoth,1
+Harold,Woolham,The Winterlands,47,48,24/09/1988,48,48,48,192,103,17,12,Nardhvik,1,2,2,2,17,2,13,5,7,11,4,20,Nardhvik,1
+Ray,Aberkirder,The Winterlands,31,61,17/06/1985,52,52,52,192,95,3,17,Nardhvik,1,2,6,7,17,5,16,4,12,9,6,19,Nardhvik,1
+Florencio,Mathivet,The Winterlands,39,57,13/08/1979,47,47,47,186,82,2,8,Nardhvik,1,2,6,4,8,5,7,18,8,7,4,11,Nardhvik,1
+Floyd,Iacomelli,The Winterlands,15,15,07/02/1985,11,11,11,179,97,14,18,Skagastrand,1,2,3,4,19,8,1,16,19,12,19,2,Skagastrand,1
+Stacey,Kinmond,The Winterlands,41,42,25/12/1991,25,25,25,196,100,15,10,Skagastrand,1,2,5,2,17,18,20,5,13,20,12,3,Skagastrand,1
+Rico,Mawson,The Winterlands,74,94,16/07/1987,72,72,72,188,96,20,20,Voyalia,1,2,6,7,13,7,9,16,19,18,19,1,Voyalia,1
+Christian,Oades,The Winterlands,80,80,12/04/1985,96,96,96,179,88,17,10,Welor,1,2,7,3,12,11,10,16,8,16,8,4,Welor,1
+Chris,Cassella,The Winterlands,47,47,05/04/1992,49,49,49,191,95,10,4,Yucor,1,2,7,7,14,6,9,15,8,19,17,16,Yucor FC,1
+Hosea,MacCall,The Winterlands,56,57,19/02/1982,68,68,68,192,95,14,6,Beerenberg,1,2,2,5,10,18,12,13,9,14,5,9,Beerenberg,1
+Jerrod,Attridge,The Winterlands,37,79,12/10/1986,73,73,73,170,99,17,13,Crast,1,2,3,4,11,14,9,20,13,6,19,16,FC Crast,1
+Haywood,Scorrer,The Winterlands,74,112,04/07/1985,96,96,96,182,104,6,15,Crast,1,2,3,2,18,1,2,6,13,17,3,14,FC Crast,1
+Reynaldo,Goldthorpe,The Winterlands,75,105,27/06/1987,105,105,105,176,81,14,19,Nardhvik,1,2,2,6,13,9,3,13,7,5,15,10,Nardhvik,1
+Faustino,Tomkies,The Winterlands,94,102,05/09/1988,83,83,83,193,88,4,18,Snowfell,1,2,2,8,18,9,17,14,13,14,14,3,Snowfell,1
+Raphael,Kenton,The Winterlands,103,104,20/05/1990,87,87,87,183,65,11,18,Snowfell,1,2,5,2,14,18,13,11,9,9,5,6,Snowfell,1
+Monroe,Fielding,The Winterlands,63,64,05/03/1984,57,57,57,195,107,19,15,Voyalia,1,2,9,2,1,3,20,16,4,19,16,11,Voyalia,1
+Bo,Feltham,The Winterlands,70,71,27/05/1990,76,76,76,175,93,3,7,Welor,1,2,4,8,14,8,13,8,16,10,1,12,Welor,1
+Erik,Balfour,The Winterlands,52,61,27/12/1984,57,57,57,171,81,9,5,Yucor,1,2,7,3,17,13,16,12,7,20,13,11,Yucor FC,1
+Ron,Timmis,The Winterlands,26,28,04/11/1980,19,19,19,196,75,11,12,Beerenberg,1,2,5,4,17,7,7,5,10,15,12,2,Beerenberg,1
+Jesse,Phizackerly,The Winterlands,67,75,03/03/1993,67,67,67,176,92,2,1,Crast,1,2,6,8,5,1,3,19,15,12,15,13,FC Crast,1
+Cleo,Izkovici,The Winterlands,83,129,11/06/1990,125,125,125,182,82,12,8,Crast,1,2,2,5,11,5,3,11,11,19,5,17,FC Crast,1
+Stephan,Strickett,The Winterlands,56,56,15/10/1985,47,47,47,180,104,14,20,Crast,1,2,4,2,9,10,11,17,5,16,16,18,FC Crast,1
+Stefan,Calderon,The Winterlands,26,55,08/11/1980,54,54,54,177,88,14,9,Logro,1,2,4,2,12,14,14,20,10,20,13,11,Logro,1
+Wayne,Snoxill,The Winterlands,5,9,09/12/1979,3,3,3,181,83,18,3,Logro,1,2,10,6,18,20,9,11,7,16,6,8,Logro,1
+Martin,Imlaw,The Winterlands,47,48,25/06/1984,38,38,38,175,89,16,12,Logro,1,2,2,7,13,7,14,14,11,1,10,8,Logro,1
+Alvaro,Alf,The Winterlands,21,21,28/08/1983,6,6,6,180,108,11,5,Mount Hoth,1,2,4,2,17,15,5,12,5,5,14,13,Mount Hoth,1
+Wally,Northen,The Winterlands,64,65,15/09/1992,81,81,81,172,103,1,3,Mount Hoth,1,2,9,5,3,10,20,19,9,7,8,14,Mount Hoth,1
+Ahmed,Littlewood,The Winterlands,54,66,25/03/1990,44,44,44,183,104,12,18,Nardhvik,1,2,7,8,18,8,14,10,4,12,3,20,Nardhvik,1
+Wilfred,Stellman,The Winterlands,81,88,06/12/1985,73,73,73,182,69,8,14,Nardhvik,1,2,7,3,1,1,6,19,11,16,9,18,Nardhvik,1
+Bert,Droghan,The Winterlands,51,52,06/01/1985,48,48,48,179,99,8,4,Snowfell,1,2,5,4,17,3,13,14,17,7,6,19,Snowfell,1
+Les,Goucher,The Winterlands,34,34,08/12/1980,35,35,35,178,93,14,14,Voyalia,1,2,4,2,17,14,13,10,7,2,1,13,Voyalia,1
+Nathanael,Scorthorne,The Winterlands,75,84,01/08/1991,82,82,82,197,55,1,19,Voyalia,1,2,9,4,14,20,12,7,11,8,5,18,Voyalia,1
+Rolland,Asson,The Winterlands,72,73,18/01/1979,54,54,54,183,95,7,15,Welor,1,2,4,8,9,15,5,4,16,2,11,7,Welor,1
+Thomas,Raggles,The Winterlands,76,83,18/04/1992,61,61,61,187,90,15,5,Yucor,1,2,2,6,18,17,12,10,18,7,2,6,Yucor FC,1
+Augustine,Luton,The Winterlands,49,49,01/04/1990,34,34,34,182,78,19,12,Yucor,1,2,9,6,6,5,5,7,1,4,10,18,Yucor FC,1
+Jerry,Dome,The Winterlands,41,42,05/04/1980,49,49,49,176,85,20,2,Aplua,1,2,4,3,18,9,13,15,14,9,3,7,Aplua,1
+Norberto,Morison,The Winterlands,63,85,17/05/1993,63,63,63,192,88,8,7,Aplua,1,2,7,6,11,5,20,7,8,9,15,20,Aplua,1
+Mark,Cheer,The Winterlands,73,74,13/11/1981,61,61,61,184,90,3,9,Beerenberg,1,2,8,6,17,20,12,15,9,20,10,6,Beerenberg,1
+Lynwood,Pratchett,The Winterlands,41,41,12/09/1982,60,60,60,189,100,16,19,Nardhvik,1,2,4,7,19,5,3,11,11,3,8,14,Nardhvik,1
+Allen,Blyth,The Winterlands,61,62,27/10/1986,54,54,54,190,100,12,14,Snowfell,1,2,8,5,10,9,17,18,1,13,14,4,Snowfell,1
+Pablo,Stuttard,The Winterlands,75,82,16/05/1987,61,61,61,193,94,3,1,Welor,1,2,5,5,2,14,14,1,14,7,5,11,Welor,1
+Harry,Solly,The Winterlands,39,39,05/02/1981,21,21,21,177,87,17,9,Yucor,1,2,2,5,13,4,4,5,7,13,16,10,Yucor FC,1
+Yong,Silmon,The Winterlands,68,79,17/03/1986,91,91,91,203,74,3,11,Beerenberg,1,2,3,3,10,5,17,19,5,13,4,18,Beerenberg,1
+Luke,Beevor,The Winterlands,33,33,17/10/1981,23,23,23,182,91,19,11,Crast,1,2,5,8,16,14,19,10,3,15,11,7,FC Crast,1
+Andy,Grigolli,The Winterlands,16,44,08/06/1990,34,34,34,208,94,9,6,Logro,1,2,6,3,12,3,2,18,1,4,11,7,Logro,1
+Forrest,McCoole,The Winterlands,71,71,02/01/1991,55,55,55,198,93,19,15,Snowfell,1,2,10,5,1,15,11,11,20,14,3,8,Snowfell,1
+Avery,Simak,The Winterlands,100,101,10/09/1981,94,94,94,187,94,4,2,Snowfell,1,2,6,4,7,5,20,7,15,13,14,3,Snowfell,1
+Bill,Stonhard,The Winterlands,50,104,05/10/1991,89,89,89,173,97,14,7,Voyalia,1,2,5,7,14,1,7,12,10,4,11,10,Voyalia,1
+Jarrett,Phipps,The Winterlands,99,137,27/12/1993,138,138,138,184,89,1,8,Aplua,1,2,6,3,6,12,15,4,9,18,1,18,Aplua,1
+Mathew,Audritt,The Winterlands,62,65,20/01/1989,70,70,70,174,84,10,14,Beerenberg,1,2,3,5,14,14,8,16,14,16,2,11,Beerenberg,1
+Raymond,Champe,The Winterlands,59,73,12/01/1991,47,47,47,187,100,15,17,Mount Hoth,1,2,4,4,14,15,6,14,11,13,6,18,Mount Hoth,1
+Doyle,Supple,The Winterlands,46,48,23/08/1987,38,38,38,179,74,4,8,Mount Hoth,1,2,5,2,7,18,1,18,15,8,20,5,Mount Hoth,1
+Kip,Miners,The Winterlands,68,73,01/02/1987,63,63,63,185,95,15,8,Nardhvik,1,2,3,5,8,2,13,3,13,8,9,19,Nardhvik,1
+Bennett,Angerstein,The Winterlands,47,48,16/03/1981,57,57,57,174,52,11,4,Nardhvik,1,2,2,8,16,7,17,16,2,12,9,18,Nardhvik,1
+Chadwick,Greatrex,The Winterlands,29,30,18/09/1989,37,37,37,196,88,13,18,Skagastrand,1,2,8,7,13,4,16,9,20,20,18,6,Skagastrand,1
+Benito,Moyser,The Winterlands,60,91,03/05/1979,86,86,86,175,71,10,6,Skagastrand,1,2,10,4,17,15,7,8,3,11,20,4,Skagastrand,1
+Mac,Messingham,The Winterlands,66,66,19/07/1991,60,60,60,180,105,3,9,Skagastrand,1,2,3,2,16,19,16,3,7,6,11,19,Skagastrand,1
+Abraham,Steenson,The Winterlands,57,86,06/02/1982,71,71,71,184,92,20,6,Snowfell,1,2,2,6,4,16,2,2,12,15,12,5,Snowfell,1
+Dustin,Thredder,The Winterlands,40,73,04/01/1983,57,57,57,175,95,3,4,Welor,1,2,5,8,4,1,20,8,17,15,1,12,Welor,1
+Ian,MacCrackan,The Winterlands,62,62,08/12/1987,64,64,64,190,95,17,8,Crast,1,2,7,8,16,7,16,17,9,18,3,16,FC Crast,1
+Hung,Silveston,The Winterlands,24,24,14/11/1991,30,30,30,191,82,6,15,Logro,1,2,4,4,4,18,14,2,10,5,19,11,Logro,1
+Carrol,Le Bosse,The Winterlands,44,47,25/07/1979,37,37,37,166,99,16,6,Mount Hoth,1,2,7,8,11,7,16,6,12,16,14,16,Mount Hoth,1
+Clint,Blacket,The Winterlands,62,105,06/06/1993,78,78,78,171,98,2,20,Mount Hoth,1,2,6,4,8,7,18,18,10,11,8,20,Mount Hoth,1
+Alonzo,Bruyett,The Winterlands,37,38,05/11/1985,49,49,49,193,60,17,13,Skagastrand,1,2,3,5,19,10,20,6,14,6,17,18,Skagastrand,1
+Trey,Sherbrook,The Winterlands,65,114,13/06/1979,107,107,107,175,74,5,10,Skagastrand,1,2,4,2,9,17,5,15,3,4,5,13,Skagastrand,1
+Hassan,Trathen,The Winterlands,100,100,04/09/1981,92,92,92,193,81,12,5,Snowfell,1,2,3,7,8,3,9,2,4,19,18,3,Snowfell,1
+Ernest,Hanley,The Winterlands,57,58,10/05/1993,75,75,75,176,104,6,15,Voyalia,1,2,4,5,14,11,12,10,12,14,16,11,Voyalia,1
+Jesus,Gherardini,The Winterlands,47,52,28/02/1989,68,68,68,174,92,20,20,Yucor,1,2,4,5,20,14,20,19,13,17,4,14,Yucor FC,1
+Isiah,Bastable,The Winterlands,76,77,06/04/1979,77,77,77,184,76,10,11,Yucor,1,2,9,6,18,10,6,14,7,17,10,17,Yucor FC,1
+Collin,Middas,The Winterlands,44,50,13/05/1992,33,33,33,175,94,3,14,Aplua,1,2,6,4,5,10,16,3,13,16,2,11,Aplua,1
+Cornelius,Piperley,The Winterlands,57,83,19/11/1984,88,88,88,188,77,7,17,Crast,1,2,7,3,15,3,2,6,20,13,20,19,FC Crast,1
+Darren,Payn,The Winterlands,70,80,28/10/1979,69,69,69,182,91,2,14,Crast,1,2,9,7,11,2,5,19,3,1,8,1,FC Crast,1
+Darell,Gutsell,The Winterlands,34,37,07/02/1988,42,42,42,180,107,1,4,Mount Hoth,1,2,4,2,10,4,3,11,6,11,11,9,Mount Hoth,1
+Stacey,Barriball,The Winterlands,84,112,07/04/1984,97,97,97,210,95,8,6,Snowfell,1,2,10,8,11,1,20,2,11,10,9,15,Snowfell,1
+Eugenio,Guerin,The Winterlands,55,79,23/10/1981,71,71,71,200,102,8,3,Snowfell,1,2,10,2,15,15,7,5,7,11,20,20,Snowfell,1
+Carson,Szymanski,The Winterlands,72,87,16/03/1989,87,87,87,180,87,2,13,Voyalia,1,2,5,7,19,11,17,6,8,6,9,7,Voyalia,1
+Vernon,Patington,The Winterlands,87,88,21/08/1984,104,104,104,181,87,12,2,Yucor,1,2,10,7,4,18,12,3,11,8,3,5,Yucor FC,1
+Ivan,Mettetal,The Winterlands,89,90,08/10/1990,73,73,73,179,97,11,5,Yucor,1,2,4,3,2,11,6,3,12,8,4,13,Yucor FC,1
+Darrin,Simkovitz,The Winterlands,100,154,05/09/1998,143,143,143,187,98,17,4,Aplua,1,2,4,6,11,16,17,12,8,12,8,19,Aplua,1
+Major,Krauss,The Winterlands,100,162,16/02/1998,151,151,151,181,92,1,12,Aplua,1,2,6,4,20,17,12,4,4,19,6,20,Aplua,1
+Patricia,Iliff,The Winterlands,81,99,05/09/1998,78,78,78,180,105,20,14,Aplua,1,2,2,2,16,10,4,15,4,15,4,3,Aplua,1
+Chong,Orans,The Winterlands,97,113,07/09/1998,125,125,125,190,104,16,14,Aplua,1,2,5,5,6,1,2,8,1,18,3,7,Aplua,1
+Lynwood,Reinbach,The Winterlands,62,160,13/02/1998,116,116,116,199,102,14,5,Aplua,1,2,7,6,18,16,7,9,17,19,8,18,Aplua,1
+Rocco,Jakubovsky,The Winterlands,65,146,02/10/1998,93,93,93,182,91,5,13,Aplua,1,2,8,4,7,5,9,4,7,20,20,15,Aplua,1
+Earl,Rosterne,The Winterlands,62,155,12/06/1998,115,115,115,180,93,3,17,Aplua,1,2,8,5,10,14,6,18,5,2,16,2,Aplua,1
+Sergio,Heinel,The Winterlands,88,179,11/06/1998,145,145,145,180,94,8,18,Aplua,1,2,6,4,18,5,12,5,9,19,3,2,Aplua,1
+Clinton,Fominov,The Winterlands,42,98,17/08/1998,71,71,71,182,98,10,18,Aplua,1,2,3,7,7,5,3,4,6,14,15,20,Aplua,1
+Malik,Lody,The Winterlands,72,136,11/09/1998,107,107,107,192,86,15,19,Aplua,1,2,9,4,20,4,5,5,12,1,15,6,Aplua,1
+Randell,Habberjam,The Winterlands,81,96,10/01/1998,81,81,81,188,93,3,14,Aplua,1,2,10,7,9,4,13,7,15,9,16,20,Aplua,1
+Shayne,Goodbanne,The Winterlands,97,145,03/02/1998,110,110,110,197,104,4,20,Aplua,1,2,4,8,20,16,10,3,17,18,3,16,Aplua,1
+Ed,Glentworth,The Winterlands,82,107,04/09/1998,78,78,78,177,93,18,10,Aplua,1,2,2,3,20,8,20,19,11,1,15,20,Aplua,1
+Lane,Frid,The Winterlands,58,117,13/02/1998,75,75,75,181,85,15,18,Aplua,1,2,9,6,17,5,18,18,7,5,2,19,Aplua,1
+Barry,Raitie,The Winterlands,99,183,16/11/1998,153,153,153,172,96,12,14,Aplua,1,2,3,2,15,9,1,2,9,20,5,13,Aplua,1
+Sid,Stanlike,The Winterlands,99,182,27/08/1998,152,152,152,193,101,7,16,Aplua,1,2,6,5,9,8,17,18,7,2,10,2,Aplua,1
+Blaine,Martinson,The Winterlands,22,121,27/05/1998,79,79,79,202,89,1,8,Beerenberg,1,2,5,8,3,20,14,12,1,4,7,14,Beerenberg,1
+Jefferey,Schrader,The Winterlands,54,133,04/05/1998,111,111,111,186,99,17,15,Beerenberg,1,2,7,5,15,15,20,4,3,5,3,20,Beerenberg,1
+Robt,Gordge,The Winterlands,47,137,03/03/1998,92,92,92,181,94,4,5,Beerenberg,1,2,5,2,5,13,15,9,4,9,9,10,Beerenberg,1
+Chas,Cullity,The Winterlands,43,138,16/12/1998,85,85,85,183,99,14,9,Beerenberg,1,2,8,5,6,18,8,1,1,16,16,2,Beerenberg,1
+Mario,Huzzay,The Winterlands,47,115,19/04/1998,80,80,80,194,92,5,20,Beerenberg,1,2,5,2,2,5,19,9,5,19,8,19,Beerenberg,1
+Franklyn,Chaman,The Winterlands,77,157,27/11/1998,124,124,124,187,96,4,1,Beerenberg,1,2,6,3,16,6,8,4,11,6,18,5,Beerenberg,1
+Hubert,Rayment,The Winterlands,21,53,22/06/1998,37,37,37,203,100,18,5,Beerenberg,1,2,5,6,4,16,18,18,9,3,2,19,Beerenberg,1
+Jonathon,Stevens,The Winterlands,40,128,21/10/1998,71,71,71,184,113,6,7,Beerenberg,1,2,6,7,8,6,15,7,19,19,7,15,Beerenberg,1
+Arthur,Magnus,The Winterlands,21,50,16/02/1998,28,28,28,191,93,12,14,Beerenberg,1,2,9,2,16,4,8,12,18,6,4,11,Beerenberg,1
+Marcel,Trinder,The Winterlands,75,127,19/02/1998,93,93,93,193,82,2,7,Beerenberg,1,2,2,5,9,16,8,5,9,7,10,13,Beerenberg,1
+Eddy,Colvine,The Winterlands,41,122,06/07/1998,71,71,71,187,93,12,4,Beerenberg,1,2,4,8,8,4,1,10,5,17,12,19,Beerenberg,1
+Terrance,Splevins,The Winterlands,44,48,11/09/1998,45,45,45,179,87,2,14,Beerenberg,1,2,5,5,12,5,4,18,3,15,20,7,Beerenberg,1
+Seymour,Pippin,The Winterlands,71,91,20/02/1998,64,64,64,182,98,15,13,Beerenberg,1,2,8,3,5,10,4,1,15,16,8,11,Beerenberg,1
+Mack,Stiffkins,The Winterlands,50,144,03/10/1998,90,90,90,198,107,17,2,Beerenberg,1,2,8,6,12,20,20,19,8,1,5,11,Beerenberg,1
+Tad,Cardenoza,The Winterlands,28,72,27/11/1998,61,61,61,190,80,5,4,Beerenberg,1,2,9,5,12,11,6,18,11,6,20,12,Beerenberg,1
+Theron,Cubbon,The Winterlands,73,92,07/09/1998,83,83,83,176,91,7,15,Beerenberg,1,2,2,4,20,7,14,12,10,4,9,9,Beerenberg,1
+Agustin,Benzies,The Winterlands,56,109,28/08/1998,64,64,64,186,101,1,20,Crast,1,2,5,2,18,17,15,14,2,7,16,15,FC Crast,1
+Lynwood,Bassham,The Winterlands,78,93,12/09/1998,102,102,102,184,95,14,2,Crast,1,2,2,8,15,10,5,5,15,15,18,12,FC Crast,1
+Hector,Pawlett,The Winterlands,37,46,17/06/1998,47,47,47,190,96,6,7,Crast,1,2,7,6,12,20,3,18,11,1,5,6,FC Crast,1
+Ambrose,Bartol,The Winterlands,52,63,22/06/1998,41,41,41,184,106,2,3,Crast,1,2,10,5,5,17,8,16,8,4,5,20,FC Crast,1
+Hal,Gittose,The Winterlands,35,94,13/01/1998,82,82,82,180,96,16,8,Crast,1,2,3,6,13,18,10,10,7,8,8,17,FC Crast,1
+Theron,Jochen,The Winterlands,47,49,05/01/1998,38,38,38,191,102,18,20,Crast,1,2,8,8,2,7,1,11,9,16,13,9,FC Crast,1
+Dong,Chittey,The Winterlands,31,121,05/08/1998,86,86,86,180,97,5,15,Crast,1,2,9,8,13,14,16,18,2,5,14,17,FC Crast,1
+Elmer,Algie,The Winterlands,72,117,02/01/1998,99,99,99,178,99,9,6,Crast,1,2,8,2,10,11,1,19,7,5,16,19,FC Crast,1
+Jefferey,Longrigg,The Winterlands,82,137,23/05/1998,100,100,100,179,98,9,2,Crast,1,2,3,6,8,19,9,5,7,16,2,18,FC Crast,1
+Elvin,Aikman,The Winterlands,61,134,14/02/1998,82,82,82,193,101,10,17,Crast,1,2,6,5,10,1,17,2,17,14,6,9,FC Crast,1
+Gail,Kabisch,The Winterlands,32,53,11/06/1998,35,35,35,183,84,7,16,Crast,1,2,10,3,13,11,15,10,10,8,7,11,FC Crast,1
+Dale,Dorrance,The Winterlands,85,171,12/02/1998,120,120,120,195,84,15,2,Crast,1,2,10,4,13,18,14,6,3,15,17,4,FC Crast,1
+Johnnie,Delmonti,The Winterlands,32,100,28/06/1998,49,49,49,175,111,4,13,Crast,1,2,8,4,13,18,2,3,15,9,6,1,FC Crast,1
+Anibal,Elgy,The Winterlands,51,92,11/05/1998,73,73,73,195,98,12,13,Crast,1,2,7,8,10,4,8,7,7,14,3,19,FC Crast,1
+Julian,Brockway,The Winterlands,45,63,02/04/1998,52,52,52,178,89,5,19,Crast,1,2,3,3,5,10,20,15,1,18,4,3,FC Crast,1
+Renaldo,Novacek,The Winterlands,43,109,16/12/1998,81,81,81,194,105,19,1,Crast,1,2,8,4,12,6,16,14,18,15,15,20,FC Crast,1
+Arnold,Jex,The Winterlands,28,125,19/08/1998,70,70,70,167,88,18,18,Logro,1,2,2,6,10,15,6,11,19,13,20,12,Logro,1
+Nolan,Maskall,The Winterlands,45,101,17/12/1998,72,72,72,184,91,19,5,Logro,1,2,2,5,2,20,8,12,17,9,17,2,Logro,1
+Leandro,Wrigglesworth,The Winterlands,40,53,03/01/1998,41,41,41,182,97,13,1,Logro,1,2,10,6,6,13,11,15,16,16,9,6,Logro,1
+Keith,Castagneto,The Winterlands,38,108,23/02/1998,79,79,79,194,82,13,9,Logro,1,2,3,4,16,4,14,1,12,20,2,15,Logro,1
+Anthony,Telezhkin,The Winterlands,53,136,18/06/1998,94,94,94,189,89,20,15,Logro,1,2,5,2,13,14,4,19,8,6,16,17,Logro,1
+Shon,Suttle,The Winterlands,45,104,19/03/1998,65,65,65,198,99,5,18,Logro,1,2,7,8,3,13,6,16,19,2,17,9,Logro,1
+Kennith,Jankin,The Winterlands,18,89,23/10/1998,40,40,40,185,109,4,19,Logro,1,2,2,5,6,11,18,6,20,17,13,20,Logro,1
+Haywood,Slatter,The Winterlands,16,75,02/09/1998,36,36,36,192,91,6,2,Logro,1,2,6,6,11,9,17,13,20,19,7,5,Logro,1
+Boris,Strathern,The Winterlands,29,40,03/12/1998,17,17,17,177,97,10,15,Logro,1,2,3,4,19,10,4,20,10,7,16,13,Logro,1
+Rosendo,Onion,The Winterlands,19,94,19/11/1998,53,53,53,183,96,14,11,Logro,1,2,9,4,1,8,15,20,6,18,16,6,Logro,1
+Bobby,Milverton,The Winterlands,42,59,15/07/1998,46,46,46,184,85,6,13,Logro,1,2,4,3,18,1,8,2,14,3,3,17,Logro,1
+Emmanuel,Schroder,The Winterlands,9,75,27/08/1998,22,22,22,183,113,13,12,Logro,1,2,3,2,11,9,3,14,6,6,14,7,Logro,1
+Broderick,Brittle,The Winterlands,7,67,13/02/1998,50,50,50,191,84,13,8,Logro,1,2,5,6,15,18,19,18,9,2,7,20,Logro,1
+Derrick,McKleod,The Winterlands,21,51,19/07/1998,42,42,42,181,57,13,2,Logro,1,2,9,2,3,4,11,4,12,15,17,12,Logro,1
+Timmy,De la Perrelle,The Winterlands,49,139,22/08/1998,92,92,92,173,78,2,9,Logro,1,2,2,3,7,8,18,6,18,13,1,16,Logro,1
+Connie,Toffoloni,The Winterlands,57,98,11/01/1998,70,70,70,199,103,11,2,Logro,1,2,4,4,13,1,19,12,3,11,6,10,Logro,1
+Samuel,Beesey,The Winterlands,28,95,02/12/1998,78,78,78,182,117,7,9,Mount Hoth,1,2,9,3,11,5,7,20,10,9,17,15,Mount Hoth,1
+Lawerence,Bone,The Winterlands,20,66,26/05/1998,35,35,35,174,92,11,2,Mount Hoth,1,2,8,6,12,18,15,18,19,5,6,6,Mount Hoth,1
+Fabian,Gane,The Winterlands,33,84,08/02/1998,65,65,65,181,87,11,2,Mount Hoth,1,2,10,2,20,14,3,5,9,11,3,3,Mount Hoth,1
+Devin,Milesap,The Winterlands,46,139,06/07/1998,87,87,87,187,104,7,8,Mount Hoth,1,2,4,6,1,16,11,19,14,15,16,5,Mount Hoth,1
+Alonzo,Hughman,The Winterlands,37,126,05/10/1998,89,89,89,198,105,7,1,Mount Hoth,1,2,4,7,18,2,12,20,16,15,5,19,Mount Hoth,1
+Cole,Pirazzi,The Winterlands,10,82,27/10/1998,65,65,65,170,101,5,5,Mount Hoth,1,2,6,2,1,20,2,17,13,5,3,2,Mount Hoth,1
+Korey,Duferie,The Winterlands,45,57,05/09/1998,56,56,56,185,77,4,5,Mount Hoth,1,2,2,5,16,4,16,3,15,9,14,8,Mount Hoth,1
+Jackie,Wickey,The Winterlands,17,85,19/03/1998,65,65,65,203,97,17,14,Mount Hoth,1,2,9,2,6,1,6,17,10,6,5,17,Mount Hoth,1
+Frederic,Boatwright,The Winterlands,39,76,19/07/1998,56,56,56,194,93,20,10,Mount Hoth,1,2,10,7,13,13,19,19,7,8,11,15,Mount Hoth,1
+Derek,Timmons,The Winterlands,61,138,20/11/1998,94,94,94,187,90,8,7,Mount Hoth,1,2,10,5,14,2,10,18,19,7,13,10,Mount Hoth,1
+Curt,Krishtopaittis,The Winterlands,65,86,03/05/1998,75,75,75,180,95,20,2,Mount Hoth,1,2,7,7,16,17,13,1,12,4,20,7,Mount Hoth,1
+Chung,Keirl,The Winterlands,65,124,21/11/1998,75,75,75,182,79,11,3,Mount Hoth,1,2,2,3,8,15,3,10,19,20,19,19,Mount Hoth,1
+Son,Scotchford,The Winterlands,17,55,22/05/1998,54,54,54,210,96,1,6,Mount Hoth,1,2,7,3,16,12,17,11,5,6,14,5,Mount Hoth,1
+Kip,O'Cullinane,The Winterlands,19,61,18/01/1998,20,20,20,187,106,1,13,Mount Hoth,1,2,8,6,1,20,14,5,3,9,20,19,Mount Hoth,1
+Roland,Allsopp,The Winterlands,38,113,03/02/1998,94,94,94,170,86,9,17,Mount Hoth,1,2,2,8,10,4,4,2,1,14,10,20,Mount Hoth,1
+Albert,Tregear,The Winterlands,11,91,27/02/1998,68,68,68,181,96,9,20,Mount Hoth,1,2,9,5,17,15,5,9,14,9,9,7,Mount Hoth,1
+Alonso,Salatino,The Winterlands,71,154,10/07/1998,115,115,115,192,89,6,19,Nardhvik,1,2,3,5,5,11,3,19,14,19,8,14,Nardhvik,1
+Marlon,Bleby,The Winterlands,68,154,20/09/1998,111,111,111,183,111,10,19,Nardhvik,1,2,8,6,13,4,8,6,16,16,19,12,Nardhvik,1
+Austin,Pegden,The Winterlands,72,171,02/11/1998,138,138,138,177,100,19,6,Nardhvik,1,2,2,3,2,11,9,13,16,9,7,6,Nardhvik,1
+Anderson,Chaulk,The Winterlands,47,71,16/12/1998,68,68,68,186,96,4,8,Nardhvik,1,2,3,6,10,16,7,8,17,18,13,15,Nardhvik,1
+Roberto,Tootin,The Winterlands,69,70,22/09/1998,75,75,75,165,86,15,20,Nardhvik,1,2,6,2,20,20,13,7,18,10,11,13,Nardhvik,1
+Merrill,Cutten,The Winterlands,30,43,06/07/1998,51,51,51,179,96,6,12,Nardhvik,1,2,3,2,14,12,15,2,3,1,8,16,Nardhvik,1
+Tod,Sherburn,The Winterlands,38,124,09/06/1998,92,92,92,194,100,8,20,Nardhvik,1,2,3,4,4,4,14,9,13,15,18,15,Nardhvik,1
+Erwin,Blackley,The Winterlands,42,76,27/10/1998,56,56,56,190,75,8,11,Nardhvik,1,2,6,3,3,9,7,8,13,16,6,16,Nardhvik,1
+Harley,Pellew,The Winterlands,35,85,17/10/1998,53,53,53,183,68,18,12,Nardhvik,1,2,2,4,16,2,15,1,3,19,13,10,Nardhvik,1
+Whitney,Dougher,The Winterlands,62,132,02/11/1998,115,115,115,184,89,17,16,Nardhvik,1,2,8,8,7,7,13,17,11,16,4,8,Nardhvik,1
+Bertram,Fuidge,The Winterlands,77,122,05/03/1998,104,104,104,201,93,6,11,Nardhvik,1,2,3,5,7,1,15,18,4,9,2,3,Nardhvik,1
+Floyd,Rosenfeld,The Winterlands,52,84,10/11/1998,48,48,48,182,87,12,1,Nardhvik,1,2,8,2,7,4,13,15,8,12,11,6,Nardhvik,1
+Emanuel,Leijs,The Winterlands,37,79,13/04/1998,73,73,73,195,72,2,11,Nardhvik,1,2,5,4,10,6,10,18,9,11,17,4,Nardhvik,1
+Leonel,Jellis,The Winterlands,43,111,09/02/1998,87,87,87,189,99,10,7,Nardhvik,1,2,5,3,13,19,20,15,4,3,3,1,Nardhvik,1
+Young,Jerrams,The Winterlands,63,108,16/09/1998,105,105,105,199,102,17,17,Nardhvik,1,2,5,4,7,20,5,19,5,5,11,13,Nardhvik,1
+Weldon,Hallan,The Winterlands,62,64,01/09/1998,46,46,46,198,104,14,13,Nardhvik,1,2,5,8,1,18,3,2,13,18,12,6,Nardhvik,1
+Richie,Weaving,The Winterlands,43,99,23/08/1998,52,52,52,190,87,4,14,Skagastrand,1,2,4,6,2,20,4,20,3,13,9,18,Skagastrand,1
+Elvis,Giacubbo,The Winterlands,39,135,01/01/1998,104,104,104,177,93,17,4,Skagastrand,1,2,5,8,2,13,13,17,1,15,11,14,Skagastrand,1
+Jere,Jindrich,The Winterlands,37,115,23/06/1998,84,84,84,198,87,4,1,Skagastrand,1,2,5,5,9,14,14,6,7,6,19,10,Skagastrand,1
+Jeffrey,McCluney,The Winterlands,35,105,27/03/1998,90,90,90,181,94,17,7,Skagastrand,1,2,10,2,9,1,4,12,14,9,5,18,Skagastrand,1
+Kennith,Pothbury,The Winterlands,27,86,24/07/1998,45,45,45,195,85,10,18,Skagastrand,1,2,7,4,12,1,19,6,20,17,16,15,Skagastrand,1
+Micah,Craigg,The Winterlands,54,147,10/04/1998,117,117,117,193,95,19,9,Skagastrand,1,2,5,5,4,18,2,9,16,6,4,14,Skagastrand,1
+Shane,Skegg,The Winterlands,31,88,25/06/1998,76,76,76,181,75,15,7,Skagastrand,1,2,5,8,8,18,4,6,8,20,7,19,Skagastrand,1
+Sam,Willeman,The Winterlands,74,99,01/04/1998,69,69,69,185,103,20,17,Skagastrand,1,2,9,3,7,1,10,3,5,3,2,6,Skagastrand,1
+Harrison,Laurenz,The Winterlands,26,56,21/12/1998,49,49,49,188,93,1,2,Skagastrand,1,2,5,8,19,1,11,2,4,14,1,11,Skagastrand,1
+Long,Meeking,The Winterlands,74,95,26/01/1998,78,78,78,177,106,18,10,Skagastrand,1,2,8,5,13,8,14,17,14,10,10,1,Skagastrand,1
+Linwood,Nelhams,The Winterlands,62,160,02/08/1998,96,96,96,179,99,15,13,Skagastrand,1,2,4,7,1,7,13,3,20,13,13,19,Skagastrand,1
+Rigoberto,Quartermaine,The Winterlands,64,137,15/08/1998,101,101,101,179,107,19,18,Skagastrand,1,2,10,7,13,15,5,19,8,1,17,15,Skagastrand,1
+Kevin,Joskowicz,The Winterlands,45,92,27/07/1998,58,58,58,188,105,16,9,Skagastrand,1,2,8,4,9,12,9,20,20,13,10,7,Skagastrand,1
+Zane,Lippi,The Winterlands,60,118,24/06/1998,69,69,69,190,106,6,4,Skagastrand,1,2,9,7,3,1,14,2,13,14,19,18,Skagastrand,1
+Rudolph,Popplestone,The Winterlands,31,84,13/01/1998,70,70,70,190,86,17,14,Skagastrand,1,2,5,3,15,6,20,15,10,2,3,12,Skagastrand,1
+Warren,Meneely,The Winterlands,37,109,11/09/1998,82,82,82,175,102,7,20,Skagastrand,1,2,5,2,17,1,7,19,12,2,8,13,Skagastrand,1
+Riley,Sanz,The Winterlands,105,120,05/09/1998,98,98,98,173,95,8,15,Snowfell,1,2,4,4,16,15,6,9,18,15,7,9,Snowfell,1
+Donnell,Mateus,The Winterlands,93,129,08/07/1998,102,102,102,182,105,19,7,Snowfell,1,2,6,3,17,1,16,17,18,3,16,3,Snowfell,1
+Bernard,Fallow,The Winterlands,95,190,05/01/1998,148,148,148,191,99,20,7,Snowfell,1,2,8,7,13,10,18,10,18,9,4,19,Snowfell,1
+Rodney,Simonard,The Winterlands,104,116,17/12/1998,111,111,111,182,112,1,7,Snowfell,1,2,5,8,10,19,12,11,14,8,18,19,Snowfell,1
+Jacob,Fairbrother,The Winterlands,63,117,13/11/1998,102,102,102,184,95,1,16,Snowfell,1,2,8,3,20,11,17,9,14,14,3,18,Snowfell,1
+Yong,Lossman,The Winterlands,77,154,04/01/1998,107,107,107,184,97,4,20,Snowfell,1,2,10,6,18,20,4,15,15,14,3,17,Snowfell,1
+Max,Grishanov,The Winterlands,96,185,25/04/1998,129,129,129,181,90,12,1,Snowfell,1,2,10,4,3,19,1,3,12,1,17,2,Snowfell,1
+Markus,Buxcy,The Winterlands,89,140,07/06/1998,106,106,106,176,83,17,15,Snowfell,1,2,7,4,15,13,14,19,10,15,9,15,Snowfell,1
+Luther,Asken,The Winterlands,79,175,13/05/1998,140,140,140,202,86,9,14,Snowfell,1,2,7,2,11,7,20,8,6,2,8,14,Snowfell,1
+Cleo,Tebbe,The Winterlands,98,145,19/06/1998,127,127,127,179,85,13,1,Snowfell,1,2,10,4,1,11,7,3,10,16,7,2,Snowfell,1
+Jeramy,Stanlick,The Winterlands,102,105,22/04/1998,100,100,100,183,91,7,14,Snowfell,1,2,2,5,10,9,5,8,17,7,8,17,Snowfell,1
+Glen,Lobe,The Winterlands,84,89,19/09/1998,91,91,91,182,101,5,8,Snowfell,1,2,2,3,1,12,19,6,3,11,13,3,Snowfell,1
+Nicky,Greave,The Winterlands,105,177,08/08/1998,155,155,155,177,98,12,12,Snowfell,1,2,2,3,17,3,5,14,8,16,5,13,Snowfell,1
+Marlin,Lesurf,The Winterlands,99,112,19/03/1998,97,97,97,185,94,8,17,Snowfell,1,2,3,6,4,16,5,11,17,18,20,19,Snowfell,1
+Adan,Venn,The Winterlands,48,65,06/05/1998,69,69,69,184,80,16,5,Snowfell,1,2,6,8,19,5,11,3,2,18,20,5,Snowfell,1
+Van,Cod,The Winterlands,68,75,25/03/1998,75,75,75,191,92,9,2,Snowfell,1,2,5,4,17,8,13,7,2,5,1,13,Snowfell,1
+Bud,Redolfi,The Winterlands,45,114,02/09/1998,71,71,71,182,92,20,17,Voyalia,1,2,5,6,10,13,11,12,19,13,2,17,Voyalia,1
+Milan,Chadd,The Winterlands,54,89,01/01/1998,83,83,83,179,95,5,11,Voyalia,1,2,4,8,4,20,9,12,14,20,7,2,Voyalia,1
+Royal,Rucklidge,The Winterlands,38,85,17/06/1998,70,70,70,183,106,9,20,Voyalia,1,2,10,2,13,20,15,6,9,18,13,8,Voyalia,1
+Cedric,Nadin,The Winterlands,58,84,16/07/1998,83,83,83,191,98,3,9,Voyalia,1,2,6,3,3,7,12,5,13,10,4,2,Voyalia,1
+Israel,O'Ruane,The Winterlands,63,107,24/05/1998,67,67,67,178,103,14,10,Voyalia,1,2,5,6,16,9,12,8,3,11,5,4,Voyalia,1
+Trent,Donisi,The Winterlands,50,83,10/09/1998,63,63,63,194,85,6,3,Voyalia,1,2,2,3,19,17,6,14,8,17,17,12,Voyalia,1
+Bryan,Upex,The Winterlands,38,77,06/01/1998,39,39,39,187,89,7,4,Voyalia,1,2,9,3,7,3,9,4,14,2,17,2,Voyalia,1
+Sebastian,Coules,The Winterlands,82,127,11/01/1998,92,92,92,182,89,8,1,Voyalia,1,2,10,7,11,13,19,2,7,15,18,1,Voyalia,1
+Rene,Rexworthy,The Winterlands,48,134,28/02/1998,80,80,80,181,92,9,12,Voyalia,1,2,9,8,20,3,7,14,19,1,15,3,Voyalia,1
+Quintin,Topper,The Winterlands,83,100,09/02/1998,79,79,79,191,95,17,16,Voyalia,1,2,7,8,13,17,15,7,7,12,3,6,Voyalia,1
+Elijah,Jenton,The Winterlands,38,96,04/03/1998,50,50,50,177,104,4,17,Voyalia,1,2,6,8,12,12,9,9,11,7,17,1,Voyalia,1
+Abram,Peplow,The Winterlands,79,85,09/09/1998,95,95,95,175,76,2,12,Voyalia,1,2,9,5,9,11,16,2,17,12,14,16,Voyalia,1
+Darron,Purdon,The Winterlands,42,63,22/10/1998,65,65,65,194,98,5,13,Voyalia,1,2,6,5,18,10,17,7,16,7,17,13,Voyalia,1
+Theodore,Claremont,The Winterlands,47,134,02/04/1998,92,92,92,192,95,5,16,Voyalia,1,2,3,6,16,2,9,14,2,13,17,8,Voyalia,1
+Fritz,Boeck,The Winterlands,53,128,02/01/1998,89,89,89,193,87,15,9,Voyalia,1,2,5,4,10,3,11,9,18,12,7,14,Voyalia,1
+Marion,Bartolommeo,The Winterlands,33,104,12/08/1998,65,65,65,195,83,20,3,Voyalia,1,2,9,3,11,20,16,15,12,18,18,20,Voyalia,1
+Adrian,Truelock,The Winterlands,59,112,25/07/1998,70,70,70,186,94,10,7,Welor,1,2,9,4,20,15,9,6,8,16,19,6,Welor,1
+Rod,Arundell,The Winterlands,62,85,02/08/1998,90,90,90,180,83,12,11,Welor,1,2,4,2,16,15,6,1,17,2,13,1,Welor,1
+Ellsworth,Maddigan,The Winterlands,66,118,20/09/1998,98,98,98,186,86,11,15,Welor,1,2,10,2,3,3,8,4,3,5,14,4,Welor,1
+Francesco,Francecione,The Winterlands,35,69,05/10/1998,64,64,64,200,96,2,2,Welor,1,2,7,7,15,11,16,14,6,16,8,8,Welor,1
+Alvin,Breagan,The Winterlands,92,156,12/10/1998,125,125,125,186,91,11,8,Welor,1,2,9,5,5,17,2,1,20,16,16,1,Welor,1
+Myron,Scrowton,The Winterlands,71,113,28/01/1998,88,88,88,179,92,1,2,Welor,1,2,8,5,5,1,14,12,3,7,13,12,Welor,1
+Hilton,Lowbridge,The Winterlands,72,122,01/09/1998,106,106,106,176,90,19,19,Welor,1,2,7,8,4,2,13,18,7,7,11,10,Welor,1
+Murray,Tuckwell,The Winterlands,42,85,07/08/1998,62,62,62,183,98,5,15,Welor,1,2,2,6,7,1,11,13,9,19,5,19,Welor,1
+Burl,Barhem,The Winterlands,57,94,02/05/1998,82,82,82,192,104,6,16,Welor,1,2,9,4,1,19,15,3,17,11,20,12,Welor,1
+Davis,Critzen,The Winterlands,86,143,27/10/1998,115,115,115,175,89,2,17,Welor,1,2,8,4,13,12,3,14,5,2,18,11,Welor,1
+Saul,Hulks,The Winterlands,72,110,26/08/1998,91,91,91,182,95,1,7,Welor,1,2,4,6,2,11,4,16,14,11,4,1,Welor,1
+Kieth,Hake,The Winterlands,47,76,15/10/1998,43,43,43,191,104,11,19,Welor,1,2,9,6,20,3,16,17,15,3,4,13,Welor,1
+Anthony,Kierans,The Winterlands,43,139,16/07/1998,85,85,85,190,101,3,9,Welor,1,2,4,7,11,3,5,20,11,8,16,19,Welor,1
+Dino,Eberdt,The Winterlands,43,136,11/04/1998,95,95,95,189,103,5,14,Welor,1,2,5,2,4,14,10,20,3,15,14,3,Welor,1
+Danilo,Ipsgrave,The Winterlands,81,111,11/02/1998,96,96,96,193,85,18,7,Welor,1,2,3,7,15,9,5,12,17,4,12,17,Welor,1
+Bobbie,Ivashintsov,The Winterlands,85,169,12/04/1998,120,120,120,199,85,14,20,Welor,1,2,3,6,19,18,2,6,6,7,17,3,Welor,1
+Aaron,Pearde,The Winterlands,70,161,10/12/1998,119,119,119,193,101,6,6,Yucor,1,2,7,8,5,20,14,4,16,7,6,17,Yucor FC,1
+Clay,Elks,The Winterlands,89,156,06/04/1998,119,119,119,190,84,4,16,Yucor,1,2,5,2,5,4,20,5,11,10,19,12,Yucor FC,1
+Mikel,Sowray,The Winterlands,58,144,05/06/1998,105,105,105,182,99,3,7,Yucor,1,2,6,5,11,18,7,12,3,7,12,11,Yucor FC,1
+Hunter,Gatiss,The Winterlands,62,135,07/06/1998,86,86,86,183,97,19,17,Yucor,1,2,3,7,15,13,4,3,20,11,5,1,Yucor FC,1
+Wilbert,Stoke,The Winterlands,51,77,06/05/1998,72,72,72,183,91,13,3,Yucor,1,2,10,4,16,17,9,7,6,8,17,11,Yucor FC,1
+Connie,Smithyman,The Winterlands,37,45,27/11/1998,25,25,25,182,89,20,13,Yucor,1,2,7,7,4,4,6,19,3,11,6,5,Yucor FC,1
+Jeremy,Kabos,The Winterlands,66,108,13/04/1998,89,89,89,168,92,15,1,Yucor,1,2,6,4,6,16,12,7,20,19,18,3,Yucor FC,1
+Scotty,Pykerman,The Winterlands,71,136,14/09/1998,95,95,95,187,67,10,8,Yucor,1,2,3,5,20,11,1,12,6,11,11,17,Yucor FC,1
+Dustin,D'Avaux,The Winterlands,55,107,19/03/1998,65,65,65,180,107,9,10,Yucor,1,2,6,8,13,5,19,14,7,14,13,13,Yucor FC,1
+Caleb,De Cristoforo,The Winterlands,65,154,21/12/1998,116,116,116,196,82,9,16,Yucor,1,2,8,2,14,20,9,4,19,19,2,10,Yucor FC,1
+Quincy,Gerbl,The Winterlands,42,51,19/03/1998,46,46,46,184,93,8,16,Yucor,1,2,5,3,6,20,12,6,7,5,9,19,Yucor FC,1
+Emil,Torrance,The Winterlands,78,172,18/04/1998,131,131,131,179,92,9,7,Yucor,1,2,9,5,14,11,8,16,19,17,12,17,Yucor FC,1
+Eusebio,Mufford,The Winterlands,87,102,12/02/1998,81,81,81,174,98,10,16,Yucor,1,2,5,8,14,18,9,18,13,9,19,18,Yucor FC,1
+Erik,Littledyke,The Winterlands,64,130,04/02/1998,106,106,106,185,89,11,20,Yucor,1,2,7,4,18,3,14,17,8,15,5,15,Yucor FC,1
+Cecil,Colbert,The Winterlands,39,47,22/10/1998,53,53,53,173,109,9,2,Yucor,1,2,9,7,10,17,17,19,14,5,6,20,Yucor FC,1
+Rudy,Demange,The Winterlands,40,101,02/12/1998,85,85,85,175,98,16,15,Yucor,1,2,8,5,18,20,3,11,16,13,18,12,Yucor FC,1
+Hunter,Barwack,The Winterlands,35,36,09/07/1992,49,49,49,181,89,6,19,Greywind,1,2,5,3,16,10,7,6,4,17,10,17,FC Greywind,1
+Edmund,Philippsohn,The Winterlands,83,111,04/10/1987,94,94,94,197,96,7,14,Greywind,1,2,2,7,8,9,15,12,16,5,5,15,FC Greywind,1
+Reynaldo,Manclark,The Winterlands,77,118,17/08/1983,109,109,109,178,95,7,4,Greywind,1,2,6,8,9,13,3,14,9,9,5,7,FC Greywind,1
+Danny,Carnduff,The Winterlands,90,102,28/07/1988,78,78,78,191,89,3,15,Greywind,1,2,9,2,6,13,13,8,5,3,5,13,FC Greywind,1
+Columbus,Sannes,The Winterlands,63,75,20/02/1983,70,70,70,176,81,19,1,Greywind,1,2,3,5,5,6,18,16,14,19,4,6,FC Greywind,1
+Taylor,Cool,The Winterlands,50,51,20/08/1984,43,43,43,179,98,17,15,Greywind,1,2,6,6,12,19,13,2,4,13,2,1,FC Greywind,1
+Wade,Sandifer,The Winterlands,83,159,10/09/1998,136,136,136,186,96,12,17,Greywind,1,2,6,5,11,19,6,12,19,13,12,6,FC Greywind,1
+Danial,Beckson,The Winterlands,51,138,28/10/1998,88,88,88,194,109,6,11,Greywind,1,2,4,3,13,14,12,5,3,20,1,16,FC Greywind,1
+Justin,Aberkirder,The Winterlands,67,139,18/09/1998,86,86,86,190,82,9,6,Greywind,1,2,4,3,11,20,6,10,11,13,2,5,FC Greywind,1
+Jude,Whitticks,The Winterlands,65,69,17/08/1998,82,82,82,178,85,17,12,Greywind,1,2,2,8,1,20,14,17,10,14,10,3,FC Greywind,1
+Orlando,McVitie,The Winterlands,61,123,11/06/1998,82,82,82,193,100,1,1,Greywind,1,2,10,5,10,20,2,8,19,12,7,2,FC Greywind,1
+Millard,Hairesnape,The Winterlands,89,144,22/05/1998,108,108,108,189,82,12,19,Greywind,1,2,7,7,11,7,10,1,15,19,10,12,FC Greywind,1
+Jerold,Aldren,The Winterlands,84,152,12/04/1998,122,122,122,190,105,7,15,Greywind,1,2,3,6,2,10,1,19,9,14,12,4,FC Greywind,1
+Clair,Kerridge,The Winterlands,39,139,08/05/1998,77,77,77,179,98,13,13,Greywind,1,2,10,7,20,4,8,7,12,13,19,1,FC Greywind,1
+Palmer,Manktelow,The Winterlands,67,97,02/07/1983,97,97,97,176,96,17,14,Greywind,1,2,8,5,15,20,2,6,20,19,12,5,FC Greywind,1
+Jarod,Pallasch,The Winterlands,75,76,02/03/1991,94,94,94,179,95,6,7,Greywind,1,2,9,8,19,19,1,4,8,16,13,12,FC Greywind,1
+Gaston,Kiellor,The Winterlands,60,62,16/07/1987,55,55,55,187,119,10,12,Greywind,1,2,2,7,2,20,4,17,3,20,6,16,FC Greywind,1
+Mikel,Nuttey,The Winterlands,58,61,09/01/1979,57,57,57,185,95,6,5,Greywind,1,2,3,4,12,11,6,17,1,18,6,6,FC Greywind,1
+Alec,Puvia,The Winterlands,89,89,19/08/1981,100,100,100,190,100,17,13,Greywind,1,2,5,8,10,3,8,14,3,16,3,6,FC Greywind,1
+Rex,Banville,The Winterlands,88,88,27/03/1988,97,97,97,195,98,19,4,Greywind,1,2,9,8,17,19,18,6,9,8,20,12,FC Greywind,1
+Darrel,Edrich,The Winterlands,84,111,20/01/1990,106,106,106,186,97,7,15,Greywind,1,2,6,6,2,17,5,1,17,15,7,6,FC Greywind,1
+Clemente,Rableau,The Winterlands,54,112,09/12/1982,94,94,94,193,76,20,20,Greywind,1,2,6,5,15,13,9,8,20,13,15,4,FC Greywind,1
+Alex,Cleverly,The Winterlands,39,117,18/04/1998,60,60,60,186,94,18,2,Greywind,1,2,2,5,2,5,9,3,1,2,15,11,FC Greywind,1
+Jessie,Roan,The Winterlands,66,158,27/12/1998,100,100,100,183,115,15,6,Greywind,1,2,2,8,18,3,12,10,19,19,4,14,FC Greywind,1
+Salvador,Smeeton,The Winterlands,41,109,17/11/1998,79,79,79,188,91,8,18,Greywind,1,2,8,4,2,3,13,1,18,3,7,17,FC Greywind,1
+Jackie,Awdry,The Winterlands,34,124,22/03/1998,85,85,85,200,78,20,15,Greywind,1,2,9,5,14,17,10,20,6,16,17,17,FC Greywind,1
+Alfonso,Alyukin,The Winterlands,35,119,14/07/1998,67,67,67,183,99,13,20,Greywind,1,2,3,2,15,13,18,1,2,3,14,5,FC Greywind,1
+Eliseo,Gertz,The Winterlands,45,56,22/09/1998,31,31,31,172,95,2,8,Greywind,1,2,9,6,17,8,19,12,3,17,6,15,FC Greywind,1
+Wm,Fairhead,The Winterlands,82,156,23/08/1998,134,134,134,194,101,15,10,Greywind,1,2,6,8,10,10,10,1,2,15,5,20,FC Greywind,1
+Reginald,Matthewson,The Winterlands,43,100,19/01/1998,64,64,64,188,79,12,16,Greywind,1,2,2,4,2,16,11,15,2,15,17,1,FC Greywind,1
+Elijah,McGrirl,The Winterlands,3,57,09/10/1989,31,31,31,178,88,9,1,,1,2,8,6,11,20,3,17,16,1,13,16,,1
+Herman,Scorey,The Winterlands,36,115,19/03/1998,69,69,69,177,91,2,14,,1,2,10,3,16,18,4,13,2,14,20,4,,1
+Kermit,Boath,The Winterlands,35,45,15/10/1994,43,43,43,185,96,12,11,,1,2,5,2,7,19,4,20,17,6,4,2,,1
+Harris,Canto,The Winterlands,46,60,14/12/1991,33,33,33,189,97,11,7,,1,2,10,6,20,20,14,9,9,9,7,13,,1
+Romeo,Traice,The Winterlands,50,112,18/05/1992,82,82,82,197,98,13,13,,1,2,4,2,19,5,12,6,16,1,6,7,,1
+Kenny,Matitiaho,The Winterlands,56,133,14/03/1994,102,102,102,182,107,4,7,,1,2,9,5,14,9,16,2,9,19,9,3,,1
+Branden,Jotham,The Winterlands,53,59,12/12/1994,76,76,76,179,98,6,15,,1,2,8,5,15,2,20,8,14,17,3,11,,1
+Rubin,Metzel,The Winterlands,26,62,06/12/1993,63,63,63,195,97,20,8,,1,2,5,8,1,10,12,2,6,1,14,14,,1
+Clifton,Emer,The Winterlands,30,42,28/09/1990,35,35,35,184,104,2,14,,1,2,9,8,12,8,3,7,19,16,10,19,,1
+Chas,Applegarth,The Winterlands,16,84,05/07/1997,38,38,38,187,109,4,10,,1,2,7,4,6,3,7,8,6,9,7,5,,1
+Anderson,Patinkin,The Winterlands,38,66,28/08/1996,58,58,58,176,87,12,10,,1,2,9,3,5,19,17,12,3,20,6,18,,1
+Stanton,Wetheril,The Winterlands,50,92,14/05/1993,63,63,63,197,53,16,14,,1,2,2,5,8,3,9,20,14,12,14,2,,1
+Willie,Guildford,The Winterlands,1,94,04/11/1997,59,59,59,186,78,8,3,,1,2,6,8,14,1,13,18,4,16,10,15,,1
+Adam,Dalmon,The Winterlands,52,121,02/06/1993,98,98,98,175,96,9,12,,1,2,7,8,18,18,4,18,17,17,18,13,,1
+Terry,Housden,The Winterlands,12,18,05/01/1989,1,1,1,175,97,11,20,,1,2,8,2,11,13,11,18,19,11,3,1,,1
+Dominick,Sleightholm,The Winterlands,26,76,09/06/1997,37,37,37,177,105,1,20,,1,2,3,2,6,8,7,10,8,10,2,19,,1
+Roderick,Baumaier,The Winterlands,17,45,24/12/1998,47,47,47,180,103,19,2,,1,2,3,6,19,12,2,5,16,13,1,16,,1
+Darell,De Mattei,The Winterlands,56,70,06/12/1991,56,56,56,182,96,18,14,,1,2,10,3,13,14,16,16,20,1,20,6,,1
+Jerrold,McClements,The Winterlands,16,54,02/10/1989,15,15,15,185,67,18,18,,1,2,4,5,10,4,4,2,18,16,13,5,,1
+Aldo,D'Ambrogi,The Winterlands,15,46,01/05/1997,38,38,38,182,91,6,15,,1,2,4,2,9,20,4,20,14,10,7,20,,1
+Leonardo,Gateland,The Winterlands,11,90,27/07/1990,60,60,60,180,106,5,20,,1,2,5,4,20,3,5,18,19,11,1,20,,1
+Abraham,Tomczak,The Winterlands,1,38,04/09/1997,13,13,13,193,87,4,7,,1,2,8,6,15,11,10,8,20,12,11,20,,1
+Donovan,Manville,The Winterlands,23,31,03/03/1989,19,19,19,179,77,10,16,,1,2,9,8,1,17,18,14,17,17,6,13,,1
+Cary,Hazleton,The Winterlands,59,81,24/11/1996,64,64,64,181,90,11,20,,1,2,3,6,10,3,16,13,16,14,11,19,,1
+Jasper,Alessandrucci,The Winterlands,60,67,19/12/1998,48,48,48,196,105,7,17,,1,2,7,6,16,6,19,7,11,6,11,15,,1
+Chang,Pavie,The Winterlands,23,65,09/05/1990,39,39,39,195,90,5,9,,1,2,3,6,16,11,19,10,4,7,12,7,,1
+Ariel,Tomblings,The Winterlands,4,49,11/05/1991,42,42,42,177,87,6,3,,1,2,2,7,4,2,11,6,16,10,13,2,,1
+Samual,Crisp,The Winterlands,10,77,23/10/1990,52,52,52,183,107,17,14,,1,2,9,4,13,2,13,4,8,3,20,17,,1
+Garry,Roomes,The Winterlands,19,75,03/10/1997,50,50,50,187,91,17,20,,1,2,4,5,6,17,2,19,3,15,7,14,,1
+Darnell,Huffa,The Winterlands,31,66,27/10/1989,47,47,47,188,106,14,12,,1,2,7,2,15,19,8,12,8,7,18,3,,1
+Roman,Tuison,The Winterlands,50,56,18/07/1989,41,41,41,185,103,10,16,,1,2,8,5,10,17,6,11,10,17,16,13,,1
+Colby,Downing,The Winterlands,54,131,06/11/1998,89,89,89,181,96,4,6,,1,2,7,8,16,16,17,12,11,18,14,2,,1
+Wilfredo,Lancastle,The Winterlands,20,33,06/11/1991,40,40,40,175,95,15,1,,1,2,4,2,9,7,16,8,12,3,17,2,,1
+Merle,Veel,The Winterlands,48,139,11/03/1989,107,107,107,174,105,16,12,,1,2,10,3,1,2,5,13,19,5,4,5,,1
+Tyree,Frenzl,The Winterlands,57,117,27/06/1998,98,98,98,180,80,5,20,,1,2,2,6,6,18,6,7,17,6,15,18,,1
+Reggie,Rayner,The Winterlands,39,54,01/09/1992,57,57,57,188,87,10,16,,1,2,2,5,19,17,14,5,9,6,18,17,,1
+Werner,Lared,The Winterlands,57,121,24/10/1991,85,85,85,185,89,3,3,,1,2,2,4,18,9,10,8,8,3,19,15,,1
+Chang,Erickssen,The Winterlands,39,85,13/05/1998,82,82,82,180,85,18,9,,1,2,4,2,9,20,14,13,19,3,14,17,,1
+Alfred,Rodway,The Winterlands,44,84,15/07/1993,76,76,76,179,89,4,8,,1,2,2,6,4,9,3,4,19,10,12,2,,1
+Jorge,Deal,The Winterlands,19,25,22/09/1993,9,9,9,188,98,8,11,,1,2,5,5,3,17,19,19,9,5,16,16,,1
+Marvin,Breakey,The Winterlands,44,109,08/11/1995,92,92,92,186,88,3,4,,1,2,2,6,14,20,5,8,15,7,1,10,,1
+Wade,Predohl,The Winterlands,2,72,09/04/1996,50,50,50,179,90,16,2,,1,2,6,6,11,9,17,11,10,8,17,17,,1
+Erwin,Philler,The Winterlands,7,51,27/11/1992,45,45,45,177,76,10,8,,1,2,6,8,4,9,5,9,2,3,15,10,,1
+Erin,Ellesworthe,The Winterlands,35,60,17/03/1991,43,43,43,186,87,5,18,,1,2,3,2,6,9,7,13,6,18,11,10,,1
+Josh,Leer,The Winterlands,5,30,20/08/1993,7,7,7,178,93,10,10,,1,2,8,3,10,8,6,18,6,13,1,16,,1
+Chas,Mudge,The Winterlands,28,32,22/09/1991,46,46,46,180,83,6,9,,1,2,10,3,1,20,9,12,11,13,3,17,,1
+King,Bourdas,The Winterlands,47,104,15/08/1997,62,62,62,185,84,6,19,,1,2,4,4,17,17,2,2,13,20,14,17,,1
+Ramiro,Crathorne,The Winterlands,8,10,23/12/1995,24,24,24,176,99,6,1,,1,2,6,2,10,12,11,14,18,5,1,7,,1
+Humberto,Itzakson,The Winterlands,31,83,07/04/1991,44,44,44,185,90,17,4,,1,2,9,8,16,2,17,4,8,9,13,2,,1
+Ivory,Burton,The Winterlands,37,37,03/06/1991,30,30,30,192,107,11,19,,1,2,4,4,9,1,10,11,17,18,8,4,,1
+Carol,Wringe,The Winterlands,5,53,21/01/1997,38,38,38,188,104,18,3,,1,2,2,7,15,13,9,5,2,19,4,15,,1
+Spencer,Monkhouse,The Winterlands,7,20,03/04/1998,13,13,13,170,91,11,18,,1,2,2,3,4,15,8,8,4,9,16,7,,1
+Rickey,Kirsche,The Winterlands,13,33,20/12/1997,18,18,18,172,108,8,5,,1,2,5,3,6,13,5,20,4,20,2,8,,1
+Lucius,Reymers,The Winterlands,9,45,03/07/1990,31,31,31,186,87,13,6,,1,2,4,2,20,13,10,2,17,5,18,5,,1
+Donnie,Truter,The Winterlands,36,69,14/04/1992,58,58,58,175,88,4,4,,1,2,9,6,8,19,18,4,10,6,16,4,,1
+Ferdinand,Gilburt,The Winterlands,24,76,04/09/1997,49,49,49,175,94,7,6,,1,2,5,6,17,4,12,7,9,1,11,7,,1
+Rayford,Peyto,The Winterlands,6,33,13/11/1993,18,18,18,185,83,4,5,,1,2,7,8,1,20,17,11,15,5,17,1,,1
+Billy,Passion,The Winterlands,13,34,13/12/1991,18,18,18,197,94,8,13,,1,2,2,6,6,20,9,7,11,17,7,4,,1
+Rashad,Lindroos,The Winterlands,58,73,09/01/1991,67,67,67,174,91,7,15,,1,2,7,4,20,14,19,20,20,8,20,16,,1
+Chad,Hebborne,The Winterlands,20,92,03/07/1996,53,53,53,194,90,19,3,,1,2,2,8,19,7,2,5,1,19,8,4,,1
+Luther,Coughan,The Winterlands,23,44,08/04/1998,19,19,19,185,90,6,12,,1,2,9,2,19,18,20,20,18,4,3,19,,1
+Alan,Walak,The Winterlands,18,32,01/05/1992,18,18,18,187,94,4,18,,1,2,3,5,6,8,16,12,5,1,18,12,,1
+Lavern,Crosher,The Winterlands,5,62,10/05/1997,25,25,25,186,91,14,20,,1,2,2,4,11,19,3,7,7,14,4,15,,1
+Les,McKilroe,The Winterlands,39,89,10/08/1998,58,58,58,183,86,20,4,,1,2,7,7,1,9,14,4,14,4,1,20,,1
+Stanford,Scotsbrook,The Winterlands,25,100,28/08/1996,60,60,60,178,97,6,4,,1,2,9,2,17,17,3,10,11,16,7,10,,1
+Lloyd,Burgoin,The Winterlands,59,90,26/04/1993,79,79,79,195,96,18,16,,1,2,3,7,17,18,9,18,14,3,13,3,,1
+Dewayne,Roust,The Winterlands,17,75,03/10/1996,34,34,34,179,111,11,17,,1,2,5,2,9,2,2,15,8,7,5,11,,1
+Stan,Bunny,The Winterlands,40,110,20/07/1992,72,72,72,210,99,2,16,,1,2,6,5,1,9,12,7,1,20,2,20,,1
+Mikel,Balchin,The Winterlands,22,91,17/10/1996,74,74,74,186,93,16,4,,1,2,5,4,10,16,13,19,11,11,16,3,,1
+Elias,Tibalt,The Winterlands,18,69,26/06/1992,52,52,52,195,96,5,2,,1,2,3,3,2,20,10,17,6,19,17,20,,1
+Earl,Digges,The Winterlands,3,58,23/11/1994,21,21,21,173,104,1,15,,1,2,8,7,13,7,8,4,18,13,14,13,,1
+Tony,Delaney,The Winterlands,2,56,05/10/1997,44,44,44,182,82,14,17,,1,2,6,7,17,8,9,5,17,7,18,9,,1
+Wm,Gemlbett,The Winterlands,13,55,08/08/1992,48,48,48,183,113,19,5,,1,2,9,6,11,17,7,9,8,8,13,17,,1
+Bert,Redhead,The Winterlands,12,56,08/06/1997,48,48,48,196,96,2,19,,1,2,3,4,8,5,9,5,11,2,10,11,,1
+Winford,Tick,The Winterlands,27,32,20/01/1995,20,20,20,176,100,16,2,,1,2,10,4,6,8,13,13,6,12,17,15,,1
+Brad,Stiffell,The Winterlands,40,115,22/08/1995,64,64,64,169,95,20,8,,1,2,9,7,11,11,10,4,1,12,2,6,,1
+Josue,Strongitharm,The Winterlands,38,87,27/08/1992,62,62,62,179,79,15,20,,1,2,5,2,17,8,6,10,9,16,18,2,,1
+Lyndon,Flye,The Winterlands,15,105,10/05/1995,61,61,61,183,73,16,11,,1,2,5,2,20,2,1,6,10,15,6,4,,1
+Hong,Blesli,The Winterlands,37,61,13/04/1997,50,50,50,175,86,12,16,,1,2,10,5,4,16,6,15,9,5,13,6,,1
+Jacinto,Baldwin,The Winterlands,3,67,08/11/1995,50,50,50,184,90,17,12,,1,2,8,5,9,2,19,6,11,8,2,18,,1
+Theo,MacIlhagga,The Winterlands,20,113,12/05/1993,83,83,83,187,104,6,6,,1,2,2,7,6,20,15,14,16,16,8,13,,1
+Luis,Krammer,The Winterlands,23,24,04/02/1993,5,5,5,198,102,1,7,,1,2,9,3,9,2,20,19,12,12,11,10,,1
+Oliver,Tatam,The Winterlands,11,47,01/03/1997,32,32,32,189,116,2,7,,1,2,3,2,8,20,1,8,9,3,14,11,,1
+Howard,Linzee,The Winterlands,38,91,10/12/1994,51,51,51,180,83,19,19,,1,2,6,6,3,12,2,3,17,9,20,6,,1
+Numbers,Arzu,The Winterlands,32,62,06/12/1998,28,28,28,171,97,16,5,,1,2,3,3,14,16,7,19,6,5,6,2,,1
+Hung,Pinkard,The Winterlands,9,35,11/12/1993,23,23,23,203,99,15,13,,1,2,6,2,13,19,13,7,18,8,10,12,,1
+Kareem,Rowntree,The Winterlands,12,21,24/03/1994,10,10,10,190,100,6,11,,1,2,7,4,14,5,4,17,12,10,16,14,,1
+Elbert,Millam,The Winterlands,18,89,27/02/1996,55,55,55,172,98,11,17,,1,2,5,5,15,18,20,19,18,14,3,20,,1
+Robert,Goodhay,The Winterlands,5,31,08/09/1998,37,37,37,177,103,3,10,,1,2,8,2,1,11,18,5,18,13,12,11,,1
+Matthew,De Beneditti,The Winterlands,41,114,03/02/1994,76,76,76,177,111,13,11,,1,2,8,3,4,6,19,2,14,1,3,1,,1
+Norbert,Drain,The Winterlands,35,87,16/04/1989,57,57,57,196,104,5,1,,1,2,8,2,20,19,4,13,13,15,19,6,,1
+Trey,Salvadore,The Winterlands,60,120,16/09/1990,101,101,101,170,90,13,20,,1,2,9,7,9,20,5,4,10,17,19,6,,1
+Ulysses,Zorro,The Winterlands,51,97,15/07/1997,63,63,63,178,81,3,19,,1,2,4,7,17,13,7,8,12,3,9,8,,1
+Keneth,Hoggins,The Winterlands,35,108,09/05/1991,63,63,63,191,90,14,7,,1,2,5,3,8,4,10,8,12,16,16,5,,1
+Brendon,Hawler,The Winterlands,9,31,20/05/1994,22,22,22,193,106,15,2,,1,2,2,2,7,10,16,17,5,3,9,18,,1
+Larry,McFater,The Winterlands,17,27,13/11/1994,19,19,19,180,86,16,7,,1,2,10,7,17,12,3,10,7,7,3,19,,1
+Willian,Greatbank,The Winterlands,38,96,05/09/1992,72,72,72,183,85,16,12,,1,2,6,6,17,6,15,11,8,20,5,13,,1
+Rodrigo,MacCollom,The Winterlands,54,133,28/07/1997,95,95,95,182,101,1,4,,1,2,4,3,11,10,1,20,11,14,12,11,,1
+Heath,Spellar,The Winterlands,33,67,13/01/1998,63,63,63,177,78,11,1,,1,2,6,5,6,2,18,8,13,2,8,4,,1
+Fred,Agirre,The Winterlands,37,72,23/07/1995,62,62,62,184,108,13,11,,1,2,5,3,8,5,7,3,3,1,14,16,,1
+Jeramy,Potier,The Winterlands,2,67,02/11/1990,52,52,52,165,91,15,11,,1,2,8,5,18,5,11,7,5,10,11,5,,1
+Sammy,Pinnocke,The Winterlands,31,35,23/05/1997,39,39,39,185,102,17,15,,1,2,2,4,14,19,18,15,18,6,7,12,,1
+Rickie,McClary,The Winterlands,39,71,25/11/1992,64,64,64,186,91,6,10,,1,2,8,4,14,20,3,13,5,10,12,1,,1
+Augustine,Umbert,The Winterlands,4,65,16/01/1994,50,50,50,183,91,8,8,,1,2,7,5,10,14,1,2,20,15,6,2,,1
+Zachariah,Drexel,The Winterlands,43,93,17/12/1990,50,50,50,187,92,15,17,,1,2,5,2,6,18,10,8,17,3,7,5,,1
+Wilber,Stanners,The Winterlands,28,73,25/05/1995,34,34,34,181,91,16,14,,1,2,5,2,8,15,6,11,7,13,14,1,,1
+Horace,Yoell,The Winterlands,60,68,16/12/1994,56,56,56,192,111,12,16,,1,2,3,5,14,7,13,19,2,19,5,18,,1
+Cletus,Hendrich,The Winterlands,26,74,26/03/1996,33,33,33,185,94,1,6,,1,2,5,7,19,6,20,13,11,18,15,6,,1
+Brice,St. Queintain,The Winterlands,29,64,21/02/1992,32,32,32,177,99,1,6,,1,2,2,8,17,3,5,2,6,7,17,5,,1
+Florentino,Lampel,The Winterlands,45,110,25/03/1997,79,79,79,199,97,12,15,,1,2,9,6,12,3,12,12,11,2,4,5,,1
+Dudley,Edgson,The Winterlands,40,101,28/08/1994,82,82,82,181,103,11,11,,1,2,8,8,6,9,11,19,1,15,20,16,,1
+Bryant,Rozea,The Winterlands,47,70,05/12/1991,49,49,49,185,99,13,2,,1,2,9,3,13,9,6,7,16,3,13,11,,1
+Fidel,Ladell,The Winterlands,35,39,14/01/1993,17,17,17,193,101,10,8,,1,2,6,4,8,12,19,18,16,8,6,6,,1
+Lowell,Yurasov,The Winterlands,47,67,15/04/1989,68,68,68,182,100,13,7,,1,2,8,7,4,14,17,18,10,13,4,11,,1
+Jarrod,Nixon,The Winterlands,14,24,13/11/1997,31,31,31,179,91,4,11,,1,2,3,4,2,14,12,5,17,7,12,6,,1
+Dominique,Ollier,The Winterlands,43,66,17/12/1997,63,63,63,179,78,17,5,,1,2,2,6,13,20,13,18,1,18,11,18,,1
+Kenny,Manning,The Winterlands,35,41,04/12/1993,33,33,33,177,118,5,4,,1,2,9,5,15,14,13,20,10,3,4,12,,1
+Wallace,Redan,The Winterlands,46,78,27/10/1993,71,71,71,184,82,5,11,,1,2,5,3,13,12,15,9,5,16,14,15,,1
+Carlos,Schiell,The Winterlands,28,58,10/08/1994,55,55,55,175,98,14,12,,1,2,8,2,18,9,2,12,11,20,16,7,,1
+Teddy,Buddleigh,The Winterlands,58,79,15/11/1992,52,52,52,178,93,7,10,,1,2,3,5,8,15,8,13,17,8,8,13,,1
+Zachariah,Terrey,The Winterlands,18,68,16/12/1993,35,35,35,198,53,3,9,,1,2,4,4,19,8,15,20,12,5,7,15,,1
+Darron,Berr,The Winterlands,21,38,21/04/1992,20,20,20,202,101,18,16,,1,2,9,5,20,7,18,10,5,2,16,11,,1
+Felix,Crampton,The Winterlands,9,17,13/07/1989,31,31,31,181,98,5,18,,1,2,9,5,17,19,5,11,15,5,20,16,,1
+Terry,Ronca,The Winterlands,25,32,16/07/1991,32,32,32,198,90,3,5,,1,2,4,6,2,4,17,9,3,4,17,8,,1
+Norbert,Sang,The Winterlands,50,124,18/07/1990,80,80,80,210,87,14,5,,1,2,7,2,14,18,20,4,16,7,6,9,,1
+Hung,Meiklam,The Winterlands,30,111,16/01/1992,85,85,85,210,93,4,20,,1,2,10,2,4,17,11,19,12,19,5,18,,1
+Hal,Fraczek,The Winterlands,25,58,27/11/1989,22,22,22,201,95,17,3,,1,2,10,4,15,3,8,12,9,3,5,11,,1
+Tyson,Dalmon,The Winterlands,53,84,15/09/1997,61,61,61,172,84,5,8,,1,2,10,2,1,4,15,1,20,15,12,16,,1
+Bob,Brown,The Winterlands,34,82,07/04/1990,70,70,70,202,101,13,4,,1,2,3,4,18,14,2,9,18,18,13,20,,1
+Carmine,Kalker,The Winterlands,41,58,12/09/1997,45,45,45,202,79,4,11,,1,2,8,4,10,7,3,9,9,18,3,2,,1
+Arden,Gowdie,The Winterlands,37,52,04/04/1990,49,49,49,179,94,20,11,,1,2,9,2,12,10,6,14,8,3,2,17,,1
+Branden,Reubel,The Winterlands,5,16,10/09/1997,25,25,25,192,95,18,14,,1,2,9,3,17,15,18,11,13,12,19,20,,1
+Antwan,Bythell,The Winterlands,27,93,02/06/1997,72,72,72,191,85,17,18,,1,2,7,3,18,4,16,9,3,19,9,1,,1
+Frankie,Safell,The Winterlands,42,45,11/06/1995,36,36,36,181,96,12,12,,1,2,9,5,9,10,17,8,1,15,8,2,,1
+Darrel,Lapsley,The Winterlands,7,66,28/02/1997,17,17,17,184,77,4,3,,1,2,9,2,7,2,8,17,11,16,6,1,,1
+Collin,Hoggetts,The Winterlands,54,54,21/07/1996,70,70,70,179,83,12,3,,1,2,10,5,20,9,10,13,14,9,13,4,,1
+Paris,Madine,The Winterlands,27,34,26/12/1993,31,31,31,197,89,11,12,,1,2,10,2,2,13,1,11,2,9,17,15,,1
+Jaime,Dron,The Winterlands,36,46,18/09/1998,60,60,60,190,80,7,17,,1,2,6,7,17,4,14,15,12,2,12,12,,1
+Brock,Merkel,The Winterlands,3,23,23/08/1995,33,33,33,182,98,5,5,,1,2,7,6,2,20,10,17,6,3,16,4,,1
+Bruce,Ghiroldi,The Winterlands,5,38,04/08/1994,23,23,23,191,88,14,13,,1,2,4,8,9,17,14,3,19,1,14,9,,1
+Carmelo,Ormesher,The Winterlands,51,59,18/02/1994,65,65,65,178,92,18,5,,1,2,9,2,9,3,15,1,13,19,2,14,,1
+Marquis,Kleinholz,The Winterlands,3,55,10/09/1991,43,43,43,190,88,7,8,,1,2,6,5,2,7,5,13,8,9,10,12,,1
+Dee,Cotherill,The Winterlands,21,28,07/10/1993,22,22,22,199,94,17,10,,1,2,5,3,15,20,4,4,18,4,1,13,,1
+Herb,Raoux,The Winterlands,36,84,02/12/1996,59,59,59,189,94,18,4,,1,2,7,7,8,4,10,18,10,17,14,11,,1
+Wilmer,Oatley,The Winterlands,45,118,27/10/1994,68,68,68,193,102,17,12,,1,2,2,5,19,2,13,9,2,6,7,2,,1
+Darin,Mastrantone,The Winterlands,54,131,13/12/1989,91,91,91,199,80,3,14,,1,2,3,4,13,6,14,15,6,4,9,9,,1
+Chet,Crutch,The Winterlands,48,62,24/06/1992,62,62,62,185,92,1,14,,1,2,5,8,1,10,2,18,7,4,11,20,,1
+Cristobal,Petrolli,The Winterlands,8,98,28/11/1998,48,48,48,193,93,19,20,,1,2,3,4,6,2,15,1,18,6,8,6,,1
+Hank,Syred,The Winterlands,57,74,18/10/1996,53,53,53,183,95,13,12,,1,2,8,8,9,14,1,6,1,11,20,10,,1
+Bernardo,Rutherford,The Winterlands,26,68,22/03/1990,43,43,43,191,112,7,16,,1,2,4,7,10,13,1,16,10,3,15,11,,1
+Cordell,Popley,The Winterlands,15,68,01/07/1997,49,49,49,179,97,13,8,,1,2,8,5,20,7,14,1,11,13,10,7,,1
+Pete,Cheves,The Winterlands,1,67,09/01/1996,38,38,38,181,100,3,15,,1,2,8,5,16,15,20,11,15,14,7,1,,1
+Rick,Toffanini,The Winterlands,30,61,23/06/1998,65,65,65,193,89,11,15,,1,2,4,6,2,19,16,20,5,9,16,19,,1
+Chance,Linklet,The Winterlands,5,15,16/03/1998,26,26,26,197,89,11,12,,1,2,10,8,9,11,5,6,14,13,8,5,,1
+Adam,Manjin,The Winterlands,57,106,13/09/1994,99,99,99,193,89,12,18,,1,2,5,7,15,11,20,1,16,14,2,3,,1
+Daren,Heaslip,The Winterlands,37,41,18/09/1993,32,32,32,183,105,5,14,,1,2,8,6,5,18,13,7,16,16,20,20,,1
+Leland,De Clairmont,The Winterlands,38,78,20/09/1998,41,41,41,183,98,9,11,,1,2,10,7,5,10,16,12,11,16,9,12,,1
+Jefferson,Lowndesbrough,The Winterlands,20,50,09/05/1990,27,27,27,185,81,4,5,,1,2,4,6,9,14,8,5,1,7,2,7,,1
+Johnathon,Gamwell,The Winterlands,42,72,11/07/1989,71,71,71,187,99,7,8,,1,2,3,3,14,9,10,19,20,20,14,13,,1
+Darius,Guilaem,The Winterlands,30,98,20/01/1990,46,46,46,186,95,1,7,,1,2,9,8,4,13,1,15,8,20,3,9,,1
+Chung,Utton,The Winterlands,12,95,01/07/1996,63,63,63,191,101,1,9,,1,2,7,2,13,10,3,8,13,19,10,1,,1
+James,Filipponi,The Winterlands,48,86,21/09/1990,57,57,57,180,98,4,4,,1,2,6,3,11,20,16,18,10,4,18,18,,1
+Jerald,Gretton,The Winterlands,19,36,14/05/1989,35,35,35,188,96,10,19,,1,2,4,3,13,4,6,4,15,9,15,14,,1
+Santo,Pringer,The Winterlands,49,99,07/11/1995,59,59,59,188,89,11,7,,1,2,4,5,19,2,14,19,3,9,3,19,,1
+Stephan,Rubinsohn,The Winterlands,32,69,19/01/1997,39,39,39,175,93,19,9,,1,2,10,3,10,18,5,19,7,10,3,18,,1
+Delmer,Shmyr,The Winterlands,48,122,25/04/1990,67,67,67,185,97,14,16,,1,2,5,3,6,13,16,7,19,4,17,7,,1
+Lanny,Eskriet,The Winterlands,9,93,16/09/1991,55,55,55,175,87,2,7,,1,2,10,2,12,12,15,13,14,1,14,16,,1
+Benjamin,Jouannisson,The Winterlands,44,81,05/12/1993,63,63,63,185,114,10,10,,1,2,3,8,5,5,3,19,13,18,20,13,,1
+Ernesto,Barde,The Winterlands,16,80,06/03/1992,58,58,58,187,87,20,3,,1,2,4,4,9,15,11,12,14,7,13,8,,1
+Colton,Baptiste,The Winterlands,36,106,02/05/1993,90,90,90,180,95,20,10,,1,2,7,7,13,13,18,11,5,8,5,7,,1
+Fritz,Decruse,The Winterlands,34,57,11/10/1995,45,45,45,202,67,19,20,,1,2,10,6,2,7,14,3,11,1,9,18,,1
+Andrea,Tribble,The Winterlands,4,21,21/11/1994,26,26,26,187,90,6,10,,1,2,9,3,1,4,11,4,18,1,6,12,,1
+Margarito,Slyde,The Winterlands,48,95,03/05/1997,87,87,87,175,92,17,2,,1,2,2,8,12,9,3,12,19,13,16,13,,1
+Francisco,Forster,The Winterlands,21,37,16/10/1992,38,38,38,201,91,16,17,,1,2,5,4,6,17,2,11,12,7,8,8,,1
+Fredric,Arrighini,The Winterlands,25,72,06/05/1990,34,34,34,184,92,18,4,,1,2,10,4,8,3,4,2,9,20,7,7,,1
+Earnest,Pleavin,The Winterlands,14,104,03/01/1990,78,78,78,189,83,14,5,,1,2,4,2,20,8,17,8,2,2,19,3,,1
+Wilmer,Gerhartz,The Winterlands,35,98,15/01/1989,67,67,67,188,67,7,15,,1,2,10,3,8,6,7,20,2,18,3,13,,1
+Brain,Ubsdale,The Winterlands,17,22,23/03/1997,27,27,27,182,100,5,13,,1,2,10,3,10,18,5,5,9,8,11,7,,1
+Elwood,Fruchter,The Winterlands,38,118,14/11/1989,70,70,70,171,98,19,19,,1,2,8,2,6,2,8,19,5,13,20,13,,1
+Martin,O'Cooney,The Winterlands,21,103,03/12/1991,75,75,75,189,89,5,18,,1,2,9,3,2,11,15,9,18,6,13,12,,1
+Cordell,De Freyne,The Winterlands,28,59,23/10/1991,42,42,42,174,97,17,6,,1,2,4,4,7,20,15,17,6,14,19,17,,1
+Sanford,Karpol,The Winterlands,13,50,21/12/1990,23,23,23,200,67,8,19,,1,2,3,4,11,17,1,4,15,14,15,15,,1
+Leland,Goodale,The Winterlands,26,38,20/12/1998,20,20,20,189,105,2,19,,1,2,2,8,9,17,6,16,16,20,11,1,,1
+Ramon,Billiard,The Winterlands,23,70,01/09/1992,55,55,55,195,105,5,18,,1,2,2,5,12,19,10,10,19,1,5,9,,1
+Romeo,Bushel,The Winterlands,40,63,22/09/1994,65,65,65,195,85,15,12,,1,2,3,8,18,17,4,15,18,10,1,16,,1
+Christian,Briant,The Winterlands,31,46,09/09/1989,52,52,52,181,85,11,19,,1,2,4,6,19,17,3,17,13,13,13,8,,1
+Randolph,Garrold,The Winterlands,49,128,25/12/1993,98,98,98,170,76,5,20,,1,2,7,3,16,18,17,13,5,10,14,3,,1
+Mckinley,Hardisty,The Winterlands,54,81,08/07/1991,49,49,49,192,91,2,8,,1,2,9,3,16,18,16,13,19,11,4,19,,1
+Pedro,Ivimy,The Winterlands,42,96,05/04/1996,78,78,78,174,97,16,19,,1,2,3,3,2,16,15,16,17,16,19,5,,1
+Mitch,Bergeau,The Winterlands,33,40,10/12/1994,34,34,34,175,87,7,15,,1,2,4,5,11,13,18,4,6,6,15,5,,1
+Ernie,Hayto,The Winterlands,11,42,07/08/1998,15,15,15,179,95,17,18,,1,2,8,8,3,20,14,18,18,19,8,11,,1
+Aurelio,Ambroz,The Winterlands,32,103,26/01/1996,82,82,82,191,90,17,9,,1,2,2,4,18,10,15,17,16,14,12,1,,1
+Melvin,Fransson,The Winterlands,7,8,13/09/1991,7,7,7,184,93,9,3,,1,2,3,3,20,8,5,8,12,7,8,16,,1
+Raul,Grennan,The Winterlands,49,67,11/09/1994,74,74,74,175,96,6,16,,1,2,7,4,8,16,18,14,19,4,13,18,,1
+Emanuel,Edensor,The Winterlands,3,66,20/02/1996,19,19,19,183,90,4,9,,1,2,6,5,9,1,20,15,5,18,13,20,,1
+Sergio,Paolinelli,The Winterlands,18,51,19/11/1995,27,27,27,185,70,16,9,,1,2,7,8,20,1,19,4,10,6,5,3,,1
+Wm,Yankishin,The Winterlands,31,100,07/01/1989,60,60,60,175,111,13,14,,1,2,4,7,1,13,12,5,8,20,16,3,,1
+Lane,Livezley,The Winterlands,17,25,18/02/1993,33,33,33,184,97,6,8,,1,2,9,4,13,1,16,1,20,9,10,14,,1
+Reuben,Gallaway,The Winterlands,37,82,22/11/1997,70,70,70,175,95,12,14,,1,2,10,4,12,4,7,7,18,17,6,15,,1
+Ernest,Mockes,The Winterlands,10,13,12/04/1996,16,16,16,181,109,5,6,,1,2,3,4,15,2,18,10,4,9,12,3,,1
+Marlon,de Vaen,The Winterlands,10,10,01/04/1992,30,30,30,175,84,11,7,,1,2,3,8,8,6,6,1,2,10,5,14,,1
+Vito,Cescoti,The Winterlands,60,105,13/05/1998,102,102,102,199,93,4,10,,1,2,4,3,19,9,15,13,1,7,15,18,,1
+Morton,Baggiani,The Winterlands,13,53,20/05/1992,33,33,33,184,101,17,20,,1,2,10,6,14,6,16,17,19,4,18,15,,1
+Gerardo,Callcott,The Winterlands,13,50,04/08/1994,40,40,40,178,89,12,12,,1,2,5,2,3,10,2,1,6,18,2,10,,1
+Dong,Matteuzzi,The Winterlands,9,62,16/10/1997,43,43,43,181,104,8,16,,1,2,6,8,13,6,10,14,12,13,8,19,,1
+Brandon,Macellar,The Winterlands,59,74,25/05/1997,86,86,86,186,100,4,17,,1,2,7,8,4,8,13,13,8,17,16,2,,1
+Leigh,Shaxby,The Winterlands,56,116,16/01/1996,94,94,94,179,105,6,14,,1,2,3,5,8,18,1,16,4,14,18,5,,1
+Buster,Crawley,The Winterlands,5,45,01/07/1998,10,10,10,181,87,7,16,,1,2,6,3,7,13,16,8,15,20,10,7,,1
+Derrick,Bonnell,The Winterlands,19,111,22/08/1996,48,48,48,193,99,7,15,,1,2,10,3,10,14,7,8,13,11,10,19,,1
+Maria,Caldera,The Winterlands,39,51,17/02/1989,65,65,65,183,100,10,2,,1,2,6,6,12,15,7,9,11,18,1,13,,1
+Wendell,Agius,The Winterlands,60,102,28/10/1995,63,63,63,179,67,18,19,,1,2,3,7,3,11,15,12,17,19,9,19,,1
+Cody,Raggett,The Winterlands,34,104,03/11/1996,58,58,58,180,110,2,19,,1,2,2,4,9,17,11,13,18,20,20,15,,1
+Fredric,MacGeffen,The Winterlands,50,74,26/07/1998,82,82,82,171,82,9,2,,1,2,8,7,16,18,1,5,17,17,16,10,,1
+Santiago,Rivlin,The Winterlands,15,36,06/11/1998,35,35,35,189,101,4,2,,1,2,3,8,10,12,3,2,9,19,14,19,,1
+Ambrose,Heeps,The Winterlands,50,135,25/09/1995,92,92,92,183,101,5,19,,1,2,7,3,18,14,1,9,7,10,3,8,,1
+Lazaro,Lilley,The Winterlands,25,41,03/03/1997,16,16,16,177,95,4,15,,1,2,2,2,3,13,20,2,3,19,13,13,,1
+Wilfred,Bartosinski,The Winterlands,17,26,01/07/1992,40,40,40,182,95,12,1,,1,2,3,8,1,3,3,7,6,13,8,15,,1
+Carroll,Troctor,The Winterlands,10,11,02/11/1991,28,28,28,192,98,15,15,,1,2,2,5,6,18,10,19,6,2,1,6,,1
+Randall,Garvagh,The Winterlands,10,100,14/07/1992,68,68,68,179,106,13,15,,1,2,4,2,18,13,19,19,18,2,6,8,,1
+Wilmer,Roubert,The Winterlands,6,9,02/12/1995,13,13,13,181,95,8,1,,1,2,7,3,1,15,1,4,12,9,16,9,,1
+Darryl,Mundie,The Winterlands,34,42,21/02/1995,44,44,44,179,106,13,17,,1,2,8,7,20,20,15,18,13,1,11,1,,1
+Ervin,Fielders,The Winterlands,27,36,12/11/1991,49,49,49,183,98,13,8,,1,2,3,4,4,8,19,18,11,20,15,18,,1
+Felton,Nancarrow,The Winterlands,49,91,14/09/1994,78,78,78,174,89,17,7,,1,2,9,7,12,14,7,2,1,20,3,19,,1
+Tyrell,Wabersich,The Winterlands,13,66,24/03/1996,33,33,33,194,71,3,6,,1,2,2,7,17,7,13,1,11,16,5,9,,1
+Harris,Trimby,The Winterlands,58,74,02/10/1995,68,68,68,190,111,20,18,,1,2,3,2,3,4,8,5,11,11,7,1,,1
+Jacinto,Jehu,The Winterlands,57,141,04/01/1989,109,109,109,176,90,18,1,,1,2,6,6,13,14,11,16,2,12,10,3,,1
+Timothy,Lanfare,The Winterlands,32,65,15/12/1994,41,41,41,181,69,2,17,,1,2,9,2,19,18,1,12,13,16,16,18,,1
+Armando,Neaverson,The Winterlands,8,72,16/11/1991,43,43,43,186,89,17,15,,1,2,2,2,1,17,2,7,17,12,14,19,,1
+Otis,Tudhope,The Winterlands,19,23,21/10/1996,27,27,27,176,88,6,9,,1,2,8,8,9,4,17,20,6,5,19,2,,1
+Malik,Chisman,The Winterlands,35,57,23/02/1998,47,47,47,197,110,14,16,,1,2,10,4,9,18,4,9,5,18,11,15,,1
+Haywood,Ruske,The Winterlands,23,23,04/11/1989,11,11,11,204,94,20,15,,1,2,3,3,16,11,16,18,6,2,1,11,,1
+Eugenio,Thornley,The Winterlands,10,46,02/07/1997,38,38,38,183,96,11,9,,1,2,8,2,4,4,17,4,3,17,5,8,,1
+Stewart,Beaze,The Winterlands,44,69,10/08/1990,40,40,40,179,96,18,9,,1,2,10,5,11,10,1,15,10,5,3,6,,1
+Tyron,Plenty,The Winterlands,3,20,11/02/1996,29,29,29,181,100,7,8,,1,2,9,8,13,15,11,4,11,5,13,16,,1
+Efrain,Bernuzzi,The Winterlands,9,27,24/10/1990,2,2,2,175,96,9,15,,1,2,10,6,1,8,6,4,16,3,14,4,,1
+Adalberto,Seacombe,The Winterlands,16,30,25/03/1994,19,19,19,189,119,11,12,,1,2,7,2,4,19,13,7,13,19,20,6,,1
+Jude,Moorhouse,The Winterlands,55,58,15/10/1994,70,70,70,185,116,20,7,,1,2,4,7,15,12,6,3,8,15,7,1,,1
+Austin,de Clercq,The Winterlands,14,14,28/06/1998,2,2,2,175,101,3,9,,1,2,4,3,18,4,19,2,12,2,8,18,,1
+Harold,Rucklesse,The Winterlands,28,44,04/05/1994,51,51,51,190,75,15,6,,1,2,2,8,16,10,15,2,20,11,5,7,,1
+Fabian,Gaughan,The Winterlands,5,64,01/06/1989,30,30,30,183,102,16,18,,1,2,6,6,18,1,7,4,14,14,17,17,,1
+Filiberto,Gerardi,The Winterlands,50,113,18/12/1995,77,77,77,187,85,5,15,,1,2,10,5,4,6,9,3,16,18,12,5,,1
+Brock,Hutchin,The Winterlands,36,106,25/02/1993,64,64,64,168,80,14,10,,1,2,2,4,7,13,4,9,6,18,6,11,,1
+Tommy,Yanov,The Winterlands,55,122,27/04/1996,74,74,74,178,98,17,14,,1,2,10,8,13,12,11,10,12,13,20,4,,1
+Shayne,Norquay,The Winterlands,57,77,18/07/1997,65,65,65,187,98,7,10,,1,2,7,3,7,7,1,6,15,10,1,14,,1
+Carrol,Wheelband,The Winterlands,35,113,27/03/1990,63,63,63,171,88,6,4,,1,2,2,3,19,3,4,13,16,14,14,12,,1
+Edgardo,Mars,The Winterlands,31,101,21/01/1994,78,78,78,196,72,12,9,,1,2,8,7,19,11,7,19,18,17,3,11,,1
+Darrick,Gilyatt,The Winterlands,52,60,09/05/1989,59,59,59,178,99,1,14,,1,2,7,2,13,6,8,12,9,1,15,11,,1
+Bo,Penelli,The Winterlands,22,79,05/03/1989,44,44,44,185,117,1,13,,1,2,4,4,19,10,1,2,6,19,8,8,,1
+Ned,Blaydes,The Winterlands,43,116,27/01/1992,93,93,93,179,92,3,3,,1,2,3,8,7,3,9,4,8,15,15,5,,1
+Micah,Candlish,The Winterlands,55,57,20/06/1991,39,39,39,175,90,15,18,,1,2,3,3,3,6,20,9,8,14,16,19,,1
+Williams,Hamshar,The Winterlands,28,51,01/05/1995,45,45,45,190,98,2,9,,1,2,2,7,13,19,6,14,14,13,5,14,,1
+Olin,Tourry,The Winterlands,26,88,20/07/1992,55,55,55,191,96,4,7,,1,2,8,6,8,9,14,16,10,15,6,3,,1
+Jon,Leddie,The Winterlands,5,19,04/02/1998,5,5,5,188,103,12,16,,1,2,7,8,17,14,17,6,16,5,6,11,,1
+Burton,Rattry,The Winterlands,46,128,01/01/1990,69,69,69,189,77,20,4,,1,2,2,6,4,8,11,1,5,10,2,19,,1
+Eli,Millen,The Winterlands,11,57,11/05/1993,44,44,44,174,86,7,7,,1,2,5,5,20,16,3,13,19,13,10,16,,1
+Ira,Leathart,The Winterlands,7,59,20/04/1989,39,39,39,179,111,7,2,,1,2,9,6,9,3,7,2,3,4,12,8,,1
+Burt,Lauxmann,The Winterlands,33,116,05/06/1995,67,67,67,186,93,16,2,,1,2,10,6,5,17,6,12,1,7,19,12,,1
+Cordell,Meiningen,The Winterlands,43,102,28/06/1991,82,82,82,184,101,15,7,,1,2,2,5,16,13,17,5,10,5,15,11,,1
+Normand,Ceschi,The Winterlands,60,90,18/09/1994,84,84,84,191,103,17,7,,1,2,8,4,2,20,1,8,10,17,11,18,,1
+Tyson,Housen,The Winterlands,17,54,01/01/1998,27,27,27,186,97,3,13,,1,2,8,5,2,5,6,16,19,18,4,14,,1
+Matthew,Bartocci,The Winterlands,20,21,15/07/1989,22,22,22,174,107,13,20,,1,2,9,6,20,17,18,11,7,14,4,8,,1
+Chung,Albone,The Winterlands,52,99,16/05/1992,63,63,63,183,77,8,8,,1,2,6,4,4,17,12,7,10,12,11,5,,1
+Trevor,Keeltagh,The Winterlands,42,99,06/01/1992,79,79,79,184,89,19,7,,1,2,8,6,5,11,14,19,19,9,13,8,,1
+Carl,Goudy,The Winterlands,27,84,20/05/1992,62,62,62,188,104,19,16,,1,2,4,6,8,13,13,13,13,13,2,9,,1
+Donny,Flacknell,The Winterlands,34,62,09/02/1994,31,31,31,208,108,14,15,,1,2,10,4,1,20,11,12,17,2,20,17,,1
+Charley,Galiero,The Winterlands,1,24,10/08/1998,11,11,11,175,80,8,19,,1,2,10,7,7,10,18,10,3,12,2,20,,1
+Greg,Lowndsbrough,The Winterlands,29,39,01/07/1991,38,38,38,183,85,16,9,,1,2,8,2,9,16,11,12,13,5,12,7,,1
+Woodrow,Hagergham,The Winterlands,2,2,23/08/1996,13,13,13,199,93,4,17,,1,2,5,3,20,6,12,7,6,20,5,15,,1
+Junior,Wetton,The Winterlands,48,69,23/04/1998,44,44,44,187,84,2,9,,1,2,7,5,13,14,11,11,15,7,19,4,,1
+Sergio,Windaybank,The Winterlands,41,90,23/02/1996,74,74,74,187,86,19,19,,1,2,7,4,9,5,15,17,5,12,6,15,,1
+Juan,Nannizzi,The Winterlands,49,99,10/08/1989,91,91,91,195,96,12,15,,1,2,6,6,20,14,12,20,17,12,6,3,,1
+Miles,Stanmore,The Winterlands,25,95,18/08/1990,77,77,77,179,99,2,17,,1,2,7,6,2,15,7,5,5,3,9,5,,1
+Cristobal,Harses,The Winterlands,51,121,08/08/1995,91,91,91,178,105,3,9,,1,2,4,7,19,1,10,9,10,12,14,15,,1
+Leon,Mulvany,The Winterlands,9,18,27/10/1997,26,26,26,197,87,3,6,,1,2,6,5,15,18,16,15,4,16,9,17,,1
+Tobias,Litton,The Winterlands,41,85,10/01/1992,76,76,76,198,53,20,11,,1,2,7,5,11,3,6,18,3,6,7,9,,1
+Hipolito,Berre,The Winterlands,42,48,09/10/1989,52,52,52,196,108,11,3,,1,2,5,6,20,3,17,13,13,6,3,15,,1
+Kasey,Yeo,The Winterlands,15,57,16/07/1997,37,37,37,181,102,12,2,,1,2,10,3,14,7,20,10,1,3,13,3,,1
+Rodney,Di Dello,The Winterlands,39,60,13/01/1996,61,61,61,179,103,16,19,,1,2,2,7,2,5,16,6,12,3,17,15,,1
+Carroll,Korn,The Winterlands,17,89,06/10/1998,68,68,68,176,101,4,15,,1,2,9,2,13,17,17,11,1,12,18,3,,1
+Lewis,Wloch,The Winterlands,57,58,27/04/1990,76,76,76,182,109,7,12,,1,2,9,2,18,18,7,1,12,8,9,16,,1
+Gaston,Garland,The Winterlands,45,66,13/07/1991,56,56,56,172,107,20,8,,1,2,9,8,13,17,18,20,20,16,10,1,,1
+Jordon,Oates,The Winterlands,40,53,14/06/1995,29,29,29,173,90,15,15,,1,2,7,3,13,9,19,2,2,9,6,19,,1
+Dion,Yellowlea,The Winterlands,7,26,26/10/1989,8,8,8,191,106,2,11,,1,2,3,2,4,7,6,17,4,5,17,7,,1
+Julius,Ivanisov,The Winterlands,17,105,04/05/1993,63,63,63,178,90,3,8,,1,2,3,3,7,13,16,11,6,5,2,17,,1
+Fernando,Guillot,The Winterlands,7,48,11/10/1995,20,20,20,177,113,9,6,,1,2,2,5,15,16,10,1,12,14,15,1,,1
+Lee,Kitcat,The Winterlands,37,92,21/11/1994,71,71,71,193,109,3,5,,1,2,4,3,15,12,1,10,10,12,15,2,,1
+Landon,McQuillen,The Winterlands,29,34,11/07/1991,21,21,21,175,78,5,16,,1,2,10,5,18,16,12,2,13,7,9,19,,1
+Prince,Stead,The Winterlands,33,49,28/01/1997,38,38,38,191,86,12,20,,1,2,8,7,15,3,8,12,15,14,6,20,,1
+Marcellus,Wyburn,The Winterlands,18,92,02/03/1991,37,37,37,177,108,8,4,,1,2,4,5,6,11,9,12,8,6,1,5,,1
+Deangelo,Shevlan,The Winterlands,5,47,02/11/1992,46,46,46,174,96,16,18,,1,2,7,7,9,1,20,1,13,7,6,5,,1
+Chase,Hlavecek,The Winterlands,27,100,20/03/1998,61,61,61,183,82,2,7,,1,2,3,2,18,1,14,15,8,17,7,9,,1
+Russel,Dewicke,The Winterlands,20,44,12/09/1991,42,42,42,191,114,8,10,,1,2,9,8,9,4,6,13,16,6,14,8,,1
+Agustin,McVrone,The Winterlands,37,107,02/02/1991,53,53,53,182,104,13,12,,1,2,9,3,13,18,10,13,3,16,1,15,,1
+Thomas,Catlin,The Winterlands,41,128,20/08/1991,97,97,97,180,82,4,8,,1,2,10,2,11,18,1,3,17,2,4,8,,1
+Shayne,Yakovlev,The Winterlands,57,73,21/05/1996,60,60,60,206,93,7,18,,1,2,10,4,15,9,13,5,5,10,1,4,,1
+Wendell,Benditt,The Winterlands,24,38,07/10/1990,38,38,38,193,60,7,13,,1,2,4,7,1,11,15,4,13,17,7,16,,1
+Alberto,Sealey,The Winterlands,39,87,11/12/1989,72,72,72,198,80,19,17,,1,2,4,7,15,15,18,14,9,6,14,7,,1
+Lloyd,Buer,The Winterlands,19,63,05/03/1997,50,50,50,189,113,17,1,,1,2,10,7,6,9,10,17,7,10,8,6,,1
+Son,Riccelli,The Winterlands,49,64,08/11/1996,63,63,63,185,92,18,7,,1,2,10,2,7,4,12,14,15,5,20,18,,1
+Milan,Colebourne,The Winterlands,18,63,25/11/1996,36,36,36,180,83,2,2,,1,2,3,2,14,15,17,15,20,7,14,20,,1
+Sebastian,Dearnly,The Winterlands,50,109,08/12/1996,60,60,60,194,112,5,14,,1,2,10,8,15,17,16,12,16,12,19,1,,1
+Filiberto,Hasell,The Winterlands,30,83,15/08/1990,55,55,55,195,98,3,4,,1,2,6,7,15,13,5,8,12,6,16,10,,1
+Stanton,Luberto,The Winterlands,58,119,23/04/1990,71,71,71,176,85,10,3,,1,2,9,8,11,17,4,1,11,6,19,14,,1
+Clifton,Clyburn,The Winterlands,24,70,08/01/1994,27,27,27,186,81,16,18,,1,2,6,5,4,7,13,18,19,10,10,12,,1
+Erin,Benne,The Winterlands,57,94,07/04/1990,95,95,95,185,94,8,7,,1,2,10,3,19,5,10,16,18,8,19,19,,1
+Elliott,Whitlam,The Winterlands,56,82,18/04/1995,54,54,54,172,76,20,3,,1,2,9,8,19,1,10,18,8,11,9,19,,1
+Rolland,Firk,The Winterlands,25,105,09/12/1989,73,73,73,184,104,20,2,,1,2,4,3,2,15,19,6,13,16,3,5,,1
+Toby,Costa,The Winterlands,7,58,17/01/1994,30,30,30,194,98,9,6,,1,2,4,5,14,17,1,18,6,5,20,11,,1
+Demetrius,Holtham,The Winterlands,15,44,17/01/1990,11,11,11,181,71,12,5,,1,2,6,8,13,19,6,3,13,20,5,10,,1
+Logan,Judron,The Winterlands,51,75,02/07/1993,52,52,52,184,94,4,6,,1,2,3,2,19,3,4,12,8,7,10,18,,1
+Gaylord,Mullineux,The Winterlands,3,64,22/08/1997,41,41,41,183,85,5,16,,1,2,9,2,11,7,12,4,13,10,6,8,,1
+Thaddeus,Baiyle,The Winterlands,12,45,28/09/1993,42,42,42,188,105,3,20,,1,2,8,5,7,12,7,11,17,7,5,11,,1
+Reynaldo,Adlington,The Winterlands,59,86,11/07/1992,80,80,80,191,97,20,4,,1,2,4,6,2,6,7,14,12,4,18,5,,1
+Kraig,Waldie,The Winterlands,48,121,10/10/1990,73,73,73,198,102,20,5,,1,2,7,7,8,17,11,1,20,3,12,19,,1
+Kendrick,De Freyne,The Winterlands,13,18,05/08/1995,14,14,14,191,115,16,3,,1,2,8,6,4,4,5,17,6,10,2,4,,1
+Vince,Ellsom,The Winterlands,51,125,28/09/1996,103,103,103,180,88,20,2,,1,2,7,3,18,18,8,6,18,18,15,5,,1
+Wilbert,Blanche,The Winterlands,34,52,07/08/1989,57,57,57,195,99,7,17,,1,2,5,4,17,13,17,2,11,10,2,1,,1
+Alberto,Wintersgill,The Winterlands,26,66,24/06/1992,54,54,54,181,104,20,18,,1,2,4,4,12,9,20,15,1,6,19,6,,1
+Larry,Ortelt,The Winterlands,22,47,02/08/1998,42,42,42,176,105,14,12,,1,2,10,6,13,11,2,17,18,20,5,4,,1
+Elwood,Behnke,The Winterlands,11,22,09/05/1993,35,35,35,193,56,4,20,,1,2,8,8,13,18,17,20,16,8,13,13,,1
+Herbert,Benezeit,The Winterlands,33,46,28/05/1996,53,53,53,176,97,13,9,,1,2,8,3,17,5,17,2,17,9,6,7,,1
+Nicky,Veld,The Winterlands,8,24,28/08/1989,2,2,2,200,94,17,7,,1,2,4,5,5,5,14,2,9,13,16,1,,1
+Frederick,Camplejohn,The Winterlands,25,38,05/04/1994,32,32,32,192,107,18,5,,1,2,10,6,19,7,1,19,13,20,18,2,,1
+Claudio,O'Teague,The Winterlands,13,16,12/12/1998,29,29,29,179,92,11,4,,1,2,10,4,3,2,20,16,14,18,11,8,,1
+Leigh,Lamp,The Winterlands,10,41,05/08/1990,17,17,17,183,88,11,14,,1,2,7,2,18,8,18,11,10,6,18,5,,1
+Edwardo,Mathis,The Winterlands,15,48,15/10/1995,50,50,50,186,89,6,15,,1,2,6,6,6,11,10,18,3,4,18,13,,1
+Bennett,Huntingdon,The Winterlands,57,79,04/03/1993,48,48,48,183,100,16,18,,1,2,2,3,4,1,4,16,7,20,16,10,,1
+Virgil,Churchyard,The Winterlands,54,79,10/05/1996,74,74,74,182,91,11,18,,1,2,8,2,17,3,7,15,17,14,13,6,,1
+Vo,Thibodeaux,The Winterlands,54,63,28/06/1998,42,42,42,184,93,11,2,,1,2,9,4,20,13,14,12,10,20,14,19,,1
+Lane,Benallack,The Winterlands,30,81,06/02/1990,48,48,48,184,114,18,13,,1,2,6,8,2,4,20,6,19,2,9,15,,1
+Milford,Guarin,The Winterlands,27,78,27/01/1989,60,60,60,175,104,14,7,,1,2,4,2,9,18,13,4,20,1,20,12,,1
+Drew,Scothern,The Winterlands,35,49,07/02/1991,54,54,54,179,84,10,20,,1,2,10,2,20,7,17,18,12,2,17,14,,1
+Clair,Ginnety,The Winterlands,18,49,22/09/1995,51,51,51,175,103,20,18,,1,2,4,8,17,9,4,3,5,20,18,9,,1
+Dalton,Pala,The Winterlands,44,79,27/02/1992,52,52,52,193,102,5,10,,1,2,5,4,5,13,17,12,2,18,14,4,,1
+Reyes,Bayns,The Winterlands,31,88,12/04/1994,70,70,70,180,103,4,2,,1,2,3,5,9,18,7,19,4,4,7,6,,1
+Arturo,Zellner,The Winterlands,47,51,24/09/1997,64,64,64,175,93,6,3,,1,2,2,3,12,18,18,16,16,17,17,19,,1
+Anthony,Fuggles,The Winterlands,35,52,17/11/1994,32,32,32,179,94,9,8,,1,2,7,7,14,15,10,16,9,5,12,19,,1
+Milan,Gothup,The Winterlands,33,55,18/11/1997,34,34,34,175,92,18,12,,1,2,6,6,3,3,7,11,1,3,4,19,,1
+Alton,Baddam,The Winterlands,51,97,13/03/1990,87,87,87,175,88,15,1,,1,2,2,3,4,20,5,10,12,16,15,16,,1
+Errol,Campanelli,The Winterlands,15,38,23/09/1994,20,20,20,169,86,19,19,,1,2,8,4,5,9,11,17,17,8,7,4,,1
+Korey,Gellett,The Winterlands,58,113,14/10/1995,80,80,80,198,79,17,9,,1,2,10,5,6,12,17,2,6,5,9,16,,1
+Norman,Ferruzzi,The Winterlands,51,85,21/09/1989,56,56,56,185,82,14,14,,1,2,9,5,11,20,7,3,1,3,10,5,,1
+Randy,Bolin,The Winterlands,7,74,06/09/1994,43,43,43,190,88,3,12,,1,2,7,6,6,14,3,13,1,3,19,16,,1
+Brant,Loughlan,The Winterlands,11,50,08/09/1998,28,28,28,175,106,10,3,,1,2,2,6,14,8,8,12,20,12,13,6,,1
+Darrel,Sawart,The Winterlands,45,93,09/08/1994,70,70,70,186,97,15,11,,1,2,9,3,20,9,15,8,19,6,7,16,,1
+Herschel,Neumann,The Winterlands,12,14,26/09/1996,11,11,11,199,96,8,6,,1,2,10,8,7,14,2,7,19,16,8,3,,1
+Micah,Faye,The Winterlands,4,54,04/08/1989,36,36,36,182,101,5,3,,1,2,9,8,20,3,5,14,4,19,6,18,,1
+Rupert,Stepto,The Winterlands,41,45,18/04/1998,48,48,48,169,110,8,20,,1,2,2,3,13,15,10,19,2,13,16,12,,1
+Theron,Christin,The Winterlands,35,94,13/07/1989,83,83,83,173,79,19,8,,1,2,2,8,18,3,4,20,16,7,12,4,,1
+Mohammad,Gaynsford,The Winterlands,46,78,01/06/1995,58,58,58,190,96,17,7,,1,2,9,7,19,17,11,17,9,18,19,15,,1
+Dewey,Costock,The Winterlands,8,11,26/06/1996,18,18,18,185,94,6,10,,1,2,9,6,17,6,12,15,14,8,9,1,,1
+Josue,Biernacki,The Winterlands,39,91,11/02/1990,69,69,69,196,104,9,11,,1,2,6,5,19,19,19,12,9,13,8,7,,1
+Ronnie,Rickarsey,The Winterlands,55,103,18/05/1996,80,80,80,194,94,16,10,,1,2,4,2,20,4,6,8,17,19,17,14,,1
+Wilburn,Swait,The Winterlands,42,80,12/04/1994,70,70,70,187,94,7,20,,1,2,10,4,7,1,15,10,15,5,4,20,,1
+Norberto,Pudge,The Winterlands,23,35,22/03/1998,12,12,12,187,98,15,5,,1,2,6,3,2,20,3,13,4,19,14,14,,1
+Emerson,Oller,The Winterlands,23,35,21/05/1997,39,39,39,182,93,3,3,,1,2,7,5,18,5,16,7,13,7,2,9,,1
+Kieth,Tunuy,The Winterlands,17,25,01/08/1997,25,25,25,197,105,3,19,,1,2,7,5,8,14,13,9,2,12,14,18,,1
+Emory,Pauli,The Winterlands,42,86,28/10/1995,47,47,47,185,94,10,17,,1,2,10,7,15,9,10,1,20,8,5,2,,1
+Alec,Brixham,The Winterlands,11,36,07/03/1995,34,34,34,178,107,8,6,,1,2,9,6,5,11,1,13,2,14,13,5,,1
+Elmo,Diggins,The Winterlands,3,81,06/01/1996,39,39,39,195,80,9,3,,1,2,9,4,16,9,14,18,9,20,10,4,,1
+Curtis,Leadbetter,The Winterlands,51,84,01/05/1992,52,52,52,187,94,6,15,,1,2,5,6,5,3,15,17,7,10,20,14,,1
+Mohamed,Kyle,The Winterlands,60,88,17/03/1996,73,73,73,181,85,14,20,,1,2,7,2,1,11,6,16,7,8,15,16,,1
+Luis,Burgise,The Winterlands,41,51,11/01/1989,28,28,28,179,103,4,17,,1,2,7,4,11,13,20,13,8,11,9,6,,1
+Demetrius,Clinton,The Winterlands,51,57,25/08/1997,49,49,49,189,84,9,5,,1,2,10,4,20,20,8,6,17,10,20,12,,1
+Noel,O'Fallone,The Winterlands,22,73,21/01/1994,50,50,50,186,94,9,1,,1,2,2,6,4,1,12,16,15,11,3,12,,1
+Darell,Henningham,The Winterlands,52,89,02/03/1997,71,71,71,183,105,19,14,,1,2,2,3,13,2,17,10,10,9,18,1,,1
+Ron,Lake,The Winterlands,39,56,02/01/1992,50,50,50,196,102,16,16,,1,2,5,8,1,13,8,2,15,6,17,1,,1
+Bradly,Snowball,The Winterlands,13,19,08/02/1997,10,10,10,197,98,1,20,,1,2,3,6,13,13,7,14,4,10,16,18,,1
+Marcelo,Blankhorn,The Winterlands,25,37,10/06/1990,51,51,51,179,86,19,8,,1,2,9,5,19,17,15,10,1,15,2,5,,1
+Clark,Leglise,The Winterlands,5,40,10/10/1993,24,24,24,191,92,14,18,,1,2,4,4,16,12,14,2,15,5,17,19,,1
+Hosea,Ianetti,The Winterlands,30,50,18/01/1992,53,53,53,178,96,18,1,,1,2,10,7,20,15,16,12,5,6,6,20,,1
+Jody,Kairns,The Winterlands,49,96,09/05/1989,68,68,68,198,115,12,16,,1,2,6,5,1,14,20,9,7,3,8,5,,1
+Carter,Eagell,The Winterlands,1,23,11/04/1990,1,1,1,184,100,5,17,,1,2,6,8,12,13,17,3,13,5,17,12,,1
+Erich,Nevill,The Winterlands,11,40,15/06/1993,6,6,6,192,85,19,13,,1,2,4,7,20,4,9,5,3,13,6,11,,1
+Bert,Attac,The Winterlands,6,58,17/08/1990,43,43,43,169,77,19,2,,1,2,10,7,9,5,7,19,1,19,7,10,,1
+Isreal,Carwithen,The Winterlands,9,57,13/04/1996,49,49,49,180,61,4,10,,1,2,2,5,7,5,18,6,7,11,15,12,,1
+Aubrey,Drees,The Winterlands,23,73,27/11/1991,52,52,52,185,87,16,7,,1,2,3,3,20,10,15,7,16,1,16,14,,1
+Fredric,Condit,The Winterlands,56,111,11/10/1990,90,90,90,181,76,10,16,,1,2,6,3,1,8,9,9,18,5,3,11,,1
+Alan,Rampage,The Winterlands,28,81,23/04/1990,43,43,43,174,97,1,8,,1,2,7,4,2,19,20,16,15,15,15,8,,1
+Antione,Dykes,The Winterlands,37,41,07/04/1992,34,34,34,182,98,19,17,,1,2,3,8,10,17,11,6,20,11,20,6,,1
+Russ,Bockett,The Winterlands,20,65,07/08/1998,57,57,57,179,105,11,20,,1,2,7,4,18,16,9,17,16,16,7,4,,1
+Andres,Durtnel,The Winterlands,1,20,09/09/1995,13,13,13,188,96,13,15,,1,2,5,3,3,2,15,18,20,15,11,2,,1
+Cliff,Jeves,The Winterlands,38,48,10/02/1992,45,45,45,192,100,9,13,,1,2,7,6,17,10,7,15,2,5,8,19,,1
+Rodger,Arbor,The Winterlands,12,65,04/09/1989,21,21,21,184,114,20,7,,1,2,2,3,16,14,3,3,16,11,1,12,,1
+Darius,Girth,The Winterlands,11,51,06/08/1998,37,37,37,170,98,14,16,,1,2,9,2,5,17,3,1,13,13,18,17,,1
+Cliff,Shellibeer,The Winterlands,49,81,07/12/1998,75,75,75,186,101,1,12,,1,2,10,4,19,2,20,4,18,12,17,19,,1
+Douglass,Stranahan,The Winterlands,43,86,12/08/1998,69,69,69,197,98,5,8,,1,2,10,5,8,6,5,8,7,6,20,8,,1
+Enoch,Coker,The Winterlands,27,83,22/06/1994,66,66,66,180,84,1,14,,1,2,2,4,18,20,4,14,15,14,5,3,,1
+Henry,Adolf,The Winterlands,20,38,25/12/1992,20,20,20,167,96,16,19,,1,2,10,7,4,20,20,10,10,11,15,11,,1
+Jarod,Alldritt,The Winterlands,37,96,25/01/1994,53,53,53,176,96,14,10,,1,2,10,3,14,18,4,16,16,14,11,16,,1
+Ellsworth,Cubbit,The Winterlands,41,86,05/10/1997,59,59,59,186,96,8,8,,1,2,10,8,13,18,19,15,12,12,19,11,,1
+Angelo,Jellis,The Winterlands,33,64,15/05/1993,53,53,53,184,57,7,16,,1,2,7,4,8,2,9,14,5,2,14,14,,1
+Brant,Barnewille,The Winterlands,3,75,18/05/1991,33,33,33,197,103,10,17,,1,2,2,4,18,12,16,15,19,2,16,4,,1
+Jason,Scherer,The Winterlands,12,24,26/09/1994,3,3,3,181,104,7,10,,1,2,4,6,11,12,5,11,9,9,18,6,,1
+Wm,Grooby,The Winterlands,14,20,23/02/1989,22,22,22,181,87,5,6,,1,2,9,3,11,8,2,12,3,1,19,7,,1
+Cameron,Dusting,The Winterlands,30,51,23/10/1993,39,39,39,180,73,5,16,,1,2,3,6,17,14,3,10,19,15,1,6,,1
+Roosevelt,Asty,The Winterlands,40,40,04/06/1991,25,25,25,201,97,2,5,,1,2,2,4,13,3,7,10,13,12,12,13,,1
+Joaquin,MacAvaddy,The Winterlands,18,81,03/12/1996,30,30,30,187,80,5,18,,1,2,8,2,13,11,9,9,18,3,1,3,,1
+Odell,Starten,The Winterlands,53,133,08/09/1993,101,101,101,181,87,17,12,,1,2,5,4,9,11,2,6,4,9,18,18,,1
+Emil,Beckenham,The Winterlands,33,64,07/08/1993,36,36,36,182,86,9,10,,1,2,4,8,1,17,13,7,10,5,13,13,,1
+Jonathan,Audibert,The Winterlands,5,55,17/08/1995,44,44,44,189,104,8,10,,1,2,5,7,9,10,7,2,7,6,5,16,,1
+Randolph,Burnyeat,The Winterlands,37,105,10/06/1998,77,77,77,183,90,7,6,,1,2,2,8,11,12,17,8,11,8,1,4,,1
+Hong,Oherlihy,The Winterlands,24,45,19/10/1996,33,33,33,177,63,4,12,,1,2,8,2,2,19,8,13,10,8,13,6,,1
+Hassan,Passman,The Winterlands,29,46,05/11/1991,31,31,31,181,93,12,19,,1,2,9,7,1,3,1,9,13,18,14,13,,1
+Raymundo,Mazzeo,The Winterlands,43,125,12/11/1991,95,95,95,180,84,12,20,,1,2,8,7,19,13,20,15,20,19,16,14,,1
+Noble,Langcastle,The Winterlands,40,84,26/04/1994,46,46,46,174,81,13,5,,1,2,3,3,8,18,18,12,16,3,9,16,,1
+Jonah,Josefs,The Winterlands,47,82,19/08/1993,84,84,84,204,89,16,9,,1,2,3,7,11,1,2,8,3,3,11,18,,1
+Zane,Gyngyll,The Winterlands,8,81,19/10/1989,61,61,61,188,102,2,14,,1,2,8,7,14,16,2,2,19,12,17,5,,1
+Raymon,Pressman,The Winterlands,11,44,27/06/1993,42,42,42,186,109,5,11,,1,2,6,3,7,13,12,17,12,11,17,2,,1
+Andre,Burrass,The Winterlands,11,53,11/07/1991,17,17,17,197,61,8,20,,1,2,5,7,16,8,4,12,18,7,13,3,,1
+Willis,Raoul,The Winterlands,30,41,06/01/1995,42,42,42,179,103,19,8,,1,2,10,5,18,18,3,5,7,17,9,1,,1
+August,Lodden,The Winterlands,33,49,10/04/1994,46,46,46,177,90,11,3,,1,2,7,3,3,5,5,8,15,15,14,13,,1
+Tyrell,Agius,The Winterlands,54,71,04/10/1995,46,46,46,179,98,1,10,,1,2,10,5,6,10,17,4,17,4,20,8,,1
+Riley,Millberg,The Winterlands,40,58,24/11/1996,36,36,36,183,104,20,14,,1,2,4,6,5,3,3,3,8,6,6,16,,1
+Luciano,Borthram,The Winterlands,51,80,25/12/1998,46,46,46,182,79,7,6,,1,2,7,4,11,7,3,2,11,9,7,17,,1
+Gail,Foss,The Winterlands,20,37,20/08/1989,32,32,32,193,90,14,4,,1,2,8,6,20,2,7,7,10,9,4,5,,1
+Carlo,Popeley,The Winterlands,51,117,06/01/1995,69,69,69,173,92,5,17,,1,2,10,8,11,20,6,14,5,5,15,14,,1
+Sheldon,Penchen,The Winterlands,5,80,01/05/1992,25,25,25,176,100,12,20,,1,2,8,3,17,9,13,13,1,13,3,17,,1
+Raul,Pringell,The Winterlands,16,77,24/06/1991,39,39,39,182,91,18,5,,1,2,5,5,6,16,16,19,1,7,15,1,,1
+Bo,Twell,The Winterlands,24,46,20/08/1994,44,44,44,177,93,15,19,,1,2,2,6,5,6,14,17,5,13,1,4,,1
+Leland,Stellino,The Winterlands,41,76,01/11/1996,46,46,46,186,66,20,9,,1,2,10,3,14,12,13,3,2,15,2,18,,1
+Agustin,Stockings,The Winterlands,19,30,12/06/1992,33,33,33,179,95,13,6,,1,2,9,7,5,19,19,14,9,20,7,10,,1
+Jake,Castagnasso,The Winterlands,28,93,01/02/1997,64,64,64,180,101,7,3,,1,2,10,4,10,5,14,2,20,17,13,7,,1
+Russel,Royds,The Winterlands,15,58,21/08/1992,42,42,42,185,82,13,19,,1,2,8,6,20,2,7,18,20,16,16,3,,1
+Lee,Squirrell,The Winterlands,51,85,06/03/1994,75,75,75,187,120,13,4,,1,2,9,6,13,14,10,19,13,13,19,6,,1
+Landon,Prior,The Winterlands,35,71,03/12/1989,43,43,43,188,101,16,3,,1,2,4,6,9,19,11,3,16,15,5,7,,1
+Harland,Storms,The Winterlands,52,104,11/04/1997,89,89,89,201,69,6,14,,1,2,5,7,4,12,12,11,16,3,18,20,,1
+Alejandro,Bucher,The Winterlands,45,49,02/07/1994,29,29,29,187,95,3,5,,1,2,6,7,8,3,10,4,1,15,4,10,,1
+Fidel,Prynne,The Winterlands,51,104,07/04/1998,97,97,97,178,106,14,7,,1,2,6,3,11,4,5,17,6,5,19,4,,1
+Dallas,Minard,The Winterlands,5,39,28/08/1994,33,33,33,188,94,16,7,,1,2,5,6,16,17,16,2,19,15,14,16,,1
+Robbie,Rippon,The Winterlands,7,35,22/10/1989,29,29,29,201,100,15,8,,1,2,3,6,15,10,17,8,8,6,17,19,,1
+Delbert,Clifforth,The Winterlands,51,60,25/03/1995,71,71,71,175,85,1,15,,1,2,6,2,12,18,20,1,17,2,13,8,,1
+Garth,Blumer,The Winterlands,18,36,03/02/1996,11,11,11,180,97,11,9,,1,2,5,5,15,1,12,16,13,3,19,4,,1
+Greg,Smoth,The Winterlands,19,35,22/10/1997,7,7,7,182,80,10,1,,1,2,10,6,13,18,4,2,4,6,5,18,,1
+Calvin,Blincoe,The Winterlands,27,41,24/07/1992,16,16,16,189,95,11,11,,1,2,6,6,6,4,7,6,19,4,4,2,,1
+Alvaro,MacVay,The Winterlands,34,60,04/01/1990,50,50,50,176,105,13,10,,1,2,7,7,4,9,11,13,11,3,12,10,,1
+Preston,Edinburgh,The Winterlands,44,89,20/07/1996,61,61,61,186,94,12,20,,1,2,4,7,8,10,14,6,15,4,9,12,,1
+Efrain,Beevor,The Winterlands,26,37,22/04/1998,31,31,31,189,81,14,13,,1,2,3,6,17,19,9,18,9,20,3,4,,1
+Thad,Jory,The Winterlands,35,37,28/09/1990,42,42,42,186,91,17,5,,1,2,4,8,20,12,5,9,19,5,16,10,,1
+Doyle,Fevers,The Winterlands,20,25,23/04/1993,29,29,29,177,67,14,8,,1,2,2,3,18,10,8,9,12,18,17,11,,1
+Shad,Pallant,The Winterlands,55,72,28/12/1990,58,58,58,188,96,10,19,,1,2,3,4,7,5,4,3,4,8,3,8,,1
+Deandre,Ripley,The Winterlands,21,101,24/05/1998,58,58,58,176,110,18,18,,1,2,6,2,1,8,3,9,1,14,2,19,,1
+Rene,Curry,The Winterlands,56,63,21/11/1989,69,69,69,182,101,8,18,,1,2,2,6,16,18,2,1,1,9,7,19,,1
+Ned,Beert,The Winterlands,60,62,03/09/1997,46,46,46,182,76,2,20,,1,2,5,5,2,5,3,6,17,5,7,12,,1
+Emery,Dreamer,The Winterlands,46,71,07/02/1995,67,67,67,194,98,8,7,,1,2,2,4,16,7,19,19,10,6,13,10,,1
+Philip,Rove,The Winterlands,41,116,24/03/1989,79,79,79,173,103,2,7,,1,2,2,7,8,4,19,1,1,6,11,17,,1
+Julio,Armitt,The Winterlands,40,47,27/08/1996,58,58,58,195,94,17,5,,1,2,5,8,9,4,3,1,4,6,2,15,,1
+Agustin,Takis,The Winterlands,60,79,10/03/1989,66,66,66,175,77,7,2,,1,2,6,6,14,10,5,9,18,10,15,10,,1
+Byron,Hadlington,The Winterlands,42,116,18/05/1995,87,87,87,175,90,18,7,,1,2,7,6,13,4,11,10,2,13,10,12,,1
+Gus,Togwell,The Winterlands,44,110,11/06/1994,62,62,62,185,99,20,14,,1,2,9,3,11,9,5,7,19,9,13,18,,1
+Shon,Saunderson,The Winterlands,4,36,15/09/1992,31,31,31,182,94,7,20,,1,2,9,3,12,1,18,8,16,6,5,5,,1
+Ignacio,Coraini,The Winterlands,48,80,08/11/1993,54,54,54,188,83,12,11,,1,2,4,3,11,1,9,14,10,1,20,7,,1
+Giuseppe,Scholl,The Winterlands,25,50,12/10/1997,34,34,34,184,109,15,8,,1,2,8,7,19,1,1,20,1,3,3,15,,1
+Waylon,Marian,The Winterlands,37,108,12/02/1997,91,91,91,190,91,2,9,,1,2,5,8,17,16,19,18,10,1,3,14,,1
+Florencio,Shimmings,The Winterlands,8,87,04/10/1989,33,33,33,201,85,9,13,,1,2,4,7,10,19,13,5,1,5,15,6,,1
+Long,Beavington,The Winterlands,54,59,13/05/1996,44,44,44,174,101,10,19,,1,2,5,8,14,14,4,6,6,14,11,15,,1
+Seth,Dowey,The Winterlands,4,64,04/02/1994,14,14,14,176,94,4,19,,1,2,10,2,17,16,6,14,18,5,6,11,,1
+Leland,Grute,The Winterlands,27,74,15/02/1994,67,67,67,183,115,14,5,,1,2,2,3,6,9,12,6,16,14,10,6,,1
+Jefferey,Crop,The Winterlands,40,97,15/10/1990,63,63,63,188,51,10,15,,1,2,6,6,4,5,10,5,2,7,5,16,,1
+Quintin,Load,The Winterlands,7,31,23/05/1992,15,15,15,192,93,15,9,,1,2,7,5,2,7,13,12,8,8,11,7,,1
+Manual,Arent,The Winterlands,19,68,06/03/1994,29,29,29,190,101,17,5,,1,2,8,6,6,1,10,17,15,2,19,16,,1
+Ramon,Redholes,The Winterlands,1,19,08/03/1995,20,20,20,184,108,18,17,,1,2,10,7,16,8,10,13,17,11,17,3,,1
+Colton,McSporon,The Winterlands,51,53,10/01/1993,50,50,50,179,87,6,20,,1,2,4,4,6,15,2,8,14,18,4,2,,1
+Jeffry,Andryushchenko,The Winterlands,18,49,02/03/1989,30,30,30,183,99,9,1,,1,2,6,7,11,16,20,17,5,12,17,19,,1
+Don,Wagstaffe,The Winterlands,13,62,04/10/1990,23,23,23,196,81,17,19,,1,2,7,7,7,12,18,2,2,16,1,13,,1
+Barney,Shambrooke,The Winterlands,39,115,01/12/1993,59,59,59,184,88,7,9,,1,2,7,2,9,16,11,18,12,11,15,6,,1
+Quinn,Morant,The Winterlands,15,36,04/03/1997,13,13,13,187,98,13,13,,1,2,5,5,16,7,10,15,15,13,16,18,,1
+Fletcher,Stobbie,The Winterlands,48,48,09/09/1993,54,54,54,191,110,9,13,,1,2,6,5,7,9,3,17,16,10,11,12,,1
+Merrill,Dallicott,The Winterlands,24,30,23/01/1996,44,44,44,195,99,19,6,,1,2,6,3,12,1,10,9,10,11,16,10,,1
+Loren,Inch,The Winterlands,28,88,26/06/1996,47,47,47,193,91,15,13,,1,2,7,5,20,10,15,5,9,6,7,15,,1
+Jewell,Limer,The Winterlands,39,88,13/05/1995,67,67,67,207,102,4,10,,1,2,6,3,17,4,10,10,7,5,20,7,,1
+Elisha,Duck,The Winterlands,7,14,23/11/1989,30,30,30,175,69,19,6,,1,2,2,7,7,2,14,3,17,3,9,10,,1
+Whitney,Cassar,The Winterlands,26,111,02/02/1991,68,68,68,194,96,17,2,,1,2,9,2,15,4,17,18,12,10,10,19,,1
+Glenn,Simeons,The Winterlands,28,123,12/02/1989,63,63,63,201,115,13,19,,1,2,6,5,5,2,15,7,18,10,15,12,,1
+Joshua,Manby,The Winterlands,57,104,23/12/1994,74,74,74,181,93,11,12,,1,2,4,5,12,3,16,18,17,4,2,10,,1
+Vince,Sewall,The Winterlands,42,109,03/05/1998,95,95,95,184,96,20,1,,1,2,5,4,3,4,1,4,10,18,15,11,,1
+Burt,Moodey,The Winterlands,32,68,03/04/1998,53,53,53,176,79,1,11,,1,2,5,3,11,2,4,1,19,7,9,7,,1
+Brendon,Wiburn,The Winterlands,29,36,08/02/1992,27,27,27,193,89,11,16,,1,2,4,6,16,11,2,16,11,10,2,14,,1
+Enrique,Dunley,The Winterlands,41,63,17/05/1990,46,46,46,179,97,19,13,,1,2,5,5,9,6,10,1,10,13,8,14,,1
+Lesley,Ryal,The Winterlands,27,59,10/04/1992,60,60,60,177,84,2,16,,1,2,7,3,12,16,14,16,5,2,4,11,,1
+Granville,Bouttell,The Winterlands,11,87,15/05/1989,56,56,56,186,96,6,13,,1,2,6,3,9,16,17,12,19,7,14,3,,1
+Darrick,Cathery,The Winterlands,28,59,02/08/1995,36,36,36,191,86,17,8,,1,2,4,7,14,20,11,7,12,8,16,14,,1
+Calvin,Braxton,The Winterlands,58,59,15/04/1998,40,40,40,171,93,14,16,,1,2,3,7,17,19,6,11,20,7,8,13,,1
+Buford,Rowley,The Winterlands,53,133,04/08/1998,104,104,104,200,98,8,17,,1,2,9,2,3,19,2,12,16,13,19,12,,1
+Fabian,Skate,The Winterlands,44,65,09/03/1990,59,59,59,174,98,11,4,,1,2,7,8,12,9,9,15,18,15,17,15,,1
+Bret,Brizell,The Winterlands,49,123,21/07/1989,71,71,71,188,104,3,18,,1,2,4,6,16,12,16,19,5,18,7,10,,1
+Thaddeus,Tome,The Winterlands,15,66,19/06/1989,28,28,28,180,96,11,7,,1,2,3,6,15,2,6,11,14,10,2,10,,1
+Stanton,Chrystie,The Winterlands,60,61,19/05/1989,71,71,71,194,75,12,2,,1,2,5,2,7,12,1,10,5,4,11,14,,1
+Odis,Tremayle,The Winterlands,21,91,11/05/1996,55,55,55,185,82,3,20,,1,2,7,3,14,19,7,2,9,10,1,11,,1
+Reyes,Dibdale,The Winterlands,21,77,20/07/1992,57,57,57,200,83,7,14,,1,2,3,7,11,18,15,7,12,18,18,20,,1
+Darron,Loosemore,The Winterlands,57,104,08/04/1992,68,68,68,192,79,6,2,,1,2,8,4,9,19,13,15,9,13,17,4,,1
+Raymundo,Mohamed,The Winterlands,55,102,06/11/1993,79,79,79,199,85,14,18,,1,2,2,7,3,7,14,20,2,15,12,14,,1
+Chi,Ranyelld,The Winterlands,41,110,21/10/1996,83,83,83,181,91,20,17,,1,2,2,5,1,9,5,1,11,11,16,9,,1
+Casey,Kroch,The Winterlands,17,67,01/12/1997,58,58,58,179,96,5,6,,1,2,5,2,1,5,4,9,16,20,18,2,,1
+Gaston,Milliken,The Winterlands,2,48,25/12/1998,39,39,39,180,84,2,15,,1,2,10,8,18,6,15,12,3,5,1,3,,1
+Calvin,Fairbrother,The Winterlands,47,100,26/05/1989,61,61,61,192,94,7,20,,1,2,3,6,11,19,1,20,8,16,6,4,,1
+Franklyn,Hindenberger,The Winterlands,30,67,11/09/1992,64,64,64,192,88,15,11,,1,2,2,5,17,15,19,12,16,16,15,19,,1
+Ray,Everington,The Winterlands,15,69,25/02/1998,60,60,60,178,106,18,15,,1,2,7,5,5,16,4,8,15,17,10,13,,1
+Blaine,Minto,The Winterlands,4,63,03/02/1995,20,20,20,192,98,13,9,,1,2,10,7,20,4,3,8,20,1,2,10,,1
+Emory,Gray,The Winterlands,6,51,15/05/1992,13,13,13,186,105,2,14,,1,2,7,4,12,10,14,3,4,18,17,17,,1
+Rayford,Garroch,The Winterlands,49,97,23/07/1996,60,60,60,197,79,19,4,,1,2,5,6,15,16,6,7,18,3,3,17,,1
+Victor,Shewry,The Winterlands,33,101,04/09/1996,86,86,86,178,92,10,13,,1,2,7,5,16,10,18,2,6,5,19,15,,1
+Ulysses,Shoorbrooke,The Winterlands,49,65,24/09/1994,48,48,48,176,84,6,4,,1,2,3,2,12,16,7,1,19,4,18,9,,1
+Nathaniel,Colegate,The Winterlands,49,62,13/10/1994,52,52,52,185,94,18,17,,1,2,3,5,1,14,8,19,11,11,14,20,,1
+Carlos,Eadmeads,The Winterlands,48,128,12/12/1996,69,69,69,191,91,18,13,,1,2,4,5,11,16,6,7,11,8,16,6,,1
+Mikel,Khrishtafovich,The Winterlands,12,43,17/08/1993,26,26,26,194,71,1,19,,1,2,4,6,6,16,4,19,1,13,12,18,,1
+Max,Alfonsetto,The Winterlands,41,101,16/04/1991,65,65,65,185,93,8,17,,1,2,8,6,7,16,16,9,10,8,1,15,,1
+Louis,Mazin,The Winterlands,44,114,11/05/1991,70,70,70,183,88,17,3,,1,2,3,2,10,1,18,18,20,9,19,15,,1
+Antwan,Clemence,The Winterlands,40,45,23/08/1993,60,60,60,180,76,5,18,,1,2,2,3,20,17,17,15,3,2,12,12,,1
+Korey,Nend,The Winterlands,59,108,09/06/1996,97,97,97,201,98,1,13,,1,2,3,7,8,15,12,4,10,6,19,5,,1
+Ashley,Geaves,The Winterlands,13,69,24/05/1994,36,36,36,170,98,18,15,,1,2,6,3,13,5,14,18,15,12,1,3,,1
+Gordon,Davsley,The Winterlands,5,28,28/09/1991,20,20,20,184,104,9,6,,1,2,3,6,20,3,9,19,16,12,9,18,,1
+Dominique,McCallion,The Winterlands,36,72,10/07/1993,34,34,34,197,88,14,13,,1,2,2,8,4,5,8,20,14,3,19,17,,1
+Brent,MacGoun,The Winterlands,32,97,28/12/1995,65,65,65,176,109,18,19,,1,2,5,2,2,11,18,20,14,4,19,13,,1
+Woodrow,Andrioli,The Winterlands,24,39,19/04/1992,21,21,21,183,118,8,3,,1,2,7,5,17,12,1,11,12,12,20,7,,1
+Hoyt,Scholig,The Winterlands,38,77,21/04/1991,71,71,71,188,95,4,11,,1,2,3,4,19,18,13,20,10,18,16,10,,1
+Gilberto,Tsarovic,The Winterlands,40,93,22/11/1992,56,56,56,196,78,4,11,,1,2,5,7,13,5,18,1,20,18,17,19,,1
+Tobias,McCoy,The Winterlands,56,67,16/11/1993,65,65,65,180,106,6,13,,1,2,7,6,11,17,19,10,3,13,19,18,,1
+Thomas,Dealey,The Winterlands,51,99,20/06/1989,58,58,58,183,95,13,10,,1,2,5,5,7,16,3,5,5,13,15,19,,1
+Hipolito,Duckett,The Winterlands,41,43,10/02/1990,41,41,41,184,92,6,15,,1,2,3,7,1,7,2,15,11,3,9,14,,1
+Reggie,Greengrass,The Winterlands,60,64,20/05/1997,49,49,49,180,83,3,20,,1,2,2,8,3,4,20,17,3,14,4,8,,1
+Vo,Wolfit,The Winterlands,57,80,03/09/1998,49,49,49,194,100,12,4,,1,2,7,4,18,6,17,19,1,3,1,9,,1
+Bernardo,Giametti,The Winterlands,52,117,07/10/1989,102,102,102,207,96,20,15,,1,2,6,7,17,13,15,16,12,20,19,8,,1
+Ben,Cartlidge,The Winterlands,47,83,13/06/1991,66,66,66,182,99,7,4,,1,2,9,3,10,15,4,15,13,1,14,8,,1
+Randell,O'Halleghane,The Winterlands,50,112,18/12/1991,73,73,73,182,92,17,13,,1,2,3,7,6,10,1,17,6,19,16,9,,1
+Aron,Duester,The Winterlands,16,51,11/06/1991,33,33,33,183,105,9,6,,1,2,6,3,11,11,16,2,6,12,15,2,,1
+Kenneth,Cattenach,The Winterlands,5,8,16/06/1991,15,15,15,190,91,1,3,,1,2,2,4,2,9,2,12,5,20,1,12,,1
+Isaiah,Lebrun,The Winterlands,57,127,12/03/1995,111,111,111,200,96,1,5,,1,2,3,4,4,3,13,20,20,10,13,13,,1
+Leonardo,Gumme,The Winterlands,29,30,26/03/1994,18,18,18,189,101,4,10,,1,2,2,6,1,3,20,2,6,7,2,10,,1
+Randy,Lazonby,The Winterlands,33,40,07/09/1997,38,38,38,188,80,6,3,,1,2,8,6,16,12,1,11,12,4,2,18,,1
+Lyman,Hlavac,The Winterlands,10,40,21/06/1989,6,6,6,191,85,17,2,,1,2,7,4,7,20,3,2,18,2,5,6,,1
+Gabriel,Varty,The Winterlands,30,87,25/07/1993,45,45,45,193,92,13,12,,1,2,9,3,3,17,9,13,12,8,9,7,,1
+Enoch,Stringman,The Winterlands,42,65,21/05/1995,37,37,37,177,87,6,4,,1,2,5,2,9,17,20,14,11,10,18,2,,1
+Amos,Stickles,The Winterlands,4,21,01/11/1991,22,22,22,184,88,12,8,,1,2,5,7,14,11,19,18,4,6,11,12,,1
+Lincoln,Murtimer,The Winterlands,52,95,12/04/1994,66,66,66,182,101,7,18,,1,2,7,6,12,15,5,19,17,13,3,10,,1
+Angelo,Endicott,The Winterlands,49,118,21/11/1998,87,87,87,177,84,6,12,,1,2,7,3,1,7,17,10,20,9,14,14,,1
+Hugo,Bertwistle,The Winterlands,46,81,24/08/1996,77,77,77,179,96,14,2,,1,2,8,2,2,20,7,17,12,18,1,17,,1
+Charley,Liptrod,The Winterlands,34,78,16/06/1996,51,51,51,177,99,2,11,,1,2,2,3,20,3,12,5,6,20,4,6,,1
+Marcel,Gosdin,The Winterlands,53,78,06/04/1989,85,85,85,192,101,10,7,,1,2,9,4,19,16,17,16,15,14,4,17,,1
+Brice,Capner,The Winterlands,21,83,15/10/1997,43,43,43,176,105,18,6,,1,2,2,2,3,8,4,15,10,15,5,15,,1
+Ezekiel,McCorrie,The Winterlands,24,59,12/06/1993,50,50,50,182,98,20,6,,1,2,3,2,16,18,19,16,14,16,11,17,,1
+Tad,O'Henehan,The Winterlands,21,37,07/07/1997,17,17,17,174,82,14,18,,1,2,7,6,17,7,4,12,9,15,10,4,,1
+Jarred,Louder,The Winterlands,43,70,02/03/1997,56,56,56,193,97,10,17,,1,2,7,8,17,16,5,11,16,6,1,8,,1
+Lyman,Bruni,The Winterlands,1,73,13/01/1991,49,49,49,176,84,10,3,,1,2,2,6,14,15,13,8,13,5,17,15,,1
+Amado,Hellcat,The Winterlands,1,24,16/04/1990,9,9,9,187,102,3,14,,1,2,8,8,7,15,1,7,15,18,4,4,,1
+Rey,Pocock,The Winterlands,1,41,03/10/1995,10,10,10,186,92,7,11,,1,2,9,8,1,6,14,10,12,5,7,2,,1
+Tuan,Schrei,The Winterlands,26,33,21/05/1995,42,42,42,179,102,10,1,,1,2,3,7,9,9,18,20,20,17,13,9,,1
+Mose,Uwins,The Winterlands,49,118,28/05/1989,93,93,93,171,91,8,14,,1,2,9,6,17,4,10,11,14,14,8,2,,1
+Leonel,Dransfield,The Winterlands,38,80,01/05/1989,57,57,57,175,89,16,1,,1,2,2,5,13,19,2,16,10,4,6,8,,1
+Raymond,Monelli,The Winterlands,30,34,25/07/1991,14,14,14,191,103,14,11,,1,2,4,3,6,16,20,16,13,17,18,18,,1
+Freeman,Conaghy,The Winterlands,47,109,10/10/1998,64,64,64,177,99,3,19,,1,2,4,3,7,10,8,13,20,15,6,15,,1
+Anibal,Grinnikov,The Winterlands,56,112,20/08/1993,69,69,69,181,79,12,14,,1,2,2,8,13,18,6,4,4,20,20,4,,1
+Ezequiel,Cristou,The Winterlands,1,36,17/02/1993,31,31,31,191,105,3,7,,1,2,4,7,11,15,2,13,14,19,16,2,,1
+Guillermo,Ridder,The Winterlands,59,126,28/09/1998,98,98,98,194,90,16,14,,1,2,7,6,5,18,1,11,14,4,2,18,,1
+Nathanial,Iacobucci,The Winterlands,35,89,09/01/1989,48,48,48,189,95,5,5,,1,2,5,6,2,9,11,16,17,13,10,9,,1
+Otto,Quadri,The Winterlands,15,32,04/09/1997,29,29,29,174,84,17,20,,1,2,6,2,20,8,10,11,13,9,15,19,,1
+Dudley,Keers,The Winterlands,8,9,17/06/1992,14,14,14,176,89,5,4,,1,2,2,4,1,12,5,11,14,7,18,20,,1
+Stanton,Bouldstridge,The Winterlands,60,109,10/10/1996,83,83,83,199,108,12,16,,1,2,3,5,14,16,3,15,5,11,9,9,,1
+Trent,Collacombe,The Winterlands,30,93,02/05/1996,66,66,66,183,97,17,13,,1,2,5,2,17,12,3,7,13,15,17,2,,1
+Noah,Fawdrie,The Winterlands,7,52,23/03/1991,10,10,10,188,94,10,13,,1,2,2,4,15,3,4,20,19,6,8,5,,1
+Lloyd,Povey,The Winterlands,22,28,11/05/1995,9,9,9,198,101,1,13,,1,2,2,3,5,6,1,10,14,8,7,9,,1
+Branden,Santon,The Winterlands,52,55,19/04/1994,62,62,62,181,106,5,3,,1,2,2,8,5,11,7,19,6,18,2,5,,1
+Riley,Horley,The Winterlands,24,39,24/08/1997,24,24,24,181,95,5,2,,1,2,9,3,1,14,14,2,1,6,14,13,,1
+Stacy,Ferrick,The Winterlands,30,75,22/12/1993,41,41,41,175,88,3,1,,1,2,10,7,1,15,10,16,2,17,14,12,,1
+Normand,Howarth,The Winterlands,35,93,19/11/1996,47,47,47,198,90,19,10,,1,2,2,2,10,6,20,10,19,14,10,8,,1
+Rashad,Sainter,The Winterlands,2,9,17/05/1995,11,11,11,188,53,9,4,,1,2,9,4,16,12,12,12,13,2,1,17,,1
+Clemente,Gooda,The Winterlands,48,67,07/11/1998,38,38,38,172,103,7,7,,1,2,2,4,15,16,11,10,3,7,6,19,,1
+Victor,Bothams,The Winterlands,56,106,28/04/1992,99,99,99,175,103,15,14,,1,2,9,7,8,14,2,16,5,13,15,5,,1
+Freeman,Thaw,The Winterlands,21,74,26/10/1994,59,59,59,177,93,5,18,,1,2,4,2,19,7,5,6,19,12,9,17,,1
+Bennett,Ridgedell,The Winterlands,43,95,26/07/1997,73,73,73,193,102,7,1,,1,2,10,3,5,15,8,12,15,3,18,9,,1
+Theodore,Lamy,The Winterlands,28,101,19/10/1994,57,57,57,191,96,3,9,,1,2,9,2,9,9,7,17,4,1,6,20,,1
+Anthony,Dwyr,The Winterlands,9,70,05/02/1997,29,29,29,176,114,11,19,,1,2,3,4,15,17,18,14,6,13,4,4,,1
+Stacey,Sparshott,The Winterlands,58,86,25/12/1992,73,73,73,192,88,11,7,,1,2,6,8,15,8,6,10,2,13,4,17,,1
+Cory,Fearne,The Winterlands,24,46,15/10/1989,54,54,54,201,76,1,14,,1,2,7,5,10,14,12,13,20,18,18,1,,1
+Chase,Fautly,The Winterlands,32,50,12/02/1997,35,35,35,180,89,17,6,,1,2,3,2,18,6,10,14,16,5,4,18,,1
+Jay,Sewter,The Winterlands,13,16,18/10/1997,21,21,21,190,53,4,17,,1,2,6,8,8,16,20,4,16,17,10,18,,1
+Andres,Rosser,The Winterlands,22,27,04/01/1993,19,19,19,202,89,6,12,,1,2,3,8,8,5,18,7,13,6,6,10,,1
+Clayton,Pattlel,The Winterlands,49,93,22/06/1996,89,89,89,184,93,18,4,,1,2,9,7,20,12,7,15,8,18,11,18,,1
+Laverne,Downgate,The Winterlands,34,104,08/12/1991,88,88,88,176,98,2,14,,1,2,3,8,9,5,11,3,14,16,20,7,,1
+Jefferson,Cobain,The Winterlands,52,62,12/04/1996,65,65,65,193,96,20,6,,1,2,5,7,15,3,13,16,20,10,1,15,,1
+Billy,Kubatsch,The Winterlands,49,64,16/01/1991,39,39,39,183,79,12,17,,1,2,6,5,15,10,14,6,18,16,13,20,,1
+Cristobal,Darnbrook,The Winterlands,37,84,14/02/1990,54,54,54,177,101,2,17,,1,2,9,6,4,4,7,19,4,4,14,9,,1
+Stewart,Chellenham,The Winterlands,60,108,24/03/1989,65,65,65,182,104,4,6,,1,2,4,7,16,18,2,11,14,18,3,14,,1
+Houston,Taggett,The Winterlands,12,38,21/06/1998,44,44,44,193,104,11,5,,1,2,2,3,17,1,4,14,6,18,12,19,,1
+Doyle,De Lisle,The Winterlands,26,119,22/10/1989,82,82,82,176,89,1,13,,1,2,10,2,6,17,13,19,8,6,14,18,,1
+Rocky,Buckell,The Winterlands,41,118,05/03/1996,70,70,70,188,120,9,5,,1,2,10,8,16,13,9,12,8,14,7,8,,1
+Jeffrey,Mullane,The Winterlands,28,38,06/12/1995,24,24,24,182,109,15,6,,1,2,2,2,18,17,20,15,12,18,4,20,,1
+Raymundo,Lacrouts,The Winterlands,20,20,26/12/1993,10,10,10,186,99,3,10,,1,2,10,4,10,10,1,13,1,14,1,5,,1
+Willian,Trays,The Winterlands,31,86,11/05/1998,74,74,74,188,52,15,10,,1,2,7,5,7,11,9,8,3,8,4,18,,1
+Erick,Stelljes,The Winterlands,7,75,28/01/1996,48,48,48,181,95,17,20,,1,2,5,2,9,20,6,6,6,19,3,4,,1
+Stuart,Turnor,The Winterlands,13,45,12/02/1992,25,25,25,177,64,7,15,,1,2,7,7,19,19,9,2,15,18,13,13,,1
+Tom,Ceschelli,The Winterlands,37,86,05/06/1994,80,80,80,178,115,13,7,,1,2,9,4,6,15,15,14,2,3,19,6,,1
+Young,Issac,The Winterlands,30,94,27/02/1995,65,65,65,183,104,16,9,,1,2,8,3,14,5,2,13,4,7,8,17,,1
+Kyle,Simonato,The Winterlands,45,110,01/08/1995,77,77,77,170,110,7,14,,1,2,3,2,5,8,4,2,1,20,6,16,,1
+Vincenzo,Rubberts,The Winterlands,2,27,24/08/1997,31,31,31,187,95,18,9,,1,2,2,8,18,20,16,17,8,7,16,16,,1
+Genaro,Skey,The Winterlands,49,71,24/06/1998,74,74,74,194,104,3,8,,1,2,6,2,19,2,6,1,6,11,14,14,,1
+Jerald,Prime,The Winterlands,52,64,28/10/1998,53,53,53,181,73,4,6,,1,2,2,6,15,12,15,15,14,1,20,14,,1
+Laurence,Saffe,The Winterlands,37,64,01/08/1990,67,67,67,180,90,13,7,,1,2,9,7,5,20,15,2,6,6,11,11,,1
+Marlon,Treweek,The Winterlands,60,107,19/05/1998,66,66,66,178,95,19,10,,1,2,3,4,12,6,16,7,3,6,11,15,,1
+William,Luscombe,The Winterlands,14,30,23/10/1997,3,3,3,198,90,16,13,,1,2,8,2,15,4,14,16,8,19,5,8,,1
+Philip,Fullard,The Winterlands,59,128,11/06/1996,96,96,96,184,98,1,1,,1,2,3,8,18,10,10,10,2,19,11,19,,1
+Lionel,Bruckent,The Winterlands,59,66,12/02/1998,43,43,43,186,92,9,7,,1,2,10,2,13,10,3,11,5,11,11,16,,1
+Barney,Blackborow,The Winterlands,44,108,11/01/1993,78,78,78,170,82,15,9,,1,2,9,8,2,9,13,12,1,6,15,2,,1
+Issac,Konertz,The Winterlands,6,23,10/01/1997,29,29,29,178,98,4,11,,1,2,5,6,8,19,2,14,4,1,2,2,,1
+Nelson,Bonde,The Winterlands,28,76,01/12/1998,32,32,32,184,107,11,7,,1,2,10,3,8,11,14,4,8,12,8,10,,1
+Rolando,Clatworthy,The Winterlands,48,56,14/02/1990,38,38,38,185,86,5,1,,1,2,8,8,9,19,19,4,9,14,4,6,,1
+Tyree,Broske,The Winterlands,59,74,27/02/1997,71,71,71,177,89,20,18,,1,2,9,2,15,19,4,17,10,2,3,19,,1
+Benedict,Rau,The Winterlands,38,40,09/09/1996,50,50,50,194,101,12,19,,1,2,9,7,12,20,1,2,4,7,1,5,,1
+Michale,Butt,The Winterlands,9,41,19/12/1998,39,39,39,178,85,10,10,,1,2,8,7,6,2,6,13,10,4,19,7,,1
+Lynn,Penticoot,The Winterlands,48,92,20/09/1995,51,51,51,190,60,7,17,,1,2,8,3,15,12,6,17,6,14,7,6,,1
+Rodrick,Aikett,The Winterlands,48,112,23/08/1993,97,97,97,177,108,16,17,,1,2,7,7,5,17,20,10,13,2,8,6,,1
+Raul,Ireland,The Winterlands,7,50,01/10/1997,35,35,35,190,104,20,1,,1,2,4,5,5,12,15,4,12,8,5,13,,1
+Lucio,Steddall,The Winterlands,36,90,26/02/1990,77,77,77,193,70,20,2,,1,2,6,8,14,4,10,8,12,20,6,3,,1
+Melvin,Shipperbottom,The Winterlands,40,82,17/06/1997,46,46,46,190,102,12,18,,1,2,10,2,17,8,19,5,10,2,14,13,,1
+Clarence,Polamontayne,The Winterlands,58,135,09/01/1996,92,92,92,181,93,19,12,,1,2,10,2,8,15,9,3,7,6,9,15,,1
+Thomas,Sheaf,The Winterlands,38,97,21/03/1992,75,75,75,186,109,1,12,,1,2,10,6,17,5,10,19,1,1,12,20,,1
+Zachariah,Ferby,The Winterlands,34,90,27/02/1996,71,71,71,186,103,16,3,,1,2,3,8,15,10,9,20,11,16,6,9,,1
+Fernando,Karet,The Winterlands,49,62,05/10/1997,58,58,58,183,104,3,2,,1,2,4,2,7,14,6,20,17,12,8,4,,1
+Joesph,Omond,The Winterlands,53,112,08/08/1995,89,89,89,177,91,13,10,,1,2,3,2,19,20,19,15,8,2,7,9,,1
+Daron,Pett,The Winterlands,11,47,09/08/1995,11,11,11,167,98,6,3,,1,2,5,8,12,19,2,15,16,20,15,15,,1
+Irwin,O'Hoey,The Winterlands,55,71,02/12/1990,80,80,80,176,90,17,4,,1,2,2,2,7,16,12,16,19,1,6,16,,1
+Gino,Nend,The Winterlands,57,60,15/11/1996,70,70,70,183,83,4,1,,1,2,4,5,6,3,2,16,2,4,4,5,,1
+Ernest,Clapson,The Winterlands,28,49,23/11/1998,41,41,41,184,90,4,9,,1,2,8,3,17,4,20,11,7,13,17,5,,1
+Romeo,Margerrison,The Winterlands,42,61,09/05/1989,61,61,61,178,101,15,6,,1,2,6,5,16,16,9,4,4,10,11,12,,1
+Zachary,Raiment,The Winterlands,51,125,14/01/1992,80,80,80,168,93,20,10,,1,2,9,5,9,13,19,13,2,20,15,7,,1
+Burl,Becken,The Winterlands,55,95,03/10/1995,75,75,75,195,95,1,3,,1,2,7,3,13,17,7,3,3,13,3,14,,1
+Chauncey,Acland,The Winterlands,8,27,02/01/1997,31,31,31,182,102,9,11,,1,2,4,8,1,11,4,8,3,2,8,3,,1
+Erwin,Hawking,The Winterlands,56,88,13/09/1996,52,52,52,175,102,2,9,,1,2,3,5,17,5,13,8,19,5,6,6,,1
+Forrest,Fairbourn,The Winterlands,20,65,04/09/1994,31,31,31,172,99,10,1,,1,2,7,7,1,6,6,2,2,2,4,8,,1
+Sammy,Feehily,The Winterlands,42,81,04/06/1993,55,55,55,195,94,16,9,,1,2,2,4,18,5,12,13,11,4,3,4,,1
+Carmine,Claremont,The Winterlands,53,65,11/12/1997,49,49,49,197,76,2,12,,1,2,5,4,4,6,8,19,1,5,7,19,,1
+Bernard,Pierson,The Winterlands,58,65,28/01/1989,58,58,58,191,112,6,7,,1,2,8,4,11,18,20,3,15,12,1,7,,1
+Orval,Pyson,The Winterlands,36,102,11/10/1998,72,72,72,187,111,18,1,,1,2,2,5,2,17,13,9,2,19,3,15,,1
+Jewell,Beachem,The Winterlands,45,134,19/11/1997,83,83,83,179,90,19,4,,1,2,8,7,2,5,14,11,20,18,7,11,,1
+Percy,Hampshire,The Winterlands,59,123,21/05/1996,91,91,91,180,83,20,17,,1,2,8,6,4,16,10,9,6,2,1,17,,1
+Alva,Crecy,The Winterlands,13,38,16/12/1991,37,37,37,196,99,8,20,,1,2,4,8,9,11,9,6,2,8,17,5,,1
+Son,Standish-Brooks,The Winterlands,21,80,09/04/1989,52,52,52,187,80,13,2,,1,2,10,7,6,18,17,20,13,6,5,16,,1
+Cletus,Foden,The Winterlands,2,39,21/03/1991,33,33,33,192,112,8,13,,1,2,2,4,7,7,2,16,13,4,9,16,,1
+Hipolito,O'Siaghail,The Winterlands,17,38,16/03/1992,21,21,21,176,81,11,4,,1,2,6,4,17,11,16,2,8,16,15,11,,1
