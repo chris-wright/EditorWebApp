@@ -9,12 +9,25 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
 
-import com.autoinput.actions.EditRobot;
-import com.autoinput.objects.Agreement;
-import com.autoinput.objects.Continent;
+import javax.faces.bean.ManagedBean;
+import javax.faces.bean.ManagedProperty;
+import javax.faces.bean.SessionScoped;
 
+import com.autoinput.actions.EditRobot;
+import com.autoinput.hibernate.objects.Agreement;
+import com.autoinput.hibernate.objects.Continent;
+import com.autoinput.spring.service.AppService;
+
+
+
+@ManagedBean(name="continentActioner")
+@SessionScoped
 public class ContinentActioner extends ObjectActioner {
 
+	
+	@ManagedProperty("#{appService}")
+	private AppService appService;
+	
 	EditRobot robot;
 	private ArrayList<Continent> objects = new ArrayList<Continent>();
 
@@ -229,5 +242,13 @@ public class ContinentActioner extends ObjectActioner {
 
 	public void setRobot(EditRobot robot) {
 		this.robot = robot;
+	}
+
+	public AppService getAppService() {
+		return appService;
+	}
+
+	public void setAppService(AppService appService) {
+		this.appService = appService;
 	}
 }

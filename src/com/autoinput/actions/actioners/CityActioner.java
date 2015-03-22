@@ -9,10 +9,22 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
 
-import com.autoinput.actions.EditRobot;
-import com.autoinput.objects.City;
+import javax.faces.bean.ManagedBean;
+import javax.faces.bean.ManagedProperty;
+import javax.faces.bean.SessionScoped;
 
+import com.autoinput.actions.EditRobot;
+import com.autoinput.hibernate.objects.City;
+import com.autoinput.spring.service.AppService;
+
+
+
+@ManagedBean(name="cityActioner")
+@SessionScoped
 public class CityActioner extends ObjectActioner {
+	
+	@ManagedProperty("#{appService}")
+	private AppService appService;
 
 	EditRobot robot;
 	private ArrayList<City> objects = new ArrayList<City>();
@@ -252,6 +264,14 @@ public class CityActioner extends ObjectActioner {
 
 	public void setObjects(ArrayList<City> objects) {
 		this.objects = objects;
+	}
+
+	public AppService getAppService() {
+		return appService;
+	}
+
+	public void setAppService(AppService appService) {
+		this.appService = appService;
 	}
 
 }

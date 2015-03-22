@@ -10,11 +10,22 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
 
-import com.autoinput.actions.EditRobot;
-import com.autoinput.objects.Nation;
-import com.autoinput.objects.Player;
+import javax.faces.bean.ManagedBean;
+import javax.faces.bean.ManagedProperty;
+import javax.faces.bean.SessionScoped;
 
+import com.autoinput.actions.EditRobot;
+import com.autoinput.hibernate.objects.Nation;
+import com.autoinput.hibernate.objects.Player;
+import com.autoinput.spring.service.AppService;
+
+
+@ManagedBean(name="playerActioner")
+@SessionScoped
 public class PlayerActioner extends ObjectActioner {
+	
+	@ManagedProperty("#{appService}")
+	private AppService appService;
 	
 	EditRobot robot;
 	private ArrayList<Player> objects = new ArrayList<Player>();
@@ -315,6 +326,14 @@ public class PlayerActioner extends ObjectActioner {
 
 	public void setObjects(ArrayList<Player> objects) {
 		this.objects = objects;
+	}
+
+	public AppService getAppService() {
+		return appService;
+	}
+
+	public void setAppService(AppService appService) {
+		this.appService = appService;
 	}
 
 }

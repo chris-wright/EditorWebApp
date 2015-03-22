@@ -14,14 +14,14 @@ import java.util.List;
 import java.util.Random;
 import java.util.Scanner;
 
-import com.autoinput.objects.Agreement;
-import com.autoinput.objects.City;
-import com.autoinput.objects.Club;
-import com.autoinput.objects.Competition;
-import com.autoinput.objects.Continent;
-import com.autoinput.objects.Nation;
-import com.autoinput.objects.Player;
-import com.autoinput.objects.Stadium;
+import com.autoinput.hibernate.objects.Agreement;
+import com.autoinput.hibernate.objects.City;
+import com.autoinput.hibernate.objects.Club;
+import com.autoinput.hibernate.objects.Competition;
+import com.autoinput.hibernate.objects.Continent;
+import com.autoinput.hibernate.objects.Nation;
+import com.autoinput.hibernate.objects.Player;
+import com.autoinput.hibernate.objects.Stadium;
 
 public class Actioner {
 

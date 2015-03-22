@@ -4,7 +4,10 @@ import java.text.DateFormat;
 import java.text.SimpleDateFormat;
 import java.util.Date;
 
-import com.autoinput.objects.City;
+import javax.faces.bean.ManagedProperty;
+
+import com.autoinput.hibernate.objects.City;
+import com.autoinput.spring.service.AppService;
 
 public abstract class ObjectActioner {
 

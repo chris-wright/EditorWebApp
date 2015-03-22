@@ -1,6 +1,7 @@
 package com.autoinput.actions.actioners;
 
 import java.awt.AWTException;
+
 import java.io.IOException;
 import java.nio.charset.StandardCharsets;
 import java.nio.file.Path;
@@ -9,11 +10,21 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
 
-import com.autoinput.actions.EditRobot;
-import com.autoinput.objects.Player;
-import com.autoinput.objects.Stadium;
+import javax.faces.bean.ManagedBean;
+import javax.faces.bean.ManagedProperty;
+import javax.faces.bean.SessionScoped;
 
+import com.autoinput.actions.EditRobot;
+import com.autoinput.hibernate.objects.Player;
+import com.autoinput.hibernate.objects.Stadium;
+import com.autoinput.spring.service.AppService;
+
+@ManagedBean(name="stadiumActioner")
+@SessionScoped
 public class StadiumActioner extends ObjectActioner {
+	
+	@ManagedProperty("#{appService}")
+	private AppService appService;
 
 	EditRobot robot;
 	private ArrayList<Stadium> objects = new ArrayList<Stadium>();
@@ -282,6 +293,14 @@ public class StadiumActioner extends ObjectActioner {
 
 	public void setObjects(ArrayList<Stadium> objects) {
 		this.objects = objects;
+	}
+
+	public AppService getAppService() {
+		return appService;
+	}
+
+	public void setAppService(AppService appService) {
+		this.appService = appService;
 	}
 
 }

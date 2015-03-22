@@ -1,6 +1,6 @@
 package com.autoinput.drivers;
 
-import com.autoinput.filereader.ReadData;
+import com.autoinput.beans.ReadData;
 
 public class DifferentReadDriver {
 	public static void main(String[] args) {

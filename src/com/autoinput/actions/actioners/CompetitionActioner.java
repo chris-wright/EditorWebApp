@@ -9,10 +9,21 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
 
-import com.autoinput.actions.EditRobot;
-import com.autoinput.objects.Competition;
+import javax.faces.bean.ManagedBean;
+import javax.faces.bean.ManagedProperty;
+import javax.faces.bean.SessionScoped;
 
+import com.autoinput.actions.EditRobot;
+import com.autoinput.hibernate.objects.Competition;
+import com.autoinput.spring.service.AppService;
+
+
+@ManagedBean(name="competitionActioner")
+@SessionScoped
 public class CompetitionActioner extends ObjectActioner {
+	
+	@ManagedProperty("#{appService}")
+	private AppService appService;
 
 	
 	EditRobot robot;
@@ -281,6 +292,14 @@ public class CompetitionActioner extends ObjectActioner {
 
 	public void setObjects(ArrayList<Competition> objects) {
 		this.objects = objects;
+	}
+
+	public AppService getAppService() {
+		return appService;
+	}
+
+	public void setAppService(AppService appService) {
+		this.appService = appService;
 	}
 
 }

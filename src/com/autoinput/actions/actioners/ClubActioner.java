@@ -10,11 +10,21 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
 
-import com.autoinput.actions.EditRobot;
-import com.autoinput.objects.Club;
-import com.autoinput.objects.Competition;
+import javax.faces.bean.ManagedBean;
+import javax.faces.bean.ManagedProperty;
+import javax.faces.bean.SessionScoped;
 
+import com.autoinput.actions.EditRobot;
+import com.autoinput.hibernate.objects.Club;
+import com.autoinput.hibernate.objects.Competition;
+import com.autoinput.spring.service.AppService;
+
+@ManagedBean(name="clubActioner")
+@SessionScoped
 public class ClubActioner extends ObjectActioner {
+	
+	@ManagedProperty("#{appService}")
+	private AppService appService;
 
 	EditRobot robot;
 	String fullInputFile = "C:\\Users\\Chris\\Documents\\Coding\\auto-input\\src\\com\\autoinput\\resources\\create_club_test_new.txt";
@@ -958,5 +968,13 @@ public class ClubActioner extends ObjectActioner {
 
 	public void setObjects(ArrayList<Club> objects) {
 		this.objects = objects;
+	}
+
+	public AppService getAppService() {
+		return appService;
+	}
+
+	public void setAppService(AppService appService) {
+		this.appService = appService;
 	}
 }
