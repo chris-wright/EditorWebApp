@@ -9,6 +9,11 @@
 </h:head>
 <h:form>
     <p:growl id="messages"></p:growl>
-    <p:commandButton value="Click here to run the reader" action="#{readData.doStuff}" ></p:commandButton>
+	<h3>Please choose the data you wish to view</h3>
+	<p:panelGrid columns="1" layout="grid">
+		<p:commandButton value="Read Data from Spreadsheet" action="#{readData.doStuff}" ></p:commandButton>
+		<p:commandButton value="View Previously Read Data" action="#{redirect.redirectToInfoScreen}" ></p:commandButton>
+		
+	</p:panelGrid>
 </h:form>
 </html>

@@ -13,5 +13,11 @@
         
         <mapping class="com.autoinput.hibernate.objects.Continent"></mapping>
         <mapping class="com.autoinput.hibernate.objects.Nation"></mapping>
+        <mapping class="com.autoinput.hibernate.objects.Club"></mapping>
+        <mapping class="com.autoinput.hibernate.objects.City"></mapping>
+        <mapping class="com.autoinput.hibernate.objects.Stadium"></mapping>
+        <mapping class="com.autoinput.hibernate.objects.Player"></mapping>
+        <mapping class="com.autoinput.hibernate.objects.Competition"></mapping>
+        <mapping class="com.autoinput.hibernate.objects.Agreement"></mapping>
     </session-factory>
 </hibernate-configuration>

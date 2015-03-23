@@ -36,6 +36,10 @@ public class StadiumActioner extends ObjectActioner {
 			e.printStackTrace();
 		}
 	}
+	
+	public void delete(Stadium stadium) {
+		appService.deleteStadium(stadium);
+	}
 
 	@Override
 	public void doObjectActionFile(String filename, Object obj) {

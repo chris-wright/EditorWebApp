@@ -13,9 +13,14 @@
 		<p:column headerText="Id">
 			<h:outputText value="#{agreement.id}" />
 		</p:column>
-
 		<p:column headerText="Name">
 			<h:outputText value="#{agreement.name}" />
+		</p:column>
+		<p:column headerText="Date Added">
+			<h:outputText value="#{city.dateAdded}" />
+		</p:column>
+		<p:column>
+			<p:commandButton value="Delete" action="#{agreementActioner.delete(agreement)}"></p:commandButton>
 		</p:column>
 	</p:dataTable>
 	<p:commandButton value="Back to Info"

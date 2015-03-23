@@ -1,26 +1,38 @@
 package com.autoinput.spring.controller;
 
+import javax.faces.bean.ManagedProperty;
+import javax.faces.context.FacesContext;
+
+import org.springframework.context.ApplicationContext;
+import org.springframework.context.support.ClassPathXmlApplicationContext;
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.servlet.ModelAndView;
 
 import com.autoinput.beans.ReadData;
 import com.autoinput.beans.WriteData;
+import com.autoinput.helpers.AppHelper;
+import com.autoinput.spring.service.AppService;
 
 @Controller
 public class AutoInputController {
 
+	@ManagedProperty("#{appService}")
+	private AppService appService;
+	
 	@RequestMapping("/welcome")
 	public ModelAndView autoinputdata() {
 		
-		ReadData readData =  new ReadData("C:\\Users\\Chris\\Dropbox\\World v15.2 - Copy.xlsm");
-		readData.doStuff();
+		ReadData readData =  AppHelper.findBean("readData");
 		
-		WriteData.writeContinentData(readData.getContinentActioner().getObjects(), true);
-		WriteData.writeNationData(readData.getNationActioner().getObjects(), true);
-		WriteData.writeAgreementData(readData.getAgreementActioner().getObjects(), true);
-		WriteData.writeCityData(readData.getCityActioner().getObjects(), true);
-		WriteData.writeClubData(readData.getClubActioner().getObjects(), true);
+		appService.writeContinentData(readData.getContinentActioner().getObjects(), true);
+		appService.writeNationData(readData.getNationActioner().getObjects(), true);
+		appService.writeAgreementData(readData.getAgreementActioner().getObjects(), true);
+		appService.writeCityData(readData.getCityActioner().getObjects(), true);
+		appService.writeClubData(readData.getClubActioner().getObjects(), true);
+		appService.writeStadiumData(readData.getStadiumActioner().getObjects(), true);
+		appService.writeCompetitionData(readData.getCompetitionActioner().getObjects(), true);
+		
 		
 		String message = "<br><div align='center'>" 
 				+ "<h3>Number of Continents: " + readData.getContinentActioner().getObjects().size() +  "<br>"

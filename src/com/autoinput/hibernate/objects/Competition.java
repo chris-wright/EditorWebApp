@@ -1,24 +1,74 @@
 package com.autoinput.hibernate.objects;
 
+import java.util.Date;
+
+import javax.persistence.Column;
+import javax.persistence.Entity;
+import javax.persistence.GeneratedValue;
+import javax.persistence.Id;
+import javax.persistence.Table;
+
+@Entity
+@Table(name = "COMPETITION")
 public class Competition extends EditorObject {
-	
+
+	@Id
+    @GeneratedValue
 	private Long id;
-	
+
+	@Column(name="NAME_ID")
+	private String nameId;
+
+	@Column(name="DATE_ADDED")
+	private Date dateAdded;
+
+
+	@Column(name="SHORT_NAME")
 	private String shortName;
+
+	@Column(name="THREE_LETTER_NAME")
 	private String threeLetterName;
+
+	@Column(name="FG_RED")
 	private Long fgRed;
+
+	@Column(name="FG_GREEN")
 	private Long fgGreen;
+
+	@Column(name="FG_BLUE")
 	private Long fgBlue;
+
+	@Column(name="BG_RED")
 	private Long bgRed;
+
+	@Column(name="BG_GREEN")
 	private Long bgGreen;
+
+	@Column(name="BG_BLUE")
 	private Long bgBlue;
+
+	@Column(name="T_RED")
 	private Long tRed;
+
+	@Column(name="T_GREEN")
 	private Long tGreen;
+
+	@Column(name="T_BLUE")
 	private Long tBlue;
+
+	@Column(name="NATION")
 	private String nation;
+
+	@Column(name="CONTINENT")
 	private String continent;
+
+	@Column(name="REP")
 	private Long rep;
+
+	@Column(name="TYPE")
 	private Long type;
+
+	@Column(name="LEVEL")
 	private Long level;
 
 	public Long getId() {
@@ -122,6 +172,18 @@ public class Competition extends EditorObject {
 	}
 	public void setContinent(String continent) {
 		this.continent = continent;
+	}
+	public String getNameId() {
+		return nameId;
+	}
+	public void setNameId(String nameId) {
+		this.nameId = nameId;
+	}
+	public Date getDateAdded() {
+		return dateAdded;
+	}
+	public void setDateAdded(Date dateAdded) {
+		this.dateAdded = dateAdded;
 	}
 	
 	

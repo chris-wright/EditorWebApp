@@ -28,6 +28,24 @@ public class RedirectBean {
 		}
 	}
 	
+	public void redirectToCompetitions() {
+		try {
+			FacesContext.getCurrentInstance().getExternalContext().redirect("CompetitionView.xhtml");
+		} catch (IOException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+	}
+	
+	public void redirectToStadiums() {
+		try {
+			FacesContext.getCurrentInstance().getExternalContext().redirect("StadiumView.xhtml");
+		} catch (IOException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+	}
+	
 	public void redirectToCities() {
 		try {
 			FacesContext.getCurrentInstance().getExternalContext().redirect("CityView.xhtml");

@@ -1,0 +1,33 @@
+<html xmlns="http://www.w3.org/1999/xhtml"
+	xmlns:ui="http://java.sun.com/jsf/facelets"
+	xmlns:h="http://java.sun.com/jsf/html"
+	xmlns:f="http://java.sun.com/jsf/core"
+	xmlns:p="http://primefaces.org/ui">
+<h:head>
+	<script name="jquery/jquery.js" library="primefaces"></script>
+	<title>Competitions</title>
+</h:head>
+<h:form>
+	<p:growl id="messages"></p:growl>
+	<p:dataTable var="competition" value="#{competitionActioner.objects}" paginator="true" rows="10" paginatorTemplate="{RowsPerPageDropdown} {FirstPageLink} {PreviousPageLink} {CurrentPageReport} {NextPageLink} {LastPageLink}"
+                 rowsPerPageTemplate="5,10,20,50" id="competitionTable" lazy="true">
+		<p:column headerText="Id">
+			<h:outputText value="#{competition.nameId}" />
+		</p:column>
+		<p:column headerText="Name">
+			<h:outputText value="#{competition.name}" />
+		</p:column>
+		<p:column headerText="Nation">
+			<h:outputText value="#{competition.nation}" />
+		</p:column>
+		<p:column headerText="Continent">
+			<h:outputText value="#{competition.continent}" />
+		</p:column>
+		<p:column headerText="Rep">
+			<h:outputText value="#{competition.rep}" />
+		</p:column>
+	</p:dataTable>
+	<p:commandButton value="Back to Info"
+		action="#{redirect.redirectToInfoScreen}"></p:commandButton>
+</h:form>
+</html>

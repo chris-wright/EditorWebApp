@@ -30,6 +30,7 @@ public class ClubActioner extends ObjectActioner {
 	String fullInputFile = "C:\\Users\\Chris\\Documents\\Coding\\auto-input\\src\\com\\autoinput\\resources\\create_club_test_new.txt";
 	String skeletonInputFile = "C:\\Users\\Chris\\Documents\\Coding\\auto-input\\src\\com\\autoinput\\resources\\create_club_skeleton.txt";
 	private ArrayList<Club> objects = new ArrayList<Club>();
+	private Club selectedObject;
 	
 	public ClubActioner() {
 		try {
@@ -37,6 +38,10 @@ public class ClubActioner extends ObjectActioner {
 		} catch (AWTException e) {
 			e.printStackTrace();
 		}
+	}
+	
+	public void delete(Club club) {
+		appService.deleteClub(club);
 	}
 
 	@Override
@@ -976,5 +981,13 @@ public class ClubActioner extends ObjectActioner {
 
 	public void setAppService(AppService appService) {
 		this.appService = appService;
+	}
+
+	public Club getSelectedObject() {
+		return selectedObject;
+	}
+
+	public void setSelectedObject(Club selectedObject) {
+		this.selectedObject = selectedObject;
 	}
 }

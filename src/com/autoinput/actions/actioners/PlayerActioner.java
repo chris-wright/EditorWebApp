@@ -38,6 +38,10 @@ public class PlayerActioner extends ObjectActioner {
 			e.printStackTrace();
 		}
 	}
+	
+	public void delete(Player player) {
+		appService.deletePlayer(player);
+	}
 
 	@Override
 	public void doObjectActionFile(String filename, Object obj) {

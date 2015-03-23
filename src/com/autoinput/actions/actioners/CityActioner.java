@@ -36,6 +36,10 @@ public class CityActioner extends ObjectActioner {
 			e.printStackTrace();
 		}
 	}
+	
+	public void delete(City city) {
+		appService.deleteCity(city);
+	}
 
 	@Override
 	public void readObject(String filename, boolean test, int numberToLoad, String nation, boolean skeleton) {

@@ -126,3 +126,21 @@ CREATE TABLE CLUB
 	HAS_THIRD_KIT number,
   DATE_ADDED date
 );
+
+CREATE TABLE STADIUM
+(
+	ID number,
+	NAME_ID varchar(255),
+	DATE_ADDED date,
+	CITY varchar(255),
+	CAPACITY number,
+	SEATING_CAPACITY number,
+	EXPANSION_CAPACITY number,
+	USED_CAPACITY number,
+	PITCH_TYPE number,
+	PITCH_CONDITION number,
+	IS_COVERED number,
+	RETRACT_ROOF number,
+	UNDERSOIL_HEATING number,
+	STATE number
+);

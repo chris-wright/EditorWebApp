@@ -9,8 +9,10 @@ import org.hibernate.Session;
 import com.autoinput.hibernate.objects.Agreement;
 import com.autoinput.hibernate.objects.City;
 import com.autoinput.hibernate.objects.Club;
+import com.autoinput.hibernate.objects.Competition;
 import com.autoinput.hibernate.objects.Continent;
 import com.autoinput.hibernate.objects.Nation;
+import com.autoinput.hibernate.objects.Stadium;
 import com.autoinput.hibernate.util.HibernateUtil;
 
 public class WriteData {
@@ -42,6 +44,52 @@ public class WriteData {
 	public static void removeClubs() {
 		Session session = HibernateUtil.getSessionFactory().openSession();
 		session.createSQLQuery("delete from Club").executeUpdate();
+		session.close();
+	}
+
+	public static void removeStadiums() {
+		Session session = HibernateUtil.getSessionFactory().openSession();
+		session.createSQLQuery("delete from Stadium").executeUpdate();
+		session.close();
+	}
+
+	public static void removeCompetitions() {
+		Session session = HibernateUtil.getSessionFactory().openSession();
+		session.createSQLQuery("delete from Competition").executeUpdate();
+		session.close();
+	}
+	
+
+	public static void writeCompetitionData(List<Competition> competitions, boolean removeAllOthers) {
+		if(removeAllOthers) {
+			removeCompetitions();
+		}
+		Session session = HibernateUtil.getSessionFactory().openSession();
+		session.beginTransaction();
+		for(Competition competition : competitions) {
+			competition.setDateAdded(new Date());
+			competition.setNameId(competition.getThreeLetterName() + "_" + competition.getName());
+			session.save(competition);
+		}
+		if (!session.getTransaction().wasCommitted())
+			session.getTransaction().commit();
+		session.close();
+	}
+	
+
+	public static void writeStadiumData(List<Stadium> stadiums, boolean removeAllOthers) {
+		if(removeAllOthers) {
+			removeStadiums();
+		}
+		Session session = HibernateUtil.getSessionFactory().openSession();
+		session.beginTransaction();
+		for(Stadium stadium : stadiums) {
+			stadium.setDateAdded(new Date());
+			stadium.setNameId(stadium.getName() + "_" + stadium.getCity());
+			session.save(stadium);
+		}
+		if (!session.getTransaction().wasCommitted())
+			session.getTransaction().commit();
 		session.close();
 	}
 	

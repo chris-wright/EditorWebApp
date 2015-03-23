@@ -27,6 +27,7 @@ import com.autoinput.actions.actioners.ContinentActioner;
 import com.autoinput.actions.actioners.NationActioner;
 import com.autoinput.actions.actioners.PlayerActioner;
 import com.autoinput.actions.actioners.StadiumActioner;
+import com.autoinput.helpers.AppHelper;
 
 
 @ManagedBean(name="readData")
@@ -47,32 +48,26 @@ public class ReadData {
 	
 	public ReadData(String filepath) {
 		this.filepath = filepath;
-		this.agreementActioner = findBean("agreementActioner");
-		this.cityActioner = findBean("cityActioner");
-		this.clubActioner = findBean("clubActioner");
-		this.competitionActioner = findBean("competitionActioner");
-		this.continentActioner = findBean("continentActioner");
-		this.nationActioner = findBean("nationActioner");
-		this.playerActioner = findBean("playerActioner");
-		this.stadiumActioner = findBean("stadiumActioner");
+		this.agreementActioner = AppHelper.findBean("agreementActioner");
+		this.cityActioner = AppHelper.findBean("cityActioner");
+		this.clubActioner = AppHelper.findBean("clubActioner");
+		this.competitionActioner = AppHelper.findBean("competitionActioner");
+		this.continentActioner = AppHelper.findBean("continentActioner");
+		this.nationActioner = AppHelper.findBean("nationActioner");
+		this.playerActioner = AppHelper.findBean("playerActioner");
+		this.stadiumActioner = AppHelper.findBean("stadiumActioner");
 	}
 	
 	public ReadData() {
-		this.filepath = "C:\\Users\\Chris\\Dropbox\\World v15.2 - Copy.xlsm";
-		this.agreementActioner = findBean("agreementActioner");
-		this.cityActioner = findBean("cityActioner");
-		this.clubActioner = findBean("clubActioner");
-		this.competitionActioner = findBean("competitionActioner");
-		this.continentActioner = findBean("continentActioner");
-		this.nationActioner = findBean("nationActioner");
-		this.playerActioner = findBean("playerActioner");
-		this.stadiumActioner = findBean("stadiumActioner");
-	}
-	
-	@SuppressWarnings("unchecked")
-	public static <T> T findBean(String beanName) {
-	    FacesContext context = FacesContext.getCurrentInstance();
-	    return (T) context.getApplication().evaluateExpressionGet(context, "#{" + beanName + "}", Object.class);
+		this.filepath = "C:\\Users\\chris.wright\\Dropbox\\World v15.2 - Copy.xlsm";
+		this.agreementActioner = AppHelper.findBean("agreementActioner");
+		this.cityActioner = AppHelper.findBean("cityActioner");
+		this.clubActioner = AppHelper.findBean("clubActioner");
+		this.competitionActioner = AppHelper.findBean("competitionActioner");
+		this.continentActioner = AppHelper.findBean("continentActioner");
+		this.nationActioner = AppHelper.findBean("nationActioner");
+		this.playerActioner = AppHelper.findBean("playerActioner");
+		this.stadiumActioner = AppHelper.findBean("stadiumActioner");
 	}
 	
 	public void doStuff() {

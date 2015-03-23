@@ -37,6 +37,10 @@ public class CompetitionActioner extends ObjectActioner {
 			e.printStackTrace();
 		}
 	}
+	
+	public void delete(Competition competition) {
+		appService.deleteCompetition(competition);
+	}
 
 	@Override
 	public void doObjectActionFile(String filename, Object obj) {

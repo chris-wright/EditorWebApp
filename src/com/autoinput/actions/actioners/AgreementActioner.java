@@ -170,6 +170,10 @@ public class AgreementActioner extends ObjectActioner {
 		doObjectActionFile("C:\\Users\\Chris\\Documents\\Coding\\auto-input\\src\\com\\autoinput\\resources\\create_agreement.txt", agreement);
 		printLogMsg("Finished running for " + agreement.getName());
 	}
+	
+	public void delete(Agreement agreement) {
+		appService.deleteAgreement(agreement);
+	}
 
 	public ArrayList<Agreement> getObjects() {
 		return objects;

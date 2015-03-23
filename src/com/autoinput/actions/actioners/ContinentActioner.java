@@ -15,6 +15,7 @@ import javax.faces.bean.SessionScoped;
 
 import com.autoinput.actions.EditRobot;
 import com.autoinput.hibernate.objects.Agreement;
+import com.autoinput.hibernate.objects.Competition;
 import com.autoinput.hibernate.objects.Continent;
 import com.autoinput.spring.service.AppService;
 
@@ -37,6 +38,10 @@ public class ContinentActioner extends ObjectActioner {
 		} catch (AWTException e) {
 			e.printStackTrace();
 		}
+	}
+	
+	public void delete(Continent continent) {
+		appService.deleteContinent(continent);
 	}
 
 	@Override

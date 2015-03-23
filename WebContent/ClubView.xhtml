@@ -9,13 +9,31 @@
 </h:head>
 <h:form>
 	<p:growl id="messages"></p:growl>
-	<p:dataTable var="club" value="#{clubActioner.objects}">
+	<p:dataTable var="club" value="#{clubActioner.objects}" paginator="true" rows="10" paginatorTemplate="{RowsPerPageDropdown} {FirstPageLink} {PreviousPageLink} {CurrentPageReport} {NextPageLink} {LastPageLink}"
+                 rowsPerPageTemplate="5,10,20,50" id="clubTable" lazy="true">
 		<p:column headerText="Id">
-			<h:outputText value="#{club.id}" />
+			<h:outputText value="#{club.nameId}" />
 		</p:column>
-
 		<p:column headerText="Name">
 			<h:outputText value="#{club.name}" />
+		</p:column>
+		<p:column headerText="City">
+			<h:outputText value="#{club.city}" />
+		</p:column>
+		<p:column headerText="Nation">
+			<h:outputText value="#{club.nation}" />
+		</p:column>
+		<p:column headerText="Reputation">
+			<h:outputText value="#{club.rep}" />
+		</p:column>
+		<p:column headerText="Balance">
+			<h:outputText value="#{club.balance}" />
+		</p:column>
+		<p:column headerText="Date Added">
+			<h:outputText value="#{club.dateAdded}" />
+		</p:column>
+		<p:column>
+			<p:commandButton value="Delete" action="#{clubActioner.delete(club))}"></p:commandButton>
 		</p:column>
 	</p:dataTable>
 	<p:commandButton value="Back to Info"
