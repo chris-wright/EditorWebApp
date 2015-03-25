@@ -10,20 +10,142 @@
 <h:form>
 	<p:growl id="messages"></p:growl>
 	<p:dataTable var="city" value="#{cityActioner.objects}">
+
+		<f:facet name="header">
+           City Data
+        </f:facet>
+        
+		<p:ajax event="cellEdit" listener="#{cityActioner.onCellEdit}" update=":form:msgs" />
+
 		<p:column headerText="Id">
-			<h:outputText value="#{city.id}" />
-		</p:column>
-		<p:column headerText="Name">
-			<h:outputText value="#{city.name}" />
-		</p:column>
-		<p:column headerText="Nation">
-			<h:outputText value="#{city.nation}" />
+			<h:outputText value="#{city.nameId}" />
 		</p:column>
 		<p:column headerText="Date Added">
 			<h:outputText value="#{city.dateAdded}" />
 		</p:column>
+		<p:column headerText="Name">
+			<p:cellEditor>
+				<f:facet name="output">
+					<h:outputText value="#{city.name}" />
+				</f:facet>
+				<f:facet name="input">
+					<p:inputText id="nameInput" value="#{city.name}" style="width:100%" />
+				</f:facet>
+			</p:cellEditor>
+		</p:column>
+		<p:column headerText="Nation">
+			<p:cellEditor>
+				<f:facet name="output">
+					<h:outputText value="#{city.nation}" />
+				</f:facet>
+				<f:facet name="input">
+					<p:inputText id="nationInput" value="#{city.nation}"
+						style="width:100%" />
+				</f:facet>
+			</p:cellEditor>
+		</p:column>
+		<p:column headerText="Language">
+			<p:cellEditor>
+				<f:facet name="output">
+					<h:outputText value="#{city.language}" />
+				</f:facet>
+				<f:facet name="input">
+					<p:inputText id="languageInput" value="#{city.language}"
+						style="width:100%" />
+				</f:facet>
+			</p:cellEditor>
+		</p:column>
+		<p:column headerText="Attraction">
+			<p:cellEditor>
+				<f:facet name="output">
+					<h:outputText value="#{city.attraction}" />
+				</f:facet>
+				<f:facet name="input">
+					<p:inputText id="attractionInput" value="#{city.attraction}"
+						style="width:100%" />
+				</f:facet>
+			</p:cellEditor>
+		</p:column>
+		<p:column headerText="Inhabitants Range">
+			<p:cellEditor>
+				<f:facet name="output">
+					<h:outputText value="#{city.inhabitantsRange}" />
+				</f:facet>
+				<f:facet name="input">
+					<p:inputText id="inhabRangeInput" value="#{city.inhabitantsRange}"
+						style="width:100%" />
+				</f:facet>
+			</p:cellEditor>
+		</p:column>
+		<p:column headerText="Citizen Description">
+			<p:cellEditor>
+				<f:facet name="output">
+					<h:outputText value="#{city.citizenDescription}" />
+				</f:facet>
+				<f:facet name="input">
+					<p:inputText id="citDescInput" value="#{city.citizenDescription}"
+						style="width:100%" />
+				</f:facet>
+			</p:cellEditor>
+		</p:column>
+		<p:column headerText="Latitude">
+			<p:cellEditor>
+				<f:facet name="output">
+					<h:outputText value="#{city.latitude}" />
+				</f:facet>
+				<f:facet name="input">
+					<p:inputText id="latitudeInput" value="#{city.latitude}"
+						style="width:100%" />
+				</f:facet>
+			</p:cellEditor>
+		</p:column>
+		<p:column headerText="Longitude">
+			<p:cellEditor>
+				<f:facet name="output">
+					<h:outputText value="#{city.longitude}" />
+				</f:facet>
+				<f:facet name="input">
+					<p:inputText id="longitudeInput" value="#{city.longitude}"
+						style="width:100%" />
+				</f:facet>
+			</p:cellEditor>
+		</p:column>
+		<p:column headerText="Altitude">
+			<p:cellEditor>
+				<f:facet name="output">
+					<h:outputText value="#{city.altitude}" />
+				</f:facet>
+				<f:facet name="input">
+					<p:inputText id="altitudeInput" value="#{city.altitude}"
+						style="width:100%" />
+				</f:facet>
+			</p:cellEditor>
+		</p:column>
+		<p:column headerText="Weather">
+			<p:cellEditor>
+				<f:facet name="output">
+					<h:outputText value="#{city.weather}" />
+				</f:facet>
+				<f:facet name="input">
+					<p:inputText id="weatherInput" value="#{city.weather}"
+						style="width:100%" />
+				</f:facet>
+			</p:cellEditor>
+		</p:column>
+		<p:column headerText="Local Region">
+			<p:cellEditor>
+				<f:facet name="output">
+					<h:outputText value="#{city.localRegion}" />
+				</f:facet>
+				<f:facet name="input">
+					<p:inputText id="localRegionInput" value="#{city.localRegion}"
+						style="width:100%" />
+				</f:facet>
+			</p:cellEditor>
+		</p:column>
 		<p:column>
-			<p:commandButton value="Delete" action="#{cityActioner.delete(city))}"></p:commandButton>
+			<p:commandButton value="Delete"
+				action="#{cityActioner.delete(city))}"></p:commandButton>
 		</p:column>
 	</p:dataTable>
 	<p:commandButton value="Back to Info"

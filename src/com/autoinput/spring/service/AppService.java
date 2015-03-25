@@ -229,6 +229,13 @@ public class AppService {
 	}
 
     @Transactional
+    public void updateCity(City city) {
+    	Session session = sessionFactory.getCurrentSession();
+    	City mergedOne = (City) session.merge(city);
+    	session.saveOrUpdate(mergedOne);
+    }
+
+    @Transactional
 	public void clearOldContinents() {
         Session session = sessionFactory.getCurrentSession();
 		List<Continent> continents = session.createQuery("from Continent").list();
