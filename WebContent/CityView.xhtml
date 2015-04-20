@@ -15,7 +15,7 @@
            City Data
         </f:facet>
         
-		<p:ajax event="cellEdit" listener="#{cityActioner.onCellEdit}" update=":form:msgs" />
+		<p:ajax event="cellEdit" listener="#{cityActioner.onCellEdit}" />
 
 		<p:column headerText="Id">
 			<h:outputText value="#{city.nameId}" />
@@ -145,7 +145,7 @@
 		</p:column>
 		<p:column>
 			<p:commandButton value="Delete"
-				action="#{cityActioner.delete(city))}"></p:commandButton>
+				action="#{cityActioner.delete(city)}"></p:commandButton>
 		</p:column>
 	</p:dataTable>
 	<p:commandButton value="Back to Info"
